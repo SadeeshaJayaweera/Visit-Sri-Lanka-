@@ -1,8 +1,10 @@
 # Website for Discovering the Wonders of Sri Lanka
 
 <div align="center">
-  <img src="Visit Sri Lanka.JPG" alt="Product Development" width="400px">
+  <img src="Visit Sri Lanka.JPG" alt="Product Development" width="600px">
 </div>
+
+
 
 This repository contains the source code for a website built using SCSS, CSS, JavaScript, HTML, and PHP. The website aims to showcase the beauty and attractions of Sri Lanka, with the goal of attracting visitors to the country. 
 
