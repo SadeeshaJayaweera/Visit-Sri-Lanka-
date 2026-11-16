@@ -161,6 +161,8 @@ assert(fs.existsSync(path.join(ROOT_DIR, 'destinations.html')), 'Master catalog 
 assert(fs.existsSync(path.join(ROOT_DIR, 'map.html')), 'Interactive map.html exists');
 assert(fs.existsSync(path.join(ROOT_DIR, 'itineraries.html')), 'Itineraries.html exists');
 assert(fs.existsSync(path.join(ROOT_DIR, 'admin', 'index.html')), 'Admin content manager exists');
+assert(fs.existsSync(path.join(ROOT_DIR, '404.html')), 'Custom 404.html page exists');
+assert(fs.existsSync(path.join(ROOT_DIR, 'netlify.toml')), 'Netlify configuration netlify.toml exists');
 assert(fs.existsSync(path.join(ROOT_DIR, 'sitemap.xml')), 'sitemap.xml exists');
 assert(fs.existsSync(path.join(ROOT_DIR, 'robots.txt')), 'robots.txt exists');
 

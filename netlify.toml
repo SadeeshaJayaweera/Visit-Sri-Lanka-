@@ -1,0 +1,49 @@
+# Netlify Configuration for Visit Sri Lanka Tourism & Travel Discovery Platform
+
+[build]
+  publish = "."
+  command = "npm run build"
+
+[build.processing]
+  skip_processing = false
+
+[build.processing.css]
+  bundle = false
+  minify = true
+
+[build.processing.js]
+  bundle = false
+  minify = true
+
+[build.processing.html]
+  pretty_urls = true
+
+# Cache Control & Security Headers
+[[headers]]
+  for = "/img/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/css/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800, must-revalidate"
+
+[[headers]]
+  for = "/js/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800, must-revalidate"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+# Custom 404 Error Handler
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404

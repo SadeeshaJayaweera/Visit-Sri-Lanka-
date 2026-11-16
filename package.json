@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "compile": "node scripts/compile-data.js",
-    "build": "node scripts/build.js",
+    "build": "node scripts/compile-data.js && node scripts/build.js",
     "test": "node tests/test-platform.js",
     "serve": "node scripts/serve.js"
   },

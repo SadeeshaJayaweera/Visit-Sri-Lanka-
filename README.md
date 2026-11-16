@@ -9,7 +9,8 @@
   [![Provinces](https://img.shields.io/badge/Provinces-9%20Covered-0f766e.svg)](#geographical-coverage)
   [![Districts](https://img.shields.io/badge/Districts-25%20Covered-0284c7.svg)](#geographical-coverage)
   [![Destinations](https://img.shields.io/badge/Destinations-151%20Verified-0d9488.svg)](#destination-database)
-  [![Tests](https://img.shields.io/badge/Tests-42%2F42%20Passed-10b981.svg)](#testing--verification)
+  [![Netlify Status](https://img.shields.io/badge/Netlify-Configured-00C7B7.svg?logo=netlify)](netlify.toml)
+  [![Tests](https://img.shields.io/badge/Tests-44%2F44%20Passed-10b981.svg)](#testing--verification)
   [![Developer](https://img.shields.io/badge/Developed%20By-Sadeesha%20Jayaweera-38bdf8.svg)](https://www.sadeeshajayaweera.dev/)
 </div>
 
@@ -136,6 +137,31 @@ The server will start at `http://localhost:3000/`.
 
 ---
 
+## 🌐 Netlify Deployment
+
+The repository includes a ready-to-deploy [`netlify.toml`](file:///Users/macboookpro/Visit-Sri-Lanka-/netlify.toml) pre-configured for static publishing, caching rules, custom 404 routing, and automated builds:
+
+### Option 1: Automatic Continuous Deployment via GitHub (Recommended)
+1. Sign in to [Netlify](https://app.netlify.com/).
+2. Click **"Add new site"** &rarr; **"Import an existing project"**.
+3. Choose **GitHub** and select the repository: `SadeeshaJayaweera/Visit-Sri-Lanka-`.
+4. Netlify will automatically detect `netlify.toml` with:
+   - **Build command**: `npm run build`
+   - **Publish directory**: `.`
+5. Click **"Deploy site"**. Every future push to `main` will build and publish automatically!
+
+### Option 2: Deploy via Netlify CLI
+```bash
+# Install Netlify CLI globally
+npm install -g netlify-cli
+
+# Authenticate and deploy
+netlify login
+netlify deploy --prod
+```
+
+---
+
 ## 🧪 Testing & Verification
 
 The project includes an automated platform test suite that validates dataset integrity, GPS boundaries, 25-district coverage, required content sections, Schema.org metadata, and asset resilience:
@@ -156,7 +182,7 @@ TEST SUITE 5: Static HTML Generation & Route Cleanliness
 TEST SUITE 6: Schema.org Structured Data Verification
 TEST SUITE 7: Favicon Assets & Image Resilience Verification
 ==================================================
-TEST SUMMARY: 42 PASSED, 0 FAILED (TOTAL: 42)
+TEST SUMMARY: 44 PASSED, 0 FAILED (TOTAL: 44)
 ==================================================
 ALL PLATFORM TESTS PASSED WITH 100% SUCCESS!
 ```

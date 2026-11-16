@@ -1991,6 +1991,72 @@ function generateAdminPage() {
 }
 
 // -------------------------------------------------------------
+// 8.5. GENERATE 404.HTML
+// -------------------------------------------------------------
+function generate404Page() {
+  console.log('Generating 404.html...');
+  const title = 'Page Not Found | Visit Sri Lanka Discovery Platform';
+  const description = 'The requested tourism destination or guide could not be located. Explore our 9 provinces and 151 curated destinations across Sri Lanka.';
+
+  const html = `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>${title}</title>
+  <meta name="description" content="${description}">
+
+  <!-- Favicon Assets -->
+  <link rel="icon" type="image/x-icon" href="/favicon.ico?v=4">
+  <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png?v=4">
+  <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon.png?v=4">
+  <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png?v=4">
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/css/bootstrap.css">
+  <link rel="stylesheet" href="/css/tourism-platform.css">
+</head>
+<body class="sl-platform-body">
+
+  ${renderHeader(0, '')}
+
+  <section class="py-5" style="min-height: 65vh; display: flex; align-items: center;">
+    <div class="container text-center py-5">
+      <div class="row justify-content-center">
+        <div class="col-lg-8">
+          <div class="p-4 p-md-5 bg-white rounded-lg shadow-sm border">
+            <span class="badge badge-pill badge-warning px-3 py-2 text-uppercase mb-3" style="font-size: 13px; font-weight: 700;">404 Error</span>
+            <h1 class="font-weight-bold text-dark mb-3">Destination Not Found</h1>
+            <p class="lead text-muted mb-4">
+              It looks like you've wandered off the marked trail. The page or attraction you are looking for has either moved or doesn't exist.
+            </p>
+            <div class="d-flex flex-wrap justify-content-center gap-2 mb-4">
+              <a href="/index.html" class="btn btn-teal btn-lg px-4 mr-2 mb-2"><i class="fa fa-home mr-2"></i>Return Home</a>
+              <a href="/destinations.html" class="btn btn-outline-dark btn-lg px-4 mr-2 mb-2"><i class="fa fa-compass mr-2"></i>All 151 Destinations</a>
+              <a href="/map.html" class="btn btn-outline-teal btn-lg px-4 mb-2"><i class="fa fa-map mr-2"></i>Interactive Map</a>
+            </div>
+            <hr class="my-4">
+            <h6 class="text-uppercase text-muted font-weight-bold mb-3" style="font-size: 12px; letter-spacing: 1px;">Quick Jump to Provinces</h6>
+            <div class="d-flex flex-wrap justify-content-center">
+              ${provinces.map(pr => `<a href="/provinces/${pr.slug}.html" class="badge badge-light border p-2 m-1 text-dark">${pr.name}</a>`).join('')}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  ${renderFooter(0)}
+
+</body>
+</html>`;
+
+  fs.writeFileSync(path.join(ROOT_DIR, '404.html'), html, 'utf8');
+  console.log('404.html generated successfully.');
+}
+
+// -------------------------------------------------------------
 // 9. GENERATE SITEMAP.XML & ROBOTS.TXT
 // -------------------------------------------------------------
 function generateSeoFiles() {
@@ -2054,6 +2120,7 @@ function runBuild() {
   generateMapPage();
   generateItinerariesPage();
   generateAdminPage();
+  generate404Page();
   generateSeoFiles();
   console.log('=== PLATFORM BUILD COMPLETED SUCCESSFULLY ===');
 }
