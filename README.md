@@ -1,7 +1,7 @@
 # Visit Sri Lanka — Travel & Tourism Discovery Platform
 
 <div align="center">
-  <img src="docs/screenshots/01-homepage-hero.png" alt="Visit Sri Lanka Platform Preview" width="100%" style="border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);">
+  <img src="img/screenshots/01-homepage-hero.png" alt="Visit Sri Lanka Platform Preview" width="100%" style="border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);">
 
   <br><br>
 
@@ -29,43 +29,43 @@ Every single destination features **100% unique, place-specific photography**, v
 
 ### 1. Interactive Homepage & Destination Discovery
 *Hero banner, live instant search bar, province explorer, trending destinations, seasonal recommendations, and travel route highlights.*
-![Homepage & Hero Discovery](docs/screenshots/01-homepage-hero.png)
+![Homepage & Hero Discovery](img/screenshots/01-homepage-hero.png)
 
 ---
 
 ### 2. Master Searchable & Filterable Catalog (`destinations.html`)
 *Filter all 151 destinations dynamically by category, province, district, season, or keyword with real-time card counters.*
-![Destinations Master Catalog](docs/screenshots/02-destinations-catalog.png)
+![Destinations Master Catalog](img/screenshots/02-destinations-catalog.png)
 
 ---
 
 ### 3. Interactive Leaflet GIS Map (`map.html`)
 *Interactive full-island map plotting every destination with verified GPS coordinates, custom category markers, and quick detail cards.*
-![Interactive Leaflet Map](docs/screenshots/03-interactive-map.png)
+![Interactive Leaflet Map](img/screenshots/03-interactive-map.png)
 
 ---
 
 ### 4. Dedicated Province Guides (`/provinces/central-province.html`)
 *Dedicated guide for each of the 9 provinces highlighting district breakdown, top attractions, climate, best time to visit, and historical significance.*
-![Central Province Guide](docs/screenshots/04-province-central.png)
+![Central Province Guide](img/screenshots/04-province-central.png)
 
 ---
 
 ### 5. Dedicated District Portals (`/districts/kandy.html`)
 *Dedicated portal for each of the 25 administrative districts detailing key towns, elevation, seasonal highlights, and local attractions.*
-![Kandy District Portal](docs/screenshots/05-district-kandy.png)
+![Kandy District Portal](img/screenshots/05-district-kandy.png)
 
 ---
 
 ### 6. Curated Destination Guides (`/places/sigiriya-rock-fortress.html`)
 *Detailed destination dossier with historical context, "Why You Shouldn't Miss This", top activities, practical visitor details, and Google Maps integration.*
-![Sigiriya Rock Fortress Guide](docs/screenshots/06-destination-sigiriya.png)
+![Sigiriya Rock Fortress Guide](img/screenshots/06-destination-sigiriya.png)
 
 ---
 
 ### 7. Multi-Day Itinerary & Journey Planner (`itineraries.html`)
 *Carefully curated itineraries ranging from 3-day golden getaways to 21-day grand island circuits, plus themed trails for wildlife, heritage, and surf.*
-![Itinerary Planner](docs/screenshots/07-itineraries-planner.png)
+![Itinerary Planner](img/screenshots/07-itineraries-planner.png)
 
 ---
 
