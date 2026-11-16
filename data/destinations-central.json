@@ -1,0 +1,1550 @@
+[
+  {
+    "id": "temple-of-the-tooth",
+    "name": "Temple of the Sacred Tooth Relic (Sri Dalada Maligawa)",
+    "slug": "temple-of-the-tooth",
+    "districtId": "kandy",
+    "provinceId": "central-province",
+    "category": "temples-religious",
+    "categories": [
+      "temples-religious",
+      "ancient-cities",
+      "cultural-experiences",
+      "historical-sites"
+    ],
+    "shortDescription": "The venerated royal palace complex in Kandy enshrining the sacred tooth relic of Gautama Buddha, the spiritual palladium of Sri Lankan kings.",
+    "fullDescription": "Overlooking the tranquil waters of Kandy Lake, the Sri Dalada Maligawa (Temple of the Sacred Tooth Relic) is the supreme spiritual sanctuary of Sri Lankan Theravada Buddhism. Located within the royal palace complex of the former Kandyan Kingdom, the golden-canopied shrine houses the sacred left canine tooth relic of Gautama Buddha, retrieved from his funeral pyre in 543 BCE and brought to Sri Lanka in the 4th century CE. Ancient tradition dictated that whoever held the relic held the divine right to rule the island. The temple features the octagonal Paththirippuwa tower, magnificent moonstones, ivory tusk-lined corridors, and intricately carved timber ceilings. Every day, elaborate Thevava rituals with drumming and horn-blowing take place at dawn, noon, and evening. In July or August, the temple orchestrates the Esala Perahera, one of Asia's grandest pageants featuring dozens of adorned elephants, whip crackers, and Kandyan fire dancers.",
+    "historicalBackground": "Built by King Wimaladharmasuriya I in the late 16th century, expanded by subsequent Kandyan monarchs, and crowned with a golden canopy in 1987.",
+    "naturalCharacteristics": "Nestled in the misty montane valley of Kandy surrounded by forested hills and Kandy Lake.",
+    "specialFeatures": "Sacred Tooth Relic chamber, octagonal Paththirippuwa pavilion, royal audience hall (Magul Maduwa), and the annual Esala Perahera pageant.",
+    "reasonsToVisit": [
+      "Witness the sacred daily Thevava puja ritual accompanied by traditional drumming and conch horns",
+      "Marvel at the gilded Golden Canopy, ivory-adorned shrines, and ancient Kandyan royal woodwork",
+      "Explore the royal palace complex and the International Buddhist Museum within the precinct",
+      "Experience the spiritual heart that has defined Sri Lankan royal sovereignty for two millennia"
+    ],
+    "activities": [
+      "Temple puja observation",
+      "Visiting the Sri Dalada Museum",
+      "Walking through the Royal Audience Hall",
+      "Viewing the sacred relic casket"
+    ],
+    "bestTimeToVisit": "During daily puja times (05:30, 09:30, 18:30); July/August for the world-famous Esala Perahera festival.",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "LKR 2,000 for foreign adult visitors (includes entry to the temple complex and museum); free for Sri Lankan citizens.",
+    "openingHours": "05:30 - 20:00 Daily.",
+    "accessibilityInformation": "Ramps and elevators provide access to upper shrine areas; paved temple courtyard.",
+    "safetyInformation": "Strict security screening at entry gates; shoes and hats must be checked in at the designated counters.",
+    "travelTips": {
+      "whatToBring": "Modest white clothing, slip-off footwear, camera (photography permitted in courtyards; strictly prohibited inside the inner relic room).",
+      "clothing": "White or light colors preferred; shoulders and knees must be completely covered.",
+      "photographyTips": "Photograph the golden roof reflecting on the waters of Kandy Lake from the outer moat in the morning.",
+      "localCustoms": "Purchase fragrant jasmine and lotus flowers from vendors outside the gates as respectful offerings.",
+      "environmentalGuidelines": "Leave footwear neatly at the shoe repository."
+    },
+    "latitude": 7.2936,
+    "longitude": 80.6414,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/temple-of-the-tooth.jpg",
+        "caption": "Temple of the Sacred Tooth Relic (Sri Dalada Maligawa) - Primary Vista",
+        "altText": "Temple of the Sacred Tooth Relic (Sri Dalada Maligawa), Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/kandy.jpg",
+        "caption": "Kandy District Landscape",
+        "altText": "Kandy District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/central-province.jpg",
+        "caption": "Central Province Regional Panorama",
+        "altText": "Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Dalada Maligawa Official Portal",
+        "sourceUrl": "https://sridaladamaligawa.lk",
+        "sourceType": "Official Temple Administration",
+        "verificationDate": "2024-01-15"
+      },
+      {
+        "sourceName": "UNESCO World Heritage Centre",
+        "sourceUrl": "https://whc.unesco.org/en/list/450",
+        "sourceType": "International Heritage Organization",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "kandy-lake",
+      "peradeniya-botanical-gardens",
+      "bahirawakanda-temple"
+    ]
+  },
+  {
+    "id": "kandy-lake",
+    "name": "Kandy Lake (Kiri Muhuda)",
+    "slug": "kandy-lake",
+    "districtId": "kandy",
+    "provinceId": "central-province",
+    "category": "lakes-reservoirs",
+    "categories": [
+      "lakes-reservoirs",
+      "historical-sites",
+      "photography",
+      "family-friendly"
+    ],
+    "shortDescription": "The artificial lake created in 1807 by King Sri Wickrama Rajasinghe in the heart of Kandy, flanked by the Walakulu Bamma cloud wall.",
+    "fullDescription": "Spanning 3.2 kilometers in perimeter at the heart of the hill capital, Kandy Lake (historically named Kiri Muhuda or 'Sea of Milk') was created in 1807 by the last king of Sri Lanka, Sri Wickrama Rajasinghe. Embanked with the ornamental Walakulu Bamma (Cloud Wall) featuring triangular openings for oil lamps, the lake surrounds a small central island known as Dya Thilaka Mandapaya, which once housed the king's royal harem. Today, a shaded tree-lined pathway rings the entire lake, offering locals and travelers a serene walk with scenic views of the Temple of the Tooth, mist-capped green hills, roosting cormorants, and colorful water monitors.",
+    "historicalBackground": "Built in 1807 by King Sri Wickrama Rajasinghe despite protests from local chieftains; British later added the decorative parapet.",
+    "naturalCharacteristics": "Artificial freshwater lake surrounded by steep montane forested slopes.",
+    "specialFeatures": "Walakulu Bamma cloud parapet, royal harem island, and walking promenade shaded by ancient mahogany and banyan trees.",
+    "reasonsToVisit": [
+      "Stroll the peaceful 3-kilometer tree-lined promenade around the historic water",
+      "Admire the unique architectural design of the Cloud Wall reflecting on the water",
+      "Spot giant water monitors, terrapins, and cormorants along the shore",
+      "Enjoy breathtaking sunset views over the temple complex and mountain ridges"
+    ],
+    "activities": [
+      "Lakeside walking and jogging",
+      "Boat rides on the lake",
+      "Birdwatching",
+      "Sunset photography"
+    ],
+    "bestTimeToVisit": "Early morning (06:30 - 08:30) or late afternoon (16:30 - 18:30) when temperatures are refreshing.",
+    "visitingDuration": "1 - 2 Hours",
+    "entranceInformation": "Free public promenade access; motorboat tours cost approx. LKR 2,000 - 3,000 per boat.",
+    "openingHours": "Open 24 hours.",
+    "accessibilityInformation": "Paved flat pedestrian promenade encircles the entire lake, fully accessible for wheelchairs and strollers.",
+    "safetyInformation": "Do not lean over or sit atop the low decorative parapet wall; fishing is strictly prohibited.",
+    "travelTips": {
+      "whatToBring": "Comfortable walking shoes, umbrella (brief afternoon showers are common in Kandy), camera.",
+      "clothing": "Casual comfortable walking clothes.",
+      "photographyTips": "Position your camera from the southern bank looking north to capture the Temple of the Tooth framed by water.",
+      "localCustoms": "Feeding the fish and birds with puffed rice purchased from lakeside stalls is a popular local tradition.",
+      "environmentalGuidelines": "Do not throw plastic bottles or wrappers into the lake."
+    },
+    "latitude": 7.2917,
+    "longitude": 80.64,
+    "featured": false,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/kandy-lake.jpg",
+        "caption": "Kandy Lake (Kiri Muhuda) - Primary Vista",
+        "altText": "Kandy Lake (Kiri Muhuda), Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/kandy.jpg",
+        "caption": "Kandy District Landscape",
+        "altText": "Kandy District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/central-province.jpg",
+        "caption": "Central Province Regional Panorama",
+        "altText": "Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Kandy Municipal Council",
+        "sourceUrl": "https://kandy.mc.gov.lk",
+        "sourceType": "Municipal Government",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "temple-of-the-tooth",
+      "peradeniya-botanical-gardens"
+    ]
+  },
+  {
+    "id": "peradeniya-botanical-gardens",
+    "name": "Royal Botanic Gardens Peradeniya",
+    "slug": "peradeniya-botanical-gardens",
+    "districtId": "kandy",
+    "provinceId": "central-province",
+    "category": "botanical-gardens",
+    "categories": [
+      "botanical-gardens",
+      "family-friendly",
+      "photography",
+      "historical-sites"
+    ],
+    "shortDescription": "A world-renowned 147-acre royal botanical garden cradled in a loop of the Mahaweli River, home to over 4,000 plant species and magnificent palm avenues.",
+    "fullDescription": "Situated just 5.5 kilometers west of Kandy and encircled on three sides by a graceful horseshoe loop of the Mahaweli River, the Royal Botanic Gardens at Peradeniya is celebrated as the finest botanical garden in South Asia. Originally laid out in 1371 as a pleasure garden for King Wickramabahu III, it was formally established as a British colonial botanical institution in 1821. Spanning 147 lush acres, it showcases over 4,000 species of flora, including an extraordinary National Herbarium, a world-famous Orchid House with over 300 exquisite orchid hybrids, giant bamboo clusters reaching 40 meters into the sky, towering avenues of Cook's pines and Royal Palms, and a colossal 125-year-old giant Javan fig tree whose sprawling canopy resembles an enormous botanical umbrella.",
+    "historicalBackground": "Established as a royal pleasure park in the 14th century; formally established as a botanical research garden under British Director Alexander Moon in 1821.",
+    "naturalCharacteristics": "Sub-montane wet zone garden bordered by the flowing waters of the Mahaweli River.",
+    "specialFeatures": "Avenue of Royal Palms, Orchid House, giant Javan fig tree canopy, spice garden, and suspension footbridge.",
+    "reasonsToVisit": [
+      "Stroll beneath the world-famous colossal Javan fig tree canopy covering over 2,400 square meters",
+      "Marvel at hundreds of vibrant, rare tropical orchid species in the Orchid House",
+      "Walk along dramatic avenues of soaring royal palms and leaning Cook pines",
+      "Spot resident colonies of flying foxes (fruit bats) hanging from towering forest trees"
+    ],
+    "activities": [
+      "Botanical walking tours",
+      "Orchid photography",
+      "Picnicking on the Great Lawn",
+      "Birdwatching"
+    ],
+    "bestTimeToVisit": "October to April; morning hours (08:00 - 11:00) offer fresh floral fragrances and cool shade.",
+    "visitingDuration": "2 - 4 Hours",
+    "entranceInformation": "LKR 3,000 for foreign adult visitors; LKR 100 for Sri Lankan citizens.",
+    "openingHours": "07:30 - 18:00 Daily.",
+    "accessibilityInformation": "Paved roads and smooth gravel paths throughout; golf cart tours available for elderly or mobility-impaired visitors.",
+    "safetyInformation": "Do not climb historic trees or pluck flowers and botanical specimens.",
+    "travelTips": {
+      "whatToBring": "Comfortable walking shoes, camera, umbrella/hat, drinking water.",
+      "clothing": "Lightweight, comfortable walking clothes.",
+      "photographyTips": "Capture the symmetrical perspective along the Avenue of Royal Palms in the early morning sunlight.",
+      "localCustoms": "Peaceful family retreat; respect designated quiet areas.",
+      "environmentalGuidelines": "Strict zero-litter policy; all food containers must be disposed of in designated bins."
+    },
+    "latitude": 7.2717,
+    "longitude": 80.5967,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/peradeniya-botanical-gardens.jpg",
+        "caption": "Royal Botanic Gardens Peradeniya - Primary Vista",
+        "altText": "Royal Botanic Gardens Peradeniya, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/kandy.jpg",
+        "caption": "Kandy District Landscape",
+        "altText": "Kandy District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/central-province.jpg",
+        "caption": "Central Province Regional Panorama",
+        "altText": "Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of National Botanic Gardens Sri Lanka",
+        "sourceUrl": "https://botanicgardens.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "temple-of-the-tooth",
+      "kandy-lake",
+      "ambuluwawa-tower"
+    ]
+  },
+  {
+    "id": "ambuluwawa-tower",
+    "name": "Ambuluwawa Biodiversity Complex & Tower",
+    "slug": "ambuluwawa-tower",
+    "districtId": "kandy",
+    "provinceId": "central-province",
+    "category": "viewpoints",
+    "categories": [
+      "viewpoints",
+      "adventure",
+      "photography",
+      "temples-religious"
+    ],
+    "shortDescription": "A multi-faith sanctuary atop an isolated mountain peak, crowned by a spiraling 48-meter cone tower with 360-degree views across central mountain ranges.",
+    "fullDescription": "Perched dramatically atop an isolated mountain peak rising 1,065 meters above sea level near Gampola, the Ambuluwawa Biodiversity Complex is one of Sri Lanka's most architecturally unique and visually striking destinations. Recognized as the island's first multi-religious sanctuary, the summit features a Buddhist stupa, Hindu kovil, Christian chapel, and Islamic mosque side by side. Towering above them is the iconic Ambuluwawa Tower—a 48-meter-tall white cone-shaped spiral tower resembling an inverted ice cream cone or Buddhist stupa spire. Adventurous visitors ascend a narrow spiral staircase that wraps around the exterior of the tower, tightening as it ascends toward the summit, rewarding climbers with adrenaline-pumping 360-degree panoramas of Adam's Peak, the Knuckles Mountain Range, Pidurutalagala, and Bible Rock.",
+    "historicalBackground": "Conceptualized in 1997 and opened in 2006 by former Prime Minister D.M. Jayaratne as a symbol of interfaith harmony and biodiversity conservation.",
+    "naturalCharacteristics": "Isolated rock mountain summit composed of inselberg granite, surrounded by evergreen montane vegetation.",
+    "specialFeatures": "48-meter narrow spiral staircase tower, multi-religious shrines, and 360-degree mountain viewpoint.",
+    "reasonsToVisit": [
+      "Ascend the narrow spiral staircase wrapping around the exterior of the tower for a thrill like no other",
+      "Take in unrivaled 360-degree panoramas spanning five distinct mountain ranges and Adam's Peak",
+      "Witness a unique multi-faith complex celebrating harmony between four major world religions",
+      "Capture dramatic, gravity-defying photos from the spiraling outdoor staircase"
+    ],
+    "activities": [
+      "Tower climbing",
+      "Panoramic landscape photography",
+      "Mountain hiking",
+      "Interfaith shrine visits"
+    ],
+    "bestTimeToVisit": "December to April; early morning (07:30 - 10:00) before midday heat and afternoon cloud cover roll in.",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "LKR 2,000 for foreign adult visitors; LKR 100 for locals; tuk-tuk ride from gate to summit approx. LKR 1,500 round-trip.",
+    "openingHours": "08:00 - 17:00 Daily.",
+    "accessibilityInformation": "Paved road leads to summit; ascending the tower requires climbing steep, narrow stairs; not recommended for those with severe vertigo.",
+    "safetyInformation": "Staircase becomes very narrow near the top where two people cannot pass simultaneously; do not climb in high winds or rain.",
+    "travelTips": {
+      "whatToBring": "Sturdy footwear with good traction, windbreaker jacket, water bottle, phone lanyard.",
+      "clothing": "Comfortable hiking or athletic clothing.",
+      "photographyTips": "Use a wide-angle lens pointing downward along the spiral staircase to capture the dizzying drop and mountain vistas.",
+      "localCustoms": "Yield politely to descending climbers on narrow staircase sections.",
+      "environmentalGuidelines": "Do not leave water bottles or wrappers on the tower stairs."
+    },
+    "latitude": 7.1583,
+    "longitude": 80.55,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/ambuluwawa-tower.jpg",
+        "caption": "Ambuluwawa Biodiversity Complex & Tower - Primary Vista",
+        "altText": "Ambuluwawa Biodiversity Complex & Tower, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/kandy.jpg",
+        "caption": "Kandy District Landscape",
+        "altText": "Kandy District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/central-province.jpg",
+        "caption": "Central Province Regional Panorama",
+        "altText": "Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Ministry of Tourism and Lands",
+        "sourceUrl": "https://tourismmin.gov.lk",
+        "sourceType": "Ministry of Tourism",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "peradeniya-botanical-gardens",
+      "temple-of-the-tooth"
+    ]
+  },
+  {
+    "id": "knuckles-mountain-range",
+    "name": "Knuckles Mountain Range",
+    "slug": "knuckles-mountain-range",
+    "districtId": "kandy",
+    "provinceId": "central-province",
+    "category": "mountains",
+    "categories": [
+      "mountains",
+      "hiking-trekking",
+      "forests-reserves",
+      "hidden-gems"
+    ],
+    "shortDescription": "A UNESCO World Heritage wilderness of 34 rugged mountain peaks resembling a clenched fist, cloud forests, endemic reptiles, and cascading waterfalls.",
+    "fullDescription": "Spanning both Kandy and Matale districts, the Knuckles Mountain Range (known locally as Dumbara Mitiyawatha or 'Misty Valley') was named by British surveyors because its five principal peaks resemble the knuckles of a clenched fist. Inscribed as a UNESCO World Heritage site under the Central Highlands of Sri Lanka, this rugged massif is an extraordinary ecological treasure chest. Isolated from the main central massif by the Mahaweli River valley, Knuckles has evolved high levels of endemism: one-third of the island's flowering plants and over 120 bird species thrive across its dwarf cloud forests, pygmy forests, and grasslands. Guided trekking trails lead adventurous hikers through isolated traditional villages like Meemure, across rushing crystal streams, to hidden waterfalls, and along precipitous cliff drops at Mini World's End.",
+    "historicalBackground": "Served as a natural mountain barrier protecting the Kandyan Kingdom; inscribed as a UNESCO World Heritage site in 2010.",
+    "naturalCharacteristics": "Rugged mountain ridge with 34 peaks over 900 meters (summit 1,906m), cloud forests, and highland streams.",
+    "specialFeatures": "Clenched fist rock contours, Mini World's End precipices, Meemure heritage village, and rare endemic leaf-nosed lizards.",
+    "reasonsToVisit": [
+      "Trek through untouched cloud forests and discover hidden jungle cascades",
+      "Experience some of the most challenging and rewarding wilderness hiking in Sri Lanka",
+      "Stay in isolated heritage villages like Meemure to experience traditional mountain life",
+      "Spot endemic species found nowhere else on earth, including the Knuckles pygmy lizard"
+    ],
+    "activities": [
+      "Multi-day wilderness trekking",
+      "Jungle camping (with permits)",
+      "Waterfall swimming",
+      "Birdwatching and endemic wildlife spotting"
+    ],
+    "bestTimeToVisit": "December to April and July to September (dryer trekking weather; avoid heavy northeast monsoon rains).",
+    "visitingDuration": "1 to 3 Days",
+    "entranceInformation": "Forest Department permit required (approx. LKR 1,500 - 2,500); hiring a licensed local nature guide is essential.",
+    "openingHours": "06:00 - 17:00 Daily for day hikes.",
+    "accessibilityInformation": "Rugged, steep mountain trails with rocky scrambles; requires moderate to high physical fitness.",
+    "safetyInformation": "Leeches are prevalent in wet weather; mist can reduce visibility rapidly; always trek with a certified local guide.",
+    "travelTips": {
+      "whatToBring": "Sturdy hiking boots, leech socks/salt, rain jacket, headlamp, purification tablets, first-aid kit.",
+      "clothing": "Durable quick-drying trekking pants and long-sleeve shirts.",
+      "photographyTips": "Capture the dramatic morning mist clearing over the knuckle peaks from the Corbet's Gap viewpoint.",
+      "localCustoms": "Show deep respect to village communities; ask permission before photographing villagers.",
+      "environmentalGuidelines": "Strict Leave No Trace principles; pack out all trash, avoid fires, and protect pristine water sources."
+    },
+    "latitude": 7.4167,
+    "longitude": 80.8,
+    "featured": true,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/knuckles-mountain-range.jpg",
+        "caption": "Knuckles Mountain Range - Primary Vista",
+        "altText": "Knuckles Mountain Range, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/kandy.jpg",
+        "caption": "Kandy District Landscape",
+        "altText": "Kandy District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/central-province.jpg",
+        "caption": "Central Province Regional Panorama",
+        "altText": "Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Forest Department Sri Lanka",
+        "sourceUrl": "http://www.forestdept.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      },
+      {
+        "sourceName": "UNESCO World Heritage Centre",
+        "sourceUrl": "https://whc.unesco.org/en/list/1203",
+        "sourceType": "International Heritage Organization",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "temple-of-the-tooth",
+      "riverston-knuckles"
+    ]
+  },
+  {
+    "id": "bahirawakanda-temple",
+    "name": "Bahirawakanda Vihara Buddha Statue",
+    "slug": "bahirawakanda-temple",
+    "districtId": "kandy",
+    "provinceId": "central-province",
+    "category": "temples-religious",
+    "categories": [
+      "temples-religious",
+      "viewpoints",
+      "photography"
+    ],
+    "shortDescription": "A commanding 27-meter colossal white seated Buddha statue atop Bahirawa Kanda hill, offering panoramic views over the entire city of Kandy.",
+    "fullDescription": "Gazing serenely over Kandy from the summit of Bahirawa Kanda (Gnome Mountain), the giant Sri Maha Bodhi Vihara Buddha statue is one of the hill capital's most visible landmarks. Standing an impressive 26.8 meters (88 feet) tall in the Dhyana Mudra (meditation posture), this brilliant white statue was completed in 1993. Visitors climb a winding road up the hill, followed by stairs behind the Buddha's back to reach a gallery near the statue's shoulders. From this elevated platform, the vista opens onto an unforgettable panorama of Kandy Lake, the Temple of the Tooth, and the surrounding amphitheater of green mountain ridges.",
+    "historicalBackground": "Built atop Bahirawakanda hill, a site steeped in ancient folklore; the modern colossal statue was consecrated in 1993.",
+    "naturalCharacteristics": "Hilltop promontory rising above the Kandy city basin.",
+    "specialFeatures": "27-meter tall white seated Buddha statue and panoramic city observation gallery.",
+    "reasonsToVisit": [
+      "Climb to the observation gallery behind the Buddha's shoulders for the best aerial view of Kandy",
+      "Marvel at the monumental scale of the 88-foot white seated Buddha colossus",
+      "Experience twilight when the statue is bathed in warm floodlights and temple bells ring",
+      "Escape the city bustle for a contemplative spiritual atmosphere"
+    ],
+    "activities": [
+      "Statue observation",
+      "City skyline photography",
+      "Quiet contemplation",
+      "Temple exploration"
+    ],
+    "bestTimeToVisit": "Late afternoon (16:30 - 18:30) to experience both daylight views and twilight city lights.",
+    "visitingDuration": "1 Hour",
+    "entranceInformation": "Nominal foreign visitor admission: LKR 300.",
+    "openingHours": "06:00 - 20:00 Daily.",
+    "accessibilityInformation": "Tuk-tuks drive directly to the temple gate; stairs are required to reach the viewing platform behind the statue.",
+    "safetyInformation": "Remove shoes and hats at the temple threshold; watch steps on the viewing stairs.",
+    "travelTips": {
+      "whatToBring": "Modest clothing, camera, slip-off shoes.",
+      "clothing": "Shoulders and knees must be respectfully covered.",
+      "photographyTips": "Shoot looking down toward Kandy Lake with the temple precinct in the foreground at dusk.",
+      "localCustoms": "Do not pose with your back turned to the Buddha for selfies.",
+      "environmentalGuidelines": "Keep the temple grounds clean and peaceful."
+    },
+    "latitude": 7.2911,
+    "longitude": 80.6283,
+    "featured": false,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/bahirawakanda-temple.jpg",
+        "caption": "Bahirawakanda Vihara Buddha Statue - Primary Vista",
+        "altText": "Bahirawakanda Vihara Buddha Statue, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/kandy.jpg",
+        "caption": "Kandy District Landscape",
+        "altText": "Kandy District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/central-province.jpg",
+        "caption": "Central Province Regional Panorama",
+        "altText": "Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Promotion Bureau",
+        "sourceUrl": "https://srilanka.travel",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "temple-of-the-tooth",
+      "kandy-lake"
+    ]
+  },
+  {
+    "id": "sigiriya-rock-fortress",
+    "name": "Sigiriya Rock Fortress (Lion Rock)",
+    "slug": "sigiriya-rock-fortress",
+    "districtId": "matale",
+    "provinceId": "central-province",
+    "category": "ancient-cities",
+    "categories": [
+      "ancient-cities",
+      "historical-sites",
+      "viewpoints",
+      "hiking-trekking",
+      "photography"
+    ],
+    "shortDescription": "The 5th-century royal rock citadel rising 200 meters above the jungle, featuring world-famous frescoes, mirror walls, and the colossal Lion's Paw gateway.",
+    "fullDescription": "Rising dramatically 200 meters above the emerald jungle plains of Matale district, Sigiriya (Lion Rock) is universally acclaimed as the 'Eighth Wonder of the World' and a masterpiece of ancient urban planning, architecture, and hydraulic engineering. In the 5th century CE, King Kashyapa (477–495 CE) chose this formidable sheer granite monolith as his capital and palace-fortress following a dramatic royal coup. At the base lies an extraordinary network of symmetrical water gardens, boulder gardens, and tiered terraces with underground terracotta conduits that still bubble after monsoon rains. Midway up the sheer rock face, sheltered in a rock pocket, survive the world-renowned Sigiriya Frescoes—exquisite 1,500-year-old paintings of celestial nymphs (Apsaras) holding lotus blossoms. Higher up, visitors pass the highly polished plaster 'Mirror Wall' inscribed with ancient visitor graffiti dating from the 6th to 14th centuries. The final ascent begins between two colossal carved stone Lion's Paws, leading to the 1.6-hectare summit ruins where the king's royal palace, throne, and rock-hewn swimming pool overlook 360-degree panoramas of endless forests and misty mountain horizons.",
+    "historicalBackground": "Built by King Kashyapa in 477 CE; after his defeat in 495 CE, the site reverted to a Buddhist forest monastery until the 14th century; rediscovered by British Major Jonathan Forbes in 1831; inscribed as a UNESCO World Heritage site in 1982.",
+    "naturalCharacteristics": "Sheer granite inselberg rising 200 meters (660 feet) above dry-zone deciduous forest plains.",
+    "specialFeatures": "Lion's Paw staircase, ancient frescoes of celestial maidens, Mirror Wall with historic graffiti, and the water gardens hydraulic system.",
+    "reasonsToVisit": [
+      "Climb one of humanity's most extraordinary ancient cliff-top royal palaces",
+      "Marvel at the 1,500-year-old celestial frescoes painted in natural pigments on sheer rock",
+      "Walk through the oldest surviving landscaped water gardens in Asia",
+      "Stand between the colossal carved stone Lion's Paws and gaze across 360-degree jungle horizons"
+    ],
+    "activities": [
+      "Rock fortress ascent (1,200 steps)",
+      "Ancient fresco and graffiti appreciation",
+      "Water garden exploration",
+      "Sunrise and sunset landscape photography"
+    ],
+    "bestTimeToVisit": "Early morning (06:30 - 08:30) or late afternoon (15:30 - 17:30) to avoid intense midday sun and rock heat.",
+    "visitingDuration": "3 - 4 Hours",
+    "entranceInformation": "USD 36 (or approx. LKR 11,500) for foreign adult visitors; SAARC passport holders receive 50% discount; includes entrance to the world-class Sigiriya Archaeological Museum.",
+    "openingHours": "06:30 - 17:30 Daily (ticket counter closes at 17:00).",
+    "accessibilityInformation": "Water gardens are flat and accessible; ascending the rock requires climbing 1,200 steep metal and stone steps; not wheelchair accessible.",
+    "safetyInformation": "Climbers must stay on designated railed metal staircases; do not disturb wild hornet nests located on rock overhangs (quiet zones are signposted).",
+    "travelTips": {
+      "whatToBring": "At least 1.5 liters of drinking water, sun hat, sunscreen, sturdy hiking shoes with grip, camera (strictly no flash photography at the fresco gallery).",
+      "clothing": "Breathable lightweight cotton clothing suitable for strenuous step climbing.",
+      "photographyTips": "Photograph the reflection of Sigiriya rock in the ancient water garden pools in early morning; capture Pidurangala rock from the summit.",
+      "localCustoms": "Maintain silence through the designated hornet safety zones; do not touch the ancient Mirror Wall.",
+      "environmentalGuidelines": "Single-use polythene bags must be placed in collection bins at the entrance checkpoint."
+    },
+    "latitude": 7.957,
+    "longitude": 80.7603,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/sigiriya-rock-fortress.jpg",
+        "caption": "Sigiriya Rock Fortress (Lion Rock) - Primary Vista",
+        "altText": "Sigiriya Rock Fortress (Lion Rock), Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/matale.jpg",
+        "caption": "Matale District Landscape",
+        "altText": "Matale District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/central-province.jpg",
+        "caption": "Central Province Regional Panorama",
+        "altText": "Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Central Cultural Fund Sri Lanka",
+        "sourceUrl": "http://www.ccf.gov.lk",
+        "sourceType": "Official Heritage Custodian",
+        "verificationDate": "2024-01-15"
+      },
+      {
+        "sourceName": "UNESCO World Heritage Centre",
+        "sourceUrl": "https://whc.unesco.org/en/list/202",
+        "sourceType": "International Heritage Organization",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "pidurangala-rock",
+      "dambulla-cave-temple"
+    ]
+  },
+  {
+    "id": "dambulla-cave-temple",
+    "name": "Dambulla Cave Temple (Golden Temple)",
+    "slug": "dambulla-cave-temple",
+    "districtId": "matale",
+    "provinceId": "central-province",
+    "category": "ancient-cities",
+    "categories": [
+      "ancient-cities",
+      "temples-religious",
+      "historical-sites",
+      "caves"
+    ],
+    "shortDescription": "The best-preserved cave temple complex in Sri Lanka, housing 153 Buddha statues and 2,100 square meters of painted ceiling murals across five sacred caves.",
+    "fullDescription": "Perched on a massive black granite outcrop rising 160 meters above the surrounding plains, the Golden Temple of Dambulla is the largest and best-preserved rock cave temple complex in Sri Lanka. Dating back to the 1st century BCE, King Valagamba (Vattagamani Abhaya) took refuge in these caves for 14 years after being driven from Anuradhapura by South Indian invaders; upon regaining his throne, he transformed the natural caverns into a magnificent rock monastery. Across five distinct sanctuaries carved beneath a towering 150-meter rock overhang, visitors behold an astonishing treasury of Buddhist art: 153 Buddha statues, including a colossal 14-meter reclining Buddha carved directly from the living rock in Cave 1 (Devaraja Lena), alongside 2,100 square meters of vibrant ceiling and wall frescoes depicting the life of the Buddha and historic battles.",
+    "historicalBackground": "Consecrated as a Buddhist monastery in the 1st century BCE by King Valagamba; expanded by King Nissanka Malla in 1190 CE; inscribed as a UNESCO World Heritage site in 1991.",
+    "naturalCharacteristics": "Immense granite rock inselberg towering 160 meters over the surrounding dry forest.",
+    "specialFeatures": "Five monumental cave sanctuaries, 14-meter rock-carved reclining Buddha, miraculous dripping water vessel in Cave 2, and 2,100 m² of murals.",
+    "reasonsToVisit": [
+      "Step inside five magnificent ancient rock cave temples filled with golden statues and murals",
+      "Marvel at the 14-meter rock-cut reclining Buddha in the Cave of the Divine King",
+      "Witness the mysterious natural phenomenon of water dripping upwards into a golden vessel",
+      "Enjoy panoramic views extending towards Sigiriya Rock from the temple's rock terrace"
+    ],
+    "activities": [
+      "Cave temple exploration",
+      "Buddhist art appreciation",
+      "Panoramic viewpoint photography",
+      "Rock terrace walking"
+    ],
+    "bestTimeToVisit": "Early morning (07:00 - 09:30) or late afternoon (16:00 - 18:00) when the granite rock surface is comfortable to walk on barefoot.",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "LKR 2,000 for foreign adult visitors (ticket office is at the base near the modern Golden Temple museum).",
+    "openingHours": "07:00 - 19:00 Daily (ticket counter closes at 17:00).",
+    "accessibilityInformation": "Ascending the rock requires walking up gentle stone staircases (approx. 200-300 steps); inside the caves, ground is flat.",
+    "safetyInformation": "Granite rock courtyard can become hot under midday sun; socks are recommended for walking on the stone terrace.",
+    "travelTips": {
+      "whatToBring": "Modest clothing, socks to protect feet from hot courtyard stone, camera (no flash inside caves), water.",
+      "clothing": "Strict dress code: shoulders and knees must be covered; hats and shoes must be deposited at the shoe counter.",
+      "photographyTips": "Photograph the dramatic rows of seated Buddhas illuminated by gentle interior lighting; never pose with back turned to statues.",
+      "localCustoms": "Show deep reverence to monks and worshippers inside the active sacred caves.",
+      "environmentalGuidelines": "Never touch the ancient painted murals or rock carvings."
+    },
+    "latitude": 7.8567,
+    "longitude": 80.6483,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/dambulla-cave-temple.jpg",
+        "caption": "Dambulla Cave Temple (Golden Temple) - Primary Vista",
+        "altText": "Dambulla Cave Temple (Golden Temple), Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/matale.jpg",
+        "caption": "Matale District Landscape",
+        "altText": "Matale District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/central-province.jpg",
+        "caption": "Central Province Regional Panorama",
+        "altText": "Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Central Cultural Fund Sri Lanka",
+        "sourceUrl": "http://www.ccf.gov.lk",
+        "sourceType": "Official Heritage Custodian",
+        "verificationDate": "2024-01-15"
+      },
+      {
+        "sourceName": "UNESCO World Heritage Centre",
+        "sourceUrl": "https://whc.unesco.org/en/list/561",
+        "sourceType": "International Heritage Organization",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "sigiriya-rock-fortress",
+      "pidurangala-rock"
+    ]
+  },
+  {
+    "id": "pidurangala-rock",
+    "name": "Pidurangala Rock Sunrise Viewpoint",
+    "slug": "pidurangala-rock",
+    "districtId": "matale",
+    "provinceId": "central-province",
+    "category": "viewpoints",
+    "categories": [
+      "viewpoints",
+      "hiking-trekking",
+      "historical-sites",
+      "adventure",
+      "photography"
+    ],
+    "shortDescription": "The adventurous companion rock to Sigiriya, famous for an exhilarating dawn boulder scramble, ancient cave temple, and iconic direct views of Lion Rock.",
+    "fullDescription": "Located just one kilometer north of Sigiriya, Pidurangala Rock is an imposing volcanic granite hill with a fascinating history closely intertwined with the royal fortress. When King Kashyapa began building his sky palace on Sigiriya in the 5th century, he relocated the Buddhist monks who had meditated there to Pidurangala, commissioning a royal monastery, stupa, and cave complex. Today, Pidurangala has become a pilgrimage for hikers and photographers. The trek begins through the peaceful Pidurangala Sigiri Raja Maha Viharaya, winds past a 12.5-meter brick and mortar reclining Buddha nestled inside a cave overhang, and finishes with a fun scramble over giant boulders to reach the massive flat summit plateau. From the top, climbers are rewarded with the single most iconic, uninterrupted direct view of Sigiriya Rock Fortress rising majestically above the morning mist.",
+    "historicalBackground": "Established as a Buddhist monastery by King Kashyapa in the 5th century CE to re-house monks from Sigiriya rock.",
+    "naturalCharacteristics": "Massive granite rock dome with a broad, flat summit plateau and large natural boulders.",
+    "specialFeatures": "Direct symmetrical view of Sigiriya Rock, 5th-century reclining brick Buddha, and 360-degree sunrise panorama.",
+    "reasonsToVisit": [
+      "Witness the most famous sunrise spectacle in Sri Lanka with golden rays hitting Sigiriya Rock",
+      "Enjoy a rewarding outdoor hike and fun boulder scramble at a fraction of the cost of Sigiriya",
+      "Pay respects at an ancient 5th-century rock-shelter reclining Buddha",
+      "Experience a 360-degree panoramic view of central Sri Lanka's lakes and forests"
+    ],
+    "activities": [
+      "Dawn sunrise hiking",
+      "Landscape and portrait photography",
+      "Exploring ancient monastery ruins",
+      "Boulder scrambling"
+    ],
+    "bestTimeToVisit": "Sunrise (start hike at 05:00 to reach summit by 05:45) or late afternoon for sunset; December to April for clear horizons.",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "Nominal entrance fee: LKR 1,000 (collected at the temple entrance at the base).",
+    "openingHours": "05:00 - 18:00 Daily.",
+    "accessibilityInformation": "First half is uneven stone steps; final 10 minutes requires scrambling over large boulders; requires reasonable agility.",
+    "safetyInformation": "Bring a headlamp/flashlight for dawn climbs; wear proper hiking shoes; stay well back from the sheer cliff edges on the summit.",
+    "travelTips": {
+      "whatToBring": "Headlamp or flashlight (essential for pre-dawn hike), sturdy shoes, drinking water, camera.",
+      "clothing": "Must wear clothes covering shoulders and knees when passing through the temple at the base (sarongs can be rented/borrowed at gate); athletic wear for climb.",
+      "photographyTips": "Position yourself at the southern edge of the summit for the classic shot of Sigiriya Lion Rock bathed in pink dawn light.",
+      "localCustoms": "Cover up respectfully while passing through the active monastery at the bottom.",
+      "environmentalGuidelines": "Strict zero-litter policy; take all plastic bottles and wrappers back down with you."
+    },
+    "latitude": 7.9667,
+    "longitude": 80.7633,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/pidurangala-rock.jpg",
+        "caption": "Pidurangala Rock Sunrise Viewpoint - Primary Vista",
+        "altText": "Pidurangala Rock Sunrise Viewpoint, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/matale.jpg",
+        "caption": "Matale District Landscape",
+        "altText": "Matale District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/central-province.jpg",
+        "caption": "Central Province Regional Panorama",
+        "altText": "Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Archaeology Sri Lanka",
+        "sourceUrl": "http://www.archaeology.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "sigiriya-rock-fortress",
+      "dambulla-cave-temple"
+    ]
+  },
+  {
+    "id": "aluvihare-rock-temple",
+    "name": "Aluvihare Rock Cave Temple",
+    "slug": "aluvihare-rock-temple",
+    "districtId": "matale",
+    "provinceId": "central-province",
+    "category": "historical-sites",
+    "categories": [
+      "historical-sites",
+      "temples-religious",
+      "caves",
+      "cultural-experiences"
+    ],
+    "shortDescription": "The historic cave temple where the oral teachings of the Buddha (Tripitaka) were first committed to writing on palm leaves in the 1st century BCE.",
+    "fullDescription": "Nestled among gigantic boulders at the northern edge of Matale town, Aluvihare Rock Temple holds a monumental place in world religious history. Following a catastrophic twelve-year famine (Baminitiya Seya) and foreign invasions in the 1st century BCE, King Valagamba recognized that the oral transmission of the Buddha's teachings by memory was endangered. A historic convocation of 500 learned Buddhist monks assembled in these rock caves, meticulously chanting and inscribing the entire Pali Canon (Tripitaka) onto dried ola (talipot palm) leaves using metal styluses for the very first time. Today, visitors can explore the natural clefts between colossal granite boulders, view ancient cave shrines, and witness a resident monk demonstrate the ancient art of writing on palm leaves.",
+    "historicalBackground": "The Tipitaka was committed to writing here around 1st century BCE during the reign of King Valagamba.",
+    "naturalCharacteristics": "Dramatic natural granite rock clefts, boulder overhangs, and caves in a tranquil hillside setting.",
+    "specialFeatures": "Historic birthplace of the written Buddhist Tripitaka, palm-leaf (ola) manuscript library, and rock cleft shrines.",
+    "reasonsToVisit": [
+      "Stand at the momentous location where world Buddhist scriptures were first written down",
+      "Witness a live demonstration of ancient ola palm-leaf manuscript inscription by monks",
+      "Walk through dramatic narrow natural rock chasms and cavern shrines",
+      "Experience a peaceful, sacred heritage site away from commercial crowds"
+    ],
+    "activities": [
+      "Historical cave exploration",
+      "Palm-leaf manuscript demonstration",
+      "Temple worship",
+      "Photography of rock clefts"
+    ],
+    "bestTimeToVisit": "Year-round; morning visits (08:30 - 11:30) provide quiet contemplation.",
+    "visitingDuration": "1.5 - 2 Hours",
+    "entranceInformation": "Nominal foreign visitor admission: approx. LKR 500.",
+    "openingHours": "07:00 - 18:00 Daily.",
+    "accessibilityInformation": "Stone stairs navigate between the rock crevices; requires moderate climbing ability.",
+    "safetyInformation": "Watch your head in low-ceiling rock passages; remove shoes at temple thresholds.",
+    "travelTips": {
+      "whatToBring": "Modest clothing, slip-off footwear, small donation for the palm-leaf demonstration.",
+      "clothing": "Shoulders and knees must be covered.",
+      "photographyTips": "Capture the shaft of natural sunlight entering between the split boulders into the cave courtyards.",
+      "localCustoms": "Acquire a personalized inscribed palm-leaf bookmark from the resident scribe monk.",
+      "environmentalGuidelines": "Maintain silence inside the sacred manuscript chambers."
+    },
+    "latitude": 7.5117,
+    "longitude": 80.6233,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/aluvihare-rock-temple.jpg",
+        "caption": "Aluvihare Rock Cave Temple - Primary Vista",
+        "altText": "Aluvihare Rock Cave Temple, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/matale.jpg",
+        "caption": "Matale District Landscape",
+        "altText": "Matale District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/central-province.jpg",
+        "caption": "Central Province Regional Panorama",
+        "altText": "Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Archaeology Sri Lanka",
+        "sourceUrl": "http://www.archaeology.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "dambulla-cave-temple",
+      "riverston-knuckles"
+    ]
+  },
+  {
+    "id": "riverston-knuckles",
+    "name": "Riverston & Mini World's End (Matale Hills)",
+    "slug": "riverston-knuckles",
+    "districtId": "matale",
+    "provinceId": "central-province",
+    "category": "mountains",
+    "categories": [
+      "mountains",
+      "hiking-trekking",
+      "viewpoints",
+      "hidden-gems",
+      "adventure"
+    ],
+    "shortDescription": "A dramatic mountain gap and breezy ridge in the northern Knuckles, featuring the sheer drop of Mini World's End and cascading waterfalls.",
+    "fullDescription": "Located in the northern reaches of the Knuckles Conservation Forest near Matale, Riverston is an awe-inspiring, windswept highland ridge often described as one of Sri Lanka's best-kept trekking secrets. The journey along the winding Matale–Girandurukotte mountain road passes through cloud forests, terraced emerald rice paddies, and rushing streams. A hike to the Riverston Peak leads to a telecommunication tower through the famous 'Windy Gap' (Pita Wala Pathana), where fierce updrafts whistle through mountain passes. Further along the trail lies Mini World's End (Pitawala Pathana)—a breathtaking precipice plunging 300 meters straight down into the Thelgamu Oya valley, alongside the tiered cascades of Sera Ella waterfall.",
+    "historicalBackground": "Part of the ancient Dumbara mountain kingdom; long used by local villages as high pastureland.",
+    "naturalCharacteristics": "Highland plateau grassland (pathana), cloud forest pygmy trees, and sheer escarpment cliffs.",
+    "specialFeatures": "Pitawala Pathana grass plateau, 300m Mini World's End precipice, Sera Ella waterfall cave, and ferocious Windy Gap.",
+    "reasonsToVisit": [
+      "Stand on the edge of the 300-meter sheer drop of Mini World's End with misty mountain views",
+      "Feel the raw power of the wind blowing across the dramatic Riverston Windy Gap",
+      "Hike to Sera Ella and walk behind the roaring waterfall sheet into a natural rock cave",
+      "Discover the unique endemic flora of the Pitawala Pathana highland grass plateau"
+    ],
+    "activities": [
+      "Mountain ridge trekking",
+      "Cliff edge photography",
+      "Waterfall exploration and swimming at Sera Ella",
+      "Endemic birdwatching"
+    ],
+    "bestTimeToVisit": "December to April and July to September (clear skies and manageable wind; early morning start).",
+    "visitingDuration": "Half Day to Full Day",
+    "entranceInformation": "Nominal Forest Department ticket at Pitawala Pathana: approx. LKR 100 for locals, LKR 1,500 for foreign visitors.",
+    "openingHours": "06:30 - 17:30 Daily.",
+    "accessibilityInformation": "Grass plateau trails are gently sloping; viewing platforms near cliff edges have barriers.",
+    "safetyInformation": "Do not venture beyond safety barriers at the cliff edge; wind gusts can be extremely strong.",
+    "travelTips": {
+      "whatToBring": "Windproof light jacket, good hiking shoes, water bottle, binoculars, camera.",
+      "clothing": "Layered warm and windproof clothing.",
+      "photographyTips": "Capture the panoramic view from Mini World's End early in the morning before mist rises from the valley.",
+      "localCustoms": "Friendly greeting to local highland farmers along the road.",
+      "environmentalGuidelines": "Stay on designated paths across Pitawala Pathana to protect fragile endemic carnivorous plants (droseras)."
+    },
+    "latitude": 7.525,
+    "longitude": 80.7333,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/riverston-knuckles.jpg",
+        "caption": "Riverston & Mini World's End (Matale Hills) - Primary Vista",
+        "altText": "Riverston & Mini World's End (Matale Hills), Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/matale.jpg",
+        "caption": "Matale District Landscape",
+        "altText": "Matale District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/central-province.jpg",
+        "caption": "Central Province Regional Panorama",
+        "altText": "Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Forest Department Sri Lanka",
+        "sourceUrl": "http://www.forestdept.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "aluvihare-rock-temple",
+      "knuckles-mountain-range"
+    ]
+  },
+  {
+    "id": "nuwara-eliya-town-gregory-lake",
+    "name": "Nuwara Eliya Town & Gregory Lake",
+    "slug": "nuwara-eliya-town-gregory-lake",
+    "districtId": "nuwara-eliya",
+    "provinceId": "central-province",
+    "category": "mountains",
+    "categories": [
+      "mountains",
+      "lakes-reservoirs",
+      "tea-plantations",
+      "family-friendly",
+      "historical-sites"
+    ],
+    "shortDescription": "Sri Lanka's cool-climate 'Little England' at 1,868m elevation, featuring Tudor colonial post offices, tea factories, and lively watersports on Gregory Lake.",
+    "fullDescription": "Nestled at an elevation of 1,868 meters (6,128 feet) in the shadow of Mount Pidurutalagala, Nuwara Eliya is the premier mountain hill station of Sri Lanka. Established in the 19th century by British explorer Sir Samuel Baker as a retreat for European colonists escaping tropical coastal heat, it earned the affectionate moniker 'Little England' for its cool climate, manicured golf courses, red-brick Tudor-style cottages, and the iconic 1894 red-roofed Nuwara Eliya Post Office. At the heart of the town lies Gregory Lake, created in 1873 by Governor Sir William Gregory, today buzzing with jet skis, speedboats, swan pedalos, pony rides, and paved lakeside walking trails lined with colorful flower gardens.",
+    "historicalBackground": "Discovered by British explorers in 1818; developed as a sanatorium and tea planting center by Sir Samuel Baker in 1846.",
+    "naturalCharacteristics": "Highland montane valley characterized by mist, cool temperatures (10°C - 20°C), and surrounding tea hills.",
+    "specialFeatures": "1894 British Post Office, 18-hole Nuwara Eliya Golf Club (founded 1889), Gregory Lake watersports, and strawberry farms.",
+    "reasonsToVisit": [
+      "Enjoy crisp, invigorating mountain air with temperatures occasionally dropping near 10°C",
+      "Cruise across scenic Gregory Lake on a speedboat or family swan pedal-boat",
+      "Send a vintage postcard from the world-famous red-brick 1894 colonial Post Office",
+      "Savor fresh highland strawberries with whipped cream at local farms"
+    ],
+    "activities": [
+      "Lake boating and jet skiing",
+      "Pony riding along the lakeside",
+      "High tea at colonial heritage hotels",
+      "Visiting fresh strawberry farms"
+    ],
+    "bestTimeToVisit": "April (annual Nuwara Eliya season with flower shows and horse racing) or December to March for crisp sunny mountain days.",
+    "visitingDuration": "1 - 2 Days",
+    "entranceInformation": "Gregory Lake park entrance: approx. LKR 50 for locals, LKR 500 for foreign visitors; boating fees extra.",
+    "openingHours": "Gregory Lake open 06:00 - 18:00 daily; town attractions open throughout the day.",
+    "accessibilityInformation": "Paved flat pedestrian promenade around Gregory Lake; town center is accessible.",
+    "safetyInformation": "Life jackets required for all watercraft on Gregory Lake; dress warmly for sudden evening temperature drops.",
+    "travelTips": {
+      "whatToBring": "Warm sweater/fleece jacket, umbrella, comfortable walking shoes.",
+      "clothing": "Warm layers for chilly evenings and early mornings.",
+      "photographyTips": "Photograph the red colonial Post Office framed by flowering bushes during morning hours.",
+      "localCustoms": "Enjoying afternoon high tea at the Grand Hotel is a cherished colonial tradition.",
+      "environmentalGuidelines": "Keep the scenic lakeside and parks clean of plastic waste."
+    },
+    "latitude": 6.9686,
+    "longitude": 80.7828,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/nuwara-eliya-town-gregory-lake.jpg",
+        "caption": "Nuwara Eliya Town & Gregory Lake - Primary Vista",
+        "altText": "Nuwara Eliya Town & Gregory Lake, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/nuwara-eliya.jpg",
+        "caption": "Nuwara Eliya District Landscape",
+        "altText": "Nuwara Eliya District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/central-province.jpg",
+        "caption": "Central Province Regional Panorama",
+        "altText": "Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Nuwara Eliya Municipal Council",
+        "sourceUrl": "https://nuwaraeliya.mc.gov.lk",
+        "sourceType": "Municipal Government",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "hakgala-botanical-garden",
+      "pedro-tea-estate",
+      "horton-plains-worlds-end"
+    ]
+  },
+  {
+    "id": "horton-plains-worlds-end",
+    "name": "Horton Plains National Park & World's End",
+    "slug": "horton-plains-worlds-end",
+    "districtId": "nuwara-eliya",
+    "provinceId": "central-province",
+    "category": "national-parks",
+    "categories": [
+      "national-parks",
+      "hiking-trekking",
+      "viewpoints",
+      "waterfalls",
+      "wildlife-safari"
+    ],
+    "shortDescription": "A windswept highland plateau of cloud forests at 2,100m elevation, terminating at the staggering 880-meter vertical abyss of World's End.",
+    "fullDescription": "Spanning an eerie, undulating high-altitude plateau between 2,100 and 2,300 meters elevation, Horton Plains National Park (known in Sinhala as Maha Eliya Thenna) is one of Sri Lanka's most spellbinding natural treasures. Inscribed as a UNESCO World Heritage site, this mist-shrouded wilderness is an essential watershed where three of Sri Lanka's major rivers—the Mahaweli, Kelani, and Walawe—have their headwaters. The park's famous 9.5-kilometer circular trekking trail winds past wet patana grasslands dotted with rhododendrons, gnarled dwarf cloud forests draped in Spanish moss, and herds of magnificent sambar deer. The trail reaches its climactic point at World's End—a near-vertical cliff drop of 880 meters (2,887 feet) looking down onto tea plantations and out toward the southern ocean—before visiting Lesser World's End (a 270m drop) and the cascading beauty of Baker's Falls.",
+    "historicalBackground": "Named in 1834 after British Governor Sir Robert Wilmot-Horton; designated as a National Park in 1988 and UNESCO World Heritage site in 2010.",
+    "naturalCharacteristics": "Montane cloud forest and high-altitude grassland plateau (2,100m - 2,300m elevation).",
+    "specialFeatures": "880-meter vertical precipice of World's End, Baker's Falls (20m cascade), Chimney Pool, and large herds of wild sambar deer.",
+    "reasonsToVisit": [
+      "Stand on the edge of the breathtaking 880-meter vertical sheer cliff drop at World's End",
+      "Trek through mystical cloud forests and high-altitude grassy plains found nowhere else in the country",
+      "Witness wild sambar deer grazing peacefully in the morning mist",
+      "Hear the roar of Baker's Falls plunging through dense fern valleys"
+    ],
+    "activities": [
+      "9.5 km circular hiking trail",
+      "Landscape and wildlife photography",
+      "Birdwatching for montane endemics (Whistling Thrush, Yellow-eared Bulbul)",
+      "Cloud forest exploration"
+    ],
+    "bestTimeToVisit": "December to April; early morning start (arrive at park gate by 06:00) is critical to reach World's End before 09:00, when a thick wall of white cloud rolls in.",
+    "visitingDuration": "3 - 5 Hours (full circuit hike)",
+    "entranceInformation": "National Park fee: approx. LKR 10,000 - 12,000 per foreign adult visitor (including park service fees and vehicle pass).",
+    "openingHours": "06:00 - 16:00 Daily (entry permitted until 14:00).",
+    "accessibilityInformation": "Natural dirt trails with roots, rocks, and uneven steps; requires moderate walking stamina; not wheelchair accessible.",
+    "safetyInformation": "Strict safety barriers exist at World's End; do not climb over barriers for selfies; high winds and rapid weather changes occur.",
+    "travelTips": {
+      "whatToBring": "Warm fleece jacket/windbreaker, sturdy walking shoes, rain gear, reusable water bottle, camera.",
+      "clothing": "Layered warm clothing that can be stripped down as temperatures rise during the trek.",
+      "photographyTips": "Reach World's End before 08:30 for crystal clear views to the southern coast before clouds roll up the cliff face.",
+      "localCustoms": "Maintain silence to observe sambar deer and rare endemic birds along the trail.",
+      "environmentalGuidelines": "Strict zero-polythene policy: park rangers inspect bags at the gate and remove all plastic wrappers, biscuit packets, and bags."
+    },
+    "latitude": 6.8028,
+    "longitude": 80.8092,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/horton-plains-worlds-end.jpg",
+        "caption": "Horton Plains National Park & World's End - Primary Vista",
+        "altText": "Horton Plains National Park & World's End, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/nuwara-eliya.jpg",
+        "caption": "Nuwara Eliya District Landscape",
+        "altText": "Nuwara Eliya District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/central-province.jpg",
+        "caption": "Central Province Regional Panorama",
+        "altText": "Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Wildlife Conservation Sri Lanka",
+        "sourceUrl": "http://www.dwc.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      },
+      {
+        "sourceName": "UNESCO World Heritage Centre",
+        "sourceUrl": "https://whc.unesco.org/en/list/1203",
+        "sourceType": "International Heritage Organization",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "nuwara-eliya-town-gregory-lake",
+      "hakgala-botanical-garden"
+    ]
+  },
+  {
+    "id": "hakgala-botanical-garden",
+    "name": "Hakgala Botanical Garden & Rose Terraces",
+    "slug": "hakgala-botanical-garden",
+    "districtId": "nuwara-eliya",
+    "provinceId": "central-province",
+    "category": "botanical-gardens",
+    "categories": [
+      "botanical-gardens",
+      "mountains",
+      "historical-sites",
+      "photography"
+    ],
+    "shortDescription": "The second largest botanical garden in Sri Lanka, nestled beneath the towering Hakgala rock cliff, famous for temperate roses, ferns, and Ramayana legends.",
+    "fullDescription": "Perched at an elevation of 1,745 meters beneath the imposing shadow of the 2,200-meter sheer Hakgala Rock, Hakgala Botanical Garden is the highest elevation botanical garden in Sri Lanka. Established in 1861 under British botanist Dr. G.H.K. Thwaites for experimental cultivation of Cinchona (source of anti-malarial quinine), it later became a world-renowned temperate montane garden. According to Hindu mythology and the Ramayana epic, this was the pleasure garden 'Ashok Vatika' where King Ravana kept the kidnapped Princess Sita captive. The 28-hectare terraced gardens feature exquisite collections of English roses, ferns, ancient camphor trees, subtropical conifers, a Japanese garden, and an orchid house flourishing in the cool, moist highland air.",
+    "historicalBackground": "Established in 1861 as a Cinchona plantation; linked to the ancient Ramayana epic as Ashok Vatika.",
+    "naturalCharacteristics": "Montane cloud forest microclimate shaded by the sheer cliff of Hakgala Rock.",
+    "specialFeatures": "Terraced rose garden, fernery, Japanese garden, and backdrop of the sheer Hakgala crag.",
+    "reasonsToVisit": [
+      "Stroll through fragrant terraced rose beds blooming in crisp mountain air",
+      "Visit the legendary site associated with King Ravana and Princess Sita in the Ramayana epic",
+      "Marvel at the dramatic sheer cliff face of Hakgala Rock looming above the flower beds",
+      "Explore the historic Victorian fernery and exotic highland arboretum"
+    ],
+    "activities": [
+      "Rose and flora photography",
+      "Botanical walking",
+      "Ramayana trail exploration",
+      "Picnicking"
+    ],
+    "bestTimeToVisit": "January to May when roses and temperate flowers are in full glorious bloom.",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "Nominal fee: LKR 100 for locals; approx. LKR 3,000 for foreign adult visitors.",
+    "openingHours": "07:30 - 17:30 Daily.",
+    "accessibilityInformation": "Paved and gravel pathways on moderate hillsides; requires climbing terraced steps.",
+    "safetyInformation": "Stay on marked trails; do not approach wild monkeys or climb toward the sheer rock face.",
+    "travelTips": {
+      "whatToBring": "Warm jacket, umbrella (frequent mist and passing mountain showers), camera.",
+      "clothing": "Comfortable walking shoes with warm layers.",
+      "photographyTips": "Photograph the colorful rose terraces with the mist-shrouded vertical cliff of Hakgala Rock in the background.",
+      "localCustoms": "Visit the nearby Seetha Amman Temple, a historic Hindu shrine dedicated to Sita located 1 km away.",
+      "environmentalGuidelines": "Do not pluck roses, flowers, or damage plant labels."
+    },
+    "latitude": 6.9283,
+    "longitude": 80.8167,
+    "featured": false,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/hakgala-botanical-garden.jpg",
+        "caption": "Hakgala Botanical Garden & Rose Terraces - Primary Vista",
+        "altText": "Hakgala Botanical Garden & Rose Terraces, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/nuwara-eliya.jpg",
+        "caption": "Nuwara Eliya District Landscape",
+        "altText": "Nuwara Eliya District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/central-province.jpg",
+        "caption": "Central Province Regional Panorama",
+        "altText": "Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of National Botanic Gardens Sri Lanka",
+        "sourceUrl": "https://botanicgardens.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "nuwara-eliya-town-gregory-lake",
+      "horton-plains-worlds-end"
+    ]
+  },
+  {
+    "id": "ramboda-falls",
+    "name": "Ramboda Falls Cascades",
+    "slug": "ramboda-falls",
+    "districtId": "nuwara-eliya",
+    "provinceId": "central-province",
+    "category": "waterfalls",
+    "categories": [
+      "waterfalls",
+      "mountains",
+      "photography",
+      "viewpoints"
+    ],
+    "shortDescription": "A thunderous 109-meter tiered cascade dropping down sheer rock faces along the scenic Kandy-Nuwara Eliya highway, the 11th highest waterfall in Sri Lanka.",
+    "fullDescription": "Plunging 109 meters (358 feet) down a sheer granite amphitheater in the Pussellawa region, Ramboda Falls is the 11th highest waterfall in Sri Lanka and one of its most accessible natural spectacles. Fed by the Panna Oya (a tributary of the Kotmale Oya), the waterfall is a multi-tiered giant consisting of upper, middle, and lower cascades. A scenic paved trail from the highway leads down through lush emerald hills and tea estates to an observation deck positioned directly in front of the middle cascade, where visitors can feel the refreshing cool spray drifting from the thunderous downpour.",
+    "historicalBackground": "A beloved scenic waypoint along the historic Kandy to Nuwara Eliya mountain carriage road built by British engineers in the 19th century.",
+    "naturalCharacteristics": "Multi-tiered mountain waterfall surrounded by highland tropical rainforest and tea bushes.",
+    "specialFeatures": "109-meter drop, observation deck right at the cascade pool, and nearby Ramboda road tunnel.",
+    "reasonsToVisit": [
+      "Stand before the roaring power of a 109-meter mountain cascade",
+      "Feel the cooling mist and spray after the drive up from Kandy",
+      "Enjoy a scenic tea break or lunch at cliffside restaurants overlooking the valley",
+      "Take stunning photographs of tiered waters crashing against black granite rock"
+    ],
+    "activities": [
+      "Waterfall viewing and photography",
+      "Short nature trail walk",
+      "Highland tea tasting at roadside viewpoints"
+    ],
+    "bestTimeToVisit": "During and following monsoon seasons (October to January and May to July) for peak water volume.",
+    "visitingDuration": "1 - 1.5 Hours",
+    "entranceInformation": "Free viewing from roadside lookouts; small access fee of approx. LKR 100 - 200 via hotel pathway to the lower viewing deck.",
+    "openingHours": "Open daily during daylight hours (07:00 - 18:00).",
+    "accessibilityInformation": "Paved steps lead to the lower observation platform; roadside hotel viewing galleries are wheelchair accessible.",
+    "safetyInformation": "Do not attempt to swim in the turbulent pool beneath the main cascade due to dangerous currents and slippery rocks.",
+    "travelTips": {
+      "whatToBring": "Rain jacket or lens cloth to wipe mist spray off camera lenses, sturdy footwear.",
+      "clothing": "Casual comfortable travel clothes.",
+      "photographyTips": "Use a neutral density (ND) filter and slow shutter speed to capture the silky flow of the cascades.",
+      "localCustoms": "Popular stop for travelers making the classic overland journey from Kandy to Nuwara Eliya.",
+      "environmentalGuidelines": "Do not litter along the waterfall trail."
+    },
+    "latitude": 7.05,
+    "longitude": 80.6967,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/ramboda-falls.jpg",
+        "caption": "Ramboda Falls Cascades - Primary Vista",
+        "altText": "Ramboda Falls Cascades, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/nuwara-eliya.jpg",
+        "caption": "Nuwara Eliya District Landscape",
+        "altText": "Nuwara Eliya District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/central-province.jpg",
+        "caption": "Central Province Regional Panorama",
+        "altText": "Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Development Authority",
+        "sourceUrl": "https://www.sltda.gov.lk",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "nuwara-eliya-town-gregory-lake",
+      "devon-falls"
+    ]
+  },
+  {
+    "id": "devon-falls",
+    "name": "Devon Falls (The Veil of the Valley)",
+    "slug": "devon-falls",
+    "districtId": "nuwara-eliya",
+    "provinceId": "central-province",
+    "category": "waterfalls",
+    "categories": [
+      "waterfalls",
+      "mountains",
+      "tea-plantations",
+      "photography",
+      "viewpoints"
+    ],
+    "shortDescription": "A spectacular 97-meter tiered waterfall dubbed 'The Veil of the Valley', plunging down rocky tiers amidst emerald Ceylon tea plantations.",
+    "fullDescription": "Known poetically as 'The Veil of the Valley', Devon Falls is a breathtaking 97-meter (318-foot) waterfall located along the Colombo–Hatton–Nuwara Eliya highway (A7). Named after a pioneer English coffee and tea planter named Devon, whose estate surrounded the falls, this tiered cascade is formed by the waters of the Kotmale Oya. The waterfall plunges down a multi-stage rocky precipice framed by lush green tea plantations, creating a postcard-perfect panorama visible from the highway's dedicated Mlesna Tea Castle viewpoint. Visitors can sip freshly brewed Ceylon tea on the castle terrace while admiring the roaring white ribbon of water across the valley.",
+    "historicalBackground": "Named after pioneer British planter Devon; admired by travelers along the hill country highway since the 19th century.",
+    "naturalCharacteristics": "Tiered cascade plunging 97 meters into a deep river valley surrounded by tea estates.",
+    "specialFeatures": "Postcard view from Mlesna Tea Castle, multi-stage cascade drop, and tea estate backdrop.",
+    "reasonsToVisit": [
+      "Admire one of Sri Lanka's most gracefully sculpted waterfalls from a panoramic roadside viewpoint",
+      "Sip single-estate Ceylon tea on the terrace of the Mlesna Tea Castle overlooking the falls",
+      "Combine visits with neighboring St. Clair's Falls along the scenic Hatton-Nuwara Eliya route",
+      "Capture classic travel photographs of tea pickers against the distant cascade"
+    ],
+    "activities": [
+      "Waterfall viewpoint photography",
+      "Ceylon tea tasting",
+      "Scenic driving along the A7 highway"
+    ],
+    "bestTimeToVisit": "June to November during and after monsoon rains for the most dramatic water cascade.",
+    "visitingDuration": "30 - 45 Minutes",
+    "entranceInformation": "Free viewing from roadside observation points.",
+    "openingHours": "Open 24 hours (best viewed in daylight from 08:00 - 18:00).",
+    "accessibilityInformation": "Observation terrace at Mlesna Tea Castle is paved and wheelchair accessible.",
+    "safetyInformation": "Viewing is from roadside lookouts across the valley; hiking directly to the base is dangerous and discouraged.",
+    "travelTips": {
+      "whatToBring": "Camera with telephoto lens, light jacket.",
+      "clothing": "Casual travel attire.",
+      "photographyTips": "Use the telephoto lens from the Tea Castle terrace to zoom into the tiered white water ribbons cascading through green tea rows.",
+      "localCustoms": "Stop at the tea lounge to purchase authentic regional high-grown black teas.",
+      "environmentalGuidelines": "Keep the roadside viewpoint areas clean."
+    },
+    "latitude": 6.9533,
+    "longitude": 80.63,
+    "featured": false,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/devon-falls.jpg",
+        "caption": "Devon Falls (The Veil of the Valley) - Primary Vista",
+        "altText": "Devon Falls (The Veil of the Valley), Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/nuwara-eliya.jpg",
+        "caption": "Nuwara Eliya District Landscape",
+        "altText": "Nuwara Eliya District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/central-province.jpg",
+        "caption": "Central Province Regional Panorama",
+        "altText": "Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Promotion Bureau",
+        "sourceUrl": "https://srilanka.travel",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "st-clairs-falls",
+      "nuwara-eliya-town-gregory-lake"
+    ]
+  },
+  {
+    "id": "st-clairs-falls",
+    "name": "St. Clair's Falls (The Little Niagara of Sri Lanka)",
+    "slug": "st-clairs-falls",
+    "districtId": "nuwara-eliya",
+    "provinceId": "central-province",
+    "category": "waterfalls",
+    "categories": [
+      "waterfalls",
+      "mountains",
+      "tea-plantations",
+      "photography",
+      "viewpoints"
+    ],
+    "shortDescription": "One of Sri Lanka's widest waterfalls, affectionately known as the 'Little Niagara of Sri Lanka', tumbling in twin cascades through lush tea hills.",
+    "fullDescription": "Renowned as the 'Little Niagara of Sri Lanka', St. Clair's Falls is one of the widest and most majestic waterfalls in the island nation. Located along the scenic A7 highway near Talawakele, the waterfall is formed by the waters of the Kotmale Oya cascading 80 meters (262 feet) over a broad rocky ledge. St. Clair's is composed of two distinct waterfalls: 'Maha Ella' (The Greater Fall), which drops 80 meters in three cascading steps over a 50-meter-wide rock ledge, and 'Kuda Ella' (The Lesser Fall), which drops 50 meters immediately downstream. Named after the historic St. Clair Tea Estate through which it flows, the falls offer an iconic highland vista with tea pickers in colorful saris dotting the foreground slopes.",
+    "historicalBackground": "Named after the pioneering British-era St. Clair Tea Estate established in the late 19th century.",
+    "naturalCharacteristics": "Broad rock-ledge waterfall fed by the Kotmale Oya flowing through high-altitude tea valleys.",
+    "specialFeatures": "Twin cascades (Maha Ella & Kuda Ella), 50-meter wide rock ledge, and classic tea plantation setting.",
+    "reasonsToVisit": [
+      "Witness one of Sri Lanka's widest and most photographed waterfalls",
+      "Marvel at the twin cascades flowing gracefully through emerald tea hills",
+      "Enjoy crisp mountain air and panoramic viewpoints along the historic highland highway",
+      "Learn about Ceylon tea cultivation at surrounding tea factory visitor centres"
+    ],
+    "activities": [
+      "Roadside photography",
+      "Tea estate walking",
+      "Highland scenic drive"
+    ],
+    "bestTimeToVisit": "June to November when the Kotmale River carries peak water volume.",
+    "visitingDuration": "30 - 45 Minutes",
+    "entranceInformation": "Free public viewing from designated highway viewing platforms.",
+    "openingHours": "Open 24 hours.",
+    "accessibilityInformation": "Roadside viewpoint platform is paved and accessible.",
+    "safetyInformation": "Do not attempt to scramble down through tea bushes to the water's edge.",
+    "travelTips": {
+      "whatToBring": "Camera with wide-angle and zoom lenses, light sweater.",
+      "clothing": "Casual comfortable road trip attire.",
+      "photographyTips": "Capture the wide vista showing both the cascade and the geometric contours of the surrounding tea bushes.",
+      "localCustoms": "A classic photo stop on the drive between Nuwara Eliya and Colombo.",
+      "environmentalGuidelines": "Dispose of garbage in roadside bins."
+    },
+    "latitude": 6.9483,
+    "longitude": 80.6367,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/st-clairs-falls.jpg",
+        "caption": "St. Clair's Falls (The Little Niagara of Sri Lanka) - Primary Vista",
+        "altText": "St. Clair's Falls (The Little Niagara of Sri Lanka), Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/nuwara-eliya.jpg",
+        "caption": "Nuwara Eliya District Landscape",
+        "altText": "Nuwara Eliya District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/central-province.jpg",
+        "caption": "Central Province Regional Panorama",
+        "altText": "Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Development Authority",
+        "sourceUrl": "https://www.sltda.gov.lk",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "devon-falls",
+      "nuwara-eliya-town-gregory-lake"
+    ]
+  },
+  {
+    "id": "pedro-tea-estate",
+    "name": "Pedro Tea Estate & Factory",
+    "slug": "pedro-tea-estate",
+    "districtId": "nuwara-eliya",
+    "provinceId": "central-province",
+    "category": "tea-plantations",
+    "categories": [
+      "tea-plantations",
+      "cultural-experiences",
+      "historical-sites",
+      "mountains"
+    ],
+    "shortDescription": "One of Sri Lanka's oldest operating tea factories established in 1885, where visitors can witness traditional orthodox Ceylon tea processing and sample Lovers Leap tea.",
+    "fullDescription": "Nestled 3.5 kilometers east of Nuwara Eliya town at the foot of Mount Pidurutalagala, Pedro Tea Estate is an operational living museum of orthodox Ceylon tea manufacture. Established in 1885 during the British colonial era, the factory continues to utilize original 19th-century machinery to produce the delicate, light, aromatic high-grown teas characteristic of the Nuwara Eliya terroir. Visitors join an engaging 30-minute guided factory tour (wearing white visitor aprons) explaining the orthodox five-step tea-making process: withering, rolling, fermentation, firing, and grading. Following the tour, guests enjoy a fresh pot of steaming Lovers Leap single-estate black tea on the factory's open-air verandah, overlooking rolling emerald tea bushes and the distant cascades of Lovers Leap waterfall.",
+    "historicalBackground": "Established in 1885; still preserves historic British-era manufacturing machinery and orthodox production techniques.",
+    "naturalCharacteristics": "High-altitude tea estate (1,900m elevation) situated on the mountain slopes of Mount Pidurutalagala.",
+    "specialFeatures": "1885 operating tea factory machinery, guided orthodox tea processing tours, and Lovers Leap tea tasting terrace.",
+    "reasonsToVisit": [
+      "Learn the fascinating science and art of authentic orthodox Ceylon tea production from leaf to cup",
+      "Witness original 19th-century British tea machinery still operating in daily production",
+      "Savor a freshly brewed cup of premium Lovers Leap high-grown tea on the scenic garden terrace",
+      "Walk through neat tea fields and meet tea pluckers harvesting the 'two leaves and a bud'"
+    ],
+    "activities": [
+      "Guided tea factory tours",
+      "Tea tasting masterclasses",
+      "Walking through tea estates",
+      "Visiting nearby Lovers Leap waterfall"
+    ],
+    "bestTimeToVisit": "Year-round; morning visits (08:30 - 11:30) when the factory is actively processing the morning harvest.",
+    "visitingDuration": "1.5 - 2 Hours",
+    "entranceInformation": "Factory tour ticket: approx. LKR 1,500 per foreign adult visitor (includes a cup of freshly brewed tea).",
+    "openingHours": "08:00 - 17:00 Daily (factory floor processing usually runs morning through early afternoon).",
+    "accessibilityInformation": "Ground floor is accessible; factory floor contains stairs and metal catwalks; guide assistance provided.",
+    "safetyInformation": "Photography is restricted inside specific machinery rooms for proprietary reasons; heed guide instructions around moving belts.",
+    "travelTips": {
+      "whatToBring": "Warm clothing, comfortable walking shoes, camera.",
+      "clothing": "Casual comfortable attire; visitor coats are provided for factory floor entry.",
+      "photographyTips": "Photograph the sea of green tea bushes rolling up the slopes of Pidurutalagala from the cafe verandah.",
+      "localCustoms": "A polite tip for the tea factory guide is appreciated.",
+      "environmentalGuidelines": "Do not damage tea bushes or walk into restricted harvest plots without permission."
+    },
+    "latitude": 6.96,
+    "longitude": 80.81,
+    "featured": false,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/pedro-tea-estate.jpg",
+        "caption": "Pedro Tea Estate & Factory - Primary Vista",
+        "altText": "Pedro Tea Estate & Factory, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/nuwara-eliya.jpg",
+        "caption": "Nuwara Eliya District Landscape",
+        "altText": "Nuwara Eliya District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/central-province.jpg",
+        "caption": "Central Province Regional Panorama",
+        "altText": "Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tea Board",
+        "sourceUrl": "https://www.srilankateaboard.lk",
+        "sourceType": "Official Commodity Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "nuwara-eliya-town-gregory-lake",
+      "hakgala-botanical-garden"
+    ]
+  }
+]

@@ -1,0 +1,877 @@
+{
+  "durationItineraries": [
+    {
+      "id": "3-day-highlights",
+      "slug": "3-day-express-highlights",
+      "title": "3-Day Express Highlights: Golden Coast & Heritage",
+      "duration": "3 Days / 2 Nights",
+      "durationDays": 3,
+      "tagline": "A fast-paced introduction to Sri Lanka's vibrant coastal charm and historic Dutch fortress.",
+      "idealFor": "Short stopovers, weekend getaways, first-time business travelers",
+      "startingPoint": "Colombo / Bandaranaike International Airport (CMB)",
+      "endingPoint": "Colombo / CMB Airport",
+      "transportRecommended": "Private chauffeured car or express Southern Expressway highway bus",
+      "heroImage": "img/dambulla.jpg",
+      "overview": "Designed for travelers on a tight schedule or weekend transit, this 3-day itinerary combines the architectural heritage of colonial Galle Fort, golden Indian Ocean beaches, and cosmopolitan Colombo city highlights.",
+      "days": [
+        {
+          "day": 1,
+          "title": "Arrival & Colonial Colombo Discovery",
+          "stops": [
+            "colombo-city",
+            "gangaramaya-temple",
+            "galle-face-green"
+          ],
+          "description": "Arrive at CMB airport, drive to Colombo city centre. Tour the Gangaramaya Buddhist Temple on Beira Lake, explore British colonial architecture in Colombo Fort, and enjoy fresh spiced prawns (isso vade) at sunset along Galle Face Green promenade.",
+          "overnight": "Colombo"
+        },
+        {
+          "day": 2,
+          "title": "Southern Expressway to UNESCO Galle Fort & Unawatuna",
+          "stops": [
+            "galle-fort",
+            "unawatuna-beach"
+          ],
+          "description": "Take the Southern Expressway south to Galle (2 hours). Spend the morning walking the ramparts of the 17th-century UNESCO World Heritage Galle Fort, browsing artisan boutiques on Church Street and visiting the Dutch Reformed Church. In the afternoon, swim in the calm turquoise bay of Unawatuna and watch the sunset from the Japanese Peace Pagoda.",
+          "overnight": "Galle or Unawatuna"
+        },
+        {
+          "day": 3,
+          "title": "Turtle Conservation, Coastal Scenic Route & Departure",
+          "stops": [
+            "hikkaduwa-coral-sanctuary",
+            "independence-square"
+          ],
+          "description": "Head northward along the coastal road with a morning stop at Hikkaduwa or Kosgoda Turtle Hatchery. Stop by Independence Memorial Hall and Arcade Independence Square in Colombo for souvenir and Ceylon tea shopping before transferring to the airport for your evening flight.",
+          "overnight": "Departure"
+        }
+      ]
+    },
+    {
+      "id": "5-day-cultural-hill-country",
+      "slug": "5-day-cultural-hill-country",
+      "title": "5-Day Cultural Triangle & Misty Hill Country",
+      "duration": "5 Days / 4 Nights",
+      "durationDays": 5,
+      "tagline": "Ancient rock fortresses, sacred Buddhist relics, and emerald green tea hills.",
+      "idealFor": "Couples, culture enthusiasts, active travelers wanting essential central highlights",
+      "startingPoint": "Bandaranaike International Airport (CMB)",
+      "endingPoint": "Colombo / CMB Airport",
+      "transportRecommended": "Chauffeured vehicle + Scenic Main Line train ticket",
+      "heroImage": "img/kandy.jpg",
+      "overview": "Take in Sri Lanka's greatest cultural wonders: climb the 5th-century Sigiriya Rock Fortress, marvel at the cave paintings of Dambulla, pay homage at Kandy's Temple of the Sacred Tooth Relic, and breathe crisp mountain air in Nuwara Eliya.",
+      "days": [
+        {
+          "day": 1,
+          "title": "Arrival, Dambulla Cave Temple & Cultural Triangle Base",
+          "stops": [
+            "dambulla-cave-temple"
+          ],
+          "description": "Drive from Colombo to Dambulla. Climb to the UNESCO World Heritage Royal Cave Temples, housing over 150 serene Buddha statues and 2,000 square meters of painted rock ceilings dating back to the 1st century BC. Check into your hotel in Habarana or Sigiriya.",
+          "overnight": "Sigiriya / Habarana"
+        },
+        {
+          "day": 2,
+          "title": "Ascent of Sigiriya Lion Rock & Sunset at Pidurangala",
+          "stops": [
+            "sigiriya-rock-fortress",
+            "pidurangala-rock"
+          ],
+          "description": "Early morning climb of Sigiriya Rock Fortress to beat the heat, admiring the ancient water gardens, mirror wall, and 5th-century frescoes. In the late afternoon, hike up neighboring Pidurangala Rock for a panoramic 360-degree sunset view facing Sigiriya.",
+          "overnight": "Sigiriya"
+        },
+        {
+          "day": 3,
+          "title": "Kandy Royal Capital & Temple of the Tooth Relic",
+          "stops": [
+            "temple-of-the-tooth",
+            "kandy-lake"
+          ],
+          "description": "Drive south to the royal capital of Kandy via Matale spice gardens. Visit the Temple of the Sacred Tooth Relic (Sri Dalada Maligawa) during the evening Thevava (offering ceremony). Stroll around serene Kandy Lake and watch a traditional Kandyan dance performance.",
+          "overnight": "Kandy"
+        },
+        {
+          "day": 4,
+          "title": "Peradeniya Botanical Gardens & Colonial Nuwara Eliya",
+          "stops": [
+            "peradeniya-botanical-gardens",
+            "pedro-tea-estate",
+            "nuwara-eliya-town"
+          ],
+          "description": "Walk among the giant Javan fig trees and orchid pavilion at Royal Botanical Gardens Peradeniya. Ascend into the central highlands through winding tea hills to 'Little England' (Nuwara Eliya). Tour Pedro Tea Estate to learn the art of Ceylon orthodox black tea processing.",
+          "overnight": "Nuwara Eliya"
+        },
+        {
+          "day": 5,
+          "title": "Misty Gregory Lake, Ramboda Falls & Return to Colombo",
+          "stops": [
+            "gregory-lake",
+            "ramboda-falls"
+          ],
+          "description": "Morning pony ride or leisurely stroll around Gregory Lake. Descend through the misty mountain passes, stopping at Ramboda Falls for a scenic lunch before heading to Colombo / CMB Airport for departure.",
+          "overnight": "Departure"
+        }
+      ]
+    },
+    {
+      "id": "7-day-classic-sri-lanka",
+      "slug": "7-day-classic-sri-lanka",
+      "title": "7-Day Classic Sri Lanka: Heritage, Tea & Ocean",
+      "duration": "7 Days / 6 Nights",
+      "durationDays": 7,
+      "tagline": "The quintessential Sri Lanka journey connecting ancient heritage, misty peaks, scenic train, and coastal fortresses.",
+      "idealFor": "First-time visitors wanting the comprehensive signature Sri Lanka experience",
+      "startingPoint": "Colombo / CMB Airport",
+      "endingPoint": "Colombo / CMB Airport",
+      "transportRecommended": "Chauffeured car + Kandy to Ella blue train ride",
+      "heroImage": "img/nuwaraeliya.jpg",
+      "overview": "The absolute benchmark 1-week route through Sri Lanka: the Cultural Triangle (Sigiriya & Dambulla), the hill kingdom of Kandy, the world-famous blue train through tea plantations to Ella, and the colonial fortress town of Galle.",
+      "days": [
+        {
+          "day": 1,
+          "title": "Airport to Cultural Triangle via Dambulla",
+          "stops": [
+            "dambulla-cave-temple"
+          ],
+          "description": "Arrival at CMB airport. Transfer northeast to Dambulla Cave Temple to witness the monumental Buddhist rock sanctuaries. Check into a scenic eco-lodge in Sigiriya.",
+          "overnight": "Sigiriya"
+        },
+        {
+          "day": 2,
+          "title": "Sigiriya Lion Rock & Minneriya Elephant Safari",
+          "stops": [
+            "sigiriya-rock-fortress",
+            "minneriya-national-park"
+          ],
+          "description": "Dawn climb of King Kashyapa's 5th-century Sigiriya citadel. In the afternoon, embark on an open-top 4x4 safari in Minneriya National Park to witness hundreds of wild Asian elephants grazing around the historic reservoir.",
+          "overnight": "Sigiriya"
+        },
+        {
+          "day": 3,
+          "title": "Kandy Royal Heritage & Botanical Splendor",
+          "stops": [
+            "temple-of-the-tooth",
+            "peradeniya-botanical-gardens"
+          ],
+          "description": "Journey south to Kandy. Explore Peradeniya Royal Botanical Gardens followed by an evening visit to the sacred Temple of the Tooth Relic during ceremonial drumming.",
+          "overnight": "Kandy"
+        },
+        {
+          "day": 4,
+          "title": "The Famous Blue Train Journey to Ella",
+          "stops": [
+            "nine-arch-bridge",
+            "ella-town"
+          ],
+          "description": "Board the legendary blue train from Kandy/Nanu Oya to Ella, winding past cascading waterfalls, eucalyptus forests, and endless emerald tea estates. In the afternoon, hike to the iconic Nine Arch Bridge to watch the vintage train cross the viaduct.",
+          "overnight": "Ella"
+        },
+        {
+          "day": 5,
+          "title": "Little Adam's Peak & Ravana Falls to Southern Coast",
+          "stops": [
+            "little-adams-peak",
+            "ravana-falls",
+            "mirissa-beach"
+          ],
+          "description": "Morning sunrise hike up Little Adam's Peak. Stop at the roaring Ravana Falls before descending the southern mountain pass towards Mirissa and Weligama on the Indian Ocean coast.",
+          "overnight": "Mirissa or Weligama"
+        },
+        {
+          "day": 6,
+          "title": "Whale Watching, Coconut Tree Hill & Galle Fort",
+          "stops": [
+            "coconut-tree-hill",
+            "galle-fort"
+          ],
+          "description": "Early morning blue whale excursion (seasonal) or sunrise photos at Coconut Tree Hill. Afternoon walking tour of UNESCO Galle Fort, visiting the maritime museum, ramparts, and lighthouse.",
+          "overnight": "Galle"
+        },
+        {
+          "day": 7,
+          "title": "Coastal Route to Colombo & International Departure",
+          "stops": [
+            "galle-face-green",
+            "colombo-city"
+          ],
+          "description": "Drive up the southern coast to Colombo. Explore Pettah Floating Market or Dutch Hospital precinct for artisan gifts, followed by a final sunset tea before airport departure.",
+          "overnight": "Departure"
+        }
+      ]
+    },
+    {
+      "id": "10-day-island-explorer",
+      "slug": "10-day-island-explorer",
+      "title": "10-Day Complete Island Explorer: Ruins, Wildlife & Seascapes",
+      "duration": "10 Days / 9 Nights",
+      "durationDays": 10,
+      "tagline": "An in-depth expedition through ancient UNESCO cities, high-altitude cloud forests, leopard safaris, and pristine beaches.",
+      "idealFor": "Families, photographers, travelers wanting an unhurried, rich Sri Lankan adventure",
+      "startingPoint": "Negombo / CMB Airport",
+      "endingPoint": "Colombo / CMB Airport",
+      "transportRecommended": "Chauffeured vehicle + Scenic mountain train",
+      "heroImage": "img/galle.jpg",
+      "overview": "Combining three UNESCO World Heritage ancient kingdoms (Anuradhapura, Polonnaruwa, Sigiriya), the sacred cloud forests of Horton Plains, the leopard-rich dry zone of Yala National Park, and the golden shores of the South Coast.",
+      "days": [
+        {
+          "day": 1,
+          "title": "Arrival in Negombo & Coastal Lagoon",
+          "stops": [
+            "negombo-beach",
+            "negombo-lagoon"
+          ],
+          "description": "Relax after your international flight in the coastal town of Negombo. Watch traditional catamaran sailboats and visit the Dutch canal and busy fish markets.",
+          "overnight": "Negombo"
+        },
+        {
+          "day": 2,
+          "title": "Sacred City of Anuradhapura",
+          "stops": [
+            "anuradhapura-sacred-city",
+            "sri-maha-bodhi",
+            "ruwanwelisaya"
+          ],
+          "description": "Drive north to ancient Anuradhapura. Pay homage at the Jaya Sri Maha Bodhi, the oldest historically authenticated living tree in the world, and marvel at the colossal white dome of Ruwanwelisaya stupa.",
+          "overnight": "Anuradhapura"
+        },
+        {
+          "day": 3,
+          "title": "Mihintale Cradle of Buddhism & Sigiriya Base",
+          "stops": [
+            "mihintale",
+            "sigiriya-rock-fortress"
+          ],
+          "description": "Climb the ancient stone stairways of Mihintale, where Buddhism was first introduced to Sri Lanka in 247 BC. Proceed to Sigiriya for a sunset hike up Pidurangala Rock.",
+          "overnight": "Sigiriya"
+        },
+        {
+          "day": 4,
+          "title": "Sigiriya Lion Rock & Polonnaruwa Medieval Capital",
+          "stops": [
+            "sigiriya-rock-fortress",
+            "polonnaruwa-ancient-city",
+            "gal-vihara"
+          ],
+          "description": "Early climb of Sigiriya Fortress. In the afternoon, bicycle through the ruins of Polonnaruwa: King Parakramabahu's Royal Palace and the breathtaking colossal rock-carved Buddhas of Gal Vihara.",
+          "overnight": "Sigiriya / Habarana"
+        },
+        {
+          "day": 5,
+          "title": "Dambulla Caves & Hill Capital Kandy",
+          "stops": [
+            "dambulla-cave-temple",
+            "temple-of-the-tooth"
+          ],
+          "description": "Explore the painted sanctuaries of Dambulla Cave Temple. Continue up into Kandy to visit the Temple of the Tooth Relic and attend an authentic cultural drumming performance.",
+          "overnight": "Kandy"
+        },
+        {
+          "day": 6,
+          "title": "Highland Train & Little England (Nuwara Eliya)",
+          "stops": [
+            "peradeniya-botanical-gardens",
+            "pedro-tea-estate",
+            "nuwara-eliya-town"
+          ],
+          "description": "Stroll Peradeniya Gardens then drive or train past misty waterfalls to Nuwara Eliya. Sip high tea at the Grand Hotel and tour Pedro Tea Estate.",
+          "overnight": "Nuwara Eliya"
+        },
+        {
+          "day": 7,
+          "title": "World's End at Horton Plains & Scenic Ella",
+          "stops": [
+            "horton-plains-national-park",
+            "worlds-end",
+            "nine-arch-bridge"
+          ],
+          "description": "Dawn trek across the windswept moorlands of Horton Plains National Park to the 880-meter vertical sheer drop at World's End and Baker's Falls. Transfer to Ella to watch the sunset at Nine Arch Bridge.",
+          "overnight": "Ella"
+        },
+        {
+          "day": 8,
+          "title": "Diyaluma Falls & Yala Big Game Safari",
+          "stops": [
+            "diyaluma-falls",
+            "yala-national-park"
+          ],
+          "description": "Descend towards the southern plains, stopping at Sri Lanka's second highest waterfall, Diyaluma. Afternoon leopard and sloth bear safari in Yala National Park.",
+          "overnight": "Yala or Tissamaharama"
+        },
+        {
+          "day": 9,
+          "title": "Southern Surf Coast & Colonial Galle Fort",
+          "stops": [
+            "mirissa-beach",
+            "galle-fort"
+          ],
+          "description": "Drive westward along the turquoise coastline. Spot stilt fishermen in Koggala and spend the afternoon and evening exploring the cobbled alleys, cafes, and ramparts of Galle Fort.",
+          "overnight": "Galle"
+        },
+        {
+          "day": 10,
+          "title": "Colombo Cosmopolitan Highlights & Departure",
+          "stops": [
+            "gangaramaya-temple",
+            "galle-face-green"
+          ],
+          "description": "Return to Colombo via the highway. Last-minute Ceylon spice and handicraft shopping at Laksala, stroll Galle Face Green, and transfer to airport for departure.",
+          "overnight": "Departure"
+        }
+      ]
+    },
+    {
+      "id": "14-day-grand-island-tour",
+      "slug": "14-day-grand-island-tour",
+      "title": "14-Day Grand Island Tour: The Ultimate Sri Lankan Experience",
+      "duration": "14 Days / 13 Nights",
+      "durationDays": 14,
+      "tagline": "Two weeks spanning ancient cities, wild north-west, misty tea kingdoms, dual safaris, and tranquil southern shores.",
+      "idealFor": "Travelers seeking a fully immersive, deep-dive holiday across all major cultural and natural regions",
+      "startingPoint": "Colombo / CMB Airport",
+      "endingPoint": "Colombo / CMB Airport",
+      "transportRecommended": "Private AC Vehicle + Scenic Highland Train",
+      "heroImage": "img/Tourist_SriLanka.jpg",
+      "overview": "A comprehensive 14-day discovery encompassing Wilpattu's wilderness, the sacred cities of Anuradhapura and Polonnaruwa, the central highlands of Kandy, Nuwara Eliya, and Ella, wildlife safaris in both Minneriya and Yala, and relaxation along the idyllic southern beaches.",
+      "days": [
+        {
+          "day": 1,
+          "title": "Arrival & Historic Coastal Negombo",
+          "stops": [
+            "negombo-beach",
+            "muthurajawela-wetlands"
+          ],
+          "description": "Arrive at Bandaranaike International Airport and check into your coastal Negombo hotel. Take an afternoon boat safari through the Muthurajawela Marsh bird sanctuary.",
+          "overnight": "Negombo"
+        },
+        {
+          "day": 2,
+          "title": "Wilpattu National Park Wilderness",
+          "stops": [
+            "wilpattu-national-park"
+          ],
+          "description": "Drive north to Wilpattu, Sri Lanka's largest and oldest national park, famous for its natural sand-rimmed water basins (villus) and shy leopards.",
+          "overnight": "Wilpattu Border or Anuradhapura"
+        },
+        {
+          "day": 3,
+          "title": "Sacred Capital of Anuradhapura",
+          "stops": [
+            "anuradhapura-sacred-city",
+            "sri-maha-bodhi",
+            "jetavanaramaya"
+          ],
+          "description": "Full day dedicated to exploring the ancient royal monasteries, colossal stupas of Jetavanaramaya and Ruwanwelisaya, and the sacred Jaya Sri Maha Bodhi.",
+          "overnight": "Anuradhapura"
+        },
+        {
+          "day": 4,
+          "title": "Mihintale & Sigiriya Rock Citadel",
+          "stops": [
+            "mihintale",
+            "sigiriya-rock-fortress"
+          ],
+          "description": "Climb Mihintale rock monastery in the morning. In late afternoon, climb the world-famous UNESCO Sigiriya Lion Rock fortress.",
+          "overnight": "Sigiriya"
+        },
+        {
+          "day": 5,
+          "title": "Medieval Polonnaruwa & Minneriya Elephant Gathering",
+          "stops": [
+            "polonnaruwa-ancient-city",
+            "gal-vihara",
+            "minneriya-national-park"
+          ],
+          "description": "Cycle among the ancient stone palaces and Gal Vihara shrines of Polonnaruwa. Afternoon jeep safari in Minneriya to see large elephant herds.",
+          "overnight": "Sigiriya"
+        },
+        {
+          "day": 6,
+          "title": "Dambulla Caves & Hill Capital Kandy",
+          "stops": [
+            "dambulla-cave-temple",
+            "temple-of-the-tooth"
+          ],
+          "description": "Visit Dambulla Golden Rock Temple. Drive to Kandy through spice plantations. Evening ceremony at the Temple of the Sacred Tooth Relic.",
+          "overnight": "Kandy"
+        },
+        {
+          "day": 7,
+          "title": "Peradeniya Botanical Gardens & Knuckles Foothills",
+          "stops": [
+            "peradeniya-botanical-gardens",
+            "kandy-lake"
+          ],
+          "description": "Explore the royal botanical gardens of Peradeniya, walk around Kandy Lake, and take an optional afternoon excursion towards the Knuckles foothills.",
+          "overnight": "Kandy"
+        },
+        {
+          "day": 8,
+          "title": "Highland Tea Country & Nuwara Eliya",
+          "stops": [
+            "pedro-tea-estate",
+            "nuwara-eliya-town",
+            "gregory-lake"
+          ],
+          "description": "Scenic drive into the central highlands past Ramboda Falls. Tour tea factories, walk Nuwara Eliya's colonial Victoria Park and boat on Gregory Lake.",
+          "overnight": "Nuwara Eliya"
+        },
+        {
+          "day": 9,
+          "title": "Horton Plains World's End & Train to Ella",
+          "stops": [
+            "horton-plains-national-park",
+            "worlds-end",
+            "nine-arch-bridge"
+          ],
+          "description": "Early morning cloud forest hike at World's End. Catch the world-famous train to Ella and walk to the Nine Arch Bridge.",
+          "overnight": "Ella"
+        },
+        {
+          "day": 10,
+          "title": "Little Adam's Peak & Ravana Falls to Yala",
+          "stops": [
+            "little-adams-peak",
+            "ravana-falls",
+            "yala-national-park"
+          ],
+          "description": "Sunrise hike to Little Adam's Peak. Descend to the southern plains past Ravana Falls and arrive at Yala for evening wildlife briefing.",
+          "overnight": "Yala"
+        },
+        {
+          "day": 11,
+          "title": "Yala Full Leopard Safari & Bundala Birdlife",
+          "stops": [
+            "yala-national-park",
+            "bundala-national-park"
+          ],
+          "description": "Dawn game drive in Yala Block 1 for leopards, elephants, and sloth bears. Afternoon birdwatching at Bundala Ramsar wetland sanctuary.",
+          "overnight": "Yala / Tissamaharama"
+        },
+        {
+          "day": 12,
+          "title": "South Coast Beaches: Tangalle to Mirissa",
+          "stops": [
+            "tangalle-beach",
+            "hiriketiya-beach",
+            "mirissa-beach"
+          ],
+          "description": "Drive west along the palm-fringed coast. Swim at horseshoe-shaped Hiriketiya bay, watch surfers, and relax at Mirissa Beach for sunset seafood dinners.",
+          "overnight": "Mirissa"
+        },
+        {
+          "day": 13,
+          "title": "Galle Fort UNESCO World Heritage Exploration",
+          "stops": [
+            "galle-fort",
+            "unawatuna-beach"
+          ],
+          "description": "Explore the cobbled lanes of 400-year-old Galle Fort: Dutch hospital, maritime archaeology museum, lighthouse, and artisan jewelers.",
+          "overnight": "Galle"
+        },
+        {
+          "day": 14,
+          "title": "Colombo City Tour & Airport Departure",
+          "stops": [
+            "gangaramaya-temple",
+            "independence-square",
+            "galle-face-green"
+          ],
+          "description": "Return to Colombo. Tour Independence Square, Gangaramaya Temple, and enjoy street food at Galle Face Green before transfer to CMB Airport.",
+          "overnight": "Departure"
+        }
+      ]
+    },
+    {
+      "id": "21-day-complete-odyssey",
+      "slug": "21-day-complete-sri-lanka-odyssey",
+      "title": "21-Day Complete Sri Lanka Odyssey: All Nine Provinces",
+      "duration": "21 Days / 20 Nights",
+      "durationDays": 21,
+      "tagline": "The ultimate grand journey traversing all nine provinces, the northern islands, eastern surf bays, central mountains, and ancient cities.",
+      "idealFor": "Slow travelers, retirees, sabbatical explorers wanting to see every facet of Sri Lanka",
+      "startingPoint": "Colombo / CMB Airport",
+      "endingPoint": "Colombo / CMB Airport",
+      "transportRecommended": "Chauffeured car + domestic train connections",
+      "heroImage": "img/slider1.jpg",
+      "overview": "The definitive expedition covering all 9 provinces: Western, North Western, Northern (Jaffna & Mannar), North Central, Eastern (Trincomalee & Arugam Bay), Central, Uva, Sabaragamuwa, and Southern. Unlocks the true geographical diversity of Sri Lanka.",
+      "days": [
+        {
+          "day": 1,
+          "title": "Western Province: Colombo & Kelaniya",
+          "stops": [
+            "colombo-city",
+            "gangaramaya-temple",
+            "galle-face-green"
+          ],
+          "description": "Begin in the commercial capital. Explore Colombo's historic Fort district, Pettah markets, and Gangaramaya temple.",
+          "overnight": "Colombo"
+        },
+        {
+          "day": 2,
+          "title": "North Western: Negombo, Munneswaram & Kalpitiya",
+          "stops": [
+            "munneswaram-temple",
+            "kalpitiya-peninsula"
+          ],
+          "description": "Travel north through Puttalam district. Visit ancient Munneswaram Kovil and reach Kalpitiya peninsula for dolphin watching and kite surfing.",
+          "overnight": "Kalpitiya"
+        },
+        {
+          "day": 3,
+          "title": "Wilpattu Wilderness to Mannar Island",
+          "stops": [
+            "wilpattu-national-park",
+            "mannar-island",
+            "talaimannar-lighthouse"
+          ],
+          "description": "Explore Wilpattu, then cross the causeway to historic Mannar Island. Inspect the ancient Baobab tree and the ruins of Talaimannar Pier facing India.",
+          "overnight": "Mannar"
+        },
+        {
+          "day": 4,
+          "title": "Northern Province: Elephant Pass to Jaffna Peninsula",
+          "stops": [
+            "elephant-pass",
+            "jaffna-fort",
+            "jaffna-library"
+          ],
+          "description": "Cross the historic Elephant Pass isthmus into Jaffna peninsula. Walk Jaffna Dutch Fort and admire the restored Jaffna Public Library.",
+          "overnight": "Jaffna"
+        },
+        {
+          "day": 5,
+          "title": "Islands of the North: Delft Island & Nagadeepa",
+          "stops": [
+            "delft-island",
+            "nallur-kandaswamy-temple"
+          ],
+          "description": "Take the morning naval ferry to Delft Island to see wild horses, coral walls, and baobabs. Evening pooja ceremony at Nallur Kandaswamy Kovil.",
+          "overnight": "Jaffna"
+        },
+        {
+          "day": 6,
+          "title": "Point Pedro & Northern Coast to Anuradhapura",
+          "stops": [
+            "point-pedro",
+            "keerimalai-springs",
+            "anuradhapura-sacred-city"
+          ],
+          "description": "Stand at Point Pedro, the northernmost point of Sri Lanka. Bathe at sacred Keerimalai Springs, then drive south to Anuradhapura.",
+          "overnight": "Anuradhapura"
+        },
+        {
+          "day": 7,
+          "title": "North Central: Anuradhapura Ancient Capital",
+          "stops": [
+            "anuradhapura-sacred-city",
+            "sri-maha-bodhi",
+            "ruwanwelisaya",
+            "twin-ponds"
+          ],
+          "description": "Spend the full day exploring the oldest historical capital: Ruwanwelisaya, Twin Ponds (Kuttam Pokuna), and the sacred Bodhi tree.",
+          "overnight": "Anuradhapura"
+        },
+        {
+          "day": 8,
+          "title": "Mihintale & Ritigala Forest Monastery",
+          "stops": [
+            "mihintale",
+            "ritigala-forest-monastery"
+          ],
+          "description": "Visit Mihintale cradle of Buddhism and hike into the strict nature reserve of Ritigala Forest Monastery.",
+          "overnight": "Sigiriya / Habarana"
+        },
+        {
+          "day": 9,
+          "title": "Sigiriya Lion Rock & Polonnaruwa Ruins",
+          "stops": [
+            "sigiriya-rock-fortress",
+            "polonnaruwa-ancient-city",
+            "gal-vihara"
+          ],
+          "description": "Climb Sigiriya fortress at dawn. Tour Polonnaruwa's Gal Vihara, Parakrama Samudraya, and Lotus Pond in the afternoon.",
+          "overnight": "Sigiriya"
+        },
+        {
+          "day": 10,
+          "title": "Eastern Province: Trincomalee & Koneswaram",
+          "stops": [
+            "koneswaram-temple",
+            "fort-frederick",
+            "nilaveli-beach"
+          ],
+          "description": "Drive east to Trincomalee. Visit the clifftop Swami Rock Koneswaram Temple and relax on the white sands of Nilaveli Beach.",
+          "overnight": "Nilaveli / Trincomalee"
+        },
+        {
+          "day": 11,
+          "title": "Pigeon Island Marine Park to Pasikudah",
+          "stops": [
+            "pigeon-island-national-park",
+            "pasikudah-beach"
+          ],
+          "description": "Snorkel with blacktip reef sharks and sea turtles at Pigeon Island. Travel south along the east coast to the shallow bay of Pasikudah.",
+          "overnight": "Pasikudah"
+        },
+        {
+          "day": 12,
+          "title": "Batticaloa Lagoon to Arugam Bay",
+          "stops": [
+            "batticaloa-lagoon",
+            "kallady-bridge",
+            "arugam-bay"
+          ],
+          "description": "Visit Batticaloa Fort and the singing fish lagoon. Continue south to world-famous surf haven Arugam Bay.",
+          "overnight": "Arugam Bay"
+        },
+        {
+          "day": 13,
+          "title": "Arugam Bay Surf & Kudumbigala Monastery",
+          "stops": [
+            "arugam-bay",
+            "kudumbigala-monastery",
+            "whiskey-point"
+          ],
+          "description": "Morning surf session or beach relaxation. Climb the remote rock monastery of Kudumbigala overlooking the Yala East wilderness.",
+          "overnight": "Arugam Bay"
+        },
+        {
+          "day": 14,
+          "title": "Central Highlands: Kandy & Dambulla Caves",
+          "stops": [
+            "dambulla-cave-temple",
+            "temple-of-the-tooth"
+          ],
+          "description": "Ascend inland via Mahiyangana to Kandy. Visit Dambulla Caves along the route and attend the evening ceremony at Temple of the Tooth.",
+          "overnight": "Kandy"
+        },
+        {
+          "day": 15,
+          "title": "Knuckles Mountain Range Trekking",
+          "stops": [
+            "knuckles-mountain-range"
+          ],
+          "description": "Trek through the misty cloud forests, pygmy trees, and cascading hidden waterfalls of the Knuckles Conservation Forest.",
+          "overnight": "Kandy / Knuckles"
+        },
+        {
+          "day": 16,
+          "title": "Highland Tea Country & Nuwara Eliya",
+          "stops": [
+            "nuwara-eliya-town",
+            "pedro-tea-estate",
+            "horton-plains-national-park"
+          ],
+          "description": "Drive past tea plantations into Nuwara Eliya. Walk the colonial town and prepare for the highland plateau trek.",
+          "overnight": "Nuwara Eliya"
+        },
+        {
+          "day": 17,
+          "title": "World's End Trek & Scenic Train to Ella (Uva Province)",
+          "stops": [
+            "worlds-end",
+            "nine-arch-bridge",
+            "ella-rock"
+          ],
+          "description": "Hike Horton Plains World's End at sunrise. Ride the scenic train to Ella in Uva Province and photograph the Nine Arch Bridge.",
+          "overnight": "Ella"
+        },
+        {
+          "day": 18,
+          "title": "Sabaragamuwa Province: Udawalawe Safari & Gem Country",
+          "stops": [
+            "diyaluma-falls",
+            "udawalawe-national-park",
+            "ratnapura-gem-museum"
+          ],
+          "description": "Swim at Diyaluma Falls upper pools. Safari in Udawalawe National Park to see hundreds of elephants, then explore Ratnapura gem mines.",
+          "overnight": "Ratnapura or Udawalawe"
+        },
+        {
+          "day": 19,
+          "title": "Sinharaja Rainforest UNESCO Biosphere",
+          "stops": [
+            "sinharaja-forest-reserve"
+          ],
+          "description": "Guided trek into the virgin primary tropical rainforest of Sinharaja, spotting endemic birds, purple-faced langurs, and rare flora.",
+          "overnight": "Sinharaja Eco-Lodge"
+        },
+        {
+          "day": 20,
+          "title": "Southern Province: Mirissa to Galle Fort",
+          "stops": [
+            "mirissa-beach",
+            "coconut-tree-hill",
+            "galle-fort"
+          ],
+          "description": "Head down to Mirissa and Coconut Tree Hill. Spend the afternoon strolling along the 17th-century ramparts of UNESCO Galle Fort.",
+          "overnight": "Galle"
+        },
+        {
+          "day": 21,
+          "title": "Coastal Route to Colombo & Grand Finale Departure",
+          "stops": [
+            "galle-face-green",
+            "colombo-city"
+          ],
+          "description": "Scenic return drive along the western shoreline to Colombo. Final celebratory dinner and transfer to CMB airport for departure.",
+          "overnight": "Departure"
+        }
+      ]
+    }
+  ],
+  "themedItineraries": [
+    {
+      "id": "cultural-triangle-circuit",
+      "slug": "cultural-triangle-circuit",
+      "title": "The Cultural Triangle Circuit",
+      "theme": "Heritage & Ancient Civilizations",
+      "badge": "UNESCO Heritage",
+      "duration": "6 Days",
+      "durationDays": 6,
+      "tagline": "A spiritual and archaeological odyssey through Sri Lanka's 2,500-year-old royal kingdoms.",
+      "heroImage": "https://images.unsplash.com/photo-1588598198321-9735fd52455b?auto=format&fit=crop&w=1400&q=80",
+      "overview": "Walk in the footsteps of ancient Sinhalese monarchs across five UNESCO World Heritage sites: Anuradhapura, Polonnaruwa, Sigiriya, Dambulla, and Kandy.",
+      "keyHighlights": [
+        "Sigiriya Lion Rock Fortress",
+        "Gal Vihara colossal granite statues",
+        "Ruwanwelisaya stupa & sacred Bodhi tree",
+        "Dambulla painted cave temples",
+        "Kandy Temple of the Tooth Relic"
+      ]
+    },
+    {
+      "id": "southern-coast-surf-trail",
+      "slug": "southern-coast-surf-trail",
+      "title": "The Southern Coastline & Surf Trail",
+      "theme": "Beaches, Surf & Coastal Living",
+      "badge": "Ocean & Sun",
+      "duration": "7 Days",
+      "durationDays": 7,
+      "tagline": "Golden sand coves, world-class point breaks, vibrant beach clubs, and UNESCO colonial ramparts.",
+      "heroImage": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1400&q=80",
+      "overview": "From the cobblestone streets of Galle Fort to the surf breaks of Weligama and the laid-back bohemian vibe of Hiriketiya, this coastal trail captures the best of the southern shoreline.",
+      "keyHighlights": [
+        "Galle Fort ramparts & cafes",
+        "Weligama beginner-friendly surf",
+        "Mirissa whale watching & Coconut Tree Hill",
+        "Hiriketiya horseshoe cove",
+        "Tangalle quiet palm-fringed bays"
+      ]
+    },
+    {
+      "id": "mist-tea-hill-country",
+      "slug": "mist-tea-hill-country",
+      "title": "The Mist & Tea Hill Country Journey",
+      "theme": "Highlands, Waterfalls & Scenic Railways",
+      "badge": "Highland Peaks",
+      "duration": "5 Days",
+      "durationDays": 5,
+      "tagline": "Misty mountain passes, cascading waterfalls, colonial tea plantations, and scenic train rides.",
+      "heroImage": "https://images.unsplash.com/photo-1546708973-b339540b5162?auto=format&fit=crop&w=1400&q=80",
+      "overview": "Escape into the cool, emerald embrace of the central highlands. Ride the world's most scenic train, sip freshly brewed single-estate Ceylon tea, and gaze across sheer precipices into southern plains.",
+      "keyHighlights": [
+        "Kandy to Ella scenic blue train",
+        "Nine Arch Bridge viaduct",
+        "World's End at Horton Plains",
+        "Pedro Tea Estate tasting tour",
+        "Little Adam's Peak & Ella Rock hiking"
+      ]
+    },
+    {
+      "id": "wildlife-safari-expedition",
+      "slug": "wildlife-safari-expedition",
+      "title": "The Great Wildlife Safari Expedition",
+      "theme": "Wildlife, National Parks & Birdwatching",
+      "badge": "Wild Sri Lanka",
+      "duration": "8 Days",
+      "durationDays": 8,
+      "tagline": "Spot leopards, Asian elephants, sloth bears, blue whales, and hundreds of rare bird species.",
+      "heroImage": "https://images.unsplash.com/photo-1578637387939-43c525550085?auto=format&fit=crop&w=1400&q=80",
+      "overview": "Sri Lanka possesses one of the highest densities of leopards and elephants in Asia. This dedicated wildlife expedition journeys through Wilpattu, Minneriya, Yala, Bundala, and Udawalawe.",
+      "keyHighlights": [
+        "Yala leopard and sloth bear game drives",
+        "Minneriya / Kaudulla elephant gathering",
+        "Wilpattu natural lake safari",
+        "Bundala UNESCO Ramsar wetland birding",
+        "Udawalawe elephant transit home"
+      ]
+    },
+    {
+      "id": "northern-heritage-islands",
+      "slug": "northern-heritage-islands",
+      "title": "The Northern Heritage & Islands Discovery",
+      "theme": "Tamil Culture, Isolated Islands & Sacred Sites",
+      "badge": "Northern Frontier",
+      "duration": "6 Days",
+      "durationDays": 6,
+      "tagline": "A unique cultural and geographical journey into Sri Lanka's vibrant Tamil heartland.",
+      "heroImage": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1400&q=80",
+      "overview": "Venture off the beaten track to discover the distinct food, ornate Hindu kovils, island ferries, and poignant historical landmarks of Jaffna, Mannar, and the northern peninsula.",
+      "keyHighlights": [
+        "Nallur Kandaswamy Kovil ceremonies",
+        "Ferry to wild horse haven Delft Island",
+        "Point Pedro northernmost tip",
+        "Mannar Baobab tree & Adam's Bridge viewpoints",
+        "Jaffna crab curry & mango feasts"
+      ]
+    },
+    {
+      "id": "eastern-sunrise-surf-haven",
+      "slug": "eastern-sunrise-surf-haven",
+      "title": "The Eastern Sunrise & Surf Haven",
+      "theme": "East Coast Beaches, Marine Life & Point Breaks",
+      "badge": "Eastern Shores",
+      "duration": "7 Days",
+      "durationDays": 7,
+      "tagline": "Pristine white sands, world-class right-hand surf breaks, and coral reef diving.",
+      "heroImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1400&q=80",
+      "overview": "While the southwest experiences monsoon, the eastern coast basks in brilliant sunshine. Discover the deep natural harbor and clifftop temples of Trincomalee, calm waters of Pasikudah, and legendary waves of Arugam Bay.",
+      "keyHighlights": [
+        "Arugam Bay world-tour surf breaks",
+        "Pigeon Island coral reef snorkeling",
+        "Koneswaram Swami Rock temple",
+        "Pasikudah shallow turquoise lagoon",
+        "Whiskey Point and Peanut Farm secret beaches"
+      ]
+    },
+    {
+      "id": "sacred-waterfalls-peak-pilgrimage",
+      "slug": "sacred-waterfalls-peak-pilgrimage",
+      "title": "The Sacred Waterfalls & Peak Pilgrimage",
+      "theme": "Sacred Mountains, Waterfalls & High Country Trails",
+      "badge": "Peak & Cascade",
+      "duration": "6 Days",
+      "durationDays": 6,
+      "tagline": "Trek sacred mountain trails, misty cloud forests, and Sri Lanka's tallest cascading waterfalls.",
+      "heroImage": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&w=1400&q=80",
+      "overview": "Ascend Sri Pada (Adam's Peak) through the night to witness the sacred sunrise shadow, and bathe in natural rock pools beneath roaring highland cascades like Diyaluma, Bambarakanda, and Ramboda.",
+      "keyHighlights": [
+        "Adam's Peak (Sri Pada) sunrise pilgrimage",
+        "Bambarakanda Falls (highest waterfall in Sri Lanka)",
+        "Diyaluma Falls upper natural plunge pools",
+        "St. Clair's & Devon twin tea waterfalls",
+        "Kitulgala white water rafting on Kelani River"
+      ]
+    },
+    {
+      "id": "ancient-kingdoms-royal-fortresses",
+      "slug": "ancient-kingdoms-royal-fortresses",
+      "title": "Ancient Kingdoms & Royal Fortresses",
+      "theme": "Medieval Fortresses, Monastic Citadels & Architecture",
+      "badge": "Royal Kingdoms",
+      "duration": "6 Days",
+      "durationDays": 6,
+      "tagline": "Explore impregnable granite strongholds, royal palaces, and ancient hydraulic marvels.",
+      "heroImage": "https://images.unsplash.com/photo-1588598198321-9735fd52455b?auto=format&fit=crop&w=1400&q=80",
+      "overview": "A specialized architectural and archaeological route visiting Yapahuwa's dramatic staircase, the citadel of Panduwasnuwara, Sigiriya's sky palace, and the royal citadel of Polonnaruwa.",
+      "keyHighlights": [
+        "Yapahuwa rock fortress ceremonial stairway",
+        "Panduwasnuwara ancient moat and palace",
+        "Sigiriya sky palace and water gardens",
+        "Parakrama Samudraya inland sea",
+        "Dambadeniya royal rock kingdom"
+      ]
+    }
+  ]
+}

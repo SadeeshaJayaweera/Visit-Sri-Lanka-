@@ -1,0 +1,1457 @@
+[
+  {
+    "id": "nine-arch-bridge",
+    "name": "Demodara Nine Arch Bridge (Bridge in the Sky)",
+    "slug": "nine-arch-bridge",
+    "districtId": "badulla",
+    "provinceId": "uva-province",
+    "category": "scenic-trains",
+    "categories": [
+      "scenic-trains",
+      "historical-sites",
+      "viewpoints",
+      "photography",
+      "mountains"
+    ],
+    "shortDescription": "The world-famous colonial railway viaduct hidden in a lush jungle valley near Ella, built entirely of stone, brick, and cement with zero steel during World War I.",
+    "fullDescription": "Hidden in a lush tropical valley flanked by emerald tea bushes and banana groves between the Ella and Demodara railway stations, the Demodara Nine Arch Bridge (known locally as Ahas Namaye Palama or 'Bridge in the Sky') is one of Sri Lanka's most globally celebrated travel icons. Commissioned in 1921 during the British colonial expansion of the Ceylon Government Railway, the 91-meter-long (300 feet), 24-meter-high viaduct was constructed entirely of hand-cut granite stone blocks, brick masonry, and cement—without utilizing a single piece of structural steel, as steel supplies were diverted to Europe for World War I. Local Ceylonese builder P.K. Appuhami famously contributed his engineering ingenuity to complete the arches. Today, travelers from across the world gather along the tea slopes and hillside cafes to witness the unforgettable spectacle of the iconic blue or red highland passenger train slowly rumbling across the towering arches amidst billowing plumes of mountain mist.",
+    "historicalBackground": "Built between 1913 and 1921 under British railway engineers and local builder P.K. Appuhami; completed without steel during WWI.",
+    "naturalCharacteristics": "Deep montane ravine surrounded by dense tropical foliage, bamboo stands, and rolling tea terraces.",
+    "specialFeatures": "Nine towering stone and brick arches, zero steel construction, 24-meter height, and panoramic hillside tea cafes.",
+    "reasonsToVisit": [
+      "Witness the iconic blue train slowly crossing the curved colonial stone viaduct",
+      "Admire a century-old marvel of masonry engineering constructed entirely without structural steel",
+      "Sip fresh Ceylon tea or a cold drink at hillside cafes overlooking the viaduct",
+      "Walk safely along the historic railway tracks between passing trains for stunning photo angles"
+    ],
+    "activities": [
+      "Train-spotting and railway photography",
+      "Walking along the railway tracks (between train schedules)",
+      "Hiking tea estate trails from Ella town",
+      "Relaxing at hillside viewpoint cafes"
+    ],
+    "bestTimeToVisit": "Year-round; plan visits around scheduled train crossing times (approx. 06:30, 09:15, 11:30, 15:30, 17:30 - verify daily railway schedules locally).",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "Free public access; walking trail through tea estates.",
+    "openingHours": "Open 24 hours (best visited in daylight from 06:00 - 18:00).",
+    "accessibilityInformation": "Requires a 15-20 minute walk down uneven dirt paths and stone steps through tea fields from the roadside; not wheelchair accessible.",
+    "safetyInformation": "Listen attentively for train horns and step well off the tracks onto the grassy shoulders well before approaching trains; do not stand on the outer edges of the bridge without railings.",
+    "travelTips": {
+      "whatToBring": "Comfortable walking shoes with good grip, camera, rain jacket/umbrella, water.",
+      "clothing": "Casual hiking clothes.",
+      "photographyTips": "Position yourself on the northern tea slope overlooking the bridge to capture the train rounding the curve with the jungle valley below.",
+      "localCustoms": "Wave warmly to train passengers as they lean out of the open carriage doorways.",
+      "environmentalGuidelines": "Strict zero-litter policy; take all plastic bottles and wrappers back to town."
+    },
+    "latitude": 6.8767,
+    "longitude": 81.0608,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/nine-arch-bridge.jpg",
+        "caption": "Demodara Nine Arch Bridge (Bridge in the Sky) - Primary Vista",
+        "altText": "Demodara Nine Arch Bridge (Bridge in the Sky), Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/badulla.jpg",
+        "caption": "Badulla District Landscape",
+        "altText": "Badulla District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/uva-province.jpg",
+        "caption": "Uva Province Regional Panorama",
+        "altText": "Uva Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Railways",
+        "sourceUrl": "http://www.railway.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      },
+      {
+        "sourceName": "Sri Lanka Tourism Development Authority",
+        "sourceUrl": "https://www.sltda.gov.lk",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "little-adams-peak",
+      "ella-rock",
+      "ravana-falls",
+      "demodara-railway-loop"
+    ]
+  },
+  {
+    "id": "little-adams-peak",
+    "name": "Little Adam's Peak (Punchi Sri Pada)",
+    "slug": "little-adams-peak",
+    "districtId": "badulla",
+    "provinceId": "uva-province",
+    "category": "hiking-trekking",
+    "categories": [
+      "hiking-trekking",
+      "mountains",
+      "viewpoints",
+      "tea-plantations",
+      "photography"
+    ],
+    "shortDescription": "An accessible, highly rewarding 45-minute mountain hike through lush tea estates, terminating at a series of panoramic ridgeline peaks overlooking Ella Gap.",
+    "fullDescription": "Named after the sacred mountain of Adam's Peak (Sri Pada) due to the similar triangular shape of its pyramid summit, Little Adam's Peak (known locally as Punchi Sri Pada) is one of Sri Lanka's most popular and accessible mountain walks. Located just 2 kilometers east of Ella town, the trail begins as a gentle, scenic stroll through manicured emerald green tea estates where tea pluckers in colorful saris harvest tea leaves. The final ascent climbs a well-constructed flight of 350 stone steps to reach the first summit at an elevation of 1,141 meters. A walking trail continues along a knife-edge grassy ridge connecting three distinct viewing summits, rewarding hikers with spectacular, unobstructed 360-degree panoramas of Ella Rock, Ravana Falls, the deep precipice of the Ella Gap plunging toward the southern plains, and the sprawling Ravana Pool Club below.",
+    "historicalBackground": "Named by British colonists for its visual resemblance to the sacred summit of Adam's Peak (Sri Pada).",
+    "naturalCharacteristics": "Pyramid-shaped montane ridge covered in tea bushes, wild grasses (patana), and pine groves.",
+    "specialFeatures": "Easily accessible summit hike (45 mins), ridgeline walk with 360-degree vistas across Ella Gap, and the Flying Ravana Mega Zipline.",
+    "reasonsToVisit": [
+      "Enjoy one of the most rewarding and accessible mountain ridge hikes in Sri Lanka",
+      "Witness mesmerizing sunrise and sunset colors illuminating the sheer cliff of Ella Rock",
+      "Take an exhilarating ride on the Flying Ravana Mega Zipline across the tea valley",
+      "Walk along scenic narrow grassy ridges with jaw-dropping views plunging thousands of feet below"
+    ],
+    "activities": [
+      "Sunrise and sunset hiking",
+      "Flying Ravana ziplining",
+      "Panoramic mountain photography",
+      "Tea estate walking"
+    ],
+    "bestTimeToVisit": "Sunrise (start hike by 05:30 to catch the first light) or late afternoon (start by 16:30 for golden sunset hour); December to April.",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "Free public access to the hiking trail.",
+    "openingHours": "Open 24 hours.",
+    "accessibilityInformation": "First section is a wide, gentle gravel road; final section has 350 paved stone steps; easily manageable for children and beginners.",
+    "safetyInformation": "Stay on the central path along the narrow ridgeline summits; hold children's hands as there are steep drops on both sides.",
+    "travelTips": {
+      "whatToBring": "Sturdy walking shoes, water bottle, camera, light jacket for sunrise chills.",
+      "clothing": "Comfortable athletic or hiking clothing.",
+      "photographyTips": "Photograph the dramatic silhouette of Ella Rock across the valley as the morning sun casts long shadows over the gap.",
+      "localCustoms": "Relaxed and friendly international hiker community.",
+      "environmentalGuidelines": "Strict zero-litter policy; carry all water bottles and snack wrappers back down."
+    },
+    "latitude": 6.8667,
+    "longitude": 81.0583,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/little-adams-peak.jpg",
+        "caption": "Little Adam's Peak (Punchi Sri Pada) - Primary Vista",
+        "altText": "Little Adam's Peak (Punchi Sri Pada), Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/badulla.jpg",
+        "caption": "Badulla District Landscape",
+        "altText": "Badulla District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/uva-province.jpg",
+        "caption": "Uva Province Regional Panorama",
+        "altText": "Uva Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Promotion Bureau",
+        "sourceUrl": "https://srilanka.travel",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "nine-arch-bridge",
+      "ella-rock",
+      "ravana-falls"
+    ]
+  },
+  {
+    "id": "ella-rock",
+    "name": "Ella Rock Summit Trek & Ella Gap",
+    "slug": "ella-rock",
+    "districtId": "badulla",
+    "provinceId": "uva-province",
+    "category": "hiking-trekking",
+    "categories": [
+      "hiking-trekking",
+      "mountains",
+      "viewpoints",
+      "adventure",
+      "photography"
+    ],
+    "shortDescription": "The ultimate hiking challenge in Ella, a rewarding 4-hour trek along active railway tracks, through rubber and eucalyptus forests, to a dizzying 1,000m sheer cliff precipice.",
+    "fullDescription": "Looming with dramatic, imposing majesty on the southern side of the Ella Gap, Ella Rock is the undisputed king of trekking trails in the Uva highlands. Reaching the summit requires an adventurous, scenic 4-hour round-trip trek (approx. 8 to 10 kilometers) starting along the active railway tracks from Ella railway station. Hikers cross a picturesque metal railway bridge over a roaring mountain stream, navigate winding trails through village gardens, tea plantations, and tall eucalyptus forests, before conquering a steep, root-strewn dirt scramble to the summit plateau. Perched at an elevation of 1,350 meters above sea level, the cliff-top precipice of Ella Rock plunges over 1,000 meters straight down into the Ella Gap, offering staggering, dizzying panoramas across the southern plains, Little Adam's Peak, and distant tea highlands.",
+    "historicalBackground": "A historic natural cliff lookout commanding the ancient southern trade route between the highlands and Ruhuna.",
+    "naturalCharacteristics": "Massive granite cliff precipice rising 1,350m elevation with eucalyptus forests, scrub grasslands, and montane tea fields.",
+    "specialFeatures": "Dizzying 1,000-meter sheer cliff drop-off, railway track trek segment, and 360-degree viewpoint plateau.",
+    "reasonsToVisit": [
+      "Stand on the thrilling, sheer cliff edge of Ella Rock looking 1,000 meters down into the Ella Gap",
+      "Experience a classic Sri Lankan adventure hiking along railway tracks, across bridges, and through pine forests",
+      "Enjoy breathtaking, unobstructed views of Little Adam's Peak and the southern ocean horizon",
+      "Conquer Ella's most famous and physically rewarding hiking summit"
+    ],
+    "activities": [
+      "Challenging mountain trekking",
+      "Cliff edge landscape photography",
+      "Railway walking segment",
+      "Picnicking on the summit plateau"
+    ],
+    "bestTimeToVisit": "Early morning start (06:00 - 07:00) is strongly recommended to summit before midday heat and afternoon cloud cover roll in.",
+    "visitingDuration": "4 - 5 Hours (Round Trip)",
+    "entranceInformation": "Nominal viewpoint maintenance ticket: approx. LKR 1,000 at the summit checkpoint.",
+    "openingHours": "Open daylight hours (06:00 - 18:00).",
+    "accessibilityInformation": "Strenuous hike with steep, slippery root-strewn climbs and uneven rock paths; requires good physical fitness; not wheelchair accessible.",
+    "safetyInformation": "Trail markings can be confusing with misleading paths; use GPS mapping (like Maps.me/Google Maps) or hire a local guide; keep well back from sheer unfenced cliff edges.",
+    "travelTips": {
+      "whatToBring": "Sturdy hiking shoes with good tread, at least 1.5 liters of drinking water, snacks, sun hat, camera, phone with offline GPS map.",
+      "clothing": "Breathable trekking pants or shorts and athletic t-shirt; light windbreaker.",
+      "photographyTips": "Shoot from the rocky outcrop slightly to the right of the main summit to capture a hiker sitting on the cliff edge with the infinite valley below.",
+      "localCustoms": "Politely decline unauthorized trail 'helpers' asking for money, or agree on a clear fee upfront with a genuine licensed local guide.",
+      "environmentalGuidelines": "Strict Leave No Trace policy; carry all plastic and waste back down to Ella town."
+    },
+    "latitude": 6.855,
+    "longitude": 81.045,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/ella-rock.jpg",
+        "caption": "Ella Rock Summit Trek & Ella Gap - Primary Vista",
+        "altText": "Ella Rock Summit Trek & Ella Gap, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/badulla.jpg",
+        "caption": "Badulla District Landscape",
+        "altText": "Badulla District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/uva-province.jpg",
+        "caption": "Uva Province Regional Panorama",
+        "altText": "Uva Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Development Authority",
+        "sourceUrl": "https://www.sltda.gov.lk",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "little-adams-peak",
+      "nine-arch-bridge",
+      "ravana-falls"
+    ]
+  },
+  {
+    "id": "ravana-falls",
+    "name": "Ravana Falls & Ravana Cave",
+    "slug": "ravana-falls",
+    "districtId": "badulla",
+    "provinceId": "uva-province",
+    "category": "waterfalls",
+    "categories": [
+      "waterfalls",
+      "caves",
+      "historical-sites",
+      "mountains",
+      "photography"
+    ],
+    "shortDescription": "A spectacular 25-meter tiered roadside waterfall cascading over oval-shaped concave rock ledges, steeped in the ancient Ramayana legend of King Ravana and Sita.",
+    "fullDescription": "Tumbling dramatically down a concave rock amphitheater along the scenic Ella–Wellawaya mountain road (A23), Ravana Falls (Ravana Ella) is one of Sri Lanka's most popular and accessible waterfalls. Plunging approximately 25 meters (82 feet) in multiple cascading tiers, the waterfall is fed by the Kirindi Oya flowing down the Ella valley. The falls are steeped in the ancient Ramayana epic: according to legend, the 10-headed King Ravana of Lanka kidnapped Princess Sita from India and concealed her in the subterranean caverns of the nearby Ravana Cave behind the curtain of rushing water. Today, travelers stop at the roadside viewing bridge to admire the thunderous white cascades, watch troops of playful toque macaque monkeys in surrounding trees, and purchase fresh tropical fruit from local stalls.",
+    "historicalBackground": "Deeply connected to the Ramayana epic; Ravana Cave located 2 km upstream was an ancient prehistoric human habitation cave dating to 25,000 BCE.",
+    "naturalCharacteristics": "Tiered cascade falling over rounded concave limestone rock tiers fed by the Kirindi Oya river.",
+    "specialFeatures": "Spectacular tiered cascades directly accessible from the highway, Ramayana epic legend, and nearby 25,000-year-old Ravana Cave.",
+    "reasonsToVisit": [
+      "Admire a roaring 25-meter multi-tiered waterfall directly from a roadside viewing bridge",
+      "Learn about the legendary connection to King Ravana and Princess Sita in the Ramayana epic",
+      "Hike to the nearby Ravana Cave and Nil Diya Pokuna underground lake",
+      "Taste fresh tropical pineapples, sweet bananas, and roasted corn at roadside stalls"
+    ],
+    "activities": [
+      "Waterfall viewing and photography",
+      "Visiting nearby Ravana Cave (650 steps)",
+      "Sampling roadside tropical fruit",
+      "Monkey watching"
+    ],
+    "bestTimeToVisit": "June to November during and following monsoon rains for maximum water volume; morning visits (08:30 - 11:00) offer pleasant light.",
+    "visitingDuration": "45 Minutes to 1.5 Hours",
+    "entranceInformation": "Free public viewing of the waterfall from the road bridge; Ravana Cave entrance fee is approx. LKR 500.",
+    "openingHours": "Open 24 hours.",
+    "accessibilityInformation": "Roadside viewing bridge is paved and fully accessible for vehicles and wheelchairs; climbing to upper cascade pools is rocky and hazardous.",
+    "safetyInformation": "Do not climb onto wet, algae-covered rocks near the waterfall base; flash floods can occur upstream during sudden mountain rains; swimming in deep upper pools is prohibited.",
+    "travelTips": {
+      "whatToBring": "Camera with fast shutter speed, lens wipe (spray can reach the bridge), small cash notes.",
+      "clothing": "Casual comfortable travel clothes.",
+      "photographyTips": "Photograph the multi-tiered cascades from the viewing platform on the opposite side of the road to frame the entire height.",
+      "localCustoms": "Keep snacks and food items secured from mischievous monkeys around the bridge.",
+      "environmentalGuidelines": "Strictly do not discard plastic bottles or food wrappers into the river."
+    },
+    "latitude": 6.84,
+    "longitude": 81.05,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/ravana-falls.jpg",
+        "caption": "Ravana Falls & Ravana Cave - Primary Vista",
+        "altText": "Ravana Falls & Ravana Cave, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/badulla.jpg",
+        "caption": "Badulla District Landscape",
+        "altText": "Badulla District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/uva-province.jpg",
+        "caption": "Uva Province Regional Panorama",
+        "altText": "Uva Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Development Authority",
+        "sourceUrl": "https://www.sltda.gov.lk",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "little-adams-peak",
+      "ella-rock",
+      "diyaluma-falls"
+    ]
+  },
+  {
+    "id": "diyaluma-falls",
+    "name": "Diyaluma Falls & Upper Infinity Rock Pools",
+    "slug": "diyaluma-falls",
+    "districtId": "badulla",
+    "provinceId": "uva-province",
+    "category": "waterfalls",
+    "categories": [
+      "waterfalls",
+      "adventure",
+      "viewpoints",
+      "mountains",
+      "photography"
+    ],
+    "shortDescription": "The second highest waterfall in Sri Lanka (220 meters), famous for its natural upper infinity rock pools where hikers can swim right on the edge of the precipice.",
+    "fullDescription": "Plunging a staggering 220 meters (720 feet) straight down a sheer granite escarpment near Koslanda in Badulla district, Diyaluma Falls (meaning 'Rapid Flow of Water' in Sinhala) is the second highest waterfall in Sri Lanka and one of the most thrilling natural wonders in Asia. Formed by the Punagala Oya, a tributary of the Kirindi Oya, the waterfall is renowned worldwide for its Upper Diyaluma infinity rock pools. A rewarding 45-minute jungle and tea estate hike leads to the top of the waterfall, where the river flows through a series of natural tiered rock basins, small cascades, and crystal-clear swimming holes culminating at the very lip of the 220-meter drop. Swimmers can safely bathe in natural rock pools with breathtaking, adrenaline-pumping views looking straight down the sheer vertical rock wall onto the southern plains.",
+    "historicalBackground": "Celebrated in ancient folklore with the poignant tragic legend of a young prince and lower-caste maiden who fell to their deaths over the cliff.",
+    "naturalCharacteristics": "Spectacular sheer 220-meter vertical waterfall dropping over the southern mountain escarpment.",
+    "specialFeatures": "Second highest waterfall in Sri Lanka (220m), natural upper infinity rock pools, and natural rock water slides.",
+    "reasonsToVisit": [
+      "Swim in natural crystal-clear infinity rock pools directly on the edge of a 220-meter cliff drop",
+      "Slide down smooth natural rock water slides into refreshing mountain river basins",
+      "Marvel at the sheer 220-meter thunderous plunge from the roadside viewing bridge below",
+      "Experience one of the ultimate outdoor adventure and photography destinations in Sri Lanka"
+    ],
+    "activities": [
+      "Swimming in upper infinity rock pools",
+      "Natural rock sliding",
+      "Cliff-edge photography",
+      "Trekking through upper tea estates"
+    ],
+    "bestTimeToVisit": "December to April (ideal water levels for swimming in upper rock pools; avoid times of heavy torrential rain when flash floods occur).",
+    "visitingDuration": "3 - 5 Hours (for the hike to the top and swimming)",
+    "entranceInformation": "Free public access; hiring a local village guide at Makaldenya junction (approx. LKR 1,500 - 2,500) is strongly recommended.",
+    "openingHours": "Open daylight hours (07:00 - 17:30).",
+    "accessibilityInformation": "Roadside view is easily accessible by car; reaching the upper infinity pools requires an uphill hike through tea fields and forest.",
+    "safetyInformation": "Exercise extreme caution near the edge of the upper pools; never attempt to swim when the river is in heavy flood; rocks can be very slippery.",
+    "travelTips": {
+      "whatToBring": "Swimwear, quick-dry towel, shoes with good grip for wet rock, waterproof dry bag for camera/phone, drinking water.",
+      "clothing": "Athletic hiking wear with swimwear underneath.",
+      "photographyTips": "Position your photographer on an elevated rock looking down toward a swimmer in the pool to capture the dramatic infinity drop-off and valley below.",
+      "localCustoms": "Hire a friendly local youth from Makaldenya village as your guide; it supports the local rural community.",
+      "environmentalGuidelines": "Strict Leave No Trace policy; never leave empty bottles or wrappers at the upper pools."
+    },
+    "latitude": 6.7333,
+    "longitude": 81.0333,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/diyaluma-falls.jpg",
+        "caption": "Diyaluma Falls & Upper Infinity Rock Pools - Primary Vista",
+        "altText": "Diyaluma Falls & Upper Infinity Rock Pools, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/badulla.jpg",
+        "caption": "Badulla District Landscape",
+        "altText": "Badulla District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/uva-province.jpg",
+        "caption": "Uva Province Regional Panorama",
+        "altText": "Uva Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Development Authority",
+        "sourceUrl": "https://www.sltda.gov.lk",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "bambarakanda-falls",
+      "ravana-falls",
+      "liptons-seat"
+    ]
+  },
+  {
+    "id": "dunhinda-falls",
+    "name": "Dunhinda Falls (The Smoky Cascade)",
+    "slug": "dunhinda-falls",
+    "districtId": "badulla",
+    "provinceId": "uva-province",
+    "category": "waterfalls",
+    "categories": [
+      "waterfalls",
+      "hiking-trekking",
+      "viewpoints",
+      "photography"
+    ],
+    "shortDescription": "One of Sri Lanka's most beautiful and powerful waterfalls, a 64-meter roaring cascade that creates a permanent cloud of smoky vapor and mist.",
+    "fullDescription": "Located 5 kilometers north of Badulla town, Dunhinda Falls is widely celebrated as one of the most aesthetically stunning and powerful waterfalls in Sri Lanka. Deriving its name from the Sinhala word 'Dun' (meaning smoke or vapor), this 64-meter (210-foot) cascade is fed by the Badulu Oya rushing through a narrow rocky gorge. As the immense volume of water bursts through the cliff gap and crashes into the deep pool below, it generates a dramatic, permanent white cloud of atomized smoky mist that blankets the entire canyon. Reaching the falls requires a scenic 1.5-kilometer forest walk along a narrow trail winding along the river canyon, passing wild troops of monkeys, hanging creepers, local herbal tea stalls, and the smaller cascade of Kuda Dunhinda.",
+    "historicalBackground": "Celebrated in ancient Kandyan folklore; an ancient escape tunnel was believed to connect the Dunhinda pool to the royal palace in Kandy.",
+    "naturalCharacteristics": "Powerful mountain waterfall plunging 64 meters through a narrow granite canyon gorge.",
+    "specialFeatures": "Permanent cloud of smoky water mist, 1.5 km scenic forest footpath, and large natural canyon pool.",
+    "reasonsToVisit": [
+      "Witness one of Sri Lanka's most powerful and photogenic waterfalls creating a permanent cloud of misty vapor",
+      "Enjoy a scenic 1.5-kilometer nature trek along a lush river canyon shaded by tropical forest trees",
+      "Sip warm herbal 'Belimal' tea with sweet jaggery at traditional rustic trailside stalls",
+      "Photograph vibrant rainbows arching across the waterfall spray on sunny mornings"
+    ],
+    "activities": [
+      "Canyon trail hiking",
+      "Waterfall photography",
+      "Herbal tea tasting",
+      "Birdwatching along the Badulu Oya"
+    ],
+    "bestTimeToVisit": "June to September and November to January when water levels produce the most impressive smoky cascade.",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "Nominal entrance fee: approx. LKR 300 for foreign visitors; LKR 50 for locals.",
+    "openingHours": "07:00 - 17:30 Daily.",
+    "accessibilityInformation": "Requires walking 1.5 kilometers along a natural earthen trail with rocks, tree roots, and steps; not wheelchair accessible.",
+    "safetyInformation": "Do not attempt to swim in the pool beneath the waterfall; treacherous undercurrents and submerged rocks have claimed lives.",
+    "travelTips": {
+      "whatToBring": "Sturdy footwear with grip, lens cloth (waterfall spray can coat lenses), rain poncho, drinking water.",
+      "clothing": "Lightweight hiking clothing.",
+      "photographyTips": "Photograph the cascade from the main viewing pavilion early in the morning when morning sunbeams create brilliant rainbows in the mist.",
+      "localCustoms": "Support the local trailside vendors selling herbal tea and fresh passionfruit.",
+      "environmentalGuidelines": "Strict zero-litter policy along the canyon trail."
+    },
+    "latitude": 7.025,
+    "longitude": 81.0667,
+    "featured": false,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/dunhinda-falls.jpg",
+        "caption": "Dunhinda Falls (The Smoky Cascade) - Primary Vista",
+        "altText": "Dunhinda Falls (The Smoky Cascade), Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/badulla.jpg",
+        "caption": "Badulla District Landscape",
+        "altText": "Badulla District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/uva-province.jpg",
+        "caption": "Uva Province Regional Panorama",
+        "altText": "Uva Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Development Authority",
+        "sourceUrl": "https://www.sltda.gov.lk",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "muthiyangana-vihara",
+      "nine-arch-bridge",
+      "bogoda-wooden-bridge"
+    ]
+  },
+  {
+    "id": "liptons-seat",
+    "name": "Lipton's Seat Haputale",
+    "slug": "liptons-seat",
+    "districtId": "badulla",
+    "provinceId": "uva-province",
+    "category": "viewpoints",
+    "categories": [
+      "viewpoints",
+      "tea-plantations",
+      "mountains",
+      "historical-sites",
+      "photography"
+    ],
+    "shortDescription": "The legendary clifftop vantage point at 1,970m elevation where tea baron Sir Thomas Lipton surveyed his vast Ceylon tea empire, looking across seven provinces.",
+    "fullDescription": "Perched on a dizzying mountain ridge at an elevation of 1,970 meters (6,463 feet) high above the Dambatenne Tea Estate near Haputale, Lipton's Seat is one of the most famous and awe-inspiring viewpoints in all of Asia. In the late 19th century, Sir Thomas Lipton, the visionary Scottish tea merchant who revolutionized the global tea industry with his slogan 'direct from the tea garden to the tea pot', would ride up here on horseback to sit on this exact cliff edge and proudly survey his vast, emerald-green tea empire. On a clear morning, the panoramic view from the clifftop is staggering: looking south across the dramatic Southern Escarpment, visitors can see across seven of Sri Lanka's nine provinces, spotting landmark sights like Udawalawe reservoir, Chandrika Wewa, Hambantota wind farms, and the distant blue shimmer of the Indian Ocean coast 50 miles away. A life-sized bronze statue of Sir Thomas Lipton seated on a bench greets travelers for the ultimate historical photograph.",
+    "historicalBackground": "Established in the 1890s by Sir Thomas Lipton, founder of Lipton Tea; the nearby Dambatenne Tea Factory (built 1890) was his flagship processing plant.",
+    "naturalCharacteristics": "High montane ridge along the edge of the Southern Escarpment, surrounded by manicured tea plantations and cloud forests.",
+    "specialFeatures": "Sir Thomas Lipton bronze statue, 360-degree views across seven provinces, Dambatenne Tea Factory, and cliffside tea cafe.",
+    "reasonsToVisit": [
+      "Sit beside the bronze statue of Sir Thomas Lipton at the exact spot where modern Ceylon tea history was born",
+      "Take in one of Sri Lanka's greatest panoramas looking across seven provinces to the southern ocean",
+      "Tour the historic Dambatenne Tea Factory, built by Sir Thomas Lipton himself in 1890",
+      "Walk down the scenic 7-kilometer trail through rolling emerald green tea bushes"
+    ],
+    "activities": [
+      "Sunrise viewpoint observation",
+      "Dambatenne historic tea factory tour",
+      "Tea plantation walking",
+      "Highland tea tasting"
+    ],
+    "bestTimeToVisit": "Early morning (arrive between 06:00 and 08:30) is critical; thick white clouds and mist roll up the escarpment and obscure the view after 09:30.",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "Nominal viewpoint gate fee: approx. LKR 500 per person; small vehicle entry fee.",
+    "openingHours": "06:00 - 17:00 Daily.",
+    "accessibilityInformation": "A narrow paved road winds all the way to the summit viewpoint, accessible by tuk-tuk or car; walking from Dambatenne takes approx. 2 hours.",
+    "safetyInformation": "Be careful on cliff edges beyond the safety railings; dress warmly for early morning mountain temperatures.",
+    "travelTips": {
+      "whatToBring": "Warm fleece jacket, camera with wide-angle lens, binoculars, drinking water.",
+      "clothing": "Warm layered clothing; it can be very chilly and windy at 1,970m at dawn.",
+      "photographyTips": "Arrive at sunrise (06:00) to photograph the golden light sweeping across the undulating tea terraces below.",
+      "localCustoms": "Enjoy hot tea and samosas at the small local viewpoint cafe on the cliff.",
+      "environmentalGuidelines": "Strict zero-litter policy; do not walk through tea bushes without staying on marked pathways."
+    },
+    "latitude": 6.7833,
+    "longitude": 81.0167,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/liptons-seat.jpg",
+        "caption": "Lipton's Seat Haputale - Primary Vista",
+        "altText": "Lipton's Seat Haputale, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/badulla.jpg",
+        "caption": "Badulla District Landscape",
+        "altText": "Badulla District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/uva-province.jpg",
+        "caption": "Uva Province Regional Panorama",
+        "altText": "Uva Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tea Board",
+        "sourceUrl": "https://www.srilankateaboard.lk",
+        "sourceType": "Official Commodity Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "adisham-bungalow",
+      "diyaluma-falls",
+      "bambarakanda-falls"
+    ]
+  },
+  {
+    "id": "bambarakanda-falls",
+    "name": "Bambarakanda Falls (Sri Lanka's Tallest Waterfall)",
+    "slug": "bambarakanda-falls",
+    "districtId": "badulla",
+    "provinceId": "uva-province",
+    "category": "waterfalls",
+    "categories": [
+      "waterfalls",
+      "mountains",
+      "hiking-trekking",
+      "hidden-gems",
+      "photography"
+    ],
+    "shortDescription": "The tallest waterfall in Sri Lanka, a colossal 263-meter (863 feet) sheer vertical cascade plunging down an evergreen pine-covered mountain canyon in Kalupahana.",
+    "fullDescription": "Hidden in a secluded mountain amphitheater near Kalupahana in Badulla District, Bambarakanda Falls (also known as Bambarakele Falls) is the undisputed giant of Sri Lankan waterfalls. Plunging an astounding 263 meters (863 feet) straight down a sheer vertical granite precipice, it is officially recognized as the tallest waterfall in Sri Lanka (and the 299th tallest in the world). Fed by the Kuda Oya, a tributary of the Walawe River, the cascade drops like a shimmering white ribbon through a dramatic, steep-sided canyon densely forested with fragrant Caribbean pine trees and wild ferns. A scenic 1-kilometer walking trail leads from the roadside through the pine forest to a wooden observation platform near the base pool, where visitors can feel the thundering vibration and cool mountain spray drifting through the pine needles.",
+    "historicalBackground": "Admired since antiquity; highlighted in national geography surveys as the highest waterfall on the island.",
+    "naturalCharacteristics": "Sheer vertical horsetail waterfall plunging 263 meters down a steep pine-forested montane gorge.",
+    "specialFeatures": "Highest waterfall in Sri Lanka (263m / 863 feet), fragrant pine forest canyon, and nearby Lanka Ella cascade.",
+    "reasonsToVisit": [
+      "Stand before the tallest waterfall in Sri Lanka plunging 263 meters through a sheer mountain canyon",
+      "Trek along serene pine-scented forest trails with peaceful mountain views",
+      "Escape tourist crowds in one of the most tranquil, secluded waterfall valleys in the highlands",
+      "Combine your visit with a trek to neighboring Lanka Ella (a teardrop-shaped waterfall)"
+    ],
+    "activities": [
+      "Waterfall observation and photography",
+      "Pine forest canyon hiking",
+      "Trekking to Lanka Ella cascade",
+      "Picnicking"
+    ],
+    "bestTimeToVisit": "October to March during and after monsoon rains when the waterfall displays its fullest, most thunderous volume.",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "Nominal entrance fee: approx. LKR 150 for foreign visitors; LKR 50 for locals.",
+    "openingHours": "07:00 - 17:30 Daily.",
+    "accessibilityInformation": "Requires walking 1 kilometer along an unpaved forest trail with gentle slopes and steps.",
+    "safetyInformation": "Do not attempt to climb wet granite cliff faces; swimming directly beneath the 263m drop is dangerous due to falling rocks and intense hydraulic force.",
+    "travelTips": {
+      "whatToBring": "Sturdy walking shoes, light jacket, camera with tall vertical framing, drinking water.",
+      "clothing": "Comfortable hiking clothes.",
+      "photographyTips": "Use a vertical portrait orientation with a wide-angle lens from the base trail to capture the staggering 263m vertical drop against the pines.",
+      "localCustoms": "Quiet, pristine mountain atmosphere.",
+      "environmentalGuidelines": "Strict zero-litter policy in this fragile forest canyon."
+    },
+    "latitude": 6.775,
+    "longitude": 80.8333,
+    "featured": true,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/bambarakanda-falls.jpg",
+        "caption": "Bambarakanda Falls (Sri Lanka's Tallest Waterfall) - Primary Vista",
+        "altText": "Bambarakanda Falls (Sri Lanka's Tallest Waterfall), Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/badulla.jpg",
+        "caption": "Badulla District Landscape",
+        "altText": "Badulla District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/uva-province.jpg",
+        "caption": "Uva Province Regional Panorama",
+        "altText": "Uva Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Development Authority",
+        "sourceUrl": "https://www.sltda.gov.lk",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "diyaluma-falls",
+      "liptons-seat",
+      "adisham-bungalow"
+    ]
+  },
+  {
+    "id": "namunukula-mountain",
+    "name": "Namunukula Mountain Range Peak",
+    "slug": "namunukula-mountain",
+    "districtId": "badulla",
+    "provinceId": "uva-province",
+    "category": "mountains",
+    "categories": [
+      "mountains",
+      "hiking-trekking",
+      "viewpoints",
+      "hidden-gems",
+      "adventure"
+    ],
+    "shortDescription": "The commanding 'Nine Peaks' mountain massif rising 2,036 meters above Badulla, offering an adventurous cloud-forest ridge trek and 360-degree vistas.",
+    "fullDescription": "Dominating the eastern horizon of the Uva highlands like an impenetrable natural fortress, Namunukula (meaning 'Nine Peaks' in Sinhala) is the highest mountain massif in Uva Province, rising to an elevation of 2,036 meters (6,680 feet). Mentioned in ancient maritime maps as a crucial navigation landmark visible to sailors in the Bay of Bengal, the mountain features nine distinct connected peaks. A challenging 4 to 5-hour trek ascends through high-altitude tea plantations, pine woods, and moss-draped dwarf cloud forests to reach the main summit. From the crest, hikers enjoy unrivaled 360-degree panoramas across the entire Uva basin, the Knuckles Mountain Range, Pidurutalagala, and on clear days, all the way to the eastern ocean coastline of Batticaloa.",
+    "historicalBackground": "Historically served as an essential orienting landmark for ancient mariners navigating the Bay of Bengal towards eastern ports.",
+    "naturalCharacteristics": "Nine-peaked montane ridge reaching 2,036m elevation, supporting montane cloud forest flora.",
+    "specialFeatures": "Nine distinct connected mountain summits, cloud forest moss trails, and 360-degree views to the eastern sea.",
+    "reasonsToVisit": [
+      "Conquer the highest mountain peak in Uva Province at 2,036 meters elevation",
+      "Trek through untouched montane cloud forests draped in Spanish moss and wild orchids",
+      "Enjoy staggering 360-degree panoramas extending from the central mountains to the eastern sea",
+      "Experience an off-the-beaten-track wilderness hike free from commercial tourism"
+    ],
+    "activities": [
+      "High-altitude mountain trekking",
+      "Ridge walking across peaks",
+      "Panoramic landscape photography",
+      "Cloud forest birdwatching"
+    ],
+    "bestTimeToVisit": "December to April (clear mornings, dry trail conditions).",
+    "visitingDuration": "5 - 7 Hours (Full Day Hike)",
+    "entranceInformation": "Free public access; hiring a local trail guide from Deyanagalla village is strongly recommended.",
+    "openingHours": "06:00 - 18:00 Daily.",
+    "accessibilityInformation": "Challenging mountain trek with steep, rocky, root-covered ascents; requires good physical stamina.",
+    "safetyInformation": "Mountain mist can roll in rapidly causing disorientation; always trek with a guide or GPS tracker; carry adequate warm clothing.",
+    "travelTips": {
+      "whatToBring": "Sturdy hiking boots, warm fleece jacket, rain gear, at least 2 liters of water, packed lunch/snacks, first-aid kit.",
+      "clothing": "Layered warm and windproof trekking clothing.",
+      "photographyTips": "Photograph the rolling morning clouds breaking across the jagged nine peaks from the summit ridge.",
+      "localCustoms": "Friendly greeting to local tea workers on the lower slopes.",
+      "environmentalGuidelines": "Strict Leave No Trace policy."
+    },
+    "latitude": 6.9333,
+    "longitude": 81.1167,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/namunukula-mountain.jpg",
+        "caption": "Namunukula Mountain Range Peak - Primary Vista",
+        "altText": "Namunukula Mountain Range Peak, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/badulla.jpg",
+        "caption": "Badulla District Landscape",
+        "altText": "Badulla District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/uva-province.jpg",
+        "caption": "Uva Province Regional Panorama",
+        "altText": "Uva Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Forest Department Sri Lanka",
+        "sourceUrl": "http://www.forestdept.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "nine-arch-bridge",
+      "dunhinda-falls",
+      "muthiyangana-vihara"
+    ]
+  },
+  {
+    "id": "bogoda-wooden-bridge",
+    "name": "Bogoda Ancient Roofed Wooden Bridge",
+    "slug": "bogoda-wooden-bridge",
+    "districtId": "badulla",
+    "provinceId": "uva-province",
+    "category": "historical-sites",
+    "categories": [
+      "historical-sites",
+      "temples-religious",
+      "cultural-experiences",
+      "hidden-gems"
+    ],
+    "shortDescription": "The oldest surviving roofed wooden bridge in Sri Lanka, built in the 16th century without a single metal nail, spanning the Gallanda Oya beside an ancient cave temple.",
+    "fullDescription": "Nestled in a peaceful river valley near Hali-Ela in Badulla District, the Bogoda Wooden Bridge (Bogoda Palama) is an extraordinary masterpiece of medieval wood engineering and carpentry. Constructed in the 16th century during the Dambadeniya and Gampola kingdom periods, it is the oldest surviving roofed wooden bridge in Sri Lanka. Spanning the Gallanda Oya river, the 15-meter-long, 2.5-meter-wide bridge was ingeniously built entirely of seasoned timber using interlocking wooden mortise-and-tenon joints—without the use of a single iron nail. A picturesque tiled roof constructed in the traditional Kandyan architectural style protects the wooden timbers from rain and sun. Adjacent stands the Bogoda Raja Maha Vihara, an ancient cave temple dating back to the 1st century BCE under King Valagamba, adorned with vivid Kandyan-era Buddhist wall murals and an ancient tunnel entrance.",
+    "historicalBackground": "Cave temple dates to 1st century BCE; wooden roofed bridge constructed in the 16th century; restored by the Department of Archaeology.",
+    "naturalCharacteristics": "Tranquil river valley with large water-worn boulders and lush riparian forest.",
+    "specialFeatures": "Built entirely without nails using wooden interlocking joints, traditional Kandyan tiled roof, and 1st-century BCE cave temple.",
+    "reasonsToVisit": [
+      "Walk across the oldest surviving roofed wooden bridge in Sri Lanka (16th century)",
+      "Marvel at ancient carpentry engineering that joined timber spans without using a single nail",
+      "Visit the adjacent 1st-century BCE rock cave temple with vibrant Buddhist paintings",
+      "Enjoy the serene, tranquil sound of the river flowing beneath historic wooden timbers"
+    ],
+    "activities": [
+      "Ancient bridge walking",
+      "Carpentry and architecture study",
+      "Cave temple mural viewing",
+      "River landscape photography"
+    ],
+    "bestTimeToVisit": "Year-round; morning visits provide peaceful atmosphere and comfortable temperatures.",
+    "visitingDuration": "1 - 1.5 Hours",
+    "entranceInformation": "Nominal entrance fee: approx. LKR 300 for foreign visitors; LKR 50 for locals.",
+    "openingHours": "07:30 - 17:30 Daily.",
+    "accessibilityInformation": "Stone steps lead down from the road to the bridge and temple courtyard.",
+    "safetyInformation": "Watch steps on river rocks; remove footwear before entering the cave temple.",
+    "travelTips": {
+      "whatToBring": "Modest clothing, slip-off footwear, camera, drinking water.",
+      "clothing": "Modest attire covering shoulders and knees.",
+      "photographyTips": "Photograph the bridge from the river boulders below to capture the tiled roof reflecting in the river pools.",
+      "localCustoms": "Quiet, respectful historical atmosphere.",
+      "environmentalGuidelines": "Preserve the fragile historic woodwork; do not carve or deface the timber."
+    },
+    "latitude": 6.9833,
+    "longitude": 81.0167,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/bogoda-wooden-bridge.jpg",
+        "caption": "Bogoda Ancient Roofed Wooden Bridge - Primary Vista",
+        "altText": "Bogoda Ancient Roofed Wooden Bridge, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/badulla.jpg",
+        "caption": "Badulla District Landscape",
+        "altText": "Badulla District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/uva-province.jpg",
+        "caption": "Uva Province Regional Panorama",
+        "altText": "Uva Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Archaeology Sri Lanka",
+        "sourceUrl": "http://www.archaeology.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "demodara-railway-loop",
+      "dunhinda-falls",
+      "nine-arch-bridge"
+    ]
+  },
+  {
+    "id": "demodara-railway-loop",
+    "name": "Demodara Railway Loop",
+    "slug": "demodara-railway-loop",
+    "districtId": "badulla",
+    "provinceId": "uva-province",
+    "category": "scenic-trains",
+    "categories": [
+      "scenic-trains",
+      "historical-sites",
+      "mountains",
+      "engineering",
+      "photography"
+    ],
+    "shortDescription": "A genius of colonial railway engineering: a 360-degree spiral loop where the track curves around a mountain hill and emerges through a tunnel directly beneath the railway station.",
+    "fullDescription": "Situated just 6 kilometers from Ella, the Demodara Railway Loop is an internationally renowned marvel of civil engineering on the Highland Railway line. Completed in 1921, British engineers were faced with an insurmountable challenge: the mountain terrain dropped too steeply between Demodara and Badulla to allow a normal railway gradient. Inspired by watching a local tea estate kangani (supervisor) tie his turban, an innovative spiral design was conceived. The railway track curves in a complete 360-degree circular loop around a mountain hill, passes through Tunnel No. 42 directly beneath the Demodara railway station platform, and emerges on the other side at a lower elevation. It is one of the only spiral railway loops in the world where a train passes directly under the station it just departed from.",
+    "historicalBackground": "Designed and constructed in 1921 under British railway engineers and local Ceylonese craftsmen.",
+    "naturalCharacteristics": "Highland river valley surrounded by tea estates and steep hillsides.",
+    "specialFeatures": "Complete 360-degree spiral railway loop, Tunnel No. 42 directly under station platform, and historic colonial station building.",
+    "reasonsToVisit": [
+      "Witness one of the most ingenious railway engineering feats in the world",
+      "Watch the train depart the station, circle the entire mountain, and emerge through a tunnel directly beneath your feet",
+      "Step onto the historic, photogenic Demodara railway station platform",
+      "A must-visit stop for railway enthusiasts and engineering history lovers"
+    ],
+    "activities": [
+      "Train arrival and departure watching",
+      "Railway engineering photography",
+      "Visiting Demodara station museum"
+    ],
+    "bestTimeToVisit": "Coordinate visits with train arrival times at Demodara (check local train timetables; morning trains approx. 09:30 - 11:30).",
+    "visitingDuration": "1 Hour",
+    "entranceInformation": "Free public access at the railway station platform (nominal platform ticket of approx. LKR 20).",
+    "openingHours": "Open 24 hours.",
+    "accessibilityInformation": "Demodara railway station platform is flat and accessible.",
+    "safetyInformation": "Do not enter railway tunnels on foot; stay behind yellow platform safety lines during train movements.",
+    "travelTips": {
+      "whatToBring": "Camera, train timetable, sunglasses.",
+      "clothing": "Casual comfortable travel clothes.",
+      "photographyTips": "Position yourself at the end of the platform to capture the train emerging from the tunnel mouth directly underneath.",
+      "localCustoms": "Friendly railway station master and staff are proud to explain the loop's history.",
+      "environmentalGuidelines": "Keep the heritage railway station clean."
+    },
+    "latitude": 6.9,
+    "longitude": 81.0667,
+    "featured": false,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/demodara-railway-loop.jpg",
+        "caption": "Demodara Railway Loop - Primary Vista",
+        "altText": "Demodara Railway Loop, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/badulla.jpg",
+        "caption": "Badulla District Landscape",
+        "altText": "Badulla District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/uva-province.jpg",
+        "caption": "Uva Province Regional Panorama",
+        "altText": "Uva Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Railways",
+        "sourceUrl": "http://www.railway.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "nine-arch-bridge",
+      "little-adams-peak",
+      "bogoda-wooden-bridge"
+    ]
+  },
+  {
+    "id": "adisham-bungalow",
+    "name": "Adisham Bungalow (St. Benedict's Monastery)",
+    "slug": "adisham-bungalow",
+    "districtId": "badulla",
+    "provinceId": "uva-province",
+    "category": "historical-sites",
+    "categories": [
+      "historical-sites",
+      "temples-religious",
+      "mountains",
+      "hidden-gems"
+    ],
+    "shortDescription": "A magnificent 1931 granite Tudor-style English country house hidden in a cloud forest sanctuary in Haputale, now a peaceful Benedictine monastery.",
+    "fullDescription": "Nestled in the misty Tangamalai Nature Sanctuary 4 kilometers from Haputale, Adisham Bungalow is an enchanting slice of the English countryside transported to the highlands of Sri Lanka. Built in 1931 by the wealthy English aristocrat and tea planter Sir Thomas Villiers (grandson of Lord John Russell, twice Prime Minister of Great Britain), the mansion was modeled after Leeds Castle in Kent. Constructed of dressed granite stone with teak shingled roofs, leaded stained glass windows, and oak-paneled drawing rooms, it is surrounded by impeccably manicured English rose gardens, orchards, and strawberry patches. In 1961, the Roman Catholic Church acquired the property, converting it into St. Benedict's Monastery. Visitors can explore the preserved library and living rooms, stroll the peaceful rose gardens, and purchase delicious homemade strawberry and guava jams prepared by the resident monks.",
+    "historicalBackground": "Built in 1931 by Sir Thomas Villiers; acquired by the Sylvestro-Benedictine Congregation in 1961 as a monastery and novitiate.",
+    "naturalCharacteristics": "Highland montane forest clearing in the Tangamalai Nature Reserve, characterized by mist, cool mountain air, and tall pines.",
+    "specialFeatures": "Tudor granite architecture, Leeds Castle-inspired design, preserved period library, English rose gardens, and monk-made jams.",
+    "reasonsToVisit": [
+      "Step into an authentic 1931 Tudor-style English country house nestled in misty tropical highlands",
+      "Stroll through manicured English flower gardens blooming with roses and orchards",
+      "Taste and purchase famous natural fruit jams (strawberry, orange marmalade) made by monks",
+      "Enjoy the serene silence and peaceful birdsong of the Tangamalai forest sanctuary"
+    ],
+    "activities": [
+      "Mansion heritage tour",
+      "English garden walking",
+      "Purchasing homemade monastery jams",
+      "Forest birdwatching"
+    ],
+    "bestTimeToVisit": "Weekends and public holidays (open to public); morning visits (09:00 - 11:30) provide clear views before afternoon mist rolls in.",
+    "visitingDuration": "1 - 2 Hours",
+    "entranceInformation": "Nominal entrance fee: approx. LKR 200 for adults.",
+    "openingHours": "Open to visitors on Weekends, School Holidays, and Public Holidays only: 09:00 - 12:30 and 13:30 - 16:30.",
+    "accessibilityInformation": "Paved pathways through the gardens and ground-floor heritage rooms; accessible.",
+    "safetyInformation": "Active monastery; quiet, respectful conduct is required at all times.",
+    "travelTips": {
+      "whatToBring": "Warm sweater, camera, cash for delicious monastery jams and cordials.",
+      "clothing": "Modest casual clothing.",
+      "photographyTips": "Photograph the gray granite stone facade framed by vibrant blooming rose bushes and misty pine trees.",
+      "localCustoms": "Buy a jar of fresh Adisham strawberry jam or guava jelly; it is a famous culinary tradition.",
+      "environmentalGuidelines": "Strict zero-litter policy; do not pluck flowers from the rose gardens."
+    },
+    "latitude": 6.7667,
+    "longitude": 80.9333,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/adisham-bungalow.jpg",
+        "caption": "Adisham Bungalow (St. Benedict's Monastery) - Primary Vista",
+        "altText": "Adisham Bungalow (St. Benedict's Monastery), Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/badulla.jpg",
+        "caption": "Badulla District Landscape",
+        "altText": "Badulla District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/uva-province.jpg",
+        "caption": "Uva Province Regional Panorama",
+        "altText": "Uva Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "St. Benedict's Monastery Adisham",
+        "sourceUrl": "http://www.adisham.org",
+        "sourceType": "Official Monastery Administration",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "liptons-seat",
+      "bambarakanda-falls",
+      "diyaluma-falls"
+    ]
+  },
+  {
+    "id": "buduruwagala",
+    "name": "Buduruwagala Rock Sculptures",
+    "slug": "buduruwagala",
+    "districtId": "monaragala",
+    "provinceId": "uva-province",
+    "category": "ancient-cities",
+    "categories": [
+      "ancient-cities",
+      "temples-religious",
+      "historical-sites",
+      "hidden-gems",
+      "photography"
+    ],
+    "shortDescription": "An ancient 10th-century Mahayana sanctuary hidden in a dry forest, featuring seven colossal rock-carved relief sculptures centered around a 51-foot standing Buddha.",
+    "fullDescription": "Tucked away 5 kilometers southeast of Wellawaya in Monaragala District, Buduruwagala (meaning 'Rock of Buddhist Sculptures') is one of Sri Lanka's most awe-inspiring and mysterious archaeological treasures. Carved into the sheer vertical face of a 300-meter-wide cliff in a tranquil dry-zone forest clearing beside a lotus-filled lake, this 10th-century sanctuary preserves seven colossal rock relief sculptures that reflect the Mahayana Buddhist tradition. Dominating the cliff is a monumental 15.5-meter (51-foot) tall standing Buddha in the Abhaya Mudra (gesture of fearlessness)—the tallest rock-cut standing Buddha statue in Sri Lanka. Traces of the original stucco plaster and bright orange and yellow pigments still cling to the carved drapery. Flanking the central Buddha are two trios of Bodhisattvas, including Avalokiteshvara (the Bodhisattva of Compassion) and Maitreya, alongside a mysterious rock flame carved with a hole that still exudes an aroma of mustard oil.",
+    "historicalBackground": "Dating to the 9th–10th century CE during the Mahayana Buddhist flowering in the southern Ruhuna principality; declared a protected archaeological site.",
+    "naturalCharacteristics": "Sheer granite cliff face bordering a peaceful lotus-filled forest lake and dry deciduous forest.",
+    "specialFeatures": "15.5-meter standing Buddha (tallest rock-cut Buddha in Sri Lanka), Mahayana Bodhisattva sculptures, and miraculous mustard oil flame carving.",
+    "reasonsToVisit": [
+      "Stand before the tallest rock-carved Buddha statue in Sri Lanka (51 feet tall)",
+      "Marvel at seven colossal 10th-century Mahayana rock relief figures carved into a sheer cliff",
+      "Observe original 1,000-year-old orange plaster pigments surviving on the stone robes",
+      "Experience a deeply peaceful, secluded archaeological wonder beside a lotus lake"
+    ],
+    "activities": [
+      "Ancient stone art appreciation",
+      "Lotus lake walking",
+      "Archaeological photography",
+      "Quiet meditation"
+    ],
+    "bestTimeToVisit": "Morning (08:00 - 11:00) when sunlight illuminates the vertical cliff face and lotus flowers are open.",
+    "visitingDuration": "1.5 - 2 Hours",
+    "entranceInformation": "Nominal entrance fee: approx. LKR 500 for foreign visitors; LKR 50 for locals.",
+    "openingHours": "07:00 - 18:00 Daily.",
+    "accessibilityInformation": "Paved path through forest and along the lake; level sand courtyard in front of the rock cliff.",
+    "safetyInformation": "Remove footwear and hats before stepping onto the sandy courtyard before the sacred rock sculptures.",
+    "travelTips": {
+      "whatToBring": "Modest clothing, slip-off footwear, camera with wide-angle lens, drinking water.",
+      "clothing": "Modest clothing covering shoulders and knees.",
+      "photographyTips": "Position your camera from the far edge of the sandy courtyard with a wide lens to frame all seven colossal figures across the cliff face.",
+      "localCustoms": "Do not pose with your back turned to the Buddha statues.",
+      "environmentalGuidelines": "Strictly do not touch the ancient rock carvings or peel away remaining stucco plaster."
+    },
+    "latitude": 6.6833,
+    "longitude": 81.0833,
+    "featured": true,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/buduruwagala.jpg",
+        "caption": "Buduruwagala Rock Sculptures - Primary Vista",
+        "altText": "Buduruwagala Rock Sculptures, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/monaragala.jpg",
+        "caption": "Monaragala District Landscape",
+        "altText": "Monaragala District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/uva-province.jpg",
+        "caption": "Uva Province Regional Panorama",
+        "altText": "Uva Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Archaeology Sri Lanka",
+        "sourceUrl": "http://www.archaeology.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "diyaluma-falls",
+      "maligawila-buddha-statue",
+      "yudaganawa-stupa"
+    ]
+  },
+  {
+    "id": "maligawila-buddha-statue",
+    "name": "Maligawila Colossal Limestone Buddha",
+    "slug": "maligawila-buddha-statue",
+    "districtId": "monaragala",
+    "provinceId": "uva-province",
+    "category": "ancient-cities",
+    "categories": [
+      "ancient-cities",
+      "temples-religious",
+      "historical-sites",
+      "hidden-gems"
+    ],
+    "shortDescription": "The world's tallest ancient free-standing Buddha statue carved in the round from a single limestone block, rising 11.5 meters out of a quiet forest clearing.",
+    "fullDescription": "Hidden in a peaceful forest clearing near Okkampitiya in Monaragala District, the Maligawila Buddha Statue is an astonishing triumph of ancient free-standing stone sculpture. Carved in the 7th century CE during the reign of Prince Aggabodhi of Ruhuna, this colossal limestone statue stands 11.5 meters (37.8 feet) tall and weighs an estimated 100 tons. Unlike rock-relief sculptures like Buduruwagala or Gal Vihara which remain attached to a cliff face behind them, the Maligawila statue was carved completely in the round from a single massive block of crystalline limestone and erected free-standing on a lotus pedestal. Found collapsed and shattered into pieces in 1951, the statue was miraculously restored and re-erected in 1991 by the Department of Archaeology using hydraulic jacks. A short forest pathway leads to Dambegoda, where another colossal 10-meter free-standing limestone statue of Bodhisattva Avalokiteshvara stands preserved.",
+    "historicalBackground": "Commissioned in the 7th century CE by Prince Aggabodhi; miraculously re-erected and restored in 1991 by the Department of Archaeology.",
+    "naturalCharacteristics": "Tranquil tropical dry-zone forest clearing shaded by mature timber trees.",
+    "specialFeatures": "World's tallest ancient free-standing limestone Buddha statue (11.5m / 37.8 feet) and adjacent Dambegoda Bodhisattva colossus.",
+    "reasonsToVisit": [
+      "Stand before the tallest ancient free-standing carved stone Buddha statue in the world",
+      "Marvel at ancient 7th-century engineering that carved and balanced a 100-ton limestone colossus",
+      "Walk the peaceful forest path to the nearby 10-meter Bodhisattva Avalokiteshvara statue at Dambegoda",
+      "Enjoy a quiet, off-the-beaten-path heritage adventure deep in the peaceful Uva woodlands"
+    ],
+    "activities": [
+      "Ancient stone sculpture appreciation",
+      "Forest walking trail",
+      "Historical archaeological photography"
+    ],
+    "bestTimeToVisit": "Year-round; morning visits provide peaceful shade and comfortable temperatures.",
+    "visitingDuration": "1.5 - 2 Hours",
+    "entranceInformation": "Nominal entrance fee: approx. LKR 500 for foreign visitors; LKR 50 for locals.",
+    "openingHours": "07:30 - 17:30 Daily.",
+    "accessibilityInformation": "Paved forest pathways connect the parking area to the statues; level walking.",
+    "safetyInformation": "Remove footwear and hats before stepping onto the sandy terrace around the statue.",
+    "travelTips": {
+      "whatToBring": "Modest clothing, slip-off footwear, camera, drinking water.",
+      "clothing": "Modest attire covering shoulders and knees.",
+      "photographyTips": "Photograph the statue from the front courtyard looking up to emphasize its colossal 11.5-meter vertical height against the green forest canopy.",
+      "localCustoms": "Quiet, peaceful reverence.",
+      "environmentalGuidelines": "Do not touch the ancient crystalline limestone."
+    },
+    "latitude": 6.7,
+    "longitude": 81.3333,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/maligawila-buddha-statue.jpg",
+        "caption": "Maligawila Colossal Limestone Buddha - Primary Vista",
+        "altText": "Maligawila Colossal Limestone Buddha, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/monaragala.jpg",
+        "caption": "Monaragala District Landscape",
+        "altText": "Monaragala District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/uva-province.jpg",
+        "caption": "Uva Province Regional Panorama",
+        "altText": "Uva Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Archaeology Sri Lanka",
+        "sourceUrl": "http://www.archaeology.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "buduruwagala",
+      "yudaganawa-stupa"
+    ]
+  },
+  {
+    "id": "yudaganawa-stupa",
+    "name": "Yudaganawa Ancient Battlefield Stupa",
+    "slug": "yudaganawa-stupa",
+    "districtId": "monaragala",
+    "provinceId": "uva-province",
+    "category": "ancient-cities",
+    "categories": [
+      "ancient-cities",
+      "temples-religious",
+      "historical-sites",
+      "hidden-gems"
+    ],
+    "shortDescription": "One of the largest colossal brick stupas in southern Sri Lanka with a massive 317-meter circumference, marking the 2nd-century BCE battlefield where King Dutugemunu fought his brother.",
+    "fullDescription": "Situated near Buttala in Monaragala District, Yudaganawa Chaitya is one of the largest and most historically poignant ancient stupas in the southern half of Sri Lanka. Featuring an immense base circumference of 317 meters (1,040 feet), the stupa was constructed in the 2nd century BCE by Queen Viharamahadevi at the exact site of the historic battlefield where her two royal sons—Prince Gamani (later King Dutugemunu) and Prince Tissa (later King Saddhatissa)—fought a fierce civil war over the royal succession and the royal elephant Kandula. After the battle, the queen famously brought about a peaceful reconciliation between the brothers at this very spot. The stupa is uniquely designed as a 'Kota Vehera' (a flat-topped truncation) where the colossal brick drum rises to a height of about 27 meters and terminates in a smaller stupa on its upper terrace.",
+    "historicalBackground": "Built in the 2nd century BCE on the historic battlefield of the brothers Dutugemunu and Saddhatissa; restored by the Department of Archaeology.",
+    "naturalCharacteristics": "Vast baked-brick monument set in a tranquil clearing surrounded by dry forest and coconut groves.",
+    "specialFeatures": "Immense 317-meter base circumference, Kota Vehera flat-topped architecture, and historic reconciliation site.",
+    "reasonsToVisit": [
+      "Stand on the historic 2nd-century BCE battlefield where Prince Dutugemunu and Prince Tissa clashed",
+      "Marvel at the immense scale of one of southern Sri Lanka's largest brick stupas (317m circumference)",
+      "Learn the touching royal story of Queen Viharamahadevi reconciling her warring sons",
+      "Experience an ancient sacred monument preserved in complete rural tranquility"
+    ],
+    "activities": [
+      "Stupa terrace walking",
+      "Historical battle exploration",
+      "Photography"
+    ],
+    "bestTimeToVisit": "Year-round; morning visits provide peaceful atmosphere.",
+    "visitingDuration": "1 Hour",
+    "entranceInformation": "Free admission; voluntary donations.",
+    "openingHours": "06:00 - 18:30 Daily.",
+    "accessibilityInformation": "Paved flat avenues lead around the stupa perimeter.",
+    "safetyInformation": "Remove footwear and hats before walking around the sacred stupa terrace.",
+    "travelTips": {
+      "whatToBring": "Modest clothing, slip-off footwear, camera, water.",
+      "clothing": "Modest white clothing covering shoulders and knees.",
+      "photographyTips": "Step back across the open field to capture the immense width of the brick stupa dome.",
+      "localCustoms": "Quiet, respectful demeanor.",
+      "environmentalGuidelines": "Preserve the historical bricks."
+    },
+    "latitude": 6.75,
+    "longitude": 81.25,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/yudaganawa-stupa.jpg",
+        "caption": "Yudaganawa Ancient Battlefield Stupa - Primary Vista",
+        "altText": "Yudaganawa Ancient Battlefield Stupa, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/monaragala.jpg",
+        "caption": "Monaragala District Landscape",
+        "altText": "Monaragala District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/uva-province.jpg",
+        "caption": "Uva Province Regional Panorama",
+        "altText": "Uva Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Archaeology Sri Lanka",
+        "sourceUrl": "http://www.archaeology.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "buduruwagala",
+      "maligawila-buddha-statue"
+    ]
+  },
+  {
+    "id": "gal-oya-nilgala",
+    "name": "Nilgala Medicinal Forest & Indigenous Vedda Trails",
+    "slug": "gal-oya-nilgala",
+    "districtId": "monaragala",
+    "provinceId": "uva-province",
+    "category": "forests-reserves",
+    "categories": [
+      "forests-reserves",
+      "cultural-experiences",
+      "hidden-gems",
+      "hiking-trekking"
+    ],
+    "shortDescription": "A rare savannah forest renowned for medicinal Aralu, Bulu, and Nelli trees, traditional honey gathering, and ancestral trails of the indigenous Vedda people.",
+    "fullDescription": "Stretching across the foothills of Monaragala district into the Gal Oya basin, Nilgala (meaning 'Blue Rock') is an ecologically and culturally unique forest sanctuary. Unlike typical dense rainforests, Nilgala is a classic 'talawa' or open savanna woodland, characterized by fire-resistant native trees and sweeping tall grasses. For millennia, this forest has been revered as Sri Lanka's greatest natural medicinal herb repository, blanketed in vast wild groves of Aralu (Terminalia chebula), Bulu (Terminalia bellirica), and Nelli (Phyllanthus emblica)—the three essential ingredients of ancient Ayurvedic Triphala medicine. This forest is the ancestral hunting and foraging homeland of the indigenous Vedda (Wanniyalaeto) people, who have sustainably harvested wild bee honey from sheer cliff rock faces and used traditional medicinal plants here for generations. Guided walking treks with indigenous elders offer visitors a rare, authentic window into prehistoric hunter-gatherer wisdom, bow-and-arrow tracking, and cave paintings.",
+    "historicalBackground": "Ancestral homeland of Sri Lanka's indigenous Wanniyalaeto (Vedda) people for over 10,000 years; historic royal Ayurvedic herb gathering reserve.",
+    "naturalCharacteristics": "Open savanna woodland (talawa) with medicinal fruit trees, rocky granite outcrops, and seasonal streams.",
+    "specialFeatures": "Ancient Ayurvedic Triphala forest, indigenous Vedda ancestral culture, wild rock honey gathering, and prehistoric cave shelters.",
+    "reasonsToVisit": [
+      "Walk through Sri Lanka's greatest wild Ayurvedic medicinal forest of Aralu, Bulu, and Nelli trees",
+      "Learn ancient plant medicine and tracking lore directly from indigenous Vedda guides",
+      "Discover the ancient art of wild honey harvesting from sheer rock cliffs",
+      "Experience a rare savanna wilderness ecosystem found nowhere else in the country"
+    ],
+    "activities": [
+      "Guided indigenous forest walks",
+      "Ayurvedic plant identification",
+      "Birdwatching and wildlife spotting",
+      "Cultural exchange"
+    ],
+    "bestTimeToVisit": "June to September (dry season for forest walking; honey harvesting season).",
+    "visitingDuration": "Half Day to Full Day",
+    "entranceInformation": "Forest Department permit required; guided treks arranged through local community eco-lodges.",
+    "openingHours": "06:30 - 17:30 Daily.",
+    "accessibilityInformation": "Natural earthen savanna trails; requires moderate walking stamina over uneven ground.",
+    "safetyInformation": "Wild elephants inhabit the forest; always trek with a certified local guide or indigenous elder.",
+    "travelTips": {
+      "whatToBring": "Sturdy walking shoes, sun hat, insect repellent, drinking water, camera.",
+      "clothing": "Lightweight breathable earth-toned hiking clothes.",
+      "photographyTips": "Photograph the open savanna grasslands dotted with gnarly Aralu trees against the backdrop of distant blue rocky mountains.",
+      "localCustoms": "Treat indigenous Vedda elders with dignity and genuine respect; compensate them fairly for their cultural time.",
+      "environmentalGuidelines": "Do not harvest medicinal herbs without guidance; strictly no littering or open fires."
+    },
+    "latitude": 7.1833,
+    "longitude": 81.3167,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/gal-oya-nilgala.jpg",
+        "caption": "Nilgala Medicinal Forest & Indigenous Vedda Trails - Primary Vista",
+        "altText": "Nilgala Medicinal Forest & Indigenous Vedda Trails, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/monaragala.jpg",
+        "caption": "Monaragala District Landscape",
+        "altText": "Monaragala District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/uva-province.jpg",
+        "caption": "Uva Province Regional Panorama",
+        "altText": "Uva Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Forest Department Sri Lanka",
+        "sourceUrl": "http://www.forestdept.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "gal-oya-national-park",
+      "yudaganawa-stupa"
+    ]
+  },
+  {
+    "id": "kataragama-kiri-vehera",
+    "name": "Kataragama Kiri Vehera Ancient Stupa",
+    "slug": "kataragama-kiri-vehera",
+    "districtId": "monaragala",
+    "provinceId": "uva-province",
+    "category": "temples-religious",
+    "categories": [
+      "temples-religious",
+      "ancient-cities",
+      "historical-sites"
+    ],
+    "shortDescription": "The sacred 6th-century BCE white stupa built by King Mahasena on the spot where the Buddha delivered discourses to King Mahasena on his third visit to Sri Lanka.",
+    "fullDescription": "Standing with serene white splendor 1 kilometer north of the main Ruhunu Kataragama Devalaya complex (spanning the Monaragala and Hambantota district boundary), Kiri Vehera is one of Sri Lanka's most ancient and revered Buddhist pilgrimage shrines. According to the sacred Mahavamsa chronicle, during the Buddha's third visit to Sri Lanka in the 6th century BCE, he visited Kataragama (then known as Kajjaragama) and delivered discourses to the regional ruler King Mahasena and his assembly at this exact site in the Khadiragala garden. In eternal commemoration of the sacred visit, King Mahasena constructed this magnificent 29-meter (95-foot) stupa over a golden seat and bodily relics. Enclosed by ancient brick walls, the stupa is linked to the Kataragama Hindu shrines by a grand, tree-shaded paved avenue where thousands of white-clad devotees carry lotus blossoms and chanting resonates into the night.",
+    "historicalBackground": "Built in the 6th century BCE by King Mahasena; visited by the Buddha on his third visit; restored by the Archaeological Department.",
+    "naturalCharacteristics": "Tranquil parkland shaded by ancient sacred Bo trees, flanked by the Menik Ganga river.",
+    "specialFeatures": "29-meter white stupa, sacred Bodhi tree, 2,500-year history, and sacred connecting pilgrim avenue.",
+    "reasonsToVisit": [
+      "Pay homage at one of Sri Lanka's most ancient stupas built during the lifetime of the Buddha",
+      "Walk the shaded pilgrimage avenue linking Hindu and Buddhist sanctuaries across the Menik Ganga",
+      "Experience the uplifting devotional energy of thousands of pilgrims offering lotus flowers at twilight",
+      "Witness an ancient living tradition of spiritual harmony in the heart of the southern dry zone"
+    ],
+    "activities": [
+      "Stupa circumambulation (padakshina)",
+      "Lighting clay oil lamps",
+      "Lotus flower offerings",
+      "Quiet meditation"
+    ],
+    "bestTimeToVisit": "Evening hours (17:30 - 20:30) when the white stupa dome is beautifully floodlit and the air cools.",
+    "visitingDuration": "1 - 1.5 Hours",
+    "entranceInformation": "Free admission.",
+    "openingHours": "05:00 - 21:00 Daily.",
+    "accessibilityInformation": "Paved flat pedestrian avenue connects the main Kataragama shrines to Kiri Vehera; accessible for all visitors.",
+    "safetyInformation": "Remove footwear and hats before entering the sacred courtyard; respect worshippers in prayer.",
+    "travelTips": {
+      "whatToBring": "Modest white clothing, slip-off footwear, fresh lotus or water lily flowers.",
+      "clothing": "White or light clothing covering shoulders and knees.",
+      "photographyTips": "Photograph the gleaming white dome framed by temple flags against a deep violet twilight sky.",
+      "localCustoms": "Walk clockwise around the stupa; make a voluntary offering at the flower altar.",
+      "environmentalGuidelines": "Leave footwear at designated shoe counters; no littering."
+    },
+    "latitude": 6.425,
+    "longitude": 81.3333,
+    "featured": false,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/kataragama-kiri-vehera.jpg",
+        "caption": "Kataragama Kiri Vehera Ancient Stupa - Primary Vista",
+        "altText": "Kataragama Kiri Vehera Ancient Stupa, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/monaragala.jpg",
+        "caption": "Monaragala District Landscape",
+        "altText": "Monaragala District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/uva-province.jpg",
+        "caption": "Uva Province Regional Panorama",
+        "altText": "Uva Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Archaeology Sri Lanka",
+        "sourceUrl": "http://www.archaeology.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "kataragama-sacred-city",
+      "yala-national-park",
+      "buduruwagala"
+    ]
+  }
+]

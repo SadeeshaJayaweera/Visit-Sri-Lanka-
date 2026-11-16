@@ -1,0 +1,942 @@
+[
+  {
+    "id": "adams-peak-sri-pada",
+    "name": "Adam's Peak (Sri Pada / Sacred Footprint Mountain)",
+    "slug": "adams-peak-sri-pada",
+    "districtId": "ratnapura",
+    "provinceId": "sabaragamuwa-province",
+    "category": "mountains",
+    "categories": [
+      "mountains",
+      "temples-religious",
+      "hiking-trekking",
+      "viewpoints",
+      "adventure",
+      "cultural-experiences"
+    ],
+    "shortDescription": "The sacred 2,243-meter pyramid mountain venerated by four world religions for the holy footprint atop its summit, famous for its midnight pilgrimage and mystical sunrise shadow.",
+    "fullDescription": "Looming majestically like a solitary, symmetrical pyramid out of the mist-shrouded cloud forests of the Peak Wilderness Sanctuary, Adam's Peak (known locally as Sri Pada or Samanalakanda / 'Butterfly Mountain') is one of the most spiritually sacred mountain summits on planet Earth. Rising to an elevation of 2,243 meters (7,359 feet), the summit shelters a sacred rock depression venerated across four major world faiths: to Buddhists, it is the sacred left footprint (Sri Pada) of Gautama Buddha imprinted during his third visit to the island; to Hindus, it is the holy footprint of Lord Shiva (Shivan Oli Padam); to Muslims, it is where the prophet Adam first set foot on Earth after expulsion from Eden; and to Christians, it is linked to St. Thomas the Apostle. For over a thousand years, kings, pilgrims, and travelers—including Marco Polo in 1292 and Ibn Battuta in 1344—have climbed the sacred mountain. Today, millions make the nocturnal pilgrimage (traditionally ascending via Hatton-Nallathanniya or the wilder Ratnapura trail) under ribbons of electric fairy lights to reach the summit shrine for the daily ringing of the bell (once for each completed ascent) and the breathtaking spectacle of the 'Ira Sevaya' (the sacred sunrise) casting an uncanny, perfect triangular shadow over the western clouds.",
+    "historicalBackground": "Revered since ancient antiquity; patronized by King Vijayabahu I (11th century) who constructed pilgrim rest houses; visited by Marco Polo (1292) and Ibn Battuta (1344); protected within the Central Highlands UNESCO World Heritage site.",
+    "naturalCharacteristics": "Isolated pyramid-shaped mountain peak surrounded by the pristine virgin rainforests and cloud forests of the Peak Wilderness Sanctuary.",
+    "specialFeatures": "Sacred footprint shrine atop the summit, ribbon of illuminated night steps, Ira Sevaya (sacred sunrise), and the mystical triangular sunrise shadow.",
+    "reasonsToVisit": [
+      "Climb through the night alongside thousands of pilgrims singing devotional hymns under illuminated steps",
+      "Witness the world-famous 'Ira Sevaya' sunrise and the mystical, floating triangular shadow of the mountain",
+      "Ring the summit temple bell—a cherished tradition where climbers ring the bell once for every ascent",
+      "Experience a rare, living testament of interfaith harmony shared by Buddhists, Hindus, Muslims, and Christians"
+    ],
+    "activities": [
+      "Nocturnal pilgrimage trekking (5,500 steps)",
+      "Sunrise watching and shadow photography",
+      "Summit shrine blessing",
+      "Ringing the sacred bronze bell"
+    ],
+    "bestTimeToVisit": "Official pilgrimage season runs from Unduvap Poya (December full moon) to Vesak Poya (May full moon), when steps are illuminated and tea stalls line the entire route.",
+    "visitingDuration": "6 - 8 Hours (Ascent: 3.5 - 5 hours starting at 01:00 AM; Descent: 2.5 - 3.5 hours).",
+    "entranceInformation": "Free public access; voluntary temple donations at the summit shrine.",
+    "openingHours": "Open 24 hours during the pilgrimage season (December to May).",
+    "accessibilityInformation": "Requires climbing 5,000 to 6,000 concrete and stone steps; extremely strenuous; requires good physical fitness and endurance.",
+    "safetyInformation": "Temperatures at the 2,243m summit at dawn can drop near 5°C with strong winds; bring warm layers and a beanie; descend cautiously to protect knees.",
+    "travelTips": {
+      "whatToBring": "Warm fleece jacket, windbreaker, beanie/gloves, flashlight/headlamp, knee support bands, water bottle, snacks, camera.",
+      "clothing": "Layered warm clothing; wear lightweight athletic clothes while climbing, but put on warm fleece and windbreaker at the summit.",
+      "photographyTips": "Position yourself at the western railing of the summit immediately after sunrise to capture the famous triangular shadow cast across the cloud deck.",
+      "localCustoms": "First-time climbers (Kodu) traditionally bathe at Seetha Gangula stream and hang white thread along the trail.",
+      "environmentalGuidelines": "Strict zero-litter policy; do not discard plastic wrappers or water bottles on the sacred mountain."
+    },
+    "latitude": 6.8097,
+    "longitude": 80.4994,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/adams-peak-sri-pada.jpg",
+        "caption": "Adam's Peak (Sri Pada / Sacred Footprint Mountain) - Primary Vista",
+        "altText": "Adam's Peak (Sri Pada / Sacred Footprint Mountain), Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/ratnapura.jpg",
+        "caption": "Ratnapura District Landscape",
+        "altText": "Ratnapura District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/sabaragamuwa-province.jpg",
+        "caption": "Sabaragamuwa Province Regional Panorama",
+        "altText": "Sabaragamuwa Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Archaeology Sri Lanka",
+        "sourceUrl": "http://www.archaeology.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      },
+      {
+        "sourceName": "UNESCO World Heritage Centre",
+        "sourceUrl": "https://whc.unesco.org/en/list/1203",
+        "sourceType": "International Heritage Organization",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "sinharaja-forest-reserve",
+      "bopath-ella-falls",
+      "kitulgala-white-water-rafting"
+    ]
+  },
+  {
+    "id": "sinharaja-forest-reserve",
+    "name": "Sinharaja Forest Reserve (UNESCO Biosphere)",
+    "slug": "sinharaja-forest-reserve",
+    "districtId": "ratnapura",
+    "provinceId": "sabaragamuwa-province",
+    "category": "forests-reserves",
+    "categories": [
+      "forests-reserves",
+      "national-parks",
+      "wildlife-safari",
+      "hiking-trekking"
+    ],
+    "shortDescription": "The last viable expanse of virgin tropical lowland rainforest in Sri Lanka, a UNESCO World Heritage biodiversity treasure where over 60% of trees and 95% of birds are endemic.",
+    "fullDescription": "Spanning 8,864 hectares across Ratnapura, Galle, and Matara districts, the Sinharaja Forest Reserve (meaning 'Kingdom of the Lion') is Sri Lanka's supreme ecological crown jewel. Designated a UNESCO World Biosphere Reserve in 1978 and inscribed as a UNESCO World Heritage site in 1988, Sinharaja is the last remaining substantial primary virgin tropical lowland rainforest on the island. Due to its dense, multi-layered forest canopy reaching heights of 45 meters, rugged ridge-and-valley topography, and evolutionary isolation, Sinharaja harbors a staggering degree of endemism: over 60% of its towering dipterocarp trees are endemic to Sri Lanka, along with 21 of the island's 26 endemic bird species (including the Sri Lanka Blue Magpie, Red-faced Malkoha, Serendib Scops Owl, and Ashy-headed Laughingthrush). The forest is world-renowned among ornithologists for its mixed-species bird feeding flocks—the largest and longest-studied in the world—where up to 40 bird species travel together in a fast-moving, cooperative jungle wave.",
+    "historicalBackground": "Protected from commercial logging by public and scientific outcry in 1977; declared a UNESCO Biosphere in 1978 and World Heritage site in 1988.",
+    "naturalCharacteristics": "Virgin tropical lowland evergreen rainforest with multi-layered canopy (30-45m), steep ridges, and crystal-clear streams.",
+    "specialFeatures": "World's largest mixed-species bird feeding flocks, 21 endemic bird species, giant tropical dipterocarp trees, and cascading jungle waterfalls.",
+    "reasonsToVisit": [
+      "Trek through untouched, primeval tropical rainforest that has existed for millions of years",
+      "Witness the world-famous mixed-species bird feeding flocks moving together through the canopy",
+      "Spot dazzling endemic wildlife like the Sri Lanka Blue Magpie and purple-faced langur monkeys",
+      "Swim in natural, crystal-clear jungle rock pools beneath hidden rainforest cascades"
+    ],
+    "activities": [
+      "Guided rainforest trekking",
+      "Endemic birdwatching",
+      "Jungle waterfall swimming",
+      "Botanical and macro photography"
+    ],
+    "bestTimeToVisit": "December to April and August to September (drier periods with fewer leeches and clearer trails; early morning start at 06:30).",
+    "visitingDuration": "Half Day to Full Day (or Multi-Day eco-lodge stay)",
+    "entranceInformation": "Forest Department ticket: approx. LKR 2,500 - 3,500 per foreign adult visitor; hiring an official certified Forest Department guide at the entrance gate (Kudawa or Pitadeniya) is mandatory (approx. LKR 3,000 - 5,000).",
+    "openingHours": "06:30 - 18:00 Daily.",
+    "accessibilityInformation": "Natural earthen rainforest trails with exposed tree roots, stream crossings, and rocky climbs; requires moderate fitness.",
+    "safetyInformation": "Leeches are prevalent, particularly after rain; wear high leech socks and apply salt/soap; always stay on marked trails with your certified guide.",
+    "travelTips": {
+      "whatToBring": "Leech socks (available at entrance), rain poncho, waterproof camera pouch, binoculars, insect repellent, drinking water.",
+      "clothing": "Breathable, lightweight long-sleeve shirts and long pants tucked into leech socks.",
+      "photographyTips": "Bring a fast prime lens (f/2.8 or wider) to capture birds in the dark, dense understory of the rainforest.",
+      "localCustoms": "Hire a passionate local guide from the Kudawa or Pitadeniya conservation societies.",
+      "environmentalGuidelines": "Strict zero-impact conservation rules: do not touch wildlife, take zero specimens, and leave absolutely no trash."
+    },
+    "latitude": 6.4167,
+    "longitude": 80.45,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/sinharaja-forest-reserve.jpg",
+        "caption": "Sinharaja Forest Reserve (UNESCO Biosphere) - Primary Vista",
+        "altText": "Sinharaja Forest Reserve (UNESCO Biosphere), Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/ratnapura.jpg",
+        "caption": "Ratnapura District Landscape",
+        "altText": "Ratnapura District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/sabaragamuwa-province.jpg",
+        "caption": "Sabaragamuwa Province Regional Panorama",
+        "altText": "Sabaragamuwa Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Forest Department Sri Lanka",
+        "sourceUrl": "http://www.forestdept.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      },
+      {
+        "sourceName": "UNESCO World Heritage Centre",
+        "sourceUrl": "https://whc.unesco.org/en/list/405",
+        "sourceType": "International Heritage Organization",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "adams-peak-sri-pada",
+      "bopath-ella-falls",
+      "udawalawe-national-park"
+    ]
+  },
+  {
+    "id": "bopath-ella-falls",
+    "name": "Bopath Ella Bo-Leaf Waterfall",
+    "slug": "bopath-ella-falls",
+    "districtId": "ratnapura",
+    "provinceId": "sabaragamuwa-province",
+    "category": "waterfalls",
+    "categories": [
+      "waterfalls",
+      "family-friendly",
+      "photography"
+    ],
+    "shortDescription": "A picturesque 30-meter waterfall that cascades through a narrow rocky cleft and widens into the distinctive shape of a sacred Bo leaf (Ficus religiosa).",
+    "fullDescription": "Situated in the village of Agalawatta near Kuruwita in Ratnapura District, Bopath Ella is one of Sri Lanka's most uniquely shaped and visually distinctive waterfalls. Plunging 30 meters (98 feet) from the Kuru Ganga river (a tributary of the Kalu Ganga), the waterfall is celebrated for its remarkable natural morphology: the rushing river bursts through a narrow vertical cleft in the upper rocks and cascades downward while spreading out horizontally, perfectly mimicking the heart-shaped leaf of the sacred Bo tree (Bopath in Sinhala), complete with a slender tip at the base. Surrounded by lush tropical greenery and equipped with paved walking paths, viewing pavilions, and natural shallow swimming pools downstream, it is a favorite day retreat for families, nature lovers, and photographers.",
+    "historicalBackground": "Steeped in local Sabaragamuwa folklore with tales of an ancient guardian maiden and hidden royal treasure under the pool.",
+    "naturalCharacteristics": "Unique Bo-leaf shaped cascade formed by water flowing through a constricted granite rock gorge.",
+    "specialFeatures": "Distinctive Bo-leaf (heart-shaped) cascade formation, downstream swimming areas, and paved riverfront promenade.",
+    "reasonsToVisit": [
+      "Witness one of Sri Lanka's most uniquely sculpted waterfalls resembling a sacred Bo leaf",
+      "Enjoy a safe, family-friendly day out with paved paths and riverside viewing platforms",
+      "Bathe in shallow, refreshing natural river rock pools situated downstream from the falls",
+      "Easily accessible just a short scenic detour from the main Colombo-Ratnapura highway (A4)"
+    ],
+    "activities": [
+      "Waterfall viewing and photography",
+      "Downstream river bathing",
+      "Picnicking",
+      "Village walking"
+    ],
+    "bestTimeToVisit": "October to April; weekday mornings are peaceful and uncrowded.",
+    "visitingDuration": "1.5 - 2.5 Hours",
+    "entranceInformation": "Nominal entrance fee: approx. LKR 100 per person; small vehicle parking fee.",
+    "openingHours": "07:00 - 18:00 Daily.",
+    "accessibilityInformation": "Paved flat pathways lead directly to the main viewing platform; accessible for families and elderly visitors.",
+    "safetyInformation": "Do not attempt to swim in the turbulent pool directly beneath the main cascade; use only the marked calm downstream bathing pools.",
+    "travelTips": {
+      "whatToBring": "Swimwear, towel, change of clothes, camera, drinking water.",
+      "clothing": "Casual comfortable travel clothes.",
+      "photographyTips": "Photograph from the main viewing bridge to capture the distinctive 'Bo leaf' symmetry of the cascade.",
+      "localCustoms": "Popular weekend leisure retreat for local families.",
+      "environmentalGuidelines": "Strict zero-litter policy; do not leave food packaging or bottles by the river."
+    },
+    "latitude": 6.7833,
+    "longitude": 80.3667,
+    "featured": false,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/bopath-ella-falls.jpg",
+        "caption": "Bopath Ella Bo-Leaf Waterfall - Primary Vista",
+        "altText": "Bopath Ella Bo-Leaf Waterfall, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/ratnapura.jpg",
+        "caption": "Ratnapura District Landscape",
+        "altText": "Ratnapura District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/sabaragamuwa-province.jpg",
+        "caption": "Sabaragamuwa Province Regional Panorama",
+        "altText": "Sabaragamuwa Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Development Authority",
+        "sourceUrl": "https://www.sltda.gov.lk",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "ratnapura-gem-museum",
+      "maha-saman-devalaya",
+      "adams-peak-sri-pada"
+    ]
+  },
+  {
+    "id": "ratnapura-gem-museum",
+    "name": "Ratnapura City of Gems & Traditional Mines",
+    "slug": "ratnapura-gem-museum",
+    "districtId": "ratnapura",
+    "provinceId": "sabaragamuwa-province",
+    "category": "cultural-experiences",
+    "categories": [
+      "cultural-experiences",
+      "historical-sites",
+      "hidden-gems"
+    ],
+    "shortDescription": "The world's premier gem trading capital, where traditional bamboo-shored pit mines unearth the world's finest royal blue sapphires, rubies, and alexandrites.",
+    "fullDescription": "Renowned worldwide for over 2,500 years as the 'City of Gems' (from the Sanskrit Ratna-pura), Ratnapura is the historical center of the global sapphire trade. The fertile alluvial floodplains and gravels (illam) beneath this valley have yielded some of the world's most famous and priceless gemstones, including the 423-carat 'Logan Blue Sapphire', the 'Star of India' (563 carats), and the blue sapphire in the British Royal Family's engagement ring worn by Princess Diana and Kate Middleton. Visitors can tour working traditional artisanal gem pits, where miners descend into narrow bamboo-shored shafts, haul up basketfuls of gem-bearing gravel, and wash the gravel in wicker baskets in nearby streams. In the town center, the National Museum of Ratnapura and private gem museums showcase rough and polished sapphires, rubies, padparadscha, and cat's eyes alongside prehistoric fossils of elephants, hippos, and rhinos discovered deep in gem pits.",
+    "historicalBackground": "Mentioned by ancient Roman, Arab, and Persian traders (Sinbad the Sailor visited 'Serendib' for gems); described by Marco Polo in 1292.",
+    "naturalCharacteristics": "Alluvial river floodplains and fertile gravel beds surrounded by mist-covered mountain ranges.",
+    "specialFeatures": "Traditional artisanal pit mining techniques (yathura), daily street gem market (Ambagahayata), and rare gemstone museum exhibits.",
+    "reasonsToVisit": [
+      "Stand at the epicenter of the global sapphire trade and watch traditional pit miners washing gem gravel",
+      "Witness the daily morning open-air street gem market in Ratnapura town",
+      "Admire priceless royal blue sapphires, rubies, and alexandrites in town museums",
+      "Learn how ancient alluvial geology concentrated earth's rarest treasures beneath this valley"
+    ],
+    "activities": [
+      "Gem mine pit tour",
+      "Street gem market observation",
+      "Visiting the National Museum of Ratnapura",
+      "Gemological education"
+    ],
+    "bestTimeToVisit": "Year-round; morning visits (08:30 - 11:30) allow you to catch the lively morning street gem market in action.",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "Nominal museum entrance fee: approx. LKR 300 - 500; mine visits arranged via local accredited operators.",
+    "openingHours": "Museums open 09:00 - 17:00; mines operate Monday to Saturday daylight hours.",
+    "accessibilityInformation": "Museums are accessible; gem pits are in working rural agricultural fields with dirt paths.",
+    "safetyInformation": "Do not purchase gemstones on the street from unlicensed peddlers; purchase only from certified members of the National Gem and Jewellery Authority with authenticity certificates.",
+    "travelTips": {
+      "whatToBring": "Camera, comfortable shoes for muddy field trails around mines, magnifying loupe (if interested in gemology).",
+      "clothing": "Casual comfortable travel wear.",
+      "photographyTips": "Photograph miners washing the gem-bearing gravel (illam) in traditional circular conical wicker baskets in the river.",
+      "localCustoms": "Always seek testing and certification at the official National Gem and Jewellery Authority office.",
+      "environmentalGuidelines": "Modern regulations mandate that excavated gem pits must be refilled with soil to prevent environmental degradation."
+    },
+    "latitude": 6.6833,
+    "longitude": 80.4,
+    "featured": false,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/ratnapura-gem-museum.jpg",
+        "caption": "Ratnapura City of Gems & Traditional Mines - Primary Vista",
+        "altText": "Ratnapura City of Gems & Traditional Mines, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/ratnapura.jpg",
+        "caption": "Ratnapura District Landscape",
+        "altText": "Ratnapura District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/sabaragamuwa-province.jpg",
+        "caption": "Sabaragamuwa Province Regional Panorama",
+        "altText": "Sabaragamuwa Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "National Gem and Jewellery Authority Sri Lanka",
+        "sourceUrl": "http://www.ngja.gov.lk",
+        "sourceType": "Official Regulatory Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "maha-saman-devalaya",
+      "bopath-ella-falls",
+      "adams-peak-sri-pada"
+    ]
+  },
+  {
+    "id": "maha-saman-devalaya",
+    "name": "Maha Saman Devalaya",
+    "slug": "maha-saman-devalaya",
+    "districtId": "ratnapura",
+    "provinceId": "sabaragamuwa-province",
+    "category": "temples-religious",
+    "categories": [
+      "temples-religious",
+      "historical-sites",
+      "cultural-experiences"
+    ],
+    "shortDescription": "The grand 13th-century guardian shrine of God Saman, protector of Sri Pada and Sabaragamuwa, home to the magnificent annual Saman Devalaya Perahera.",
+    "fullDescription": "Situated on a scenic hillock overlooking the Kalu Ganga river 4 kilometers west of Ratnapura, the Maha Saman Devalaya is the supreme guardian shrine of God Saman (Sumanasaman), the patron guardian deity of Mount Sri Pada and the province of Sabaragamuwa. Originally constructed in the 13th century during the Dambadeniya era under King Parakramabahu II, the temple was later fortified by the Portuguese as a fortress church before being gloriously reclaimed and restored under King Rajasinghe II in the Kandyan era. The grand architectural complex features an arched entrance gateway, multi-tiered white Kandyan roofs, carved timber pillars, and a sacred Bodhi tree. Every year in August/September, the devalaya hosts the spectacular Saman Devalaya Perahera, an ancient royal pageant featuring dozens of caparisoned tuskers, torchbearers, whip crackers, and unique Sabaragamuwa traditional dancers (Sabaragamuwa Natum).",
+    "historicalBackground": "Built in the 13th century CE by minister Aryakamadeva under King Parakramabahu II; reclaimed and rebuilt by King Rajasinghe II in the 17th century.",
+    "naturalCharacteristics": "Elevated hillock overlooking the Kalu Ganga river and lush palm and rubber plantations.",
+    "specialFeatures": "Kandyan multi-tiered timber architecture, sacred shrine of God Saman, and the annual Saman Devalaya Esala Perahera.",
+    "reasonsToVisit": [
+      "Pay respects at the primary sanctuary of God Saman, the celestial guardian deity of Adam's Peak",
+      "Admire classic multi-tiered Kandyan royal temple architecture with red-tiled roofs and timber carvings",
+      "Witness the grandeur of the annual Saman Devalaya Perahera featuring unique Sabaragamuwa dancing",
+      "Enjoy peaceful views overlooking the Kalu Ganga from the temple's fortified hill terrace"
+    ],
+    "activities": [
+      "Temple puja observation",
+      "Architectural photography",
+      "Perahera pageant viewing (August/September)"
+    ],
+    "bestTimeToVisit": "Daily morning and evening puja hours; August/September during the annual Saman Devalaya Esala Perahera festival.",
+    "visitingDuration": "1 - 1.5 Hours",
+    "entranceInformation": "Free admission; voluntary temple donations.",
+    "openingHours": "06:00 - 20:00 Daily.",
+    "accessibilityInformation": "Stone stairs lead up from the river roadway; vehicle access road leads to the upper gate.",
+    "safetyInformation": "Remove footwear and hats before entering the sacred courtyard; respect worshippers in prayer.",
+    "travelTips": {
+      "whatToBring": "Modest white clothing, slip-off footwear, camera (no flash in inner shrine).",
+      "clothing": "Modest white or light clothing covering shoulders and knees.",
+      "photographyTips": "Photograph the multi-tiered red-tiled rooflines framed by the ancient sacred Bo tree against green hills.",
+      "localCustoms": "Pilgrims heading to Adam's Peak traditionally stop here to receive the blessing of God Saman for a safe journey.",
+      "environmentalGuidelines": "Keep the sacred shrine grounds pristine."
+    },
+    "latitude": 6.6917,
+    "longitude": 80.3667,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/maha-saman-devalaya.jpg",
+        "caption": "Maha Saman Devalaya - Primary Vista",
+        "altText": "Maha Saman Devalaya, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/ratnapura.jpg",
+        "caption": "Ratnapura District Landscape",
+        "altText": "Ratnapura District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/sabaragamuwa-province.jpg",
+        "caption": "Sabaragamuwa Province Regional Panorama",
+        "altText": "Sabaragamuwa Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Archaeology Sri Lanka",
+        "sourceUrl": "http://www.archaeology.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "ratnapura-gem-museum",
+      "bopath-ella-falls",
+      "adams-peak-sri-pada"
+    ]
+  },
+  {
+    "id": "udawalawe-national-park",
+    "name": "Udawalawe National Park & Elephant Transit Home",
+    "slug": "udawalawe-national-park",
+    "districtId": "ratnapura",
+    "provinceId": "sabaragamuwa-province",
+    "category": "wildlife-safari",
+    "categories": [
+      "wildlife-safari",
+      "national-parks",
+      "family-friendly",
+      "adventure"
+    ],
+    "shortDescription": "Sri Lanka's premier elephant sanctuary where wild herds are guaranteed on every safari, alongside the world-renowned Elephant Transit Home (ETH) rehabilitation center.",
+    "fullDescription": "Spanning 30,821 hectares across the border of Ratnapura and Monaragala districts, Udawalawe National Park is globally celebrated as one of the best places on Earth to see wild Asian elephants in their natural habitat. Established in 1972 to provide a sanctuary for wild animals displaced by the construction of the Udawalawe reservoir on the Walawe River, the park resembles an East African savanna: vast open grasslands dotted with thorny scrub, water pools, and dramatic mountain backdrops. Home to a resident population of approximately 500 to 700 wild elephants, sightings of mothers with adorable calves, majestic solitary bulls, and playful youngsters are practically 100% guaranteed on every single safari. Adjacent to the park lies the famous Elephant Transit Home (ETH / Ath Athuru Sevana), an internationally praised ethical rehabilitation facility supported by the Born Free Foundation, where orphaned baby elephants are nursed back to health and successfully released into the wild.",
+    "historicalBackground": "Established in 1972; the Elephant Transit Home was founded in 1995 and has successfully rehabilitated and released over 350 wild elephants back to nature.",
+    "naturalCharacteristics": "Open savanna grasslands, teak and scrub forest, and the vast reservoir waters of the Udawalawe Tank.",
+    "specialFeatures": "Practically guaranteed elephant sightings on every safari, open East African-style savanna scenery, and ethical Elephant Transit Home feeding viewing.",
+    "reasonsToVisit": [
+      "Enjoy practically 100% guaranteed wild Asian elephant sightings in open savanna grasslands",
+      "Witness adorable orphaned baby elephants running for their milk bottles at the Elephant Transit Home",
+      "Support true ethical wildlife rehabilitation where elephants are released back to the wild",
+      "Spot water monitors, mugger crocodiles, spotted deer, wild boar, and crested serpent eagles"
+    ],
+    "activities": [
+      "Open-top 4x4 wildlife safaris",
+      "Viewing baby elephant feeding at the Elephant Transit Home",
+      "Birdwatching around the reservoir"
+    ],
+    "bestTimeToVisit": "Year-round; early morning safaris (06:00 - 09:30) or late afternoon safaris (15:00 - 18:30); ETH feeding sessions at 09:00, 12:00, 15:00, and 18:00.",
+    "visitingDuration": "Half Day to Full Day",
+    "entranceInformation": "National Park ticket: approx. LKR 10,000 - 12,000 per foreign adult visitor (jeep hire approx. LKR 12,000 - 16,000); ETH entrance fee approx. LKR 1,500.",
+    "openingHours": "Park open 06:00 - 18:00 Daily; Elephant Transit Home viewing deck open 30 minutes before feeding sessions.",
+    "accessibilityInformation": "Park safaris conducted in 4x4 jeeps; Elephant Transit Home observation deck is fully paved and wheelchair accessible.",
+    "safetyInformation": "Remain inside safari jeeps at all times; direct physical interaction with orphaned elephants at ETH is strictly prohibited to ensure successful rewilding.",
+    "travelTips": {
+      "whatToBring": "Binoculars, telephoto camera lens, sun hat, sunglasses, drinking water.",
+      "clothing": "Neutral, earth-toned lightweight cotton clothing.",
+      "photographyTips": "Capture baby elephants drinking milk from giant bottles at the ETH viewing deck, and elephants bathing in the reservoir against sunset mountains.",
+      "localCustoms": "ETH is an internationally recognized ethical shelter; visitors observe silently from an elevated platform without touching the animals.",
+      "environmentalGuidelines": "Strict zero-litter policy; do not discard plastic in the park."
+    },
+    "latitude": 6.4667,
+    "longitude": 80.8833,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/udawalawe-national-park.jpg",
+        "caption": "Udawalawe National Park & Elephant Transit Home - Primary Vista",
+        "altText": "Udawalawe National Park & Elephant Transit Home, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/ratnapura.jpg",
+        "caption": "Ratnapura District Landscape",
+        "altText": "Ratnapura District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/sabaragamuwa-province.jpg",
+        "caption": "Sabaragamuwa Province Regional Panorama",
+        "altText": "Sabaragamuwa Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Wildlife Conservation Sri Lanka",
+        "sourceUrl": "http://www.dwc.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "sinharaja-forest-reserve",
+      "ratnapura-gem-museum"
+    ]
+  },
+  {
+    "id": "batadombalena-cave",
+    "name": "Batadombalena Prehistoric Cave (Balangoda Man)",
+    "slug": "batadombalena-cave",
+    "districtId": "ratnapura",
+    "provinceId": "sabaragamuwa-province",
+    "category": "caves",
+    "categories": [
+      "caves",
+      "historical-sites",
+      "hiking-trekking",
+      "hidden-gems"
+    ],
+    "shortDescription": "One of the most important prehistoric human archaeological sites in Asia, yielding skeletal remains of anatomically modern 'Balangoda Man' dating back 38,000 years.",
+    "fullDescription": "Hidden in the dense tropical foothills near Kuruwita in Ratnapura District, Batadombalena is a prehistoric rock cave of global anthropological and evolutionary importance. Excavated extensively by legendary Sri Lankan archaeologist Dr. Siran Deraniyagala, the massive limestone cave shelter yielded fossilized skeletal remains, stone tools, and burial sites of anatomically modern humans (Homo sapiens balangodensis or 'Balangoda Man') dating back continuously from 38,000 to 12,000 years before the present. Among the groundbreaking discoveries made here were the world's oldest geometric microlithic stone tools (dated to 31,000 years ago), shell beads imported from the ocean coast over 40 kilometers away, and evidence of the earliest intentional human use of salt. Reached via a scenic uphill trek through lush tea and rubber plantations followed by a rainforest staircase, the cave is a fascinating window into deep prehistoric human antiquity.",
+    "historicalBackground": "Excavated in 1979-1982 by Dr. Siran Deraniyagala; revolutionized global anthropological understanding of early modern human technology in South Asia.",
+    "naturalCharacteristics": "Spacious limestone cave overhang situated high on a forested mountain ridge in the wet zone.",
+    "specialFeatures": "38,000-year-old archaeological habitation layers, discovery site of Balangoda Man, and geometric microlith tools.",
+    "reasonsToVisit": [
+      "Stand inside a prehistoric cave home continuously inhabited by modern humans for over 25,000 years",
+      "Learn about the groundbreaking archaeological discovery of 38,000-year-old 'Balangoda Man'",
+      "Enjoy an adventurous, scenic hike through traditional rubber estates and tropical rainforest",
+      "Experience a globally significant evolutionary site away from standard tourist tracks"
+    ],
+    "activities": [
+      "Archaeological cave exploration",
+      "Prehistoric history education",
+      "Forest trail hiking",
+      "Nature photography"
+    ],
+    "bestTimeToVisit": "December to April (drier forest trail conditions).",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "Nominal entrance fee: approx. LKR 300 for foreign visitors; LKR 50 for locals.",
+    "openingHours": "08:00 - 17:00 Daily.",
+    "accessibilityInformation": "Requires an uphill hike of approximately 1 kilometer along forest trails and concrete steps; requires moderate fitness.",
+    "safetyInformation": "Cave floor can be slippery; bring a flashlight/headlamp to examine the deeper rock strata.",
+    "travelTips": {
+      "whatToBring": "Sturdy walking shoes, flashlight, drinking water, insect repellent.",
+      "clothing": "Comfortable hiking clothing.",
+      "photographyTips": "Photograph looking out from inside the cave opening to frame the tropical green forest valley outside.",
+      "localCustoms": "Quiet, educational archaeological site.",
+      "environmentalGuidelines": "Strictly do not disturb the excavated archaeological earth strata or carve into rock walls."
+    },
+    "latitude": 6.7833,
+    "longitude": 80.35,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/batadombalena-cave.jpg",
+        "caption": "Batadombalena Prehistoric Cave (Balangoda Man) - Primary Vista",
+        "altText": "Batadombalena Prehistoric Cave (Balangoda Man), Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/ratnapura.jpg",
+        "caption": "Ratnapura District Landscape",
+        "altText": "Ratnapura District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/sabaragamuwa-province.jpg",
+        "caption": "Sabaragamuwa Province Regional Panorama",
+        "altText": "Sabaragamuwa Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Archaeology Sri Lanka",
+        "sourceUrl": "http://www.archaeology.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "bopath-ella-falls",
+      "ratnapura-gem-museum",
+      "belilena-cave"
+    ]
+  },
+  {
+    "id": "pinnawala-elephant-orphanage",
+    "name": "Pinnawala Elephant Orphanage & River Bath",
+    "slug": "pinnawala-elephant-orphanage",
+    "districtId": "kegalle",
+    "provinceId": "sabaragamuwa-province",
+    "category": "wildlife-safari",
+    "categories": [
+      "wildlife-safari",
+      "family-friendly",
+      "cultural-experiences",
+      "photography"
+    ],
+    "shortDescription": "The world-famous captive elephant sanctuary founded in 1975, where visitors watch a herd of up to 80 Asian elephants bathe together in the Maha Oya river.",
+    "fullDescription": "Situated in Rambukkana near Kegalle, the Pinnawala Elephant Orphanage is one of Sri Lanka's most globally renowned and photographed wildlife attractions. Established in 1975 by the Department of Wildlife Conservation to care for five orphaned unweaned wild elephant calves found abandoned in forests across the island, the facility has grown into the largest captive breeding herd of Asian elephants in the world, caring for around 70 to 80 elephants across multiple generations. The highlight of every visit is the breathtaking daily river bath procession: twice daily (at 10:00 AM and 2:00 PM), the entire herd marches down the village street to the broad, flowing waters of the Maha Oya river. Spectators seated at riverside restaurant verandahs watch with delight as giant tuskers, matriarchs, and boisterous baby calves splash, roll, submerge, and playfully wrestle in the water. Visitors can also watch milk-feeding of young calves and learn about elephant paper manufacturing from elephant dung.",
+    "historicalBackground": "Founded in 1975 at Wilpattu and relocated to Pinnawala; has seen over 70 successful elephant births under veterinary care.",
+    "naturalCharacteristics": "Broad tropical river valley of the Maha Oya with water-worn boulders and coconut groves.",
+    "specialFeatures": "Daily river bath procession of 70+ elephants (10:00 and 14:00), baby elephant milk feeding, and Maximus elephant dung paper factory.",
+    "reasonsToVisit": [
+      "Witness the world-famous spectacle of dozens of Asian elephants bathing together in the Maha Oya river",
+      "Watch adorable baby elephant calves drinking milk from giant bottles",
+      "Enjoy riverside lunch or tea while massive elephants splash in the river directly below your balcony",
+      "Discover eco-friendly elephant dung paper manufacturing at the on-site workshop"
+    ],
+    "activities": [
+      "River bath procession viewing",
+      "Baby elephant bottle-feeding observation",
+      "Visiting the elephant dung paper factory",
+      "Riverside dining"
+    ],
+    "bestTimeToVisit": "Arrive in time for the daily river bathing sessions: 10:00 AM to 12:00 PM or 02:00 PM to 04:00 PM.",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "National Zoological Gardens ticket: approx. LKR 3,500 - 4,500 for foreign adult visitors; LKR 100 for locals.",
+    "openingHours": "08:30 - 17:30 Daily; milk feeding at 09:15, 13:15, and 17:00; river bathing at 10:00 - 12:00 and 14:00 - 16:00.",
+    "accessibilityInformation": "Paved flat avenues and ramps connect the main facility; riverside viewing terraces are wheelchair accessible.",
+    "safetyInformation": "Do not attempt to touch or approach elephants without handler supervision; keep behind safety railings during the street procession.",
+    "travelTips": {
+      "whatToBring": "Camera with zoom lens, sun hat, sunglasses, drinking water.",
+      "clothing": "Casual comfortable daytime clothing.",
+      "photographyTips": "Secure a table on the second-floor balcony of a riverside restaurant overlooking the Maha Oya to capture the entire herd bathing against the river boulders.",
+      "localCustoms": "Buy unique recycled elephant dung stationery from the Maximus boutique as sustainable souvenirs.",
+      "environmentalGuidelines": "Respect the guidelines of the veterinary caretakers."
+    },
+    "latitude": 7.3,
+    "longitude": 80.3833,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/pinnawala-elephant-orphanage.jpg",
+        "caption": "Pinnawala Elephant Orphanage & River Bath - Primary Vista",
+        "altText": "Pinnawala Elephant Orphanage & River Bath, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/kegalle.jpg",
+        "caption": "Kegalle District Landscape",
+        "altText": "Kegalle District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/sabaragamuwa-province.jpg",
+        "caption": "Sabaragamuwa Province Regional Panorama",
+        "altText": "Sabaragamuwa Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of National Zoological Gardens Sri Lanka",
+        "sourceUrl": "http://www.zoo.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "kitulgala-white-water-rafting",
+      "bible-rock-bathalegala"
+    ]
+  },
+  {
+    "id": "kitulgala-white-water-rafting",
+    "name": "Kitulgala White Water Rafting & Kelani Rainforest",
+    "slug": "kitulgala-white-water-rafting",
+    "districtId": "kegalle",
+    "provinceId": "sabaragamuwa-province",
+    "category": "adventure",
+    "categories": [
+      "adventure",
+      "waterfalls",
+      "forests-reserves",
+      "photography"
+    ],
+    "shortDescription": "Sri Lanka's adrenaline adventure capital on the rushing Kelani River, famed for Grade II-IV white-water rafting, canyoning, and filming location of 'The Bridge on the River Kwai'.",
+    "fullDescription": "Nestled in the lush, rainforest-clad foothills of the western highlands in Kegalle District, Kitulgala is the undisputed adventure tourism capital of Sri Lanka. Through this verdant canyon rushes the mighty Kelani River, creating an exhilarating 5-kilometer stretch of Grade II and Grade III (and occasional Grade IV during high water) white-water rapids bearing colorful names like 'Head Chopper', 'Virgin's Breast', 'Butter Crunch', and 'Killer Fall'. Expert international-standard guides navigate rafters through roaring chutes of white water, followed by refreshing flat-water river swimming. Beyond rafting, Kitulgala offers thrilling canyoning, waterfall abseiling, rainforest trekking in the Makandawa Forest Reserve (home to 54 rare bird species), and visits to the historical filming site where director David Lean shot his iconic 1957 Oscar-winning classic 'The Bridge on the River Kwai'.",
+    "historicalBackground": "Filming location of the 1957 Hollywood masterpiece 'The Bridge on the River Kwai'; ancient prehistoric settlement site of Belilena.",
+    "naturalCharacteristics": "Deep rushing river canyon surrounded by dense wet-zone tropical rainforest and bamboo thickets.",
+    "specialFeatures": "Grade II-III white-water rapids, natural rock waterfall abseiling, canyoning cliff jumps, and Makandawa Forest bird sanctuary.",
+    "reasonsToVisit": [
+      "Experience thrilling Grade II-III white-water rafting down the roaring Kelani River canyon",
+      "Jump off natural rock waterfalls and slide down smooth natural rock water slides",
+      "Stand at the historical filming location of Oscar-winning film 'The Bridge on the River Kwai'",
+      "Trek through the untouched virgin canopy of Makandawa Rainforest to spot rare endemic birds"
+    ],
+    "activities": [
+      "White-water rafting",
+      "Canyoning and waterfall abseiling",
+      "Rainforest trekking in Makandawa",
+      "River swimming and cliff jumping"
+    ],
+    "bestTimeToVisit": "Year-round; water levels are thrilling from May to December after monsoon rains; January to April offers gentle family rafting.",
+    "visitingDuration": "Half Day to Full Day Adventure",
+    "entranceInformation": "Rafting excursions cost approx. LKR 3,500 - 5,000 per person (includes safety gear, helmets, life jackets, and guide); canyoning packages extra.",
+    "openingHours": "Rafting operations run 08:00 - 17:00 Daily.",
+    "accessibilityInformation": "Requires boarding inflatable rafts from riverbanks and walking along rocky paths; reasonable agility needed.",
+    "safetyInformation": "Always choose accredited operators with certified river guides; wearing certified life jackets and helmets is mandatory at all times on the river.",
+    "travelTips": {
+      "whatToBring": "Swimwear, quick-dry shorts/t-shirt, water shoes or old sneakers with grip (flip-flops not permitted on rafts), change of dry clothes, towel, GoPro/waterproof camera.",
+      "clothing": "Quick-drying athletic clothes or swimwear.",
+      "photographyTips": "Mount a waterproof action camera on your helmet to record first-person footage plunging through the roaring rapids.",
+      "localCustoms": "Enjoy a traditional rice and curry lunch wrapped in banana leaves at riverside adventure camps.",
+      "environmentalGuidelines": "Keep the pristine Kelani River canyon free of plastic waste."
+    },
+    "latitude": 6.9833,
+    "longitude": 80.4167,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/kitulgala-white-water-rafting.jpg",
+        "caption": "Kitulgala White Water Rafting & Kelani Rainforest - Primary Vista",
+        "altText": "Kitulgala White Water Rafting & Kelani Rainforest, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/kegalle.jpg",
+        "caption": "Kegalle District Landscape",
+        "altText": "Kegalle District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/sabaragamuwa-province.jpg",
+        "caption": "Sabaragamuwa Province Regional Panorama",
+        "altText": "Sabaragamuwa Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Promotion Bureau",
+        "sourceUrl": "https://srilanka.travel",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "belilena-cave",
+      "adams-peak-sri-pada",
+      "pinnawala-elephant-orphanage"
+    ]
+  },
+  {
+    "id": "belilena-cave",
+    "name": "Belilena Prehistoric Cave Site",
+    "slug": "belilena-cave",
+    "districtId": "kegalle",
+    "provinceId": "sabaragamuwa-province",
+    "category": "caves",
+    "categories": [
+      "caves",
+      "historical-sites",
+      "hiking-trekking",
+      "hidden-gems"
+    ],
+    "shortDescription": "A colossal prehistoric rock shelter near Kitulgala that yielded 30,000-year-old skeletal remains of Balangoda Man and early geometric microlith tools.",
+    "fullDescription": "Perched on a forested mountain ridge 8 kilometers from Kitulgala town, Belilena (meaning 'Beli Shell Cave') is one of the most culturally significant prehistoric archaeological sites in South Asia. Measuring 60 meters wide and fronted by a natural subterranean waterfall curtain, this immense limestone cave shelter was continuously inhabited by prehistoric hunter-gatherers (Homo sapiens balangodensis) from 30,000 to 9,000 years before the present. Groundbreaking excavations conducted by the Department of Archaeology uncovered 10 human skeletons dating back 16,000 to 30,000 years, along with fire hearths, charred bones of jungle fowl and monkeys, bone awls, and the famous geometric microliths that proved early humans in Sri Lanka possessed advanced toolmaking abilities thousands of years earlier than previously believed in Europe. Reaching the cave requires a scenic trek through rubber estates and mountain rainforest.",
+    "historicalBackground": "Excavated between 1978 and 1983 by Dr. Siran Deraniyagala; recognized as a crucial paleoanthropological site of early modern human migration.",
+    "naturalCharacteristics": "Immense limestone cave shelter situated at 610m elevation on a steep rainforest mountain ridge.",
+    "specialFeatures": "30,000-year-old human habitation strata, natural waterfall curtain across the cave mouth, and bone tool discoveries.",
+    "reasonsToVisit": [
+      "Stand inside an immense rock shelter where prehistoric humans lived 30,000 years ago",
+      "Marvel at the natural mountain waterfall that cascades directly in front of the cave entrance",
+      "Learn about the groundbreaking archaeological excavations of Balangoda Man",
+      "Enjoy a quiet, rewarding nature hike through rubber and tea plantations near Kitulgala"
+    ],
+    "activities": [
+      "Prehistoric cave exploration",
+      "Archaeological study",
+      "Rainforest nature hiking"
+    ],
+    "bestTimeToVisit": "December to April (drier trail conditions); morning visits provide comfortable temperatures.",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "Nominal entrance fee: approx. LKR 300 for foreign visitors; LKR 50 for locals.",
+    "openingHours": "08:00 - 17:00 Daily.",
+    "accessibilityInformation": "Requires a 1.5-kilometer uphill hike along forest trails, steps, and plantation paths.",
+    "safetyInformation": "Cave floor is damp and rocky; bring a flashlight/headlamp; do not enter unexcavated deep crevices.",
+    "travelTips": {
+      "whatToBring": "Sturdy walking shoes, flashlight or headlamp, drinking water, insect repellent.",
+      "clothing": "Comfortable hiking clothes.",
+      "photographyTips": "Photograph looking out from inside the cavern through the curtain of falling waterfall spray into the green forest canopy.",
+      "localCustoms": "Quiet, educational historical site.",
+      "environmentalGuidelines": "Strictly do not deface the cave walls or disturb the archaeological earth layers."
+    },
+    "latitude": 6.9833,
+    "longitude": 80.4333,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/belilena-cave.jpg",
+        "caption": "Belilena Prehistoric Cave Site - Primary Vista",
+        "altText": "Belilena Prehistoric Cave Site, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/kegalle.jpg",
+        "caption": "Kegalle District Landscape",
+        "altText": "Kegalle District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/sabaragamuwa-province.jpg",
+        "caption": "Sabaragamuwa Province Regional Panorama",
+        "altText": "Sabaragamuwa Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Archaeology Sri Lanka",
+        "sourceUrl": "http://www.archaeology.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "kitulgala-white-water-rafting",
+      "batadombalena-cave"
+    ]
+  },
+  {
+    "id": "bible-rock-bathalegala",
+    "name": "Bible Rock (Bathalegala Mountain Citadel)",
+    "slug": "bible-rock-bathalegala",
+    "districtId": "kegalle",
+    "provinceId": "sabaragamuwa-province",
+    "category": "mountains",
+    "categories": [
+      "mountains",
+      "hiking-trekking",
+      "viewpoints",
+      "hidden-gems",
+      "adventure"
+    ],
+    "shortDescription": "A dramatic 798-meter flat-topped table mountain resembling an open book, offering an exhilarating ridge hike, ancient rock caves, and 360-degree vistas.",
+    "fullDescription": "Rising solitary and majestic to an elevation of 798 meters (2,618 feet) out of the Kegalle valleys near Aranayaka, Bathalegala (famously dubbed 'Bible Rock' by British colonial surveyors because its flat-topped silhouette resembles an open book or Bible) is one of the most distinctive geological formations in Sri Lanka. Similar in shape to the famous Table Mountain of Cape Town or Sigiriya Rock, the mountain is a steep-sided granite fortress with a remarkably flat summit plateau. A scenic 2 to 3-hour hiking trail winds through village rubber gardens, climbs steep stone staircases along forested cliff ledges, and scales the final rock face to reach the summit. At the top sits a peaceful Buddhist meditation hermitage and an observation point offering awe-inspiring, unobstructed 360-degree panoramas of Adam's Peak, Ambuluwawa tower, the Knuckles range, and the winding green valleys of Kegalle.",
+    "historicalBackground": "Used as a natural defensive fortress and signaling lookout by Kandyan and Gampola kings; named Bible Rock by 19th-century British surveyors.",
+    "naturalCharacteristics": "Prominent flat-topped table mountain inselberg with sheer vertical rock cliffs and a forested summit plateau.",
+    "specialFeatures": "Distinctive flat-topped 'Bible' silhouette, rock meditation hermitage, and 360-degree highland panoramas.",
+    "reasonsToVisit": [
+      "Hike up one of Sri Lanka's most iconic and unique table mountains",
+      "Enjoy breathtaking 360-degree panoramas extending across four provinces and to Adam's Peak",
+      "Experience a peaceful summit plateau with a quiet Buddhist rock hermitage",
+      "Escape tourist crowds on an authentic, rewarding central hiking adventure"
+    ],
+    "activities": [
+      "Mountain summit hiking",
+      "Panoramic 360-degree photography",
+      "Meditation on the plateau",
+      "Birdwatching"
+    ],
+    "bestTimeToVisit": "December to April (clear sunny weather, dry trail conditions; start early morning by 07:00).",
+    "visitingDuration": "3 - 4 Hours",
+    "entranceInformation": "Free public access; small temple donation.",
+    "openingHours": "06:00 - 18:00 Daily.",
+    "accessibilityInformation": "Requires a steep uphill trek along dirt paths and rock stairways; reasonable fitness required; not wheelchair accessible.",
+    "safetyInformation": "Stay on the central path on the summit plateau; keep well back from unfenced sheer vertical cliff drops.",
+    "travelTips": {
+      "whatToBring": "Sturdy hiking shoes, drinking water (at least 1.5 liters), sun hat, camera.",
+      "clothing": "Comfortable hiking clothing; cover shoulders and knees at the summit temple.",
+      "photographyTips": "Photograph the famous flat-topped table silhouette of Bible Rock from the Kadugannawa pass, and the 360-degree view from the summit looking toward Adam's Peak.",
+      "localCustoms": "Quiet reverence around the resident monks' hermitage.",
+      "environmentalGuidelines": "Strict Leave No Trace policy; carry all trash back down."
+    },
+    "latitude": 7.1833,
+    "longitude": 80.4333,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/bible-rock-bathalegala.jpg",
+        "caption": "Bible Rock (Bathalegala Mountain Citadel) - Primary Vista",
+        "altText": "Bible Rock (Bathalegala Mountain Citadel), Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/kegalle.jpg",
+        "caption": "Kegalle District Landscape",
+        "altText": "Kegalle District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/sabaragamuwa-province.jpg",
+        "caption": "Sabaragamuwa Province Regional Panorama",
+        "altText": "Sabaragamuwa Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Promotion Bureau",
+        "sourceUrl": "https://srilanka.travel",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "pinnawala-elephant-orphanage",
+      "kitulgala-white-water-rafting"
+    ]
+  }
+]

@@ -1,0 +1,1684 @@
+[
+  {
+    "id": "nilaveli-beach",
+    "name": "Nilaveli Beach",
+    "slug": "nilaveli-beach",
+    "districtId": "trincomalee",
+    "provinceId": "eastern-province",
+    "category": "beaches",
+    "categories": [
+      "beaches",
+      "marine-diving",
+      "family-friendly",
+      "photography"
+    ],
+    "shortDescription": "One of Sri Lanka's most celebrated white sand beaches, featuring crystal-clear turquoise waters and the boat departure point for Pigeon Island.",
+    "fullDescription": "Located 16 kilometers north of Trincomalee on the sunrise coast, Nilaveli Beach is widely heralded as having the finest, whitest sands and clearest waters on the eastern seaboard of Sri Lanka. Stretching uninterrupted for several kilometers along the warm Bay of Bengal, the beach is fringed by gently swaying casuarina trees and palmyra palms. Nilaveli's shallow, calm waters provide idyllic conditions for swimming and beachcombing. Most famously, Nilaveli is the staging and departure point for motorized boat excursions to Pigeon Island National Park, which lies just one kilometer offshore.",
+    "historicalBackground": "A historic coastal trading and pearl-fishing stretch, revitalized into one of Asia's premier diving and beach destinations.",
+    "naturalCharacteristics": "Broad expanse of fine white sand, crystal-clear shallow turquoise waters, and coastal reef protection.",
+    "specialFeatures": "Powdery white sand, departure gateway to Pigeon Island Marine Park, and unobstructed sunrise panoramas over the Bay of Bengal.",
+    "reasonsToVisit": [
+      "Walk along miles of powdery white sand meeting transparent turquoise sea waters",
+      "Hop on a speedboat directly from the sand to snorkel with sharks at Pigeon Island",
+      "Enjoy exceptionally safe, calm, and warm ocean swimming during the summer season",
+      "Witness breathtaking sunrises casting golden reflections across the open Bay of Bengal"
+    ],
+    "activities": [
+      "Beach swimming",
+      "Speedboat rides to Pigeon Island",
+      "Snorkeling and scuba diving",
+      "Sunrise photography"
+    ],
+    "bestTimeToVisit": "April to September (calm seas, crystal clear water, sunny skies; off-season for the south coast, making this Sri Lanka's summer paradise).",
+    "visitingDuration": "Half Day to Several Days",
+    "entranceInformation": "Free public beach access; boat hire to Pigeon Island is extra.",
+    "openingHours": "Open 24 hours.",
+    "accessibilityInformation": "Direct vehicular access via coastal roads; sandy beach terrain.",
+    "safetyInformation": "Swimming is safe inside the reef zone during the dry season; take care during the northeast monsoon (November to February) when surf is rough.",
+    "travelTips": {
+      "whatToBring": "Swimwear, snorkel mask, high SPF sunscreen, beach towel, sunglasses.",
+      "clothing": "Casual beachwear.",
+      "photographyTips": "Wake up early for spectacular sunrise shots of local catamarans resting on the white sand at 05:45.",
+      "localCustoms": "Relaxed, peaceful coastal vibe; respect local fishing areas.",
+      "environmentalGuidelines": "Preserve the pristine white sands by disposing of all trash properly."
+    },
+    "latitude": 8.6833,
+    "longitude": 81.1833,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/nilaveli-beach.jpg",
+        "caption": "Nilaveli Beach - Primary Vista",
+        "altText": "Nilaveli Beach, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/trincomalee.jpg",
+        "caption": "Trincomalee District Landscape",
+        "altText": "Trincomalee District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/eastern-province.jpg",
+        "caption": "Eastern Province Regional Panorama",
+        "altText": "Eastern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Development Authority",
+        "sourceUrl": "https://www.sltda.gov.lk",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "pigeon-island-national-park",
+      "uppuveli-beach",
+      "koneswaram-temple"
+    ]
+  },
+  {
+    "id": "pigeon-island-national-park",
+    "name": "Pigeon Island Marine National Park",
+    "slug": "pigeon-island-national-park",
+    "districtId": "trincomalee",
+    "provinceId": "eastern-province",
+    "category": "marine-diving",
+    "categories": [
+      "marine-diving",
+      "national-parks",
+      "wildlife-safari",
+      "islands",
+      "adventure"
+    ],
+    "shortDescription": "Sri Lanka's premier marine national park, featuring vibrant live coral reefs where snorkelers swim alongside docile blacktip reef sharks and sea turtles.",
+    "fullDescription": "Situated just 1 kilometer offshore from Nilaveli Beach, Pigeon Island National Park is Sri Lanka's most celebrated marine wonderland. Designated as a national park in 2003, it consists of two small islands—Large Pigeon Island and Small Pigeon Island—named after the rock pigeons that nest in their limestone crevices. The marine park preserves a magnificent fringing coral reef with over 100 species of live hard corals (dominated by staghorn, brain, and table corals) and over 300 species of reef fish. In the crystalline shallow waters (often just 1 to 3 meters deep), snorkelers experience the unforgettable thrill of swimming alongside harmless juvenile and adult blacktip reef sharks (Carcharhinus melanopterus), graceful green and hawksbill sea turtles, moray eels, and giant schools of iridescent trevallies and butterflyfish.",
+    "historicalBackground": "Declared a wildlife sanctuary in 1963; upgraded to a Marine National Park in 2003 to protect its delicate coral reefs.",
+    "naturalCharacteristics": "Two limestone rocky islets surrounded by shallow coral reef flats and open marine waters.",
+    "specialFeatures": "Resident population of blacktip reef sharks, green sea turtles, live staghorn coral gardens, and nesting rock pigeons.",
+    "reasonsToVisit": [
+      "Swim alongside wild blacktip reef sharks in crystal-clear waters just meters from the island beach",
+      "Observe wild green sea turtles grazing gracefully on coral flats",
+      "Marvel at one of South Asia's richest, healthiest live coral reef ecosystems",
+      "Enjoy a thrilling speedboat ride across turquoise waters from Nilaveli"
+    ],
+    "activities": [
+      "Snorkeling on coral reef flats",
+      "Scuba diving the outer reef drop-off",
+      "Underwater photography",
+      "Island bird observation"
+    ],
+    "bestTimeToVisit": "April to October (calm seas, 20m+ underwater visibility, sunny skies).",
+    "visitingDuration": "3 - 4 Hours",
+    "entranceInformation": "Department of Wildlife Conservation ticket: approx. LKR 8,000 - 10,000 per foreign adult visitor (boat hire from Nilaveli costs approx. LKR 6,000 - 8,000 per boat for round-trip).",
+    "openingHours": "08:00 - 17:00 Daily (weather permitting).",
+    "accessibilityInformation": "Requires boarding speedboats from the beach and disembarking in knee-deep water onto the island.",
+    "safetyInformation": "Blacktip reef sharks are non-aggressive; do not corner or chase them; wear life jackets if not a confident ocean swimmer.",
+    "travelTips": {
+      "whatToBring": "Snorkel mask, fins, underwater camera/GoPro, reef-safe sunscreen, beach towel, drinking water.",
+      "clothing": "Swimwear and rashguard to protect against sun and minor coral scrapes.",
+      "photographyTips": "Use an underwater camera on continuous shooting in shallow coral channels to capture sharks swimming over bright sand patches.",
+      "localCustoms": "Follow the directions of wildlife rangers stationed on the island.",
+      "environmentalGuidelines": "Strictly prohibited to stand on, touch, kick, or collect live coral; use only certified reef-safe sunscreen."
+    },
+    "latitude": 8.7167,
+    "longitude": 81.2,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/pigeon-island-national-park.jpg",
+        "caption": "Pigeon Island Marine National Park - Primary Vista",
+        "altText": "Pigeon Island Marine National Park, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/trincomalee.jpg",
+        "caption": "Trincomalee District Landscape",
+        "altText": "Trincomalee District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/eastern-province.jpg",
+        "caption": "Eastern Province Regional Panorama",
+        "altText": "Eastern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Wildlife Conservation Sri Lanka",
+        "sourceUrl": "http://www.dwc.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "nilaveli-beach",
+      "uppuveli-beach"
+    ]
+  },
+  {
+    "id": "uppuveli-beach",
+    "name": "Uppuveli Beach",
+    "slug": "uppuveli-beach",
+    "districtId": "trincomalee",
+    "provinceId": "eastern-province",
+    "category": "beaches",
+    "categories": [
+      "beaches",
+      "cultural-experiences",
+      "photography"
+    ],
+    "shortDescription": "A vibrant golden sand beach just 5 km from Trincomalee town, buzzing with relaxed beach bars, seafood restaurants, and scuba dive schools.",
+    "fullDescription": "Situated just 5 kilometers north of downtown Trincomalee, Uppuveli Beach is the energetic coastal heartbeat of the eastern province. Featuring a long, wide stretch of soft golden sand backed by palm trees, Uppuveli offers the perfect blend of seaside relaxation and vibrant coastal lifestyle. By day, visitors lounge on sunbeds, swim in the calm turquoise sea, or embark on scuba diving trips to offshore wrecks with certified dive shops. By night, beach shacks light up with tiki torches, serving fresh grilled catch-of-the-day fish, spicy devilled calamari, and chilled tropical drinks to the sound of crashing waves.",
+    "historicalBackground": "A traditional fishing village transformed into Trincomalee's principal hub for international travelers and divers.",
+    "naturalCharacteristics": "Wide golden sand beach with calm waters and gentle slope during the summer season.",
+    "specialFeatures": "Beachfront cafes with candlelit dining on the sand, PADI dive centers, and swimming waters.",
+    "reasonsToVisit": [
+      "Enjoy a lively beach scene with relaxed cafes, seafood grills, and beach bars",
+      "Swim in warm, calm turquoise waters just minutes from Trincomalee town attractions",
+      "Sign up for certified scuba diving and whale watching excursions",
+      "Dine under the stars with your toes in the sand listening to the ocean"
+    ],
+    "activities": [
+      "Beach swimming and sunbathing",
+      "Scuba diving and snorkeling",
+      "Beachfront dining",
+      "Whale watching boat tours"
+    ],
+    "bestTimeToVisit": "April to September (calm seas, crystal clear waters, vibrant dining scene).",
+    "visitingDuration": "Half Day to Several Days",
+    "entranceInformation": "Free public beach access.",
+    "openingHours": "Beach open 24 hours; restaurants open 07:30 - 23:00.",
+    "accessibilityInformation": "Easy level access from coastal hotel lanes onto the sand.",
+    "safetyInformation": "Swimming is very safe during summer; heed warning flags during monsoon spells.",
+    "travelTips": {
+      "whatToBring": "Swimwear, beach towel, sunscreen, sunglasses, camera.",
+      "clothing": "Casual beachwear.",
+      "photographyTips": "Photograph the colorful wooden catamarans of local fishermen against the morning sunrise.",
+      "localCustoms": "Friendly and laid-back traveler community; try the fresh jumbo prawns.",
+      "environmentalGuidelines": "Keep the beach clean; participate in local Sunday beach cleanups."
+    },
+    "latitude": 8.6,
+    "longitude": 81.2333,
+    "featured": false,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/uppuveli-beach.jpg",
+        "caption": "Uppuveli Beach - Primary Vista",
+        "altText": "Uppuveli Beach, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/trincomalee.jpg",
+        "caption": "Trincomalee District Landscape",
+        "altText": "Trincomalee District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/eastern-province.jpg",
+        "caption": "Eastern Province Regional Panorama",
+        "altText": "Eastern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Development Authority",
+        "sourceUrl": "https://www.sltda.gov.lk",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "nilaveli-beach",
+      "koneswaram-temple",
+      "fort-frederick"
+    ]
+  },
+  {
+    "id": "koneswaram-temple",
+    "name": "Koneswaram Temple & Swami Rock",
+    "slug": "koneswaram-temple",
+    "districtId": "trincomalee",
+    "provinceId": "eastern-province",
+    "category": "temples-religious",
+    "categories": [
+      "temples-religious",
+      "viewpoints",
+      "historical-sites",
+      "cultural-experiences",
+      "photography"
+    ],
+    "shortDescription": "The ancient clifftop 'Temple of a Thousand Pillars' perched 130 meters above the sea on Swami Rock, boasting breathtaking 360-degree ocean views and blue whale spotting.",
+    "fullDescription": "Perched dramatically atop the sheer 130-meter granite cliff of Swami Rock at the entrance to Trincomalee's great natural harbor, the Koneswaram Kovil (Thirukonamalai Konesar Temple) is one of the most magnificent and ancient religious sites in Asia. Celebrated as the 'Dakshina Kailasam' (Southern Mount Kailash) and one of the five ancient holy Pancha Ishwarams dedicated to Lord Shiva in Sri Lanka, the temple has been revered for well over two millennia. Classical Roman, Greek, and Tamil texts referred to it as the 'Temple of a Thousand Pillars' before it was destroyed by the Portuguese in 1622 and its stones used to build Fort Frederick. Rebuilt with colorful Dravidian sculptures and a towering golden statue of Lord Shiva, the temple perches over 'Lovers' Leap'—a sheer vertical drop into the churning sea below. From the temple terrace, visitors often spot wild blue whales cruising through the deep oceanic waters directly beneath the cliff.",
+    "historicalBackground": "Dating back to pre-Christian antiquity (mentioned in the Mahabharata); destroyed in 1622 by Portuguese General Constantine de Sa; rebuilt in the 20th century.",
+    "naturalCharacteristics": "Sheer granite sea cliff rising 130 meters above the Indian Ocean and Trincomalee natural harbor.",
+    "specialFeatures": "Towering golden Lord Shiva colossus, Lovers' Leap precipice, wild spotted deer roaming the grounds, and ocean whale watching from the cliff.",
+    "reasonsToVisit": [
+      "Stand on the dramatic clifftop of Swami Rock with breathtaking 360-degree views across Trincomalee harbor",
+      "Marvel at the giant golden statue of Lord Shiva seated serenely against the blue ocean sky",
+      "Spot wild blue whales swimming in deep waters directly below the cliff edge between March and August",
+      "Encounter friendly wild spotted deer roaming peacefully among devotees on temple paths"
+    ],
+    "activities": [
+      "Temple puja observation",
+      "Clifftop ocean viewing and whale spotting",
+      "Landscape photography",
+      "Walking past wild spotted deer"
+    ],
+    "bestTimeToVisit": "Early morning (06:30 - 09:30) or late afternoon (16:30 - 18:30) during puja hours; March to August for whale sightings.",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "Free admission; voluntary donations for puja offerings.",
+    "openingHours": "06:00 - 13:00 and 16:00 - 19:30 Daily.",
+    "accessibilityInformation": "Paved road leads through Fort Frederick; flat paved avenue leads to the cliff temple; accessible.",
+    "safetyInformation": "Do not lean over the low stone walls at Lovers' Leap cliff drop; footwear must be removed at the temple entrance.",
+    "travelTips": {
+      "whatToBring": "Modest clothing, camera, binoculars for spotting whales offshore, slip-off footwear.",
+      "clothing": "Respectful attire covering shoulders and knees; remove hats and shoes at the sacred perimeter.",
+      "photographyTips": "Photograph the golden Shiva statue framed by the ocean from the cliffside garden walk.",
+      "localCustoms": "Devotees tie small wooden cradles to ancient trees in the temple courtyard as prayers for children.",
+      "environmentalGuidelines": "Do not feed wild spotted deer processed human food; keep the temple grounds pristine."
+    },
+    "latitude": 8.5833,
+    "longitude": 81.2417,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/koneswaram-temple.jpg",
+        "caption": "Koneswaram Temple & Swami Rock - Primary Vista",
+        "altText": "Koneswaram Temple & Swami Rock, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/trincomalee.jpg",
+        "caption": "Trincomalee District Landscape",
+        "altText": "Trincomalee District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/eastern-province.jpg",
+        "caption": "Eastern Province Regional Panorama",
+        "altText": "Eastern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Koneswaram Temple Restoration Trust",
+        "sourceUrl": "https://koneswaram.com",
+        "sourceType": "Official Temple Administration",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "fort-frederick",
+      "uppuveli-beach",
+      "trincomalee-natural-harbour"
+    ]
+  },
+  {
+    "id": "fort-frederick",
+    "name": "Fort Frederick & Spotted Deer Sanctuary",
+    "slug": "fort-frederick",
+    "districtId": "trincomalee",
+    "provinceId": "eastern-province",
+    "category": "historical-sites",
+    "categories": [
+      "historical-sites",
+      "wildlife-safari",
+      "cultural-experiences",
+      "photography"
+    ],
+    "shortDescription": "A 1623 Portuguese and Dutch fort guarding the harbor peninsula, famous for century-old banyans, colonial barracks, and wild spotted deer roaming freely.",
+    "fullDescription": "Occupying the strategic neck of the peninsula leading to Swami Rock, Fort Frederick is a captivating blend of colonial military history and peaceful wildlife. Originally constructed in 1623 by the Portuguese using carved stone blocks salvaged from the destroyed ancient Koneswaram temple, the fort was captured in 1639 by Dutch forces under Admiral Westerwoldt and reconstructed in 1665 into an imposing fort named after Prince Frederick Hendrick of Orange. Today, the operational military base permits free public walking access along its scenic tree-shaded avenue. The fort's most enchanting characteristic is its herd of wild spotted deer (Axis axis), originally introduced by Dutch governors, which wander fearlessly among colonial barracks, resting beneath ancient banyan trees and accepting grass from admiring visitors.",
+    "historicalBackground": "Built by Portuguese (1623); rebuilt by Dutch (1665); captured by British under Arthur Wellesley (later Duke of Wellington) in 1795.",
+    "naturalCharacteristics": "Forested coastal peninsula with ancient banyans and ocean views on both sides.",
+    "specialFeatures": "Original Dutch VOC crest over the gate, freely roaming wild spotted deer herds, and the British Governor's House (Wellesley Lodge).",
+    "reasonsToVisit": [
+      "Walk alongside herds of friendly wild spotted deer roaming under ancient banyan trees",
+      "Pass through the 17th-century Dutch stone gateway bearing the 1676 VOC coat of arms",
+      "Stroll the peaceful tree-lined avenue leading to Koneswaram Temple and Swami Rock",
+      "Enjoy cool ocean breezes with panoramic views of Trincomalee harbor and Dutch Bay"
+    ],
+    "activities": [
+      "Heritage walking",
+      "Wildlife photography of spotted deer",
+      "Colonial military architecture tours"
+    ],
+    "bestTimeToVisit": "Early morning or late afternoon (07:00 - 10:00 and 16:00 - 18:30).",
+    "visitingDuration": "1 - 1.5 Hours",
+    "entranceInformation": "Free public access.",
+    "openingHours": "Open daily 06:00 - 18:30.",
+    "accessibilityInformation": "Paved roads throughout, fully accessible for walking and wheelchairs.",
+    "safetyInformation": "Fort Frederick is an active Sri Lanka Army base; do not photograph military installations or checkpoints.",
+    "travelTips": {
+      "whatToBring": "Camera, sun hat, drinking water.",
+      "clothing": "Modest casual clothing.",
+      "photographyTips": "Photograph spotted deer resting beneath the giant aerial roots of century-old banyan trees.",
+      "localCustoms": "Do not chase or harass the spotted deer; treat them gently.",
+      "environmentalGuidelines": "Strictly do not feed wild deer plastic packaging, bread, or junk food."
+    },
+    "latitude": 8.575,
+    "longitude": 81.2333,
+    "featured": false,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/fort-frederick.jpg",
+        "caption": "Fort Frederick & Spotted Deer Sanctuary - Primary Vista",
+        "altText": "Fort Frederick & Spotted Deer Sanctuary, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/trincomalee.jpg",
+        "caption": "Trincomalee District Landscape",
+        "altText": "Trincomalee District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/eastern-province.jpg",
+        "caption": "Eastern Province Regional Panorama",
+        "altText": "Eastern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Archaeology Sri Lanka",
+        "sourceUrl": "http://www.archaeology.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "koneswaram-temple",
+      "uppuveli-beach"
+    ]
+  },
+  {
+    "id": "marble-beach",
+    "name": "Marble Beach (Kiniya Bay)",
+    "slug": "marble-beach",
+    "districtId": "trincomalee",
+    "provinceId": "eastern-province",
+    "category": "beaches",
+    "categories": [
+      "beaches",
+      "hidden-gems",
+      "family-friendly",
+      "photography"
+    ],
+    "shortDescription": "A tranquil, emerald-green secluded cove within China Bay, famous for glass-smooth waters reflecting like polished marble, and lush forested surroundings.",
+    "fullDescription": "Nestled inside China Bay along the inner harbor of Trincomalee, Marble Beach is considered one of Sri Lanka's most serene and visually pristine hidden coves. The beach derives its poetic name from the smooth, polished marble-like appearance of its water surface when the morning sun reflects across the sheltered, glass-calm bay. Enclosed by rolling forested headlands that protect it completely from open-ocean winds and swells, the cove features powdery white sand leading into gentle, crystal-clear emerald waters that remain safe and calm year-round. Maintained under the custodianship of the Sri Lanka Air Force, it offers an exclusive, peaceful natural retreat away from city bustle.",
+    "historicalBackground": "Historically a secluded inlet within the naval defenses of Trincomalee harbor; opened to tourism under careful environmental management.",
+    "naturalCharacteristics": "Deep sheltered bay cove surrounded by lush green hills, with glass-smooth waters and fine white sand.",
+    "specialFeatures": "Mirror-like 'marble' water surface, wave-free swimming conditions, and lush forested headlands.",
+    "reasonsToVisit": [
+      "Swim in glass-smooth, wave-free emerald waters resembling a natural swimming pool",
+      "Relax on pristine, uncrowded sands surrounded by dense natural forest hills",
+      "Ideal, exceptionally safe beach for families with small children",
+      "Enjoy fresh seafood and cool drinks at the beachside Air Force resort restaurant"
+    ],
+    "activities": [
+      "Calm water swimming",
+      "Beach relaxation",
+      "Snorkeling along rocky cove margins",
+      "Nature photography"
+    ],
+    "bestTimeToVisit": "March to September for the calmest, most crystal-clear water reflections.",
+    "visitingDuration": "2 - 4 Hours",
+    "entranceInformation": "Nominal entrance fee at the security gate: approx. LKR 50 - 100.",
+    "openingHours": "08:00 - 18:00 Daily.",
+    "accessibilityInformation": "Paved road leads to the beach parking; short walk on sand to the water.",
+    "safetyInformation": "Very safe calm waters; observe swimming zones marked by buoys.",
+    "travelTips": {
+      "whatToBring": "Swimwear, beach towel, snorkel mask, sunscreen, camera.",
+      "clothing": "Modest beachwear.",
+      "photographyTips": "Photograph the glassy green reflections of the forested hills in the early morning stillness.",
+      "localCustoms": "Well-organized, clean, and family-friendly atmosphere.",
+      "environmentalGuidelines": "Strict zero-litter policy strictly enforced by caretakers."
+    },
+    "latitude": 8.5167,
+    "longitude": 81.2,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/marble-beach.jpg",
+        "caption": "Marble Beach (Kiniya Bay) - Primary Vista",
+        "altText": "Marble Beach (Kiniya Bay), Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/trincomalee.jpg",
+        "caption": "Trincomalee District Landscape",
+        "altText": "Trincomalee District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/eastern-province.jpg",
+        "caption": "Eastern Province Regional Panorama",
+        "altText": "Eastern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Development Authority",
+        "sourceUrl": "https://www.sltda.gov.lk",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "trincomalee-natural-harbour",
+      "koneswaram-temple"
+    ]
+  },
+  {
+    "id": "trincomalee-natural-harbour",
+    "name": "Trincomalee Natural Deepwater Harbour",
+    "slug": "trincomalee-natural-harbour",
+    "districtId": "trincomalee",
+    "provinceId": "eastern-province",
+    "category": "historical-sites",
+    "categories": [
+      "historical-sites",
+      "viewpoints",
+      "marine-diving"
+    ],
+    "shortDescription": "The fifth largest natural harbor in the world, a strategic naval haven praised by Lord Nelson as 'the finest harbour in the world', rich in maritime lore.",
+    "fullDescription": "Renowned as the fifth largest natural harbor in the world and the finest deep-water port in the Indian Ocean, Trincomalee Harbour (Koddiyar Bay) has been an epicenter of international maritime commerce and geopolitical strategy for over two millennia. Framed by protective headlands and submerged canyons that plunge to depths exceeding 1,000 meters just off the entrance, the harbor is so vast that the entire allied fleets of the world could find safe anchorage inside. British Admiral Lord Horatio Nelson famously proclaimed it 'the finest harbour in the world' in 1775. Navies of Portugal, the Netherlands, France, and Great Britain fought fierce sea battles for control of this prize. Today, boat tours explore the inner bays, islands, and naval docks, while the deep marine trench just outside the harbor mouth serves as a superhighway for migrating blue whales and sperm whales.",
+    "historicalBackground": "Known to ancient Greeks and Romans as Gokarna port; fought over by four European powers; key Allied naval base in WWII attacked by Japanese aircraft in 1942.",
+    "naturalCharacteristics": "Immense natural deep-water bay and ria fjord system surrounded by protective headlands.",
+    "specialFeatures": "Deep underwater marine trench, historic British WWII oil storage tank farm, and naval history.",
+    "reasonsToVisit": [
+      "Stand before one of the greatest and largest natural deep-water harbors on earth",
+      "Explore the dramatic maritime history praised by Admiral Lord Nelson",
+      "Take a boat tour through the scenic bays and historical islands of the inner harbor",
+      "Witness migrating blue whales cruising the deep submarine canyon at the harbor mouth"
+    ],
+    "activities": [
+      "Harbor boat tours",
+      "Naval museum exploration",
+      "Whale watching expeditions",
+      "Viewpoint photography"
+    ],
+    "bestTimeToVisit": "April to September (calm seas and sunny conditions).",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "Free viewing from coastal viewpoints; boat tours and naval museum require tickets.",
+    "openingHours": "Open 24 hours.",
+    "accessibilityInformation": "Paved roads along harbor vantage points.",
+    "safetyInformation": "Respect naval security zones; boat tours must be arranged with licensed operators.",
+    "travelTips": {
+      "whatToBring": "Binoculars, camera, sun hat.",
+      "clothing": "Casual comfortable travel clothes.",
+      "photographyTips": "Capture the vast expanse of the harbor from the elevated viewpoints around Ostenburg Point.",
+      "localCustoms": "Rich multi-ethnic maritime culture.",
+      "environmentalGuidelines": "Protect marine water quality."
+    },
+    "latitude": 8.5667,
+    "longitude": 81.2167,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/trincomalee-natural-harbour.jpg",
+        "caption": "Trincomalee Natural Deepwater Harbour - Primary Vista",
+        "altText": "Trincomalee Natural Deepwater Harbour, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/trincomalee.jpg",
+        "caption": "Trincomalee District Landscape",
+        "altText": "Trincomalee District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/eastern-province.jpg",
+        "caption": "Eastern Province Regional Panorama",
+        "altText": "Eastern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Ports Authority",
+        "sourceUrl": "https://www.slpa.lk",
+        "sourceType": "Port & Lighthouse Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "koneswaram-temple",
+      "marble-beach",
+      "fort-frederick"
+    ]
+  },
+  {
+    "id": "kanniya-hot-springs",
+    "name": "Kanniya Seven Hot Water Springs",
+    "slug": "kanniya-hot-springs",
+    "districtId": "trincomalee",
+    "provinceId": "eastern-province",
+    "category": "historical-sites",
+    "categories": [
+      "historical-sites",
+      "cultural-experiences",
+      "temples-religious"
+    ],
+    "shortDescription": "Ancient thermal mineral springs featuring seven square brick wells, each maintaining a naturally different warm water temperature, steeped in Ramayana legend.",
+    "fullDescription": "Situated 8 kilometers northwest of Trincomalee, Kanniya Hot Springs is a remarkable geothermal and archaeological marvel. The site consists of seven individual square-shaped brick masonry bathing wells, each only about one meter deep. Uniquely, though situated just inches apart, each well maintains a naturally distinct water temperature, ranging from pleasantly warm (37°C) to steaming hot (42°C). According to the ancient Ramayana epic, King Ravana created these springs by piercing the earth with his sword during the funeral rites for his mother, Kanniya, to generate warm water for her obsequies. The mineral-rich, sulfurous water has been sought after for millennia for its curative and therapeutic properties for skin ailments and arthritis. Surrounding the wells are archaeological ruins of an ancient Buddhist monastery dating back to the King Devanampiya Tissa era.",
+    "historicalBackground": "Associated with King Ravana in Hindu tradition; recognized as an ancient Buddhist monastic site dating to the 3rd century BCE.",
+    "naturalCharacteristics": "Geothermal mineral artesian springs emerging from subterranean fractures.",
+    "specialFeatures": "Seven distinct thermal wells with varying temperatures, ancient monastic ruins, and therapeutic mineral bathing.",
+    "reasonsToVisit": [
+      "Bathe with naturally heated geothermal mineral waters drawn from seven ancient square wells",
+      "Experience water temperatures that uniquely vary from well to well despite being side by side",
+      "Learn the epic legend connecting the springs to King Ravana in the Ramayana",
+      "Explore the 2,000-year-old archaeological ruins of an ancient Buddhist monastery"
+    ],
+    "activities": [
+      "Bathing with thermal spring water using buckets",
+      "Visiting the archaeological ruins",
+      "Cultural exploration"
+    ],
+    "bestTimeToVisit": "Early morning (06:30 - 08:30) or evening (17:00 - 18:30) for a refreshing, cooler ambient temperature.",
+    "visitingDuration": "1 Hour",
+    "entranceInformation": "Nominal entrance fee: approx. LKR 100 for foreign visitors; LKR 50 for locals.",
+    "openingHours": "06:00 - 18:00 Daily.",
+    "accessibilityInformation": "Paved flat pathways lead directly to the bathing well precinct.",
+    "safetyInformation": "Bathing is done by drawing water with buckets and pouring over oneself; stepping into the wells is strictly prohibited.",
+    "travelTips": {
+      "whatToBring": "Change of clothing, towel, flip-flops, bucket (provided on site for a small fee).",
+      "clothing": "Modest bathing clothes (t-shirt and shorts/sarong).",
+      "photographyTips": "Photograph the geometric layout of the seven brick wells in the soft morning light.",
+      "localCustoms": "Soap and shampoo are strictly prohibited around the wells to preserve water purity.",
+      "environmentalGuidelines": "Strict zero-soap and zero-plastic policy at the spring site."
+    },
+    "latitude": 8.6,
+    "longitude": 81.1833,
+    "featured": false,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/kanniya-hot-springs.jpg",
+        "caption": "Kanniya Seven Hot Water Springs - Primary Vista",
+        "altText": "Kanniya Seven Hot Water Springs, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/trincomalee.jpg",
+        "caption": "Trincomalee District Landscape",
+        "altText": "Trincomalee District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/eastern-province.jpg",
+        "caption": "Eastern Province Regional Panorama",
+        "altText": "Eastern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Archaeology Sri Lanka",
+        "sourceUrl": "http://www.archaeology.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "koneswaram-temple",
+      "nilaveli-beach"
+    ]
+  },
+  {
+    "id": "pasikudah-beach",
+    "name": "Pasikudah Beach & Coral Reef Lagoon",
+    "slug": "pasikudah-beach",
+    "districtId": "batticaloa",
+    "provinceId": "eastern-province",
+    "category": "beaches",
+    "categories": [
+      "beaches",
+      "family-friendly",
+      "marine-diving",
+      "photography"
+    ],
+    "shortDescription": "One of the longest stretches of shallow reef-protected coastline in the world, where swimmers can walk hundreds of meters into crystal-clear turquoise waters.",
+    "fullDescription": "Situated 35 kilometers north of Batticaloa, Pasikudah (meaning 'Green-Algae-Bay') is world-renowned for having one of the longest, safest, and most unique shallow reef-sheltered coastlines on planet Earth. The bay is protected by an outer coral reef that traps the warm waters of the Indian Ocean into an enormous, wave-free natural swimming pool. The water depth remains barely knee- to chest-deep for several hundred meters out from the powdery white shoreline, allowing even non-swimmers, toddlers, and elderly travelers to walk safely through crystal-clear turquoise waters teeming with tiny harmless reef fish. Lined with luxury beachfront resorts, swaying coconut palms, and water sports clubs offering jet skiing and windsurfing, Pasikudah is Sri Lanka's ultimate luxury beach retreat on the sunrise coast.",
+    "historicalBackground": "A historic trading bay developed into an international tourism resort zone celebrated for pristine marine safety.",
+    "naturalCharacteristics": "Extremely shallow, barrier-reef-protected bay with crystal-clear turquoise waters and powdery white sand.",
+    "specialFeatures": "World-famous shallow swimming conditions (walk 300+ meters into the sea), barrier coral reef, and luxury resort strip.",
+    "reasonsToVisit": [
+      "Walk hundreds of meters out into the warm, transparent sea with water barely reaching your waist",
+      "Enjoy the safest, most wave-free ocean swimming conditions anywhere in South Asia",
+      "Relax at luxury 5-star beachfront resorts offering world-class dining and spa therapies",
+      "Try thrilling water sports like jet skiing, banana boating, and windsurfing"
+    ],
+    "activities": [
+      "Shallow water walking and swimming",
+      "Jet skiing and water sports",
+      "Snorkeling at the outer barrier reef",
+      "Beachfront sunset dining"
+    ],
+    "bestTimeToVisit": "April to September (calm seas, crystal clear turquoise water, sunny tropical weather).",
+    "visitingDuration": "Half Day to Several Days",
+    "entranceInformation": "Free public beach access.",
+    "openingHours": "Open 24 hours.",
+    "accessibilityInformation": "Direct paved boardwalks and level pathways from resort gates onto the beach.",
+    "safetyInformation": "Extremely safe; stay inside the barrier reef; obey boat traffic lane markers for watercraft.",
+    "travelTips": {
+      "whatToBring": "Swimwear, snorkel mask, high SPF sunscreen, sunglasses, beach towel.",
+      "clothing": "Casual resort wear.",
+      "photographyTips": "Photograph the gradient of turquoise water fading into deep sapphire blue at the barrier reef.",
+      "localCustoms": "Relaxed, luxurious coastal vibe; friendly local hospitality.",
+      "environmentalGuidelines": "Strict protection of the offshore coral reef; avoid walking directly on live coral heads."
+    },
+    "latitude": 7.925,
+    "longitude": 81.5667,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/pasikudah-beach.jpg",
+        "caption": "Pasikudah Beach & Coral Reef Lagoon - Primary Vista",
+        "altText": "Pasikudah Beach & Coral Reef Lagoon, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/batticaloa.jpg",
+        "caption": "Batticaloa District Landscape",
+        "altText": "Batticaloa District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/eastern-province.jpg",
+        "caption": "Eastern Province Regional Panorama",
+        "altText": "Eastern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Development Authority",
+        "sourceUrl": "https://www.sltda.gov.lk",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "kalkudah-beach",
+      "batticaloa-lagoon"
+    ]
+  },
+  {
+    "id": "kalkudah-beach",
+    "name": "Kalkudah Beach",
+    "slug": "kalkudah-beach",
+    "districtId": "batticaloa",
+    "provinceId": "eastern-province",
+    "category": "beaches",
+    "categories": [
+      "beaches",
+      "hidden-gems",
+      "photography"
+    ],
+    "shortDescription": "The wild, peaceful sibling bay to Pasikudah, offering miles of wide golden sands, crashing surf, and shaded coconut groves without resort crowds.",
+    "fullDescription": "Situated just south across the headland from Pasikudah, Kalkudah Beach presents a wonderfully contrasting natural experience. While Pasikudah is known for its shallow, calm, luxury resort bay, Kalkudah is a wide, wild, sweeping 2-kilometer expanse of untouched golden sand meeting the open rolling surf of the Indian Ocean. Fringed by dense coconut plantations and sea morning-glory vines, Kalkudah is virtually devoid of commercial development, offering travelers complete solitude, crashing ocean waves, and peaceful beachcombing under the shade of coastal trees.",
+    "historicalBackground": "A traditional fishing beach preserved in its natural state alongside the planned resort enclave of Pasikudah.",
+    "naturalCharacteristics": "Wide golden sand beach facing the open ocean with natural beach dunes and coconut groves.",
+    "specialFeatures": "Completely undeveloped natural beach, open ocean surf, and peaceful solitude.",
+    "reasonsToVisit": [
+      "Escape resort crowds and enjoy miles of wild, completely empty tropical coastline",
+      "Listen to the rhythmic roar of rolling ocean surf under coastal coconut palms",
+      "Stroll the long sandy shore for pristine beachcombing and shelling",
+      "Enjoy dramatic coastal sunrises over the open sea in complete tranquility"
+    ],
+    "activities": [
+      "Beach walking and beachcombing",
+      "Sunrise photography",
+      "Picnicking under palm shade"
+    ],
+    "bestTimeToVisit": "April to September for pleasant, sunny coastal weather.",
+    "visitingDuration": "1 - 2 Hours",
+    "entranceInformation": "Free public beach access.",
+    "openingHours": "Open 24 hours.",
+    "accessibilityInformation": "Sandy village tracks lead to the beach; requires walking on sand.",
+    "safetyInformation": "Unlike Pasikudah, Kalkudah is exposed to the open ocean; swim with caution due to shorebreaks and undertows.",
+    "travelTips": {
+      "whatToBring": "Sun hat, sunglasses, drinking water, camera.",
+      "clothing": "Casual beachwear.",
+      "photographyTips": "Capture the pristine, footprint-free sand stretching toward the distant horizon at dawn.",
+      "localCustoms": "Quiet local fishing community; greet local fishermen courteously.",
+      "environmentalGuidelines": "Carry all trash and plastic bottles back with you."
+    },
+    "latitude": 7.9167,
+    "longitude": 81.5833,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/kalkudah-beach.jpg",
+        "caption": "Kalkudah Beach - Primary Vista",
+        "altText": "Kalkudah Beach, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/batticaloa.jpg",
+        "caption": "Batticaloa District Landscape",
+        "altText": "Batticaloa District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/eastern-province.jpg",
+        "caption": "Eastern Province Regional Panorama",
+        "altText": "Eastern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Promotion Bureau",
+        "sourceUrl": "https://srilanka.travel",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "pasikudah-beach",
+      "batticaloa-lagoon"
+    ]
+  },
+  {
+    "id": "batticaloa-lagoon",
+    "name": "Batticaloa Lagoon & Singing Fish",
+    "slug": "batticaloa-lagoon",
+    "districtId": "batticaloa",
+    "provinceId": "eastern-province",
+    "category": "lakes-reservoirs",
+    "categories": [
+      "lakes-reservoirs",
+      "cultural-experiences",
+      "hidden-gems",
+      "wildlife-safari"
+    ],
+    "shortDescription": "A sprawling 56-kilometer estuarine lagoon famous worldwide for the mysterious acoustic phenomenon of its 'Singing Fish' heard on moonlit nights.",
+    "fullDescription": "Stretching for an astonishing 56 kilometers along the eastern coast, Batticaloa Lagoon is one of the largest and most ecologically rich lagoon systems in Sri Lanka. It forms the picturesque setting for the historic town of Batticaloa, which is built upon a series of islands connected by bridges, including the historic Lady Manning Bridge at Kallady. The lagoon is famous worldwide for the mysterious acoustic phenomenon of its 'Singing Fish' (scientifically thought to be musical vibrations produced by marine mollusks or aquatic organisms), which can be distinctly heard like the strumming of a plucked guitar or crystalline glass chimes on calm moonlit nights between April and September by dipping an ear or an oar into the water near Kallady Bridge.",
+    "historicalBackground": "Celebrated in international folklore and scientific studies since 1954 when Father Lang of St. Michael's College recorded the lagoon sounds for Radio Ceylon.",
+    "naturalCharacteristics": "Extensive estuarine lagoon system with mangrove islands, tidal mudflats, and marine channels.",
+    "specialFeatures": "Acoustic phenomenon of 'Singing Fish' on moonlit nights, island geography, and Kallady Bridge.",
+    "reasonsToVisit": [
+      "Listen to the mysterious 'Singing Fish' phenomenon from a wooden boat on a moonlit night",
+      "Glide through serene mangrove channels and spot colorful kingfishers and sea eagles",
+      "Cross the historic Lady Manning Bridge and explore the island city of Batticaloa",
+      "Watch traditional artisanal lagoon fishermen casting cast-nets from dugouts"
+    ],
+    "activities": [
+      "Moonlit singing fish listening tours",
+      "Lagoon boat safaris",
+      "Kayaking through mangrove channels",
+      "Birdwatching"
+    ],
+    "bestTimeToVisit": "April to September during calm moonlit nights (especially full moon nights) for the singing fish.",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "Boat excursions organized near Kallady Bridge cost approx. LKR 2,500 - 4,000 per boat.",
+    "openingHours": "Boat trips operate morning, evening, and night (by arrangement).",
+    "accessibilityInformation": "Boarding boats requires stepping from wooden jetties; bridges and promenade paths are wheelchair accessible.",
+    "safetyInformation": "Life jackets are mandatory for all boat trips on the lagoon.",
+    "travelTips": {
+      "whatToBring": "Binoculars, insect repellent, light jacket for evening boat rides, camera.",
+      "clothing": "Comfortable casual clothes.",
+      "photographyTips": "Photograph the historic Lady Manning Bridge illuminated over the glassy lagoon waters at dusk.",
+      "localCustoms": "Quiet, attentive listening is needed to hear the gentle acoustic vibrations of the singing fish.",
+      "environmentalGuidelines": "Preserve the vital mangrove nursery ecosystem; avoid noise and trash."
+    },
+    "latitude": 7.7167,
+    "longitude": 81.7,
+    "featured": false,
+    "popular": true,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/batticaloa-lagoon.jpg",
+        "caption": "Batticaloa Lagoon & Singing Fish - Primary Vista",
+        "altText": "Batticaloa Lagoon & Singing Fish, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/batticaloa.jpg",
+        "caption": "Batticaloa District Landscape",
+        "altText": "Batticaloa District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/eastern-province.jpg",
+        "caption": "Eastern Province Regional Panorama",
+        "altText": "Eastern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Eastern Province Tourism Bureau",
+        "sourceUrl": "https://easterntourism.lk",
+        "sourceType": "Provincial Tourism Bureau",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "pasikudah-beach",
+      "batticaloa-fort",
+      "kallady-bridge"
+    ]
+  },
+  {
+    "id": "batticaloa-fort",
+    "name": "Batticaloa Dutch Fort",
+    "slug": "batticaloa-fort",
+    "districtId": "batticaloa",
+    "provinceId": "eastern-province",
+    "category": "historical-sites",
+    "categories": [
+      "historical-sites",
+      "cultural-experiences",
+      "photography"
+    ],
+    "shortDescription": "A compact 1628 Portuguese and Dutch fortress perched on an island in the lagoon, surrounded by water moats, thick coral ramparts, and cannons.",
+    "fullDescription": "Situated on an island within the calm waters of Batticaloa Lagoon, the Batticaloa Dutch Fort is an intimate and well-preserved colonial stronghold. Originally erected in 1628 by the Portuguese, it was the very first Portuguese fort captured by the Dutch East India Company (VOC) in 1638 under Admiral Westerwoldt, marking the beginning of the Dutch presence in Sri Lanka. Surrounded on two sides by the lagoon and on two sides by a deep protective moat, the square fortress features four sturdy corner bastions, thick coral-and-granite stone walls, 18th-century VOC cannons, and a central courtyard shaded by ancient trees. The historic building continues to serve as local government administrative offices while welcoming visitors to walk its ramparts.",
+    "historicalBackground": "Built by Portuguese in 1628; captured by the Dutch in 1638; ceded to the British in 1795.",
+    "naturalCharacteristics": "Island fortress surrounded by the tranquil brackish waters of Batticaloa Lagoon.",
+    "specialFeatures": "Four corner stone bastions, original Dutch cannons, protective water moat, and lagoon rampart views.",
+    "reasonsToVisit": [
+      "Explore the very first Portuguese fort captured by the Dutch in Sri Lanka (1638)",
+      "Walk along the thick coral-stone ramparts overlooking the peaceful waters of the lagoon",
+      "Admire 18th-century VOC brass cannons still resting on the bastions",
+      "Enjoy a quiet, picturesque historical stroll in the heart of Batticaloa"
+    ],
+    "activities": [
+      "Rampart walking",
+      "Historical colonial photography",
+      "Lagoon viewpoint observation"
+    ],
+    "bestTimeToVisit": "Year-round; morning visits (08:30 - 11:30) provide comfortable temperatures.",
+    "visitingDuration": "1 - 1.5 Hours",
+    "entranceInformation": "Free public access.",
+    "openingHours": "08:00 - 18:00 Daily.",
+    "accessibilityInformation": "Courtyards and main gate are flat and accessible; gentle stone ramps lead onto the rampart walls.",
+    "safetyInformation": "Be cautious on ramparts without outer safety railings.",
+    "travelTips": {
+      "whatToBring": "Camera, sun hat, comfortable shoes.",
+      "clothing": "Modest casual clothing.",
+      "photographyTips": "Photograph the weathered stone cannons looking out across the calm blue waters of the lagoon.",
+      "localCustoms": "Houses active civic administrative offices; maintain respectful behavior.",
+      "environmentalGuidelines": "Preserve the historical masonry."
+    },
+    "latitude": 7.7167,
+    "longitude": 81.6967,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/batticaloa-fort.jpg",
+        "caption": "Batticaloa Dutch Fort - Primary Vista",
+        "altText": "Batticaloa Dutch Fort, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/batticaloa.jpg",
+        "caption": "Batticaloa District Landscape",
+        "altText": "Batticaloa District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/eastern-province.jpg",
+        "caption": "Eastern Province Regional Panorama",
+        "altText": "Eastern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Archaeology Sri Lanka",
+        "sourceUrl": "http://www.archaeology.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "batticaloa-lagoon",
+      "kallady-bridge"
+    ]
+  },
+  {
+    "id": "kallady-bridge",
+    "name": "Kallady Lady Manning Bridge & Beach",
+    "slug": "kallady-bridge",
+    "districtId": "batticaloa",
+    "provinceId": "eastern-province",
+    "category": "historical-sites",
+    "categories": [
+      "historical-sites",
+      "beaches",
+      "photography"
+    ],
+    "shortDescription": "The historic 1924 British iron truss bridge—the oldest and longest of its kind in Sri Lanka—and the adjacent golden Kallady ocean beach.",
+    "fullDescription": "Spanning the entrance to Batticaloa Lagoon, the Lady Manning Bridge at Kallady is an iconic piece of British colonial engineering. Completed in 1924 and named after the wife of British Governor William Manning, this 288-meter-long steel-and-iron truss bridge was for decades the longest iron bridge in Sri Lanka. It is intimately linked with the legendary 'Singing Fish' of Batticaloa, as the waters directly beneath its iron spans are the premier location where the melodic acoustic hum is heard on full moon nights. A short stroll from the bridge leads to Kallady Beach, an expansive golden sand beach facing the sunrise with crashing surf and a coastal memorial park.",
+    "historicalBackground": "Built in 1924 under Governor Sir William Manning; pedestrianized and preserved as a historic landmark following the construction of a modern adjacent bridge.",
+    "naturalCharacteristics": "Estuarine lagoon mouth meeting the open Indian Ocean with a golden sandy coastline.",
+    "specialFeatures": "Historic 1924 iron truss architecture, primary singing fish listening location, and Kallady lighthouse ruins.",
+    "reasonsToVisit": [
+      "Walk across Sri Lanka's oldest and longest historic iron truss bridge, now preserved as a scenic pedestrian walkway",
+      "Stand at the premier location for hearing the legendary 'Singing Fish' of Batticaloa",
+      "Stroll along the sweeping golden sands of Kallady Beach at sunrise",
+      "Enjoy picturesque views across the lagoon islands and traditional fishing catamarans"
+    ],
+    "activities": [
+      "Pedestrian bridge walking",
+      "Singing fish listening (on moonlit nights)",
+      "Beach strolls",
+      "Sunset photography"
+    ],
+    "bestTimeToVisit": "Late afternoon and evening (16:30 - 19:00); full moon nights for the singing fish.",
+    "visitingDuration": "1 - 1.5 Hours",
+    "entranceInformation": "Free public access.",
+    "openingHours": "Open 24 hours.",
+    "accessibilityInformation": "Bridge is a flat pedestrian avenue, fully accessible for wheelchairs and strollers.",
+    "safetyInformation": "Do not climb onto the iron bridge trusses; swimming off Kallady beach can have strong currents.",
+    "travelTips": {
+      "whatToBring": "Camera, light sweater for breezy evenings.",
+      "clothing": "Casual comfortable walking clothes.",
+      "photographyTips": "Photograph the repetitive steel truss geometry of the bridge framing the lagoon water at twilight.",
+      "localCustoms": "A favorite evening gathering spot for locals enjoying the sea breeze.",
+      "environmentalGuidelines": "Keep the bridge and beach clean."
+    },
+    "latitude": 7.7083,
+    "longitude": 81.7167,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/kallady-bridge.jpg",
+        "caption": "Kallady Lady Manning Bridge & Beach - Primary Vista",
+        "altText": "Kallady Lady Manning Bridge & Beach, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/batticaloa.jpg",
+        "caption": "Batticaloa District Landscape",
+        "altText": "Batticaloa District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/eastern-province.jpg",
+        "caption": "Eastern Province Regional Panorama",
+        "altText": "Eastern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Eastern Province Tourism Bureau",
+        "sourceUrl": "https://easterntourism.lk",
+        "sourceType": "Provincial Tourism Bureau",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "batticaloa-lagoon",
+      "batticaloa-fort"
+    ]
+  },
+  {
+    "id": "arugam-bay",
+    "name": "Arugam Bay World Championship Surf Point",
+    "slug": "arugam-bay",
+    "districtId": "ampara",
+    "provinceId": "eastern-province",
+    "category": "beaches",
+    "categories": [
+      "beaches",
+      "adventure",
+      "cultural-experiences",
+      "photography"
+    ],
+    "shortDescription": "One of the top ten surf points in the world, renowned for long, peeling right-hand point breaks, bohemian beach cafes, and wild elephant sightings nearby.",
+    "fullDescription": "Situated on the southeastern coast of Sri Lanka in Ampara district, Arugam Bay (affectionately known as 'A-Bay') is a legendary Mecca for the international surfing community. Consistently ranked among the top ten surf breaks on Earth, the bay features an iconic right-hand sand-bottom point break (Main Point) that produces long, peeling waves offering rides of up to 400 to 500 meters during peak season. Surrounding breaks like Whiskey Point, Peanut Farm, and Elephant Rock cater to all levels from beginners to pros. Beyond surfing, Arugam Bay boasts a captivating bohemian travel culture: vibrant open-air cafes, yoga shalas, wood-fired pizza spots, and relaxed nightlife. Uniquely, the bay borders wild nature reserves, meaning travelers often spot wild elephants strolling along nearby coastal lagoons at sunset.",
+    "historicalBackground": "A traditional Muslim and Tamil fishing village discovered by traveling international surfers in the 1970s; hosts international World Surf League (WSL) qualifying events.",
+    "naturalCharacteristics": "Curved coastal bay with sand-bottom right-hand point break, rocky headlands, and adjacent wetland lagoons.",
+    "specialFeatures": "World Surf League competition point break, 400m+ right-hand wave rides, vibrant bohemian cafe culture, and nearby wild elephants.",
+    "reasonsToVisit": [
+      "Surf one of the top ten right-hand point breaks on planet Earth with rides up to 500 meters",
+      "Immerse yourself in a vibrant, friendly, world-renowned surf and yoga community",
+      "Spot wild Asian elephants wandering along nearby coastal lagoons just minutes from town",
+      "Enjoy incredible beach dining, specialty coffee, and live acoustic music by the sea"
+    ],
+    "activities": [
+      "World-class point break surfing",
+      "Surf lessons for beginners",
+      "Beachfront yoga and wellness",
+      "Lagoon safari for wild elephants"
+    ],
+    "bestTimeToVisit": "May to September (peak surf season with consistent 4-8 foot swells, offshore morning winds, and sunny skies).",
+    "visitingDuration": "Several Days to Several Weeks",
+    "entranceInformation": "Free public beach access; surfboard rental approx. LKR 1,500 - 2,500/day; surf lessons approx. LKR 4,000 - 6,000.",
+    "openingHours": "Open 24 hours; cafes and surf shops operate 07:00 - 23:00.",
+    "accessibilityInformation": "Main street and beachfront are easily walkable; sand pathways lead to the surf points.",
+    "safetyInformation": "Main Point has a rocky bottom near the takeoff; beginners should surf at Baby Point or Whiskey Point; be mindful of strong currents.",
+    "travelTips": {
+      "whatToBring": "Surfboard or rental budget, surf rashguard, high SPF water-resistant sunscreen/zinc, sunglasses, camera.",
+      "clothing": "Relaxed surf/bohemian beachwear.",
+      "photographyTips": "Shoot from the Main Point headland looking south to capture surfers riding the peeling waves against the morning sun.",
+      "localCustoms": "Respect the surf lineup priority rules; show courtesy to local community members.",
+      "environmentalGuidelines": "Support local ocean conservation initiatives; keep the bay free of single-use plastics."
+    },
+    "latitude": 6.8417,
+    "longitude": 81.8333,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/arugam-bay.jpg",
+        "caption": "Arugam Bay World Championship Surf Point - Primary Vista",
+        "altText": "Arugam Bay World Championship Surf Point, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/ampara.jpg",
+        "caption": "Ampara District Landscape",
+        "altText": "Ampara District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/eastern-province.jpg",
+        "caption": "Eastern Province Regional Panorama",
+        "altText": "Eastern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Development Authority",
+        "sourceUrl": "https://www.sltda.gov.lk",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "whiskey-point",
+      "peanut-farm-beach",
+      "lahugala-national-park",
+      "kudumbigala-monastery"
+    ]
+  },
+  {
+    "id": "whiskey-point",
+    "name": "Whiskey Point Pottuvil",
+    "slug": "whiskey-point",
+    "districtId": "ampara",
+    "provinceId": "eastern-province",
+    "category": "beaches",
+    "categories": [
+      "beaches",
+      "adventure",
+      "photography"
+    ],
+    "shortDescription": "A famous rocky point break north of Arugam Bay, celebrated for consistent, friendly peeling right-hand waves and a chilled beach vibe.",
+    "fullDescription": "Located 10 kilometers north of Arugam Bay near Pottuvil, Whiskey Point is one of the most beloved and consistent surf destinations on the east coast. Anchored by a picturesque rocky granite outcrop jutting into the sea, the point creates a reliable, forgiving right-hand wave that breaks over a smooth sandbank. Ideal for beginner to intermediate surfers looking to transition to green waves as well as longboarders, Whiskey Point also features a wide golden beach with rustic beach bars and hammocks strung between palms. Sunrises here over the rocky point are truly magical.",
+    "historicalBackground": "A traditional fishing headland popularized by traveling surfers seeking less crowded waves than Arugam Bay Main Point.",
+    "naturalCharacteristics": "Granite rocky point extending into the sea, creating a sheltered sand-bottom wave break.",
+    "specialFeatures": "Consistent sand-bottom right-hand wave, climbable rocky lookout, and relaxed rustic beach bars.",
+    "reasonsToVisit": [
+      "Surf one of Sri Lanka's most fun, forgiving, and consistent right-hand point breaks",
+      "Enjoy a more relaxed, less crowded beach atmosphere than central Arugam Bay",
+      "Climb atop the rocky point to watch surfers catch waves against the sunrise",
+      "Relax in beachfront hammocks with fresh coconut water and local seafood"
+    ],
+    "activities": [
+      "Surfing (intermediate and longboarding)",
+      "Climbing the rocky point viewpoint",
+      "Sunrise photography",
+      "Beach relaxation"
+    ],
+    "bestTimeToVisit": "May to October (peak surf season with consistent swells).",
+    "visitingDuration": "Half Day to Full Day",
+    "entranceInformation": "Free public beach access.",
+    "openingHours": "Open 24 hours.",
+    "accessibilityInformation": "Unpaved coastal road leads to the beach; soft sand walking.",
+    "safetyInformation": "Be careful when climbing the wet rocks on the point; sand-bottom break is generally very safe.",
+    "travelTips": {
+      "whatToBring": "Surfboard, zinc sunblock, swimwear, camera.",
+      "clothing": "Beachwear and surf rashguards.",
+      "photographyTips": "Stand atop the rocks at sunrise to capture surfers dropping into golden backlit waves.",
+      "localCustoms": "Share waves with respect in the lineup.",
+      "environmentalGuidelines": "Leave no trash on the sand."
+    },
+    "latitude": 6.8833,
+    "longitude": 81.85,
+    "featured": false,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/whiskey-point.jpg",
+        "caption": "Whiskey Point Pottuvil - Primary Vista",
+        "altText": "Whiskey Point Pottuvil, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/ampara.jpg",
+        "caption": "Ampara District Landscape",
+        "altText": "Ampara District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/eastern-province.jpg",
+        "caption": "Eastern Province Regional Panorama",
+        "altText": "Eastern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Promotion Bureau",
+        "sourceUrl": "https://srilanka.travel",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "arugam-bay",
+      "peanut-farm-beach"
+    ]
+  },
+  {
+    "id": "peanut-farm-beach",
+    "name": "Peanut Farm Beach",
+    "slug": "peanut-farm-beach",
+    "districtId": "ampara",
+    "provinceId": "eastern-province",
+    "category": "beaches",
+    "categories": [
+      "beaches",
+      "adventure",
+      "hidden-gems",
+      "wildlife-safari"
+    ],
+    "shortDescription": "A legendary secluded surf bay south of Arugam Bay, named after an old peanut plantation, where dual surf points meet wild coastal lagoons and roaming elephants.",
+    "fullDescription": "Located 6 kilometers south of Arugam Bay along a scenic dirt track winding through dry-zone scrub jungle, Peanut Farm Beach is an iconic off-grid surf haven. Deriving its name from a former peanut plantation that once stood here, the beach features two distinct right-hand surf breaks: an inside beginner-friendly wave breaking over soft sand, and an outside point break wrapping around colossal granite boulders for experienced surfers. The beach is bordered by a tranquil freshwater lagoon where wild elephants, spotted deer, and water monitors are frequently spotted in the late afternoon. With its rustic treehouses, wooden surf shacks, and wild natural surroundings, Peanut Farm embodies the authentic, rugged spirit of classic surf exploration.",
+    "historicalBackground": "A historic agricultural clearing that evolved into a world-famous bohemian surf escape.",
+    "naturalCharacteristics": "Secluded bay flanked by massive granite boulders, sand dunes, and a freshwater coastal lagoon.",
+    "specialFeatures": "Two distinct right-hand wave breaks (inside and outside), wild elephants at the lagoon, and rustic treehouse cafes.",
+    "reasonsToVisit": [
+      "Surf two distinct right-hand wave sections catering to both progressing beginners and advanced surfers",
+      "Experience the thrill of seeing wild Asian elephants drinking at the lagoon behind the beach at dusk",
+      "Relax in rustic wooden treehouses surrounded by pristine, wild coastal nature",
+      "Enjoy an adventurous tuk-tuk journey through scenic jungle tracks"
+    ],
+    "activities": [
+      "Surfing",
+      "Wildlife spotting at the lagoon",
+      "Treehouse relaxing",
+      "Bouldering and cliff viewpoint climbing"
+    ],
+    "bestTimeToVisit": "May to October (peak surf season; afternoon visits allow wildlife spotting at dusk).",
+    "visitingDuration": "Half Day",
+    "entranceInformation": "Free public beach access.",
+    "openingHours": "Open daily daylight hours (06:00 - 18:30).",
+    "accessibilityInformation": "Requires a 15-20 minute tuk-tuk ride along an unpaved sand and dirt track; soft sand walking.",
+    "safetyInformation": "Do not approach wild elephants if they emerge near the lagoon; maintain a safe distance and stay with local guides.",
+    "travelTips": {
+      "whatToBring": "Surfboard, sunscreen, drinking water, camera with zoom lens for elephants, cash.",
+      "clothing": "Surf rashguards and beachwear.",
+      "photographyTips": "Photograph surfers riding waves with the colossal rounded granite boulders in the background.",
+      "localCustoms": "Head back toward town before complete darkness to navigate the jungle road safely.",
+      "environmentalGuidelines": "Strict Leave No Trace policy; do not leave food waste that attracts wild elephants."
+    },
+    "latitude": 6.8,
+    "longitude": 81.85,
+    "featured": false,
+    "popular": true,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/peanut-farm-beach.jpg",
+        "caption": "Peanut Farm Beach - Primary Vista",
+        "altText": "Peanut Farm Beach, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/ampara.jpg",
+        "caption": "Ampara District Landscape",
+        "altText": "Ampara District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/eastern-province.jpg",
+        "caption": "Eastern Province Regional Panorama",
+        "altText": "Eastern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Development Authority",
+        "sourceUrl": "https://www.sltda.gov.lk",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "arugam-bay",
+      "kudumbigala-monastery",
+      "lahugala-national-park"
+    ]
+  },
+  {
+    "id": "lahugala-national-park",
+    "name": "Lahugala Kitulana National Park",
+    "slug": "lahugala-national-park",
+    "districtId": "ampara",
+    "provinceId": "eastern-province",
+    "category": "national-parks",
+    "categories": [
+      "national-parks",
+      "wildlife-safari",
+      "hidden-gems"
+    ],
+    "shortDescription": "A secluded 1,554-hectare national park famous for large herds of wild Asian elephants feeding on beru grass around ancient reservoir wewas.",
+    "fullDescription": "Situated 16 kilometers inland from Pottuvil along the Monaragala–Arugam Bay highway, Lahugala Kitulana National Park is one of Sri Lanka's smallest yet most wildlife-dense national parks. Spanning 1,554 hectares, the park centers around three ancient irrigation reservoirs: Lahugala Tank, Kitulana Tank, and Mahawewa. These shallow tanks are blanketed in a lush aquatic grass known as 'beru' (Leersia hexandra), which serves as a favorite natural forage for wild Asian elephants. During the dry season (July to October), herds of up to 100 to 150 elephants congregate peacefully in the open water to feast on the succulent grasses. The park is also home to the nearby 5th-century BCE Magul Maha Viharaya, an ancient royal monastery where King Kavantissa famously married Princess Viharamahadevi.",
+    "historicalBackground": "Declared a national park in 1980; harbors the historic 5th-century BCE Magul Maha Viharaya royal wedding complex.",
+    "naturalCharacteristics": "Dry-zone evergreen forest surrounding ancient freshwater tanks carpeted in aquatic beru grass.",
+    "specialFeatures": "Herds of up to 150 elephants feeding in the water, Magul Maha Viharaya Moonstone, and birdwatching.",
+    "reasonsToVisit": [
+      "Witness massive herds of wild elephants grazing peacefully in open water tanks",
+      "Enjoy wildlife watching directly from scenic roadside observation points without crowded jeeps",
+      "Visit the nearby ancient 5th-century BCE royal monastery of Magul Maha Viharaya",
+      "Spot endemic dry-zone birds including painted storks, hornbills, and white-bellied sea eagles"
+    ],
+    "activities": [
+      "Roadside elephant watching",
+      "Visiting Magul Maha Viharaya ancient ruins",
+      "Birdwatching",
+      "Wildlife photography"
+    ],
+    "bestTimeToVisit": "July to October during the dry season; late afternoon (15:30 - 18:00) when elephants emerge into the water.",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "Free viewing from roadside observation platforms; small archaeological ticket for Magul Maha Viharaya.",
+    "openingHours": "06:00 - 18:00 Daily.",
+    "accessibilityInformation": "Roadside viewing towers and platforms are easily accessible by vehicle along the A4 highway.",
+    "safetyInformation": "Do not leave your vehicle on foot near wild elephants along the highway corridor.",
+    "travelTips": {
+      "whatToBring": "Binoculars, telephoto camera lens, drinking water.",
+      "clothing": "Casual comfortable travel clothes.",
+      "photographyTips": "Capture wild elephants wading deep into the grass-carpeted tank with sunset reflections in the water.",
+      "localCustoms": "Drive slowly and with caution along the highway through the elephant corridor.",
+      "environmentalGuidelines": "Strictly do not honk or shine headlights at elephants crossing the road."
+    },
+    "latitude": 6.8667,
+    "longitude": 81.7167,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/lahugala-national-park.jpg",
+        "caption": "Lahugala Kitulana National Park - Primary Vista",
+        "altText": "Lahugala Kitulana National Park, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/ampara.jpg",
+        "caption": "Ampara District Landscape",
+        "altText": "Ampara District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/eastern-province.jpg",
+        "caption": "Eastern Province Regional Panorama",
+        "altText": "Eastern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Wildlife Conservation Sri Lanka",
+        "sourceUrl": "http://www.dwc.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "arugam-bay",
+      "kudumbigala-monastery",
+      "gal-oya-national-park"
+    ]
+  },
+  {
+    "id": "gal-oya-national-park",
+    "name": "Gal Oya National Park & Senanayake Samudraya",
+    "slug": "gal-oya-national-park",
+    "districtId": "ampara",
+    "provinceId": "eastern-province",
+    "category": "national-parks",
+    "categories": [
+      "national-parks",
+      "wildlife-safari",
+      "lakes-reservoirs",
+      "adventure",
+      "hidden-gems"
+    ],
+    "shortDescription": "The only national park in Sri Lanka offering boat safaris to witness wild Asian elephants swimming between islands across the vast Senanayake Samudraya.",
+    "fullDescription": "Spanning 25,900 hectares in the southeastern interior, Gal Oya National Park is one of Sri Lanka's most pristine, remote, and ecologically fascinating wilderness sanctuaries. Established in 1954 to protect the catchment of the colossal Senanayake Samudraya—Sri Lanka's largest inland water reservoir, holding over 950 million cubic meters of water—Gal Oya is the only national park in Sri Lanka where safaris are conducted primarily by boat. As the boat cruises silently across the vast inland sea dotted with rocky islands and submerged petrified forests, visitors behold one of the world's most extraordinary wildlife spectacles: wild Asian elephants swimming from island to island, using their trunks as natural snorkels to feed on fresh grasses. The park also features the dramatic rock peak of Monkey Mountain, home to the indigenous Vedda community of Dambana, and over 150 species of birds.",
+    "historicalBackground": "Established in 1954 under the Gal Oya Development Scheme; historically connected to the indigenous Vedda people for thousands of years.",
+    "naturalCharacteristics": "Vast artificial inland sea surrounded by dense tropical moist evergreen forests, savanna grasslands (talawa), and rocky mountain massifs.",
+    "specialFeatures": "Boat safaris with swimming elephants, Senanayake Samudraya (largest lake in Sri Lanka), and indigenous Vedda cultural walks.",
+    "reasonsToVisit": [
+      "Witness wild Asian elephants swimming between islands with their trunks held up like snorkels",
+      "Experience Sri Lanka's only boat-based national park safari on its largest inland sea",
+      "Explore untouched wilderness free from the crowded jeep convoys of other parks",
+      "Take a guided forest medicine walk with the indigenous Vedda community"
+    ],
+    "activities": [
+      "Boat safari on Senanayake Samudraya",
+      "Hike up Monkey Mountain for sunrise views",
+      "Indigenous Vedda cultural walk",
+      "Birdwatching boat cruises"
+    ],
+    "bestTimeToVisit": "March to October (dry season when elephants frequently swim between islands to forage; early morning or late afternoon boat departures).",
+    "visitingDuration": "1 to 2 Days",
+    "entranceInformation": "National Park ticket: approx. LKR 8,000 - 10,000 per foreign adult visitor (including wildlife department boat fees and tracker).",
+    "openingHours": "06:00 - 18:00 Daily; boat safaris depart at 06:00 and 15:00.",
+    "accessibilityInformation": "Safaris are conducted via motorized wildlife department boats; life jackets provided.",
+    "safetyInformation": "Maintain respectful distance from swimming elephants; do not attempt to swim in the reservoir.",
+    "travelTips": {
+      "whatToBring": "Binoculars, camera with telephoto zoom lens, hat with chin strap, sunscreen, light waterproof bag.",
+      "clothing": "Neutral, comfortable boat clothing.",
+      "photographyTips": "Capture the iconic sight of an elephant's head and trunk cutting through the mirror-like blue water of the lake.",
+      "localCustoms": "Show deep cultural respect when participating in walks with indigenous Vedda village elders.",
+      "environmentalGuidelines": "Strict zero-pollution guidelines; maintain silent boat engines near wildlife."
+    },
+    "latitude": 7.2167,
+    "longitude": 81.4667,
+    "featured": true,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/gal-oya-national-park.jpg",
+        "caption": "Gal Oya National Park & Senanayake Samudraya - Primary Vista",
+        "altText": "Gal Oya National Park & Senanayake Samudraya, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/ampara.jpg",
+        "caption": "Ampara District Landscape",
+        "altText": "Ampara District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/eastern-province.jpg",
+        "caption": "Eastern Province Regional Panorama",
+        "altText": "Eastern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Wildlife Conservation Sri Lanka",
+        "sourceUrl": "http://www.dwc.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "lahugala-national-park",
+      "arugam-bay"
+    ]
+  },
+  {
+    "id": "kudumbigala-monastery",
+    "name": "Kudumbigala Forest Hermitage",
+    "slug": "kudumbigala-monastery",
+    "districtId": "ampara",
+    "provinceId": "eastern-province",
+    "category": "temples-religious",
+    "categories": [
+      "temples-religious",
+      "ancient-cities",
+      "hiking-trekking",
+      "viewpoints",
+      "hidden-gems"
+    ],
+    "shortDescription": "An ancient 246 BCE forest monastery hidden within a wildlife sanctuary, featuring over 200 natural rock caves and the only cylindrical stupa in Sri Lanka.",
+    "fullDescription": "Hidden deep within the wild, boulder-strewn jungles of the Kudumbigala Sanctuary south of Arugam Bay, the Kudumbigala Forest Hermitage (Kudumbigala Aranya Senasanaya) is one of the most awe-inspiring and mystical spiritual retreats in Sri Lanka. Established in 246 BCE during the reign of King Devanampiya Tissa as a sanctuary for Buddhist monks seeking deep meditative isolation away from civilization, the complex encompasses over 200 natural rock cave shelters with carved drip-ledges (katare) and ancient Brahmi inscriptions. The crowning jewel of the hermitage sits atop the highest sheer granite crag: the Belumgala (Lookout Rock), crowned by the only ancient cylindrical (tubular) stupa surviving in Sri Lanka. Climbing the rock steps and ladders through dense jungle leads to a summit panorama offering dramatic 360-degree views across virgin coastal forests, Kumana wilderness, and the crashing waves of the Indian Ocean.",
+    "historicalBackground": "Established in 246 BCE during the introduction of Buddhism to Sri Lanka; revived in 1954 by meditation master Ven. Thambugala Anandasiri Thera.",
+    "naturalCharacteristics": "Granite rock boulder massif rising above dense dry-zone forest and coastal lagoons.",
+    "specialFeatures": "Only surviving ancient cylindrical stupa in Sri Lanka, 200 rock meditation caves, and 360-degree Belumgala summit view.",
+    "reasonsToVisit": [
+      "Climb to the summit of Belumgala for an unforgettable 360-degree panorama of virgin jungle and sea",
+      "Marvel at the unique cylindrical stupa, an architectural design found nowhere else in Sri Lanka",
+      "Explore over 200 ancient rock cave shelters where meditating monks have practiced for 2,200 years",
+      "Experience the profound spiritual peace of an authentic, active forest hermitage"
+    ],
+    "activities": [
+      "Rock summit hiking",
+      "Ancient cave exploration",
+      "Quiet meditation",
+      "Panoramic landscape photography"
+    ],
+    "bestTimeToVisit": "May to September; early morning (06:30 - 09:30) or late afternoon (15:30 - 17:30) to avoid extreme rock heat.",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "Free admission; donations to the forest hermitage are welcome.",
+    "openingHours": "06:00 - 18:00 Daily.",
+    "accessibilityInformation": "Requires climbing uneven stone steps, wooden ladders, and rock paths through the forest; requires moderate fitness.",
+    "safetyInformation": "Surrounded by a wild wildlife sanctuary; leopards, sloth bears, and elephants inhabit the forest; stay strictly on the monastic path.",
+    "travelTips": {
+      "whatToBring": "Modest clothing, socks (to protect feet from hot rocks near the summit stupa), drinking water, camera.",
+      "clothing": "White or light modest clothing covering shoulders and knees.",
+      "photographyTips": "Photograph the cylindrical white stupa perched on the sheer granite summit against the infinite green jungle canopy.",
+      "localCustoms": "Strict silence must be maintained around meditation cave hermitages.",
+      "environmentalGuidelines": "Strictly no plastic or litter; do not disturb resident meditating monks."
+    },
+    "latitude": 6.6667,
+    "longitude": 81.75,
+    "featured": true,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/kudumbigala-monastery.jpg",
+        "caption": "Kudumbigala Forest Hermitage - Primary Vista",
+        "altText": "Kudumbigala Forest Hermitage, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/ampara.jpg",
+        "caption": "Ampara District Landscape",
+        "altText": "Ampara District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/eastern-province.jpg",
+        "caption": "Eastern Province Regional Panorama",
+        "altText": "Eastern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Archaeology Sri Lanka",
+        "sourceUrl": "http://www.archaeology.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "arugam-bay",
+      "peanut-farm-beach",
+      "lahugala-national-park"
+    ]
+  },
+  {
+    "id": "muhudu-maha-viharaya",
+    "name": "Muhudu Maha Viharaya",
+    "slug": "muhudu-maha-viharaya",
+    "districtId": "ampara",
+    "provinceId": "eastern-province",
+    "category": "ancient-cities",
+    "categories": [
+      "ancient-cities",
+      "temples-religious",
+      "historical-sites",
+      "beaches"
+    ],
+    "shortDescription": "An ancient 2,000-year-old Buddhist seaside temple nestled among coastal sand dunes in Pottuvil, commemorating the heroic landing of Queen Viharamahadevi.",
+    "fullDescription": "Nestled among rolling coastal sand dunes right on the beach in Pottuvil near Arugam Bay, Muhudu Maha Viharaya (Sea Great Temple) is a legendary archaeological landmark. Believed to have been built over 2,000 years ago by King Kavan Tissa of the Ruhuna Kingdom in the 2nd century BCE, the temple commemorates the heroic sea landing of Princess Viharamahadevi. According to the ancient chronicles, the princess volunteered to be sacrificed to the sea in a gilded boat to appease the wrath of the sea gods after a tsunami-like flood; the ocean carried her safely ashore at this exact beach, where the king received her and made her his queen. Today, the atmospheric site features ancient granite stone ruins partially buried in coastal sand dunes: standing rock-cut Buddha statues, stone pillars, a circular relic chamber, and a stupa overlooking the crashing waves.",
+    "historicalBackground": "Built in the 2nd century BCE by King Kavan Tissa; commemorates Princess Viharamahadevi's miraculous sea landing.",
+    "naturalCharacteristics": "Coastal sand dunes and beach ecosystem overlooking the Indian Ocean.",
+    "specialFeatures": "Ancient stone Buddha statues nestled in coastal dunes, stupa overlooking the sea, and Viharamahadevi landing legend.",
+    "reasonsToVisit": [
+      "Stand at the legendary coastal landing site of Queen Viharamahadevi, mother of King Dutugemunu",
+      "Marvel at 2,000-year-old carved stone Buddha statues emerging from soft beach sand dunes",
+      "Enjoy the unique sight of ancient stone archaeological pillars framed by the ocean surf",
+      "A peaceful cultural and spiritual visit just 5 minutes from Arugam Bay surf points"
+    ],
+    "activities": [
+      "Ancient ruin exploration",
+      "Historical reflection",
+      "Seaside photography",
+      "Temple worship"
+    ],
+    "bestTimeToVisit": "Late afternoon (16:30 - 18:30) when the golden light illuminates the stone statues against the blue sea.",
+    "visitingDuration": "1 - 1.5 Hours",
+    "entranceInformation": "Free admission; voluntary temple donations.",
+    "openingHours": "06:00 - 18:30 Daily.",
+    "accessibilityInformation": "Paved road leads to temple gate; walking across sand required to view dune ruins.",
+    "safetyInformation": "Remove footwear before stepping onto the sacred stone ruin enclosures; sand can be hot at midday.",
+    "travelTips": {
+      "whatToBring": "Modest clothing, slip-off footwear, camera, sun hat.",
+      "clothing": "Modest white or light clothing covering shoulders and knees.",
+      "photographyTips": "Photograph the ancient standing stone Buddha statues framed by coastal sand dunes and the ocean horizon.",
+      "localCustoms": "Quiet, respectful behavior on the sacred archaeological premises.",
+      "environmentalGuidelines": "Do not climb onto ancient carved stone pillars or disturb fragile coastal sand dunes."
+    },
+    "latitude": 6.8717,
+    "longitude": 81.835,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/muhudu-maha-viharaya.jpg",
+        "caption": "Muhudu Maha Viharaya - Primary Vista",
+        "altText": "Muhudu Maha Viharaya, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/ampara.jpg",
+        "caption": "Ampara District Landscape",
+        "altText": "Ampara District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/eastern-province.jpg",
+        "caption": "Eastern Province Regional Panorama",
+        "altText": "Eastern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Archaeology Sri Lanka",
+        "sourceUrl": "http://www.archaeology.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "arugam-bay",
+      "whiskey-point"
+    ]
+  }
+]

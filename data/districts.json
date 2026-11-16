@@ -1,0 +1,893 @@
+[
+  {
+    "id": "colombo",
+    "provinceId": "western-province",
+    "name": "Colombo District",
+    "slug": "colombo",
+    "capital": "Colombo",
+    "areaKm2": 699,
+    "heroImage": "img/districts/colombo.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "The dynamic coastal financial hub and cultural crossroads of Sri Lanka, where colonial architecture meets oceanfront promenades and lush urban wetlands.",
+    "fullDescription": "Colombo District encompasses Sri Lanka's commercial powerhouse alongside ancient wetlands and tranquil river estuaries. From the Dutch Hospital precinct and colonial Fort to the sweeping sunset views of Galle Face Green, Colombo is a melting pot of global influences, Buddhist temples like Gangaramaya, and cosmopolitan dining. Towards the east, the administrative capital of Sri Jayawardenepura Kotte features pristine urban wetland parks like Beddagana and Diyatha Uyana along Diyawanna Lake, proving that wildlife and modern urbanity can co-exist harmoniously.",
+    "geographicalCharacter": "Coastal lowlands, Kelani River estuary, urban lagoons, and protected marshy wetlands.",
+    "famousDestinations": [
+      "colombo-city",
+      "galle-face-green",
+      "gangaramaya-temple",
+      "independence-square",
+      "mount-lavinia-beach"
+    ],
+    "hiddenGems": [
+      "beddagana-wetland-park",
+      "diyatha-uyana",
+      "viharamahadevi-park"
+    ],
+    "localFood": "Isso Vadai on Galle Face Green, Kottu Roti at midnight diners, Lamprais (Dutch-Burgher wrapped rice), and fresh lagoon seafood.",
+    "adventureActivities": [
+      "Sunset catamaran rides",
+      "Urban wetland birding tours",
+      "Heritage open-top bus explorations",
+      "Scuba diving historic wrecks off Colombo coast"
+    ],
+    "recommendedItineraries": [
+      "1-Day Colombo Heritage & Street Food Walk",
+      "2-Day Cultural & Waterfront Discovery"
+    ],
+    "latitude": 6.9271,
+    "longitude": 79.8612,
+    "heroImageLocal": "img/districts/colombo.jpg"
+  },
+  {
+    "id": "gampaha",
+    "provinceId": "western-province",
+    "name": "Gampaha District",
+    "slug": "gampaha",
+    "capital": "Gampaha",
+    "areaKm2": 1387,
+    "heroImage": "img/districts/gampaha.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "Famous for the historic fishing enclave and lively beach town of Negombo, mangrove-lined coastal lagoons, and Sri Lanka's largest wetland sanctuary.",
+    "fullDescription": "Located immediately north of Colombo, Gampaha District is the principal international gateway to Sri Lanka (housing Bandaranaike International Airport in Katunayake). It is renowned for Negombo\u2014dubbed 'Little Rome' due to its hundreds of Dutch and Portuguese Catholic churches and vibrant fishing fleets deploying traditional outrigger canoes (oruvas). The district is also home to the Muthurajawela Wetland Sanctuary, a vital coastal peat bog rich in endemic waterbirds, monitor lizards, and mangrove flora, as well as the historic Henarathgoda Botanical Garden where the first Brazilian rubber tree was planted in South Asia in 1876.",
+    "geographicalCharacter": "Coastal sandy beaches, brackish lagoons, tidal estuaries, and inland rubber, pineapple, and coconut plantations.",
+    "famousDestinations": [
+      "negombo-beach",
+      "negombo-lagoon",
+      "muthurajawela-wetlands"
+    ],
+    "hiddenGems": [
+      "henarathgoda-botanical-garden"
+    ],
+    "localFood": "Negombo spicy crab curry, fresh lagoon prawns, seer fish cutlets, and sweet local jackfruit.",
+    "adventureActivities": [
+      "Lagoon boat safaris",
+      "Kitesurfing in Negombo beach",
+      "Muthurajawela marsh kayaking",
+      "Deep-sea sport fishing"
+    ],
+    "recommendedItineraries": [
+      "1-Day Negombo Fishermen & Wetland Safari"
+    ],
+    "latitude": 7.084,
+    "longitude": 79.9939,
+    "heroImageLocal": "img/districts/gampaha.jpg"
+  },
+  {
+    "id": "kalutara",
+    "provinceId": "western-province",
+    "name": "Kalutara District",
+    "slug": "kalutara",
+    "capital": "Kalutara",
+    "areaKm2": 1598,
+    "heroImage": "img/districts/kalutara.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "Known for the majestic hollow Buddhist stupa of Kalutara Bodhiya, Kalu Ganga river adventures, colonial mansions, and fragrant mangosteens.",
+    "fullDescription": "Kalutara District spans the scenic southern stretch of the Western Province, where the mighty Kalu Ganga (Black River) completes its descent from Adam's Peak into the Indian Ocean. Travelers are welcomed by the iconic Kalutara Bodhiya\u2014a world-unique hollow Buddhist stupa enshrining an ancient sacred Bo tree. The district is steeped in spice and rubber history, featuring opulent colonial estates like Richmond Castle (a 19th-century Edwardian-Indian palace), the serene waterways of Bolgoda Lake, and breezy palm-sheltered beaches along Calido Beach and Beruwala.",
+    "geographicalCharacter": "River deltas, coastal sandbars, tranquil freshwater lakes, and fertile rubber and mangosteen orchards.",
+    "famousDestinations": [
+      "kalutara-bodhiya",
+      "richmond-castle"
+    ],
+    "hiddenGems": [
+      "bolgoda-lake",
+      "calido-beach"
+    ],
+    "localFood": "Fresh sweet mangosteens, dodol (caramelized coconut jelly), fresh river fish, and coconut arrack.",
+    "adventureActivities": [
+      "River boat cruises along Kalu Ganga",
+      "Water skiing on Bolgoda Lake",
+      "Cycling through rubber estates"
+    ],
+    "recommendedItineraries": [
+      "1-Day Kalu Ganga & Heritage Castle Tour"
+    ],
+    "latitude": 6.5854,
+    "longitude": 79.9607,
+    "heroImageLocal": "img/districts/kalutara.jpg"
+  },
+  {
+    "id": "kandy",
+    "provinceId": "central-province",
+    "name": "Kandy District",
+    "slug": "kandy",
+    "capital": "Kandy",
+    "areaKm2": 1940,
+    "heroImage": "img/districts/kandy.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "The sacred spiritual capital of Sri Lanka, sheltering the revered Temple of the Tooth Relic, royal botanical wonderlands, and cloud forest peaks.",
+    "fullDescription": "Nestled in a verdant basin surrounded by towering mountain ranges and the loop of the Mahaweli River, Kandy was the final stronghold of the Sinhalese monarchs until 1815. The sacred Sri Dalada Maligawa (Temple of the Sacred Tooth Relic) overlooks peaceful Kandy Lake, serving as the epicentre of Buddhist pilgrimage and the breathtaking Esala Perahera festival. The district features the world-renowned Royal Botanic Gardens at Peradeniya with over 4,000 plant species, the spiraling multi-faith Ambuluwawa Biodiversity Complex tower, and the rugged eastern wilderness of the UNESCO-inscribed Knuckles Mountain Range.",
+    "geographicalCharacter": "Mountain valleys, terraced paddy fields, highland tea slopes, and cloud-draped mountain passes.",
+    "famousDestinations": [
+      "temple-of-the-tooth",
+      "kandy-lake",
+      "peradeniya-botanical-gardens",
+      "ambuluwawa-tower"
+    ],
+    "hiddenGems": [
+      "knuckles-mountain-range",
+      "bahirawakanda-temple"
+    ],
+    "localFood": "Authentic Kandyan sweetmeats (kavum, kokis), polos (young jackfruit curry), and highland Ceylon breakfast tea.",
+    "adventureActivities": [
+      "Trekking Knuckles High Range",
+      "Climbing Ambuluwawa spiral tower",
+      "Scenic railway journeys to Ella",
+      "Peradeniya canopy walks"
+    ],
+    "recommendedItineraries": [
+      "2-Day Kandy Royal Heritage & Mountain Trek"
+    ],
+    "latitude": 7.2906,
+    "longitude": 80.6337,
+    "heroImageLocal": "img/districts/kandy.jpg"
+  },
+  {
+    "id": "matale",
+    "provinceId": "central-province",
+    "name": "Matale District",
+    "slug": "matale",
+    "capital": "Matale",
+    "areaKm2": 1993,
+    "heroImage": "img/districts/matale.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "Home of world-famous UNESCO World Heritage marvels: Sigiriya Rock Fortress, Dambulla Cave Temple, and aromatic spice gardens.",
+    "fullDescription": "Matale District forms the beating heart of Sri Lanka's renowned Cultural Triangle. Here rises the iconic 5th-century granite monolith of Sigiriya (Lion Rock), King Kashyapa's legendary sky palace adorned with ancient celestial maidens frescoes and mirror walls. A short drive away, the monumental Dambulla Cave Temple complex preserves five sacred caverns filled with 153 Buddha statues and 2,100 square meters of centuries-old Buddhist murals. The district also encompasses the sunrise summit of Pidurangala Rock, the historic Aluvihare Rock Cave Temple where the Buddhist Tripitaka was first penned onto ola palm leaves, and the misty northern ridges of the Knuckles at Riverston.",
+    "geographicalCharacter": "Dramatic isolated granite inselbergs rising above lush dry-zone forests, transitioning southward to cloud-covered mountain crests.",
+    "famousDestinations": [
+      "sigiriya-rock-fortress",
+      "dambulla-cave-temple",
+      "pidurangala-rock"
+    ],
+    "hiddenGems": [
+      "aluvihare-rock-temple",
+      "riverston-knuckles"
+    ],
+    "localFood": "Matale spice-infused vegetable curries, kottu roti, freshly plucked cardamoms and cloves, and herbal herbal teas.",
+    "adventureActivities": [
+      "Dawn ascent of Sigiriya and Pidurangala",
+      "Trekking the Riverston windy gap & Mini World's End",
+      "Hot air ballooning over Sigiriya plains"
+    ],
+    "recommendedItineraries": [
+      "2-Day Ancient Monoliths & Cave Temples of Matale"
+    ],
+    "latitude": 7.4675,
+    "longitude": 80.6234,
+    "heroImageLocal": "img/districts/matale.jpg"
+  },
+  {
+    "id": "nuwara-eliya",
+    "provinceId": "central-province",
+    "name": "Nuwara Eliya District",
+    "slug": "nuwara-eliya",
+    "capital": "Nuwara Eliya",
+    "areaKm2": 1741,
+    "heroImage": "img/districts/nuwara-eliya.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "The cool climate tea capital of Sri Lanka, dubbed 'Little England', with roaring waterfalls, colonial architecture, and the precipice of World's End.",
+    "fullDescription": "Perched at elevations exceeding 1,800 meters, Nuwara Eliya is the premier mountain retreat of Sri Lanka. Characterized by cool mountain breezes, manicured golf courses, colonial mock-Tudor bungalows, and Gregory Lake, it retains a distinct Victorian charm. The surrounding mountains are carved into endless ribbons of emerald Ceylon tea plantations, punctuated by thunderous cascades like Devon Falls, St. Clair's Falls, and Ramboda Falls. Southward lies Horton Plains National Park, an eerie, windswept high-altitude plateau of cloud forests terminating at World's End\u2014a near-vertical 880-meter sheer drop with breathtaking panoramas toward the southern ocean.",
+    "geographicalCharacter": "Highland montane plateaus, cloud forests, steep valleys, cascading waterfalls, and tea estate hillsides.",
+    "famousDestinations": [
+      "nuwara-eliya-town-gregory-lake",
+      "horton-plains-worlds-end",
+      "ramboda-falls",
+      "devon-falls",
+      "st-clairs-falls"
+    ],
+    "hiddenGems": [
+      "hakgala-botanical-garden",
+      "pedro-tea-estate"
+    ],
+    "localFood": "Warm freshly plucked strawberries with cream, high-grown single-origin Ceylon black tea, and steaming hot highland vegetable stews.",
+    "adventureActivities": [
+      "Hiking Horton Plains to World's End and Baker's Falls",
+      "Boating on Gregory Lake",
+      "Ceylon tea factory masterclasses",
+      "Scenic train ride through Nanu Oya"
+    ],
+    "recommendedItineraries": [
+      "2-Day High Altitude Tea Country & Cloud Forests"
+    ],
+    "latitude": 6.9497,
+    "longitude": 80.7891,
+    "heroImageLocal": "img/districts/nuwara-eliya.jpg"
+  },
+  {
+    "id": "galle",
+    "provinceId": "southern-province",
+    "name": "Galle District",
+    "slug": "galle",
+    "capital": "Galle",
+    "areaKm2": 1652,
+    "heroImage": "img/districts/galle.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "The colonial jewel of the south, famous for the UNESCO-listed Galle Dutch Fort, turquoise surf beaches, and traditional stilt fishermen.",
+    "fullDescription": "Galle District harmoniously blends fortified European history with tropical coastal bliss. Its crowning treasure is the Galle Dutch Fort, a living 17th-century bastion city enclosed by granite sea walls, filled with boutique cafes, jewelers, and churches. Heading east along the coastal strip reveals pristine bays such as Unawatuna, secluded Jungle Beach beneath the Japanese Peace Pagoda, Dalawella's famous rope swings, and Hikkaduwa's coral reef sanctuary. Inland, the serene waters of Koggala Lake offer cinnamon island excursions, while stilt fishermen practice their time-honored craft along the reef shallows.",
+    "geographicalCharacter": "Sandy coves, coral reefs, coastal headlands, and interior cinnamon and rubber plantations.",
+    "famousDestinations": [
+      "galle-fort",
+      "unawatuna-beach",
+      "hikkaduwa-coral-sanctuary"
+    ],
+    "hiddenGems": [
+      "jungle-beach-rumassala",
+      "dalawella-beach",
+      "koggala-lake"
+    ],
+    "localFood": "Galle Fort seafood platters, Ambul Thiyal (sour fish curry), fresh king coconut, and curd with kithul treacle.",
+    "adventureActivities": [
+      "Snorkeling at Hikkaduwa Coral Sanctuary",
+      "Surfing Unawatuna & Hikkaduwa reefs",
+      "Walking the Fort ramparts at sunset",
+      "Kayaking on Koggala Lake"
+    ],
+    "recommendedItineraries": [
+      "2-Day Galle Fort & Southern Beach Haven"
+    ],
+    "latitude": 6.0535,
+    "longitude": 80.221,
+    "heroImageLocal": "img/districts/galle.jpg"
+  },
+  {
+    "id": "matara",
+    "provinceId": "southern-province",
+    "name": "Matara District",
+    "slug": "matara",
+    "capital": "Matara",
+    "areaKm2": 1282,
+    "heroImage": "img/districts/matara.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "World-renowned whale watching off Mirissa, picturesque Coconut Tree Hill, beginner-friendly surf at Weligama, and the island's southernmost lighthouse.",
+    "fullDescription": "Matara District is a coastal wonderland celebrated across the world as the best location on Earth for observing the colossal Blue Whale\u2014the largest animal to ever exist. Mirissa's golden crescent bay is the staging point for ethical whale and dolphin safaris and features the globally photographed Coconut Tree Hill promontory. Weligama Bay offers shallow, sandy-bottom gentle waves that make it South Asia's top learn-to-surf hub. At the district's southern extreme stands the grand octagonal white tower of Dondra Head Lighthouse, marking the southernmost point of Sri Lanka, before the ocean stretches uninterrupted until Antarctica.",
+    "geographicalCharacter": "Golden beaches, sheltered horseshoe bays, coastal rocky promontories, and Nilwala River basin.",
+    "famousDestinations": [
+      "mirissa-beach",
+      "coconut-tree-hill",
+      "weligama-bay",
+      "dondra-head-lighthouse"
+    ],
+    "hiddenGems": [
+      "polhena-beach",
+      "matara-fort"
+    ],
+    "localFood": "Grilled jumbo prawns, spicy fish ambul thiyal, tropical smoothie bowls, and freshly caught tuna steaks.",
+    "adventureActivities": [
+      "Blue whale & sperm whale watching boat trips",
+      "Surfing Weligama beach breaks",
+      "Snorkeling with sea turtles at Polhena",
+      "Climbing Dondra Lighthouse"
+    ],
+    "recommendedItineraries": [
+      "2-Day Marine Giants & Surf Escape"
+    ],
+    "latitude": 5.9549,
+    "longitude": 80.555,
+    "heroImageLocal": "img/districts/matara.jpg"
+  },
+  {
+    "id": "hambantota",
+    "provinceId": "southern-province",
+    "name": "Hambantota District",
+    "slug": "hambantota",
+    "capital": "Hambantota",
+    "areaKm2": 2609,
+    "heroImage": "img/districts/hambantota.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "The wild safari capital of the south, home to leopard haven Yala, flamingos of Bundala, Hummanaya blowhole, and the holy shrine of Kataragama.",
+    "fullDescription": "Occupying the southeastern dry zone, Hambantota District is an untamed sanctuary where wildlife roams freely. Yala National Park (Ruhuna) is its crowning glory, home to one of the world's densest leopard populations, alongside herds of elephants, sloth bears, and mugger crocodiles. Adjacent lies Bundala National Park, a UNESCO Biosphere Reserve of saline coastal lagoons hosting thousands of greater flamingos and migratory birds. The district also boasts the natural sea geyser of Hummanaya Blowhole (the second largest in the world), the horseshoe surf haven of Hiriketiya, sea turtle nesting beaches at Rekawa, and the multi-religious sacred pilgrimage complex of Ruhunu Kataragama.",
+    "geographicalCharacter": "Arid scrub plains, coastal dunes, saline lagoons (lewayas), rocky ridges, and dry-zone forests.",
+    "famousDestinations": [
+      "yala-national-park",
+      "bundala-national-park",
+      "hummanaya-blowhole",
+      "kataragama-sacred-city"
+    ],
+    "hiddenGems": [
+      "tangalle-beach",
+      "hiriketiya-beach",
+      "rekawa-turtle-conservation",
+      "mulkirigala-rock-temple"
+    ],
+    "localFood": "Buffalo curd with kithul treacle in clay pots, roasted fish with chili sambol, and local millet (kurakkan) flatbreads.",
+    "adventureActivities": [
+      "Dawn and dusk 4x4 safaris in Yala",
+      "Night turtle nesting watch at Rekawa",
+      "Surfing the horseshoe reef at Hiriketiya",
+      "Birdwatching boat tours in Bundala lagoons"
+    ],
+    "recommendedItineraries": [
+      "3-Day Big Safari & Southern Wilderness Expedition"
+    ],
+    "latitude": 6.1246,
+    "longitude": 81.1185,
+    "heroImageLocal": "img/districts/hambantota.jpg"
+  },
+  {
+    "id": "jaffna",
+    "provinceId": "northern-province",
+    "name": "Jaffna District",
+    "slug": "jaffna",
+    "capital": "Jaffna",
+    "areaKm2": 1025,
+    "heroImage": "img/districts/jaffna.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "The cultural epicenter of northern Tamil heritage, adorned with vibrant Hindu kovils, palmyra trees, white sand beaches, and historic offshore islands.",
+    "fullDescription": "Jaffna District occupies the distinctive northern peninsula, connected to the mainland by narrow causeways. Renowned for its unique cultural identity, the district is crowned by the magnificent golden-gilded Nallur Kandaswamy Kovil, one of Sri Lanka's most sacred Hindu temples. Offshore lies a necklace of captivating islands, chief among them Delft Island (Neduntheevu), where wild ponies descended from Dutch cavalry roam past coral-stone walls and baobabs. Other highlights include the shallow waters of Casuarina Beach, the historic Jaffna Dutch Fort, sacred Keerimalai mineral springs, and Point Pedro, the northernmost tip of Sri Lanka.",
+    "geographicalCharacter": "Flat limestone terrain, shallow coastal lagoons, palmyra groves, sandy peninsulas, and coral islands.",
+    "famousDestinations": [
+      "nallur-kandaswamy-temple",
+      "jaffna-fort",
+      "casuarina-beach",
+      "delft-island"
+    ],
+    "hiddenGems": [
+      "nagadeepa-purana-viharaya",
+      "keerimalai-springs",
+      "point-pedro",
+      "kankesanthurai-beach",
+      "jaffna-public-library"
+    ],
+    "localFood": "Fiery Jaffna crab curry, roasted palmyra root snacks (odiyal koozh), Jaffna mangoes (Karutha Colomban), and Rio Ice Cream.",
+    "adventureActivities": [
+      "Ferry crossing to Delft and Nagadeepa islands",
+      "Bicycle tour through Jaffna peninsula lanes",
+      "Swimming at Casuarina Beach",
+      "Exploring Jaffna Fort ramparts"
+    ],
+    "recommendedItineraries": [
+      "2-Day Jaffna Cultural & Island Odyssey"
+    ],
+    "latitude": 9.6615,
+    "longitude": 80.0255,
+    "heroImageLocal": "img/districts/jaffna.jpg"
+  },
+  {
+    "id": "kilinochchi",
+    "provinceId": "northern-province",
+    "name": "Kilinochchi District",
+    "slug": "kilinochchi",
+    "capital": "Kilinochchi",
+    "areaKm2": 1279,
+    "heroImage": "img/districts/kilinochchi.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "The agricultural gateway to the northern peninsula, featuring the historic causeway of Elephant Pass and vast irrigation reservoirs.",
+    "fullDescription": "Kilinochchi District serves as the strategic terrestrial bridge connecting the mainland of Sri Lanka to the Jaffna Peninsula. Famous for the narrow strip of land known as Elephant Pass\u2014historically named after the wild elephant migration corridor and modern military memorial\u2014the district is an emerging destination of historical remembrance, peaceful farming villages, and the immense Iranamadu Tank reservoir supplying irrigation to the agricultural heartland of the north.",
+    "geographicalCharacter": "Vast flat dry-zone plains, inland irrigation reservoirs, palmyra woodlands, and coastal saline marshes.",
+    "famousDestinations": [
+      "elephant-pass"
+    ],
+    "hiddenGems": [
+      "iranamadu-tank"
+    ],
+    "localFood": "Fresh freshwater fish curry from Iranamadu, red rice with fiery drumstick sambol, and sweet palmyra palm jaggery.",
+    "adventureActivities": [
+      "Visiting Elephant Pass War Memorial & causeway",
+      "Birdwatching along the edges of Iranamadu Tank",
+      "Agri-tourism cycling through village paddy fields"
+    ],
+    "recommendedItineraries": [
+      "1-Day Northern Heritage & Heartland Transit"
+    ],
+    "latitude": 9.3803,
+    "longitude": 80.3982,
+    "heroImageLocal": "img/districts/kilinochchi.jpg"
+  },
+  {
+    "id": "mannar",
+    "provinceId": "northern-province",
+    "name": "Mannar District",
+    "slug": "mannar",
+    "capital": "Mannar",
+    "areaKm2": 1996,
+    "heroImage": "img/districts/mannar.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "A windswept island of giant baobab trees, legendary Adam's Bridge sandbanks pointing toward India, and flamingos at Vankalai Sanctuary.",
+    "fullDescription": "Mannar District is one of Sri Lanka's most fascinating and ecologically unique regions. Anchored by Mannar Island, which juts out into the Gulf of Mannar toward India, it is linked to the subcontinent by Adam's Bridge (Rama Setu)\u2014a chain of limestone shoals surrounded by turquoise waters. Centuries of maritime trade with Arabia are evidenced by the ancient, swollen-trunk Baobab trees planted by Arab sailors over 700 years ago. The district is also home to the Vankalai Sanctuary, a globally recognized Ramsar wetland harboring vast flocks of wintering flamingos, alongside the historic Catholic pilgrimage forest Shrine of Our Lady of Madhu.",
+    "geographicalCharacter": "Coastal sandspits, shoals, mangrove wetlands, dry-zone thorn scrub, and ancient baobab groves.",
+    "famousDestinations": [
+      "mannar-island-talaimannar",
+      "adams-bridge-viewpoints"
+    ],
+    "hiddenGems": [
+      "mannar-baobab-tree",
+      "vankalai-sanctuary",
+      "shrine-of-our-lady-of-madhu"
+    ],
+    "localFood": "Sun-dried fish (karuvadu), Mannar spicy cuttlefish, and wild palmyra sweet fruit pulp.",
+    "adventureActivities": [
+      "Birdwatching for thousands of flamingos at Vankalai",
+      "Kitesurfing in the steady winds of Adam's Bridge",
+      "Exploring Talaimannar Pier and lighthouse"
+    ],
+    "recommendedItineraries": [
+      "2-Day Mannar Wind, Wings & Heritage Expedition"
+    ],
+    "latitude": 8.981,
+    "longitude": 79.9044,
+    "heroImageLocal": "img/districts/mannar.jpg"
+  },
+  {
+    "id": "mullaitivu",
+    "provinceId": "northern-province",
+    "name": "Mullaitivu District",
+    "slug": "mullaitivu",
+    "capital": "Mullaitivu",
+    "areaKm2": 2617,
+    "heroImage": "img/districts/mullaitivu.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "Untouched coastal coastlines along the northeastern sea, peaceful fishing villages, and expansive bird-rich coastal lagoons.",
+    "fullDescription": "Bordering the warm waters of the northeastern Indian Ocean, Mullaitivu District features extensive miles of untouched sandy beaches, vast coastal lagoons, and dense dry-zone forest reserves. Renowned for its rich fishing culture and serene coastal atmosphere, visitors to Mullaitivu can explore the dramatic expanse of Nanthikadal Lagoon and tranquil, uncrowded shores lined with fishing catamarans, offering a rare glimpse of quiet coastal life away from the commercial tourist trail.",
+    "geographicalCharacter": "Expansive sandy coastline, brackish lagoons, tidal estuaries, and inland dense teak and dry forest reserves.",
+    "famousDestinations": [
+      "mullaitivu-beach"
+    ],
+    "hiddenGems": [
+      "nanthikadal-lagoon"
+    ],
+    "localFood": "Freshly caught deep-sea fish fried on the beach, spicy prawn curry with string hoppers, and tender young coconut water.",
+    "adventureActivities": [
+      "Coastal beachcombing along untouched shores",
+      "Lagoon birdwatching and photography",
+      "Community fishing experiences"
+    ],
+    "recommendedItineraries": [
+      "1-Day Untouched Northeast Coast Discovery"
+    ],
+    "latitude": 9.2671,
+    "longitude": 80.8142,
+    "heroImageLocal": "img/districts/mullaitivu.jpg"
+  },
+  {
+    "id": "vavuniya",
+    "provinceId": "northern-province",
+    "name": "Vavuniya District",
+    "slug": "vavuniya",
+    "capital": "Vavuniya",
+    "areaKm2": 1967,
+    "heroImage": "img/districts/vavuniya.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "The historic southern junction of the Northern Province, rich in ancient archaeological artifacts, forest monasteries, and peaceful water tanks.",
+    "fullDescription": "Vavuniya District acts as the cultural crossroad connecting Sri Lanka's northern Tamil heritage with the ancient North Central Sinhalese heartland. The town of Vavuniya hosts an impressive Archaeological Museum exhibiting 5th to 8th century statues and Hindu and Buddhist antiquities. Just outside the city lies Madukanda Sri Dalada Viharaya, a sacred forest temple marking one of the historic stopping points of the sacred Tooth Relic during its ancient journey from India to Anuradhapura.",
+    "geographicalCharacter": "Dry-zone scrub plains, ancient irrigation reservoirs, and rocky archaeological forest hermitages.",
+    "famousDestinations": [
+      "vavuniya-archaeological-museum"
+    ],
+    "hiddenGems": [
+      "madukanda-viharaya"
+    ],
+    "localFood": "Traditional thali meals served on banana leaves, ghee dosas, and fresh seasonal curd.",
+    "adventureActivities": [
+      "Exploring ancient stone sculptures and inscriptions",
+      "Cycling around scenic village reservoirs",
+      "Visiting forest monasteries"
+    ],
+    "recommendedItineraries": [
+      "1-Day Northern Crossroads & Archaeology Tour"
+    ],
+    "latitude": 8.7514,
+    "longitude": 80.4971,
+    "heroImageLocal": "img/districts/vavuniya.jpg"
+  },
+  {
+    "id": "trincomalee",
+    "provinceId": "eastern-province",
+    "name": "Trincomalee District",
+    "slug": "trincomalee",
+    "capital": "Trincomalee",
+    "areaKm2": 2727,
+    "heroImage": "img/districts/trincomalee.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "Home to Nilaveli's white sands, blacktip reef sharks of Pigeon Island, Koneswaram temple on Swami Rock, and a magnificent natural deep-water harbour.",
+    "fullDescription": "Trincomalee District is the premier coastal treasure of eastern Sri Lanka. Its centerpiece is one of the world's finest natural deep-water harbours, watched over by the cliff-edge Hindu kovil of Koneswaram atop the dramatic precipice of Swami Rock (Lovers' Leap). Just north lies Nilaveli Beach, the launch point for boat trips to Pigeon Island National Park, where travelers snorkel amidst vibrant coral reefs, blacktip reef sharks, and sea turtles. The district also features colonial Fort Frederick where wild spotted deer roam peacefully, the secluded cove of Marble Beach, and the ancient thermal mineral springs of Kanniya.",
+    "geographicalCharacter": "Pristine white sand bays, dramatic sea cliffs, coral atolls, natural deep-water fjords, and hot springs.",
+    "famousDestinations": [
+      "nilaveli-beach",
+      "pigeon-island-national-park",
+      "koneswaram-temple",
+      "fort-frederick"
+    ],
+    "hiddenGems": [
+      "uppuveli-beach",
+      "marble-beach",
+      "trincomalee-natural-harbour",
+      "kanniya-hot-springs"
+    ],
+    "localFood": "Freshly grilled lobster and jumbo crab, fiery fish thiyal, spiced mutton rolls, and sweet mango lassi.",
+    "adventureActivities": [
+      "Snorkeling with sharks at Pigeon Island",
+      "Whale watching in the outer Bay of Bengal",
+      "Scuba diving coral reefs and shipwrecks",
+      "Bathing in Kanniya thermal springs"
+    ],
+    "recommendedItineraries": [
+      "3-Day Trincomalee Coral, Clifftop & Coast Exploration"
+    ],
+    "latitude": 8.5874,
+    "longitude": 81.2152,
+    "heroImageLocal": "img/districts/trincomalee.jpg"
+  },
+  {
+    "id": "batticaloa",
+    "provinceId": "eastern-province",
+    "name": "Batticaloa District",
+    "slug": "batticaloa",
+    "capital": "Batticaloa",
+    "areaKm2": 2854,
+    "heroImage": "img/districts/batticaloa.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "Famed for the shallow turquoise waters of Pasikudah Bay, tranquil lagoons of 'Singing Fish', and a 17th-century Dutch fortress.",
+    "fullDescription": "Batticaloa District is celebrated for its sweeping lagoon waterways, tranquil beaches, and fascinating maritime legends. Pasikudah Bay is internationally renowned for having one of the longest shallow reef-sheltered stretches of coastline in the world, allowing swimmers to safely wade hundreds of meters into crystal-clear turquoise waters. The district's historic center sits upon islands within Batticaloa Lagoon, protected by the 17th-century Batticaloa Dutch Fort, and famous on moonlit nights for the acoustic phenomenon of its mysterious 'Singing Fish'.",
+    "geographicalCharacter": "Shallow reef-protected coastal bays, extensive coastal lagoon waterways, and barrier islands.",
+    "famousDestinations": [
+      "pasikudah-beach",
+      "batticaloa-lagoon"
+    ],
+    "hiddenGems": [
+      "kalkudah-beach",
+      "batticaloa-fort",
+      "kallady-bridge"
+    ],
+    "localFood": "Batticaloa prawn curry, spicy crab roast, fish pittu, and sweet muscat dessert.",
+    "adventureActivities": [
+      "Wading and swimming in shallow Pasikudah Bay",
+      "Lagoon evening boat tours to hear the singing fish",
+      "Scuba diving the historic HMS Hermes aircraft carrier wreck"
+    ],
+    "recommendedItineraries": [
+      "2-Day Pasikudah Shallow Waters & Lagoon Serenity"
+    ],
+    "latitude": 7.731,
+    "longitude": 81.6747,
+    "heroImageLocal": "img/districts/batticaloa.jpg"
+  },
+  {
+    "id": "ampara",
+    "provinceId": "eastern-province",
+    "name": "Ampara District",
+    "slug": "ampara",
+    "capital": "Ampara",
+    "areaKm2": 4415,
+    "heroImage": "img/districts/ampara.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "The undisputed surf capital of Sri Lanka at Arugam Bay, boat safaris for swimming elephants in Gal Oya, and ancient forest monasteries.",
+    "fullDescription": "Spanning the southern arc of the Eastern Province, Ampara District is a paradise for surfers, wild nature lovers, and explorers. Arugam Bay is listed among the top ten surf spots in the world, celebrated for its peeling right-hand point breaks, relaxed bohemian cafes, and nearby surf spots like Whiskey Point and Peanut Farm Beach. Inland lies Gal Oya National Park, where boat safaris on Senanayake Samudraya offer the extraordinary opportunity to see wild Asian elephants swimming between islands. The district also harbors ancient forest hermitages like Kudumbigala and the coastal sand dune stupa of Muhudu Maha Viharaya.",
+    "geographicalCharacter": "Golden surf bays, rocky point breaks, vast inland reservoirs, dense dry forests, and isolated forest inselbergs.",
+    "famousDestinations": [
+      "arugam-bay",
+      "gal-oya-national-park",
+      "whiskey-point"
+    ],
+    "hiddenGems": [
+      "peanut-farm-beach",
+      "lahugala-national-park",
+      "kudumbigala-monastery",
+      "muhudu-maha-viharaya"
+    ],
+    "localFood": "Wood-fired beach pizzas, freshly caught yellowfin tuna steaks, spicy coconut sambol with hoppers, and fresh tropical fruit bowls.",
+    "adventureActivities": [
+      "World-class point break surfing",
+      "Boat safari spotting swimming elephants in Gal Oya",
+      "Climbing the rocky summit of Kudumbigala Monastery",
+      "Jeep safari in Lahugala elephant corridors"
+    ],
+    "recommendedItineraries": [
+      "3-Day Arugam Bay Waves & Gal Oya Wild Safari"
+    ],
+    "latitude": 7.2912,
+    "longitude": 81.6724,
+    "heroImageLocal": "img/districts/ampara.jpg"
+  },
+  {
+    "id": "kurunegala",
+    "provinceId": "north-western-province",
+    "name": "Kurunegala District",
+    "slug": "kurunegala",
+    "capital": "Kurunegala",
+    "areaKm2": 4816,
+    "heroImage": "img/districts/kurunegala.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "Land of seven monumental animal-shaped rocks, the soaring stone staircase of Yapahuwa rock citadel, and the ancient Silver Temple.",
+    "fullDescription": "Kurunegala District is crowned by the royal heritage of multiple medieval kingdoms. The city itself is ringed by seven immense granite outcrops named after animals, with Athugala (Elephant Rock) bearing a giant gleaming white Samadhi Buddha overlooking the town. To the north rises Yapahuwa\u2014a 13th-century rock fortress that briefly served as the capital of Sri Lanka and repository of the Sacred Tooth Relic, renowned for its steep ornamental staircase carved with lions and dancers. Other treasures include the cave monastery of Ridi Viharaya (Silver Temple), built in gratitude for the silver ore that financed the construction of Ruwanwelisaya, and ancient ruins at Panduwasnuwara and Dambadeniya.",
+    "geographicalCharacter": "Towering granite inselbergs rising above fertile coconut estates and ancient irrigation lakes.",
+    "famousDestinations": [
+      "yapahuwa-rock-fortress",
+      "ridi-viharaya",
+      "athugala-rock"
+    ],
+    "hiddenGems": [
+      "panduwasnuwara",
+      "dambadeniya-kingdom"
+    ],
+    "localFood": "Traditional Wayamba village curry, kurakkan thalapa (finger millet dough) with country chicken curry, and fresh young king coconut.",
+    "adventureActivities": [
+      "Climbing the sheer stone staircase of Yapahuwa",
+      "Hiking up Athugala Rock to the giant Buddha statue",
+      "Exploring ancient cave shrines of Ridi Viharaya"
+    ],
+    "recommendedItineraries": [
+      "1-Day Royal Rock Fortresses of Wayamba"
+    ],
+    "latitude": 7.4863,
+    "longitude": 80.3623,
+    "heroImageLocal": "img/districts/kurunegala.jpg"
+  },
+  {
+    "id": "puttalam",
+    "provinceId": "north-western-province",
+    "name": "Puttalam District",
+    "slug": "puttalam",
+    "capital": "Puttalam",
+    "areaKm2": 3072,
+    "heroImage": "img/districts/puttalam.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "Asia's premier kitesurfing mecca at Kalpitiya, superpods of spinner dolphins, Bar Reef coral gardens, and the vast wilderness of Wilpattu.",
+    "fullDescription": "Puttalam District is a diverse coastal region featuring the long, windswept Kalpitiya Peninsula, where reliable trade winds create one of the world's most acclaimed kitesurfing and wingfoiling destinations. Offshore in the deep waters of the Indian Ocean, hundreds of acrobatic spinner dolphins gather daily in massive pods alongside sperm whales. The district encompasses the pristine Bar Reef Marine Sanctuary, the seven interconnected ancient cascading tanks of Anawilundawa Ramsar Wetland Sanctuary, and the southern access points to Wilpattu National Park with its unique natural lake 'villus'.",
+    "geographicalCharacter": "Sandy coastal spits, tranquil lagoon bays, extensive salt pans, mangrove wetlands, and dry monsoon forests.",
+    "famousDestinations": [
+      "kalpitiya-peninsula",
+      "wilpattu-national-park",
+      "bar-reef-sanctuary"
+    ],
+    "hiddenGems": [
+      "anawilundawa-sanctuary",
+      "kalpitiya-dutch-fort",
+      "alankuda-beach",
+      "munneswaram-temple"
+    ],
+    "localFood": "Spicy buttered squid, fresh crab curry, salt-cured lagoon fish, and savory roti flatbreads.",
+    "adventureActivities": [
+      "Kitesurfing in Kalpitiya Lagoon & flatwater spots",
+      "Dolphin and whale watching boat expeditions",
+      "Snorkeling at Bar Reef",
+      "Birdwatching in Anawilundawa wetlands"
+    ],
+    "recommendedItineraries": [
+      "2-Day Wind, Dolphins & Wilpattu Wilderness"
+    ],
+    "latitude": 8.0362,
+    "longitude": 79.8283,
+    "heroImageLocal": "img/districts/puttalam.jpg"
+  },
+  {
+    "id": "anuradhapura",
+    "provinceId": "north-central-province",
+    "name": "Anuradhapura District",
+    "slug": "anuradhapura",
+    "capital": "Anuradhapura",
+    "areaKm2": 7179,
+    "heroImage": "img/districts/anuradhapura.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "The first ancient royal capital of Sri Lanka, housing the sacred Jaya Sri Maha Bodhi tree, colossal white stupas, and the cradle of Buddhism at Mihintale.",
+    "fullDescription": "Anuradhapura District is the profound cradle of Sri Lankan civilization, reigning as the island's royal capital for over a millennium from the 4th century BCE to the 11th century CE. A UNESCO World Heritage site, it preserves the sacred Jaya Sri Maha Bodhi\u2014the oldest historically documented tree planted by human hands on Earth (288 BCE). Towering stupas such as the dazzling white dome of Ruwanwelisaya and the colossal brick mountain of Jetavanaramaya dominate the skyline. Nearby lies Mihintale, the sacred rocky peak where Buddhism was introduced to Sri Lanka in 247 BCE, alongside the hydraulic marvel of Kuttam Pokuna (Twin Ponds) and the mysterious forest hermitage of Ritigala.",
+    "geographicalCharacter": "Vast dry-zone plains, monumental ancient reservoirs (Nuwara Wewa, Tissa Wewa), and sacred rocky mountain peaks.",
+    "famousDestinations": [
+      "anuradhapura-sacred-city",
+      "jaya-sri-maha-bodhi",
+      "ruwanwelisaya",
+      "jetavanaramaya",
+      "mihintale-sacred-peak"
+    ],
+    "hiddenGems": [
+      "abhayagiri-monastery",
+      "isurumuniya-temple",
+      "twin-ponds-kuttam-pokuna",
+      "ritigala-forest-monastery"
+    ],
+    "localFood": "Fragrant Raja Ala yams, tempered lotus root curry, country red rice with lake fish curry, and sweet sesame balls (thala guli).",
+    "adventureActivities": [
+      "Cycling through ancient ruined monastic monasteries",
+      "Climbing the 1,840 stone steps of sacred Mihintale peak",
+      "Trekking through the medicinal herb forest of Ritigala"
+    ],
+    "recommendedItineraries": [
+      "2-Day Sacred Capital & Ancient Wonders of Anuradhapura"
+    ],
+    "latitude": 8.3114,
+    "longitude": 80.4037,
+    "heroImageLocal": "img/districts/anuradhapura.jpg"
+  },
+  {
+    "id": "polonnaruwa",
+    "provinceId": "north-central-province",
+    "name": "Polonnaruwa District",
+    "slug": "polonnaruwa",
+    "capital": "Polonnaruwa",
+    "areaKm2": 3293,
+    "heroImage": "img/districts/polonnaruwa.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "The medieval royal capital celebrated for Gal Vihara's rock sculptures, the inland sea of Parakrama Samudraya, and Minneriya's Elephant Gathering.",
+    "fullDescription": "Polonnaruwa District flourished as the medieval capital of Sri Lanka from the 11th to 13th centuries under King Parakramabahu the Great and King Nissanka Malla. The ancient city stands as a triumph of stone carving and urban planning, highlighted by the monumental Gal Vihara\u2014where four serene Buddha images were carved out of a single granite rock face. The city overlooks the vast inland reservoir of Parakrama Samudraya, engineered under the royal decree that 'not even a single drop of water from the rain must flow into the ocean without being useful to man'. In neighboring Minneriya and Kaudulla National Parks, the dry season triggers the world-famous 'Elephant Gathering' of hundreds of Asian elephants.",
+    "geographicalCharacter": "Ancient irrigated plains, massive artificial inland seas, deciduous monsoon forests, and elephant corridors.",
+    "famousDestinations": [
+      "polonnaruwa-ancient-city",
+      "gal-vihara",
+      "parakrama-samudraya",
+      "minneriya-national-park"
+    ],
+    "hiddenGems": [
+      "rankoth-vehera",
+      "polonnaruwa-vatadage",
+      "kaudulla-national-park",
+      "medirigiriya-vatadage"
+    ],
+    "localFood": "Fresh lake butterfish (lula) curry, Polonnaruwa water chestnut stir fry, and fresh cow's curd with honey.",
+    "adventureActivities": [
+      "Bicycle tour through the Royal Palace and Quadrangle",
+      "Open-top 4x4 safari to witness the Elephant Gathering",
+      "Sunset walk along the bund of Parakrama Samudraya"
+    ],
+    "recommendedItineraries": [
+      "2-Day Medieval Splendor & Elephant Gathering"
+    ],
+    "latitude": 7.9403,
+    "longitude": 81.0188,
+    "heroImageLocal": "img/districts/polonnaruwa.jpg"
+  },
+  {
+    "id": "badulla",
+    "provinceId": "uva-province",
+    "name": "Badulla District",
+    "slug": "badulla",
+    "capital": "Badulla",
+    "areaKm2": 2861,
+    "heroImage": "img/districts/badulla.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "The adventure trekking capital of Ella, the iconic Demodara Nine Arch Bridge, thunderous waterfalls, and tea-blanketed peaks.",
+    "fullDescription": "Badulla District is the epicentre of Sri Lanka's highland backpacking, trekking, and railway romance. Its most famous town, Ella, is celebrated globally for the Demodara Nine Arch Bridge\u2014a colonial stone viaduct tucked amidst dense banana trees and tea estates. Trekkers conquer Little Adam's Peak and the challenging heights of Ella Rock for sweeping vistas across the Ella Gap. Badulla is also home to Sri Lanka's highest waterfall, Bambarakanda Falls (263m), the stunning infinity pools of Diyaluma Falls, Dunhinda Falls, the panoramic vista of Lipton's Seat in Haputale, and the historic Adisham Benedictine Monastery.",
+    "geographicalCharacter": "High mountain ridges, deep gaps, cascading waterfalls, tea estates, and pine and cloud forests.",
+    "famousDestinations": [
+      "nine-arch-bridge",
+      "little-adams-peak",
+      "ella-rock",
+      "ravana-falls",
+      "diyaluma-falls"
+    ],
+    "hiddenGems": [
+      "dunhinda-falls",
+      "liptons-seat",
+      "bambarakanda-falls",
+      "namunukula-mountain",
+      "bogoda-wooden-bridge",
+      "demodara-railway-loop",
+      "adisham-bungalow"
+    ],
+    "localFood": "Ella cafe smoothie bowls, spicy devilled cashews, handmade roti with seeni sambol, and single-estate Haputale tea.",
+    "adventureActivities": [
+      "Watching the train cross Nine Arch Bridge",
+      "Swimming in Diyaluma upper natural rock pools",
+      "Hiking Ella Rock and Little Adam's Peak",
+      "Zip-lining across the Ella valley"
+    ],
+    "recommendedItineraries": [
+      "3-Day Ella Peaks, Viaducts & Waterfall Adventure"
+    ],
+    "latitude": 6.9934,
+    "longitude": 81.055,
+    "heroImageLocal": "img/districts/badulla.jpg"
+  },
+  {
+    "id": "monaragala",
+    "provinceId": "uva-province",
+    "name": "Monaragala District",
+    "slug": "monaragala",
+    "capital": "Monaragala",
+    "areaKm2": 5639,
+    "heroImage": "img/districts/monaragala.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "A serene realm of ancient colossal rock-carved Buddha figures at Buduruwagala, sacred forest sanctuaries, and vast savannas.",
+    "fullDescription": "Monaragala District extends across the wild, sun-drenched lowlands of Uva Province. It is celebrated for remarkable archaeological marvels hidden within tranquil dry-zone woodlands. Buduruwagala preserves seven 10th-century Mahayana Buddhist rock relief figures carved into a massive granite cliff, centered around an awe-inspiring 51-foot standing Buddha. At Maligawila, travelers encounter an astonishing 37-foot free-standing limestone Buddha statue carved in the round. The district is also rich in indigenous traditions in the Nilgala medicinal forest, ancient battle stupas at Yudaganawa, and pilgrimage routes leading toward Kataragama.",
+    "geographicalCharacter": "Expansive dry-zone savannas, undulating woodland hills, sacred river valleys, and isolated rock massifs.",
+    "famousDestinations": [
+      "buduruwagala",
+      "maligawila-buddha-statue"
+    ],
+    "hiddenGems": [
+      "yudaganawa-stupa",
+      "gal-oya-nilgala",
+      "kataragama-kiri-vehera"
+    ],
+    "localFood": "Wild honey with kurakkan roti, fresh roasted corn, water buffalo curd, and herbal kande (porridge).",
+    "adventureActivities": [
+      "Marveling at the towering rock carvings of Buduruwagala",
+      "Exploring the Maligawila limestone colossus in the forest",
+      "Birding and wildlife watching around Menik Ganga"
+    ],
+    "recommendedItineraries": [
+      "1-Day Ancient Colossi & Sacred Forests of Monaragala"
+    ],
+    "latitude": 6.8728,
+    "longitude": 81.3507,
+    "heroImageLocal": "img/districts/monaragala.jpg"
+  },
+  {
+    "id": "ratnapura",
+    "provinceId": "sabaragamuwa-province",
+    "name": "Ratnapura District",
+    "slug": "ratnapura",
+    "capital": "Ratnapura",
+    "areaKm2": 3275,
+    "heroImage": "img/districts/ratnapura.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "The world's 'City of Gems', the holy pilgrimage peak of Adam's Peak (Sri Pada), and the virgin canopy of Sinharaja Rainforest.",
+    "fullDescription": "Ratnapura District is a land of timeless natural beauty, precious gemstones, and sacred spirituality. For thousands of years, the riverbeds and gravel mines around Ratnapura have yielded the world's most sought-after royal blue sapphires, rubies, and cat's eyes. Looming above is the sacred pyramid of Adam's Peak (Sri Pada / 2,243m), where millions climb through the night to witness the sunrise and pay homage to the sacred footprint. In the southern corner lies Sinharaja Forest Reserve\u2014a UNESCO World Heritage virgin tropical lowland rainforest where 95% of Sri Lanka's endemic bird species thrive. The district also includes the cascading Bopath Ella waterfall and the elephant-rich grasslands of Udawalawe National Park.",
+    "geographicalCharacter": "Rugged cloud forest mountains, virgin rainforest valleys, cascading waterfalls, and gem-gravel river floodplains.",
+    "famousDestinations": [
+      "adams-peak-sri-pada",
+      "sinharaja-forest-reserve",
+      "bopath-ella-falls",
+      "udawalawe-national-park"
+    ],
+    "hiddenGems": [
+      "ratnapura-gem-museum",
+      "maha-saman-devalaya",
+      "batadombalena-cave"
+    ],
+    "localFood": "Hot kithul jaggery with freshly grated coconut, village rice and curry with fresh garden vegetables, and spicy river crab.",
+    "adventureActivities": [
+      "Night pilgrimage climb to the summit of Adam's Peak",
+      "Guided birdwatching trek through Sinharaja Rainforest",
+      "Safari with hundreds of elephants in Udawalawe",
+      "Visiting traditional pit gem mines"
+    ],
+    "recommendedItineraries": [
+      "3-Day Sacred Peak, Gem Mines & Virgin Rainforest"
+    ],
+    "latitude": 6.6828,
+    "longitude": 80.4037,
+    "heroImageLocal": "img/districts/ratnapura.jpg"
+  },
+  {
+    "id": "kegalle",
+    "provinceId": "sabaragamuwa-province",
+    "name": "Kegalle District",
+    "slug": "kegalle",
+    "capital": "Kegalle",
+    "areaKm2": 1693,
+    "heroImage": "img/districts/kegalle.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "Famous for the Pinnawala Elephant Orphanage river bath, adrenaline white-water rafting in Kitulgala, and prehistoric cave dwellings.",
+    "fullDescription": "Kegalle District is the lush western gateway to the central highlands, known for rolling rubber plantations, rushing rivers, and rich archaeological history. Pinnawala Elephant Orphanage is world-famous for its daily procession of Asian elephant herds bathing in the Maha Oya river. Further southeast along the Kelani River lies Kitulgala\u2014the adventure capital for white-water rafting, canyoning, and rainforest trekking, where the classic Oscar-winning movie 'The Bridge on the River Kwai' was filmed in 1957. Kegalle also preserves deep human history in prehistoric caves such as Belilena, containing artifacts from 30,000-year-old human settlers.",
+    "geographicalCharacter": "Foothills, rushing river canyons, limestone caves, and rubber and spice plantations.",
+    "famousDestinations": [
+      "pinnawala-elephant-orphanage",
+      "kitulgala-white-water-rafting"
+    ],
+    "hiddenGems": [
+      "belilena-cave",
+      "bible-rock-bathalegala"
+    ],
+    "localFood": "Fresh sweet local bananas, fiery pol sambol with country bread, and pure kithul treacle delicacies.",
+    "adventureActivities": [
+      "White-water rafting down the rapids of the Kelani River",
+      "Watching elephant herds bathe in Pinnawala",
+      "Canyoning, waterfall abseiling, and jungle river swimming",
+      "Trekking to prehistoric Belilena Cave"
+    ],
+    "recommendedItineraries": [
+      "2-Day River Rafting, Elephants & Cave Exploration"
+    ],
+    "latitude": 7.2513,
+    "longitude": 80.3464,
+    "heroImageLocal": "img/districts/kegalle.jpg"
+  }
+]

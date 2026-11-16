@@ -1,0 +1,1462 @@
+[
+  {
+    "id": "anuradhapura-sacred-city",
+    "name": "Anuradhapura Ancient Sacred City",
+    "slug": "anuradhapura-sacred-city",
+    "districtId": "anuradhapura",
+    "provinceId": "north-central-province",
+    "category": "ancient-cities",
+    "categories": [
+      "ancient-cities",
+      "temples-religious",
+      "historical-sites",
+      "cultural-experiences"
+    ],
+    "shortDescription": "The first capital of ancient Sri Lanka for over a millennium (377 BCE – 1017 CE), a UNESCO World Heritage expanse of colossal stupas, monastic universities, and royal reservoirs.",
+    "fullDescription": "Spanning over 40 square kilometers of sacred dry-zone parkland, the Sacred City of Anuradhapura was the magnificent royal capital of ancient Sri Lanka for more than 1,300 continuous years (from 377 BCE to 1017 CE). A UNESCO World Heritage site of monumental significance, it was one of the most sophisticated urban centers in the ancient world, boasting advanced hydraulic irrigation networks (wewas), vast monastic universities housing up to 10,000 monks, and colossal brick stupas that rivaled the Egyptian Pyramids in scale and engineering. At the heart of the sacred precinct lies the Atamasthana (the Eight Sacred Places), centered around the venerable Jaya Sri Maha Bodhi tree. Pilgrims in white attire glide between towering white stupas, ornate stone moonstones (sandakada pahana), royal pleasure baths, and ancient rock-hewn refectories.",
+    "historicalBackground": "Founded in 377 BCE by King Pandukabhaya; flourished as the royal seat of 119 consecutive monarchs; sacked by the Chola Empire in 1017 CE; designated a UNESCO World Heritage site in 1982.",
+    "naturalCharacteristics": "Vast dry-zone plains dotted with monumental ancient artificial reservoirs (Tissa Wewa, Nuwara Wewa, Basawakkulama) and shaded forest groves.",
+    "specialFeatures": "Atamasthana (Eight Sacred Places), world-scale brick engineering stupas, hydraulic reservoirs, and the sacred Maha Bodhi tree.",
+    "reasonsToVisit": [
+      "Cycle through 40 square kilometers of one of the world's greatest ancient Buddhist civilizations",
+      "Gaze up at colossal stupas that stood as the tallest brick monuments of the ancient world",
+      "Pay homage at the Jaya Sri Maha Bodhi, the oldest historically documented tree on Earth",
+      "Marvel at ancient hydraulic engineering that still irrigates the surrounding rice fields today"
+    ],
+    "activities": [
+      "Bicycle touring through ancient ruins",
+      "Pilgrimage and puja observation",
+      "Visiting the Archaeological Museum",
+      "Sunset walking along Tissa Wewa reservoir bund"
+    ],
+    "bestTimeToVisit": "Year-round; early morning (06:30 - 10:00) or late afternoon (15:30 - 18:30) to avoid hot stone surfaces; Poson Poya (June) full moon.",
+    "visitingDuration": "1 to 2 Days",
+    "entranceInformation": "Central Cultural Fund cultural triangle ticket: USD 25 - 30 (approx. LKR 8,000 - 10,000) for foreign visitors; covers major archaeological sites (Sri Maha Bodhi and Ruwanwelisaya are accessible independently for free/nominal fee).",
+    "openingHours": "07:00 - 17:30 Daily (sacred shrines like Sri Maha Bodhi and Ruwanwelisaya open 05:00 - 21:00).",
+    "accessibilityInformation": "Paved roads and level grassy avenues throughout; ideal for bicycle exploration; wheelchairs accessible at major stupa terraces via ramps.",
+    "safetyInformation": "Courtyard granite stones become extremely hot under midday sun; wear thick socks; remove shoes and hats at temple thresholds.",
+    "travelTips": {
+      "whatToBring": "Thick socks to walk comfortably on hot stone terraces, sun hat, sunglasses, modest white clothing, bicycle rental or tuk-tuk.",
+      "clothing": "Modest white clothing covering shoulders and knees; mandatory at all sacred shrines.",
+      "photographyTips": "Photograph the reflection of Ruwanwelisaya or Mirisawetiya in surrounding lotus ponds in the early morning stillness.",
+      "localCustoms": "Walk clockwise around stupas; do not pose with your back turned directly to Buddha statues.",
+      "environmentalGuidelines": "Strict zero-litter policy; deposit footwear neatly at the shoe storage counters."
+    },
+    "latitude": 8.35,
+    "longitude": 80.4,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/anuradhapura-sacred-city.jpg",
+        "caption": "Anuradhapura Ancient Sacred City - Primary Vista",
+        "altText": "Anuradhapura Ancient Sacred City, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/anuradhapura.jpg",
+        "caption": "Anuradhapura District Landscape",
+        "altText": "Anuradhapura District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/north-central-province.jpg",
+        "caption": "North Central Province Regional Panorama",
+        "altText": "North Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Central Cultural Fund Sri Lanka",
+        "sourceUrl": "http://www.ccf.gov.lk",
+        "sourceType": "Official Heritage Custodian",
+        "verificationDate": "2024-01-15"
+      },
+      {
+        "sourceName": "UNESCO World Heritage Centre",
+        "sourceUrl": "https://whc.unesco.org/en/list/200",
+        "sourceType": "International Heritage Organization",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "jaya-sri-maha-bodhi",
+      "ruwanwelisaya",
+      "jetavanaramaya",
+      "mihintale-sacred-peak"
+    ]
+  },
+  {
+    "id": "jaya-sri-maha-bodhi",
+    "name": "Jaya Sri Maha Bodhi",
+    "slug": "jaya-sri-maha-bodhi",
+    "districtId": "anuradhapura",
+    "provinceId": "north-central-province",
+    "category": "temples-religious",
+    "categories": [
+      "temples-religious",
+      "ancient-cities",
+      "historical-sites",
+      "cultural-experiences"
+    ],
+    "shortDescription": "The oldest living human-planted tree in the world with a documented planting date of 288 BCE, grown from a cutting of the sacred Bodhi tree in Bodh Gaya under which Buddha attained enlightenment.",
+    "fullDescription": "Revered by millions of Buddhists worldwide as the living embodiment of the Gautama Buddha's enlightenment, the Jaya Sri Maha Bodhi in Anuradhapura is recognized by botanical historians and Guinness World Records as the oldest living human-planted tree in the world with a continuous, unbroken recorded history. In 288 BCE, Sanghamitta Theri, the daughter of the Indian Emperor Ashoka and sister of Arhant Mahinda, brought a southern branch of the original sacred Bodhi tree (Ficus religiosa) from Bodh Gaya, India—beneath which Prince Siddhartha Gautama achieved supreme Buddhahood. King Devanampiya Tissa planted the sapling with grand royal honors on a high terrace in the Mahamevnawa Royal Park. Guarded faithfully by hereditary royal caretakers for over 2,300 years, the venerated golden-bough Bodhi tree is supported by gilded iron crutches, enclosed within the Ran Veta (Golden Fence), and enveloped in the fragrant incense smoke and quiet devotion of thousands of pilgrims.",
+    "historicalBackground": "Planted in 288 BCE by King Devanampiya Tissa; has an unbroken documented history of continuous care for over 23 centuries.",
+    "naturalCharacteristics": "Sacred Ficus religiosa (sacred fig tree) situated on an elevated tiered terrace (udamaluwa) in the Mahamevnawa gardens.",
+    "specialFeatures": "World's oldest documented planted tree, gilded Ran Veta (Golden Fence), golden support crutches, and ancient stone guardstones.",
+    "reasonsToVisit": [
+      "Stand before the oldest living historically documented tree in human history (planted 288 BCE)",
+      "Pay homage to the direct living descendant of the sacred tree under which Gautama Buddha achieved enlightenment",
+      "Experience the profound spiritual reverence of thousands of devotees dressed in pure white offering lotus blossoms",
+      "Admire the ornate golden railings (Ran Veta) and stone-carved terraces that have protected the tree for millennia"
+    ],
+    "activities": [
+      "Pilgrimage worship and puja observation",
+      "Offering fragrant lotus blossoms",
+      "Quiet meditation on the terrace",
+      "Walking the ancient Bodhi maluwa"
+    ],
+    "bestTimeToVisit": "Early morning (06:00 - 08:30) or evening (17:30 - 20:00) during daily thevava pujas; full moon Poya days.",
+    "visitingDuration": "1 - 2 Hours",
+    "entranceInformation": "Nominal entrance fee: LKR 200 for foreign visitors; free for local devotees.",
+    "openingHours": "05:00 - 21:00 Daily.",
+    "accessibilityInformation": "Paved flat avenues lead to the lower terrace; wide stone ramps assist accessibility.",
+    "safetyInformation": "Strict security screening at entry; remove shoes and hats before entering the sacred courtyard.",
+    "travelTips": {
+      "whatToBring": "Modest white clothing, slip-off footwear, fresh lotus or water lily blossoms.",
+      "clothing": "White attire is strongly preferred; shoulders and knees must be strictly covered.",
+      "photographyTips": "Photograph the golden fence and upper boughs from the lower terrace in the soft morning light.",
+      "localCustoms": "Walk clockwise around the sacred terrace; accept holy pirith thread and water with gratitude.",
+      "environmentalGuidelines": "Leave footwear at designated shoe counters; no plastic polythene permitted."
+    },
+    "latitude": 8.3444,
+    "longitude": 80.3967,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/jaya-sri-maha-bodhi.jpg",
+        "caption": "Jaya Sri Maha Bodhi - Primary Vista",
+        "altText": "Jaya Sri Maha Bodhi, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/anuradhapura.jpg",
+        "caption": "Anuradhapura District Landscape",
+        "altText": "Anuradhapura District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/north-central-province.jpg",
+        "caption": "North Central Province Regional Panorama",
+        "altText": "North Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Atamasthana Palaka Mandalaya",
+        "sourceUrl": "https://srimahabodhi.org",
+        "sourceType": "Sacred Bodhi Administration",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "ruwanwelisaya",
+      "anuradhapura-sacred-city",
+      "jetavanaramaya"
+    ]
+  },
+  {
+    "id": "ruwanwelisaya",
+    "name": "Ruwanwelisaya Great White Stupa",
+    "slug": "ruwanwelisaya",
+    "districtId": "anuradhapura",
+    "provinceId": "north-central-province",
+    "category": "ancient-cities",
+    "categories": [
+      "ancient-cities",
+      "temples-religious",
+      "historical-sites",
+      "photography"
+    ],
+    "shortDescription": "The dazzling white stupa built by King Dutugemunu in 140 BCE, standing 103 meters tall and surrounded by a monumental wall of 344 life-sized carved elephants.",
+    "fullDescription": "Rising like a brilliant white mountain out of the sacred landscape of Anuradhapura, Ruwanwelisaya (also known as the Maha Thupa or the Great Stupa) is one of the most majestic, venerated, and architecturally awe-inspiring monuments in the Buddhist world. Commissioned in 140 BCE by the heroic King Dutugemunu after unifying Sri Lanka, this colossal bubble-shaped (bubbulakara) stupa was designed to enshrine the largest collection of Gautama Buddha's relics (an eighth share of all bodily relics) ever gathered into a single stupa. Standing an imposing 103 meters (338 feet) tall with a base circumference of 290 meters, the dazzling whitewashed dome sits upon a vast paved terrace enclosed by the famous Elephant Wall (Ath Pavura), featuring 344 life-sized carved stone elephant forequarters standing shoulder to shoulder to symbolically bear the stupa upon their backs. At twilight, as oil lamps flicker around the terrace and Buddhist chants fill the evening air, Ruwanwelisaya presents an unforgettable sight.",
+    "historicalBackground": "Built by King Dutugemunu in 140 BCE; celebrated in the Mahavamsa chronicle; restored to its full glory in the early 20th century.",
+    "naturalCharacteristics": "Monumental bubble-shaped white stupa rising above the flat ancient parklands of Anuradhapura.",
+    "specialFeatures": "103-meter height, 344 life-sized carved stone elephants of the Ath Pavura, crystal pinnacle, and enshrinement of the Buddha's relics.",
+    "reasonsToVisit": [
+      "Stand before one of the largest and most spiritually revered Buddhist stupas on Earth",
+      "Marvel at the monumental Elephant Wall (Ath Pavura) with 344 carved stone elephants",
+      "Experience the magical twilight spectacle as the gleaming white dome is illuminated by hundreds of golden floodlights and oil lamps",
+      "Walk the vast stone courtyard in meditation alongside thousands of white-clad devotees"
+    ],
+    "activities": [
+      "Circumambulating the stupa terrace (padakshina)",
+      "Lighting coconut oil lamps",
+      "Sunset and night illumination photography",
+      "Offering lotus flowers"
+    ],
+    "bestTimeToVisit": "Late afternoon to twilight (16:30 - 19:30) when the granite terrace cools down and golden evening floodlights illuminate the white dome.",
+    "visitingDuration": "1.5 - 2.5 Hours",
+    "entranceInformation": "Free admission to all pilgrims and visitors; voluntary donations for oil lamps and flowers.",
+    "openingHours": "05:00 - 21:00 Daily.",
+    "accessibilityInformation": "Paved flat stone courtyard; access ramps available at the entrance gates for wheelchairs.",
+    "safetyInformation": "Granite stone terrace absorbs daytime heat; bring socks to wear on the stone; remove shoes and hats at the threshold.",
+    "travelTips": {
+      "whatToBring": "Thick socks to protect feet from hot stone pavers, modest white attire, camera, water bottle.",
+      "clothing": "White or light clothing covering shoulders and knees.",
+      "photographyTips": "Photograph the stupa from the southern elephant wall at sunset when the sky turns pink and the white dome reflects the twilight.",
+      "localCustoms": "Walk clockwise around the stupa dome; offer a clay oil lamp at the perimeter stands.",
+      "environmentalGuidelines": "Leave shoes at the designated repository; do not litter."
+    },
+    "latitude": 8.35,
+    "longitude": 80.3964,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/ruwanwelisaya.jpg",
+        "caption": "Ruwanwelisaya Great White Stupa - Primary Vista",
+        "altText": "Ruwanwelisaya Great White Stupa, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/anuradhapura.jpg",
+        "caption": "Anuradhapura District Landscape",
+        "altText": "Anuradhapura District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/north-central-province.jpg",
+        "caption": "North Central Province Regional Panorama",
+        "altText": "North Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Central Cultural Fund Sri Lanka",
+        "sourceUrl": "http://www.ccf.gov.lk",
+        "sourceType": "Official Heritage Custodian",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "jaya-sri-maha-bodhi",
+      "jetavanaramaya",
+      "anuradhapura-sacred-city"
+    ]
+  },
+  {
+    "id": "jetavanaramaya",
+    "name": "Jetavanaramaya Stupa",
+    "slug": "jetavanaramaya",
+    "districtId": "anuradhapura",
+    "provinceId": "north-central-province",
+    "category": "ancient-cities",
+    "categories": [
+      "ancient-cities",
+      "historical-sites",
+      "temples-religious"
+    ],
+    "shortDescription": "The world's tallest ancient brick monument, a staggering 122-meter stupa containing over 93 million baked clay bricks, built by King Mahasena in the 3rd century CE.",
+    "fullDescription": "Standing with colossal architectural mass in the eastern quarter of ancient Anuradhapura, Jetavanaramaya is an engineering marvel that astonished the ancient world. Built in the late 3rd century CE (circa 273–301 CE) by King Mahasena, this stupa was originally the third tallest structure in the ancient world at 122 meters (400 feet)—surpassed only by the Great Pyramids of Giza. It remains to this day the largest and tallest brick monument ever constructed by human hands on planet Earth, containing an estimated 93.3 million baked clay bricks. Dedicated to the Sagalika Buddhist sect, the stupa was built over a relic believed to be a part of the Buddha's sash (belt/patakada). The surrounding 5.6-hectare monastic university once housed over 3,000 monks, featuring grand refectories, stone baths, and massive granite image houses.",
+    "historicalBackground": "Built by King Mahasena in the 3rd century CE; historically the largest brick building ever constructed; partially restored by the Central Cultural Fund.",
+    "naturalCharacteristics": "Vast reddish-terracotta baked brick dome rising majestically out of peaceful dry forest parkland.",
+    "specialFeatures": "World's tallest ancient brick monument (originally 122m, currently 71m), 93.3 million bricks, and the Jetavana Museum.",
+    "reasonsToVisit": [
+      "Stand before the single largest brick monument constructed in human history",
+      "Marvel at ancient 3rd-century engineering that rivaled the Great Pyramids of Giza in scale",
+      "Touch ancient baked bricks inscribed with names of ancient Buddhist donors",
+      "Visit the adjacent Jetavana Museum exhibiting Roman coins, Greek pottery, and delicate gems"
+    ],
+    "activities": [
+      "Stupa terrace walking",
+      "Brick engineering study",
+      "Visiting the Jetavana Archaeological Museum",
+      "Historical photography"
+    ],
+    "bestTimeToVisit": "Early morning or late afternoon (08:00 - 10:30 and 15:30 - 17:30).",
+    "visitingDuration": "1 - 2 Hours",
+    "entranceInformation": "Included in the Central Cultural Fund Cultural Triangle ticket; museum entrance included.",
+    "openingHours": "07:00 - 17:30 Daily.",
+    "accessibilityInformation": "Paved roads and level paths surround the stupa; accessible for all visitors.",
+    "safetyInformation": "Do not climb onto or pry bricks from the ancient stupa dome; remove footwear on the upper terrace.",
+    "travelTips": {
+      "whatToBring": "Socks to wear on the terrace, sun hat, camera, drinking water.",
+      "clothing": "Modest clothing covering shoulders and knees.",
+      "photographyTips": "Step back into the surrounding forest park to capture the full, immense curvature of the terracotta dome.",
+      "localCustoms": "Quiet, contemplative historical atmosphere.",
+      "environmentalGuidelines": "Strict preservation of ancient masonry; do not litter."
+    },
+    "latitude": 8.3517,
+    "longitude": 80.4033,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/jetavanaramaya.jpg",
+        "caption": "Jetavanaramaya Stupa - Primary Vista",
+        "altText": "Jetavanaramaya Stupa, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/anuradhapura.jpg",
+        "caption": "Anuradhapura District Landscape",
+        "altText": "Anuradhapura District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/north-central-province.jpg",
+        "caption": "North Central Province Regional Panorama",
+        "altText": "North Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Central Cultural Fund Sri Lanka",
+        "sourceUrl": "http://www.ccf.gov.lk",
+        "sourceType": "Official Heritage Custodian",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "ruwanwelisaya",
+      "abhayagiri-monastery",
+      "anuradhapura-sacred-city"
+    ]
+  },
+  {
+    "id": "abhayagiri-monastery",
+    "name": "Abhayagiri Monastery Complex & Moonstone",
+    "slug": "abhayagiri-monastery",
+    "districtId": "anuradhapura",
+    "provinceId": "north-central-province",
+    "category": "ancient-cities",
+    "categories": [
+      "ancient-cities",
+      "historical-sites",
+      "temples-religious"
+    ],
+    "shortDescription": "The sprawling 200-hectare ancient monastic university that sheltered 5,000 international monks, famous for the Samadhi Buddha and Sri Lanka's finest carved moonstone.",
+    "fullDescription": "Spanning over 200 hectares in the northern sector of ancient Anuradhapura, the Abhayagiri Monastery was one of the most cosmopolitan intellectual and spiritual universities in the ancient world. Established in the 1st century BCE by King Valagamba, Abhayagiri was an international center of Mahayana, Theravada, and Tantric Buddhist scholarship that hosted over 5,000 monks from India, China, and Southeast Asia (famous 5th-century Chinese traveler-monk Faxian studied here for two years). Centered around the grand 100-meter-high Abhayagiri Stupa, the complex preserves some of the supreme masterpieces of ancient Sinhalese stone art: the serene 4th-century Samadhi Buddha statue (praised by Jawaharlal Nehru as a masterwork of tranquility), the monumental twin ponds of Kuttam Pokuna, and the world's finest intricately carved Moonstone (Sandakada Pahana) depicting the cycle of Samsara through elephants, horses, lions, and geese.",
+    "historicalBackground": "Founded in the 1st century BCE by King Valagamba; visited and described by Chinese pilgrim Faxian in 412 CE; restored by the Central Cultural Fund with UNESCO.",
+    "naturalCharacteristics": "Expansive forested archaeological park dotted with natural ponds and ancient stone ruins.",
+    "specialFeatures": "Exquisite Sandakada Pahana (Moonstone) carving, 4th-century Samadhi Buddha, Abhayagiri Museum, and Kuttam Pokuna.",
+    "reasonsToVisit": [
+      "Admire the world-famous carved stone Moonstone, considered the supreme masterwork of Sinhalese sculpture",
+      "Meditate before the serene 4th-century marble Samadhi Buddha statue admired by Jawaharlal Nehru",
+      "Stand before the towering 100-meter brick stupa where ancient Chinese monk Faxian studied",
+      "Explore peaceful forest paths connecting ancient stone libraries, refectories, and baths"
+    ],
+    "activities": [
+      "Ancient stone sculpture appreciation",
+      "Bicycle touring through forest ruins",
+      "Visiting the Abhayagiri Museum"
+    ],
+    "bestTimeToVisit": "Morning or late afternoon (08:30 - 11:30 and 15:30 - 17:30).",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "Included in the Central Cultural Fund Cultural Triangle ticket.",
+    "openingHours": "07:00 - 17:30 Daily.",
+    "accessibilityInformation": "Level grassy terrain and gravel lanes throughout; ideal for bicycles.",
+    "safetyInformation": "Do not walk directly on ancient carved stone moonstones; viewing barriers are provided.",
+    "travelTips": {
+      "whatToBring": "Comfortable footwear, socks for temple areas, bicycle, camera, water.",
+      "clothing": "Modest clothing covering shoulders and knees.",
+      "photographyTips": "Photograph the concentric animal friezes and flames of the carved moonstone using soft morning light.",
+      "localCustoms": "Quiet, intellectual, and meditative atmosphere.",
+      "environmentalGuidelines": "Preserve the fragile ancient carvings."
+    },
+    "latitude": 8.3717,
+    "longitude": 80.395,
+    "featured": false,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/abhayagiri-monastery.jpg",
+        "caption": "Abhayagiri Monastery Complex & Moonstone - Primary Vista",
+        "altText": "Abhayagiri Monastery Complex & Moonstone, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/anuradhapura.jpg",
+        "caption": "Anuradhapura District Landscape",
+        "altText": "Anuradhapura District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/north-central-province.jpg",
+        "caption": "North Central Province Regional Panorama",
+        "altText": "North Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Central Cultural Fund Sri Lanka",
+        "sourceUrl": "http://www.ccf.gov.lk",
+        "sourceType": "Official Heritage Custodian",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "twin-ponds-kuttam-pokuna",
+      "jetavanaramaya",
+      "anuradhapura-sacred-city"
+    ]
+  },
+  {
+    "id": "isurumuniya-temple",
+    "name": "Isurumuniya Lovers Rock Temple",
+    "slug": "isurumuniya-temple",
+    "districtId": "anuradhapura",
+    "provinceId": "north-central-province",
+    "category": "ancient-cities",
+    "categories": [
+      "ancient-cities",
+      "temples-religious",
+      "historical-sites",
+      "viewpoints"
+    ],
+    "shortDescription": "A charming 3rd-century BCE rock temple beside Tissa Wewa, famous for the world-renowned 'Isurumuniya Lovers' stone relief carving and royal elephant pool reliefs.",
+    "fullDescription": "Nestled beside the bund of the ancient Tissa Wewa reservoir just south of the sacred city, Isurumuniya Raja Maha Vihara is one of Anuradhapura's most enchanting and romantic archaeological treasures. Built in the 3rd century BCE by King Devanampiya Tissa as a retreat for 500 newly ordained high-caste Buddhist monks, the temple is built directly into and around massive natural granite boulders. The temple is celebrated worldwide for its museum of exquisite 5th-century Gupta-style stone carvings, chief among them the famous 'Isurumuniya Lovers'—a tender, masterfully sculpted relief depicting Prince Saliya (son of King Dutugemunu) and his beloved low-caste maiden Asokamala, for whom the prince famously renounced the throne of Sri Lanka. Other masterworks include the rock-cut relief of bathing elephants splashing in a lotus pool and the enigmatic carving of a warrior resting beside his horse (Man and Horse).",
+    "historicalBackground": "Founded in the 3rd century BCE by King Devanampiya Tissa; celebrated stone carvings date from the 5th-8th century CE.",
+    "naturalCharacteristics": "Granite rock boulders and natural rock clefts overlooking the tranquil waters of Tissa Wewa.",
+    "specialFeatures": "World-famous 'Isurumuniya Lovers' stone carving, bathing elephant rock-face reliefs, and rock summit stupa.",
+    "reasonsToVisit": [
+      "Behold the world-famous 'Isurumuniya Lovers' stone sculpture, an icon of ancient romantic art",
+      "Admire the playful 5th-century carved rock relief of elephants bathing in the water pool",
+      "Climb to the summit bell-shaped stupa atop the boulder for panoramic views across Tissa Wewa",
+      "Discover the touching royal love story of Prince Saliya and Asokamala"
+    ],
+    "activities": [
+      "Stone sculpture appreciation",
+      "Climbing the rock boulder summit",
+      "Visiting the on-site sculpture museum",
+      "Sunset viewing over Tissa Wewa"
+    ],
+    "bestTimeToVisit": "Late afternoon (16:00 - 18:30) for golden light on the rock faces and sunset over Tissa Wewa.",
+    "visitingDuration": "1 - 1.5 Hours",
+    "entranceInformation": "Nominal entrance fee: approx. LKR 500 for foreign visitors; LKR 50 for locals.",
+    "openingHours": "07:00 - 18:00 Daily.",
+    "accessibilityInformation": "Grounds and lower museum are level and accessible; ascending the boulder stupa requires climbing stone steps.",
+    "safetyInformation": "Watch your step on boulder staircases; remove footwear at the temple entrance.",
+    "travelTips": {
+      "whatToBring": "Modest clothing, slip-off footwear, camera, small cash notes.",
+      "clothing": "Modest clothing covering shoulders and knees.",
+      "photographyTips": "Photograph the reflection of the rock temple in the lotus pool below the elephant carvings.",
+      "localCustoms": "Popular stop for couples inspired by the legend of Prince Saliya.",
+      "environmentalGuidelines": "Do not touch the ancient stone sculptures."
+    },
+    "latitude": 8.3333,
+    "longitude": 80.39,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/isurumuniya-temple.jpg",
+        "caption": "Isurumuniya Lovers Rock Temple - Primary Vista",
+        "altText": "Isurumuniya Lovers Rock Temple, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/anuradhapura.jpg",
+        "caption": "Anuradhapura District Landscape",
+        "altText": "Anuradhapura District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/north-central-province.jpg",
+        "caption": "North Central Province Regional Panorama",
+        "altText": "North Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Archaeology Sri Lanka",
+        "sourceUrl": "http://www.archaeology.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "jaya-sri-maha-bodhi",
+      "ruwanwelisaya",
+      "anuradhapura-sacred-city"
+    ]
+  },
+  {
+    "id": "mihintale-sacred-peak",
+    "name": "Mihintale Sacred Mountain Peak",
+    "slug": "mihintale-sacred-peak",
+    "districtId": "anuradhapura",
+    "provinceId": "north-central-province",
+    "category": "ancient-cities",
+    "categories": [
+      "ancient-cities",
+      "temples-religious",
+      "viewpoints",
+      "hiking-trekking",
+      "historical-sites"
+    ],
+    "shortDescription": "The cradle of Buddhism in Sri Lanka, an ancient sacred mountain where King Devanampiya Tissa met Arhant Mahinda in 247 BCE, reached via 1,840 stone steps.",
+    "fullDescription": "Rising 300 meters above the dry-zone plains 12 kilometers east of Anuradhapura, the sacred forested mountain of Mihintale is universally revered as the 'Cradle of Buddhism' in Sri Lanka. It was here, atop the Missaka mountain on the full moon day of Poson (June) in 247 BCE, that Arhant Mahinda (son of Emperor Ashoka of India) met King Devanampiya Tissa while the king was hunting deer, converted the monarch, and established Buddhism as the guiding faith of the nation. Pilgrims ascend a grand ancient staircase of 1,840 broad granite stone steps shaded by fragrant temple trees (frangipani). The mountain complex features an ancient 9th-century monastic hospital with a stone medicinal bath, the Kantaka Chetiya with exquisite 1st-century BCE friezes, the massive stone refectory with giant rice troughs, the white Maha Seya stupa crowning the summit, and Aradhana Gala (Meditation Rock), where climbers climb with the aid of iron railings for 360-degree panoramas across the forested Rajarata plains.",
+    "historicalBackground": "Site of the historic introduction of Buddhism to Sri Lanka in 247 BCE; established as the island's premier monastic sanctuary.",
+    "naturalCharacteristics": "Forested granite mountain range rising 300 meters above surrounding plains, dotted with caves, natural springs, and reservoirs.",
+    "specialFeatures": "1,840 stone step staircase, Aradhana Gala climbing rock, ancient stone medicinal bath, and Kantaka Chetiya friezes.",
+    "reasonsToVisit": [
+      "Climb 1,840 ancient stone steps through fragrant frangipani trees to the cradle of Sri Lankan Buddhism",
+      "Ascend the dramatic wind-swept summit crag of Aradhana Gala for panoramic 360-degree sunset views",
+      "Explore the ruins of the world's oldest known monastic hospital with stone immersion medicinal baths",
+      "Experience the electric devotional energy of the annual Poson Poya festival in June"
+    ],
+    "activities": [
+      "Mountain staircase climbing",
+      "Scrambling up Aradhana Gala with iron rails",
+      "Archaeological hospital exploration",
+      "Sunset panorama photography"
+    ],
+    "bestTimeToVisit": "Late afternoon (start climbing by 16:00 to reach summit for 17:45 sunset); Poson Poya (June full moon) for the grand festival.",
+    "visitingDuration": "3 - 4 Hours",
+    "entranceInformation": "LKR 1,000 for foreign adult visitors; free for Sri Lankan devotees.",
+    "openingHours": "06:00 - 19:30 Daily.",
+    "accessibilityInformation": "First tiers are broad, gentle stone steps; upper summit to Aradhana Gala requires climbing steep rock faces with iron railings.",
+    "safetyInformation": "Aradhana Gala has sheer drops on both sides; hold onto railings firmly; granite steps become hot at midday.",
+    "travelTips": {
+      "whatToBring": "Thick socks to protect feet from hot rocks on the upper terraces, modest clothing, drinking water, camera.",
+      "clothing": "Modest white clothing covering shoulders and knees; hats and shoes must be removed at the upper plateau.",
+      "photographyTips": "Photograph the white Maha Seya stupa from the summit of Aradhana Gala against the orange sunset sky.",
+      "localCustoms": "Devotees chant 'Sadhu' while ascending the sacred steps; maintain a respectful, reverent manner.",
+      "environmentalGuidelines": "Strict zero-polythene policy; do not leave water bottles or plastic bags on the mountain."
+    },
+    "latitude": 8.3508,
+    "longitude": 80.5097,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/mihintale-sacred-peak.jpg",
+        "caption": "Mihintale Sacred Mountain Peak - Primary Vista",
+        "altText": "Mihintale Sacred Mountain Peak, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/anuradhapura.jpg",
+        "caption": "Anuradhapura District Landscape",
+        "altText": "Anuradhapura District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/north-central-province.jpg",
+        "caption": "North Central Province Regional Panorama",
+        "altText": "North Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Central Cultural Fund Sri Lanka",
+        "sourceUrl": "http://www.ccf.gov.lk",
+        "sourceType": "Official Heritage Custodian",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "anuradhapura-sacred-city",
+      "ruwanwelisaya",
+      "twin-ponds-kuttam-pokuna"
+    ]
+  },
+  {
+    "id": "twin-ponds-kuttam-pokuna",
+    "name": "Twin Ponds (Kuttam Pokuna)",
+    "slug": "twin-ponds-kuttam-pokuna",
+    "districtId": "anuradhapura",
+    "provinceId": "north-central-province",
+    "category": "ancient-cities",
+    "categories": [
+      "ancient-cities",
+      "historical-sites",
+      "lakes-reservoirs"
+    ],
+    "shortDescription": "A masterwork of ancient Sinhalese hydraulic architecture, two exquisitely proportioned 8th-century stone bathing pools with underground water filtration systems.",
+    "fullDescription": "Situated in the Abhayagiri monastic sector of ancient Anuradhapura, the Kuttam Pokuna (Twin Ponds) is universally acclaimed as one of the finest architectural achievements of hydraulic engineering and stone masonry in ancient Sri Lanka. Built during the 8th to 10th centuries CE as ritual bathing pools for the Buddhist monks of the Abhayagiri fraternity, the complex consists of two rectangular stone ponds built side by side: the smaller northern pond (28m by 15m) and the larger southern pond (40m by 15m). Water was engineered to enter through an underground terracotta conduit into an outer filtration chamber, pass through multiple settling tanks to remove sediment, and spout into the pool through a beautifully carved stone 'Makara' (mythical sea monster) gargoyle. The stepped stone tiers are flanked by classic punkalas (vases of plenty), guardstones, and five-hooded cobra (Naga) protective motifs.",
+    "historicalBackground": "Constructed during the reign of King Aggabodhi I (6th century CE) or later 8th century CE; restored to original architectural perfection by the Department of Archaeology.",
+    "naturalCharacteristics": "Paved stone-lined pools nestled in peaceful dry-zone parkland.",
+    "specialFeatures": "Makara-head stone water spout, multi-stage underground sand filtration system, punkalas (vases of plenty), and five-headed cobra guardstones.",
+    "reasonsToVisit": [
+      "Marvel at masterwork stone masonry and hydraulic filtration that functioned over 1,200 years ago",
+      "Admire the beautifully proportioned classical Sinhalese stone staircases and balustrades",
+      "Photograph the iconic Makara water gargoyle and five-headed Naga protective carvings",
+      "Enjoy a quiet, picturesque stop on a cycling tour through the Abhayagiri monastery grounds"
+    ],
+    "activities": [
+      "Hydraulic engineering study",
+      "Classical stone art photography",
+      "Bicycle exploration"
+    ],
+    "bestTimeToVisit": "Early morning or late afternoon (08:00 - 10:30 and 15:30 - 17:30).",
+    "visitingDuration": "45 Minutes to 1 Hour",
+    "entranceInformation": "Included in the Central Cultural Fund Cultural Triangle ticket.",
+    "openingHours": "07:00 - 17:30 Daily.",
+    "accessibilityInformation": "Paved flat paths surround the upper perimeter of the ponds; stone steps lead into the dry pool beds.",
+    "safetyInformation": "Do not climb onto the delicate carved stone Makara gargoyles or guardstones.",
+    "travelTips": {
+      "whatToBring": "Camera with wide-angle lens, sun hat, drinking water.",
+      "clothing": "Casual comfortable walking clothes.",
+      "photographyTips": "Position your camera from the corner of the smaller pool looking toward the larger pool to capture the symmetrical stone steps.",
+      "localCustoms": "Quiet historical appreciation.",
+      "environmentalGuidelines": "Do not litter into the ancient stone ponds."
+    },
+    "latitude": 8.375,
+    "longitude": 80.4083,
+    "featured": false,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/twin-ponds-kuttam-pokuna.jpg",
+        "caption": "Twin Ponds (Kuttam Pokuna) - Primary Vista",
+        "altText": "Twin Ponds (Kuttam Pokuna), Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/anuradhapura.jpg",
+        "caption": "Anuradhapura District Landscape",
+        "altText": "Anuradhapura District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/north-central-province.jpg",
+        "caption": "North Central Province Regional Panorama",
+        "altText": "North Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Central Cultural Fund Sri Lanka",
+        "sourceUrl": "http://www.ccf.gov.lk",
+        "sourceType": "Official Heritage Custodian",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "abhayagiri-monastery",
+      "anuradhapura-sacred-city"
+    ]
+  },
+  {
+    "id": "ritigala-forest-monastery",
+    "name": "Ritigala Strict Nature Reserve & Monastery",
+    "slug": "ritigala-forest-monastery",
+    "districtId": "anuradhapura",
+    "provinceId": "north-central-province",
+    "category": "forests-reserves",
+    "categories": [
+      "forests-reserves",
+      "ancient-cities",
+      "hiking-trekking",
+      "hidden-gems",
+      "historical-sites"
+    ],
+    "shortDescription": "A mysterious, mist-shrouded mountain rising 766 meters out of the dry plains, hiding a 1st-century BCE forest hermitage with raised stone bridges and medicinal forests.",
+    "fullDescription": "Rising dramatically 766 meters (2,513 feet) like an isolated emerald fortress out of the surrounding dry-zone plains, Ritigala is the highest mountain peak in northern Sri Lanka. Shrouded in mysterious microclimates that support high-altitude wet-zone plants and rare medicinal herbs found nowhere else in the dry zone, Ritigala is steeped in ancient legend: according to the Ramayana, when the monkey-god Hanuman leaped across from India carrying a chunk of the Himalayan Dronagiri mountain with life-saving Sanjeevani herbs to heal Prince Lakshmana, a piece fell here, creating Ritigala's unique floral sanctuary. Between the 1st century BCE and the 9th century CE, this forested peak became the secluded sanctuary of the ascetic Pansakulika (rag-robe wearing) Buddhist monks. The ancient ruins here are uniquely austere—deliberately devoid of any Buddha statues, stupas, or paintings—consisting instead of monumental cyclopean raised stone pathways, double-platform meditation pavilions (padhanaghara) surrounded by moats, and stone Ayurvedic bathhouses hidden amidst giant lianas and canopy trees.",
+    "historicalBackground": "Known as Arittha Pabbatha in the Mahavamsa; royal refuge for King Pandukabhaya (4th century BCE) and King Dutugemunu; flourished under Pansakulika ascetic monks in the 9th century CE.",
+    "naturalCharacteristics": "Isolated granite mountain massif rising 766 meters with an endemic wet-zone montane microclimate surrounded by dry savanna.",
+    "specialFeatures": "Monumental raised stone pathways, double-platform meditation pavilions, ancient Ayurvedic stone baths, and medicinal flora.",
+    "reasonsToVisit": [
+      "Trek through ancient raised stone pathways and bridges built of colossal granite blocks in deep jungle",
+      "Discover the unique, statue-free austere architecture of the ascetic Pansakulika forest monks",
+      "Experience a mysterious microclimate supporting rare medicinal herbs atop the highest peak in the north",
+      "Enjoy a quiet, magical, atmospheric jungle hike completely free of commercial tourist crowds"
+    ],
+    "activities": [
+      "Jungle heritage trekking",
+      "Archaeological photography",
+      "Medicinal botanical education",
+      "Quiet nature meditation"
+    ],
+    "bestTimeToVisit": "Year-round; early morning (07:30 - 10:30) when mountain mist lingers through the jungle canopy.",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "Nominal entrance fee: approx. LKR 1,000 for foreign visitors; LKR 50 for locals.",
+    "openingHours": "08:00 - 17:00 Daily.",
+    "accessibilityInformation": "Requires a moderate uphill hike along natural forest trails and ancient stone staircases; not wheelchair accessible.",
+    "safetyInformation": "Strict Nature Reserve; stay strictly on the designated archaeological trail; wildlife including elephants and leopards inhabit the mountain.",
+    "travelTips": {
+      "whatToBring": "Sturdy hiking footwear, mosquito repellent, camera, drinking water.",
+      "clothing": "Comfortable, breathable hiking clothes.",
+      "photographyTips": "Photograph the ancient raised stone bridges disappearing into the mist-draped jungle under giant twisted lianas.",
+      "localCustoms": "Deeply tranquil and sacred nature sanctuary; maintain silence.",
+      "environmentalGuidelines": "Strict Nature Reserve law: strictly forbidden to pick plants, collect herbs, make noise, or leave trash."
+    },
+    "latitude": 8.1167,
+    "longitude": 80.65,
+    "featured": true,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/ritigala-forest-monastery.jpg",
+        "caption": "Ritigala Strict Nature Reserve & Monastery - Primary Vista",
+        "altText": "Ritigala Strict Nature Reserve & Monastery, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/anuradhapura.jpg",
+        "caption": "Anuradhapura District Landscape",
+        "altText": "Anuradhapura District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/north-central-province.jpg",
+        "caption": "North Central Province Regional Panorama",
+        "altText": "North Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Archaeology Sri Lanka",
+        "sourceUrl": "http://www.archaeology.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      },
+      {
+        "sourceName": "Department of Wildlife Conservation Sri Lanka",
+        "sourceUrl": "http://www.dwc.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "anuradhapura-sacred-city",
+      "sigiriya-rock-fortress",
+      "dambulla-cave-temple"
+    ]
+  },
+  {
+    "id": "polonnaruwa-ancient-city",
+    "name": "Polonnaruwa Ancient Royal City",
+    "slug": "polonnaruwa-ancient-city",
+    "districtId": "polonnaruwa",
+    "provinceId": "north-central-province",
+    "category": "ancient-cities",
+    "categories": [
+      "ancient-cities",
+      "historical-sites",
+      "cultural-experiences",
+      "photography"
+    ],
+    "shortDescription": "The magnificent medieval capital of Sri Lanka (11th–13th century CE), a UNESCO World Heritage royal city of palaces, stone council chambers, and the Sacred Quadrangle.",
+    "fullDescription": "Emerging in the 11th century CE after the fall of Anuradhapura, the Ancient City of Polonnaruwa was the glorious medieval royal capital of Sri Lanka under King Vijayabahu I, King Parakramabahu the Great, and King Nissanka Malla. A UNESCO World Heritage site, Polonnaruwa presents an exceptionally well-preserved monumental city of royal palaces, council chambers, pleasure gardens, and monastic complexes set amidst lush green parkland bordering the vast inland sea of Parakrama Samudraya. Highlights include the seven-story Royal Palace of King Parakramabahu I, the Audience Hall with lion stone pillars, the Royal Kumara Pokuna bath, the Sacred Quadrangle (Dalada Maluwa)—the most concentrated cluster of ancient monuments in Sri Lanka containing the circular Polonnaruwa Vatadage, the Hatadage, and the 8-meter stone Gal Pota book—and the monumental brick-faced Lankatilaka image house standing 17 meters tall.",
+    "historicalBackground": "Capital of Sri Lanka from 1070 to 1232 CE; reached its golden zenith under King Parakramabahu I (1153–1186 CE); inscribed as a UNESCO World Heritage site in 1982.",
+    "naturalCharacteristics": "Lush parkland bordered by the vast man-made reservoir of Parakrama Samudraya and mature shaded trees.",
+    "specialFeatures": "Royal Palace of Parakramabahu I, Dalada Maluwa Sacred Quadrangle, Polonnaruwa Vatadage, and massive brick image houses.",
+    "reasonsToVisit": [
+      "Explore the most intact and architecturally impressive medieval royal capital in Sri Lanka",
+      "Cycle through parkland shaded by ancient trees and inhabited by playful toque macaque monkeys",
+      "Marvel at the circular Polonnaruwa Vatadage and the 8-meter inscribed stone book (Gal Pota)",
+      "Visit the magnificent seven-story ruins of King Parakramabahu's royal palace"
+    ],
+    "activities": [
+      "Bicycle touring through royal ruins",
+      "Architectural stone photography",
+      "Visiting the Polonnaruwa Archaeological Museum",
+      "Monkey observation (site of Disney's 'Monkey Kingdom')"
+    ],
+    "bestTimeToVisit": "Year-round; early morning (07:30 - 10:30) or late afternoon (15:30 - 18:00) provides the most comfortable conditions for cycling.",
+    "visitingDuration": "3 - 5 Hours (or Full Day)",
+    "entranceInformation": "Central Cultural Fund Cultural Triangle ticket: USD 25 - 30 (approx. LKR 8,000 - 10,000) for foreign visitors; includes entrance to the excellent Polonnaruwa Museum.",
+    "openingHours": "07:00 - 17:30 Daily.",
+    "accessibilityInformation": "Paved roads and level paths connect all monuments; highly suited for bicycle or car touring.",
+    "safetyInformation": "Courtyard stones become hot at midday; bring socks; do not feed wild toque macaque monkeys.",
+    "travelTips": {
+      "whatToBring": "Bicycle (rentals available at the museum gate), thick socks for stone terraces, sun hat, camera, water.",
+      "clothing": "Modest clothing covering shoulders and knees; shoes and hats must be removed at active shrines.",
+      "photographyTips": "Photograph the circular stone stairs and seated Buddha of the Vatadage in early morning light.",
+      "localCustoms": "Walk clockwise around stupas and sacred shrines.",
+      "environmentalGuidelines": "Strict zero-litter policy."
+    },
+    "latitude": 7.9403,
+    "longitude": 81.0188,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/polonnaruwa-ancient-city.jpg",
+        "caption": "Polonnaruwa Ancient Royal City - Primary Vista",
+        "altText": "Polonnaruwa Ancient Royal City, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/polonnaruwa.jpg",
+        "caption": "Polonnaruwa District Landscape",
+        "altText": "Polonnaruwa District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/north-central-province.jpg",
+        "caption": "North Central Province Regional Panorama",
+        "altText": "North Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Central Cultural Fund Sri Lanka",
+        "sourceUrl": "http://www.ccf.gov.lk",
+        "sourceType": "Official Heritage Custodian",
+        "verificationDate": "2024-01-15"
+      },
+      {
+        "sourceName": "UNESCO World Heritage Centre",
+        "sourceUrl": "https://whc.unesco.org/en/list/201",
+        "sourceType": "International Heritage Organization",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "gal-vihara",
+      "parakrama-samudraya",
+      "polonnaruwa-vatadage",
+      "minneriya-national-park"
+    ]
+  },
+  {
+    "id": "gal-vihara",
+    "name": "Gal Vihara (Rock Temple)",
+    "slug": "gal-vihara",
+    "districtId": "polonnaruwa",
+    "provinceId": "north-central-province",
+    "category": "ancient-cities",
+    "categories": [
+      "ancient-cities",
+      "temples-religious",
+      "historical-sites",
+      "photography"
+    ],
+    "shortDescription": "The supreme masterpiece of ancient Sri Lankan stone carving: four colossal Buddha statues hewn directly from a single massive granite cliff face by King Parakramabahu I.",
+    "fullDescription": "Universally recognized as the pinnacle of ancient Sinhalese rock-cut sculpture and one of the supreme artistic achievements of Buddhist Asia, Gal Vihara (originally named Uttararama or 'Northern Monastery') is located in the northern sector of ancient Polonnaruwa. Commissioned in the 12th century CE by King Parakramabahu the Great, four monumental Buddha figures were sculpted directly out of a single continuous sloping granite boulder, each exhibiting astonishing artistic refinement, fluid drapery, and deep spiritual serenity. The figures include a colossal 4.6-meter seated Buddha in deep meditation on a vajrasana (diamond throne); an intricately carved cave-shrine Buddha (Vidyadhara Guha); an extraordinary 7-meter standing figure with crossed arms (believed by scholars to depict either the Buddha in supreme compassion or his chief disciple Ananda mourning); and a magnificent 14-meter colossal reclining Buddha depicting the Parinirvana (passing away of the Buddha), with exquisite details including the pillow indented under the head and the slightly recessed left foot signifying final release.",
+    "historicalBackground": "Sculpted in the 12th century CE under the direct patronage of King Parakramabahu the Great; inscribed on the central rock face with the Polonnaruwa Katikawata (monastic code).",
+    "naturalCharacteristics": "Monolithic sloping granite rock cliff situated in parkland shaded by ancient trees.",
+    "specialFeatures": "Four colossal rock-cut Buddha masterpieces, 14-meter reclining Buddha, 7-meter standing figure with crossed arms, and ancient royal stone inscription.",
+    "reasonsToVisit": [
+      "Stand before the supreme masterwork of ancient Sri Lankan granite stone sculpture",
+      "Marvel at the 14-meter reclining Buddha depicting the serene transition to Parinirvana",
+      "Admire the unique 7-meter standing figure with crossed arms expressing profound compassion",
+      "Contemplate centuries of spiritual peace in one of Asia's most revered sacred open-air shrines"
+    ],
+    "activities": [
+      "Masterpiece sculpture appreciation",
+      "Quiet contemplation and meditation",
+      "Historical stone inscription study",
+      "Photography"
+    ],
+    "bestTimeToVisit": "Early morning (07:30 - 09:30) or late afternoon (16:00 - 17:30) when light softly illuminates the granite facial contours.",
+    "visitingDuration": "1 - 1.5 Hours",
+    "entranceInformation": "Included in the Central Cultural Fund Cultural Triangle ticket.",
+    "openingHours": "07:00 - 17:30 Daily.",
+    "accessibilityInformation": "Paved flat avenues and sand courtyards; wheelchair accessible via level pathways.",
+    "safetyInformation": "Strict conduct code: remove footwear and hats at the outer courtyard; do not turn your back to the statues for photos.",
+    "travelTips": {
+      "whatToBring": "Thick socks to protect feet from hot sand/stone, modest clothing, camera (no flash), drinking water.",
+      "clothing": "Modest clothing covering shoulders and knees; white attire is warmly appreciated.",
+      "photographyTips": "Capture the serene facial profile of the 14-meter reclining Buddha showing the realistic indentation of the granite stone pillow.",
+      "localCustoms": "Maintain complete reverence and silence in the presence of these venerated masterpieces.",
+      "environmentalGuidelines": "Strictly do not touch or lean against the ancient carved granite rock surfaces."
+    },
+    "latitude": 7.965,
+    "longitude": 81.005,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/gal-vihara.jpg",
+        "caption": "Gal Vihara (Rock Temple) - Primary Vista",
+        "altText": "Gal Vihara (Rock Temple), Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/polonnaruwa.jpg",
+        "caption": "Polonnaruwa District Landscape",
+        "altText": "Polonnaruwa District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/north-central-province.jpg",
+        "caption": "North Central Province Regional Panorama",
+        "altText": "North Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Central Cultural Fund Sri Lanka",
+        "sourceUrl": "http://www.ccf.gov.lk",
+        "sourceType": "Official Heritage Custodian",
+        "verificationDate": "2024-01-15"
+      },
+      {
+        "sourceName": "UNESCO World Heritage Centre",
+        "sourceUrl": "https://whc.unesco.org/en/list/201",
+        "sourceType": "International Heritage Organization",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "polonnaruwa-ancient-city",
+      "rankoth-vehera",
+      "parakrama-samudraya"
+    ]
+  },
+  {
+    "id": "parakrama-samudraya",
+    "name": "Parakrama Samudraya (Sea of Parakrama)",
+    "slug": "parakrama-samudraya",
+    "districtId": "polonnaruwa",
+    "provinceId": "north-central-province",
+    "category": "lakes-reservoirs",
+    "categories": [
+      "lakes-reservoirs",
+      "ancient-cities",
+      "historical-sites",
+      "viewpoints"
+    ],
+    "shortDescription": "The colossal 2,500-hectare ancient inland reservoir engineered by King Parakramabahu the Great, fulfilling his decree that 'not a single drop of rain must flow to the sea unutilized'.",
+    "fullDescription": "Dominating the western horizon of Polonnaruwa, the Parakrama Samudraya (Sea of Parakrama) is an awe-inspiring triumph of ancient hydraulic engineering. Created in the 12th century CE by King Parakramabahu the Great by merging five previously existing smaller reservoirs, this vast inland reservoir spans over 2,500 hectares (9.6 square miles) with an immense 14-kilometer-long earthen embankment rising up to 12 meters high. Engineered under the king's famous royal decree that 'not even a single drop of water that falls on this earth as rain must be allowed to flow into the ocean without being useful to man', the reservoir continues to irrigate over 18,000 hectares of paddy fields today. The scenic road along the top of the bund offers breathtaking sunset vistas across the vast water surface toward the distant mountain ranges of Knuckles and Matale, accompanied by waterbirds and the nearby 12th-century colossal rock statue of King Parakramabahu holding a palm-leaf manuscript.",
+    "historicalBackground": "Constructed in the 12th century CE by King Parakramabahu I; restored in the 1940s by Prime Minister D.S. Senanayake as part of the agricultural colonization schemes.",
+    "naturalCharacteristics": "Immense artificial freshwater lake and inland sea surrounded by agricultural plains and distant mountain views.",
+    "specialFeatures": "14-kilometer embankment bund, 2,500-hectare water surface, colossal statue of King Parakramabahu, and evening sunset vistas.",
+    "reasonsToVisit": [
+      "Stand before the crowning engineering achievement of ancient Sri Lankan hydraulic civilization",
+      "Take an evening stroll or bicycle ride along the 14-kilometer bund watching colorful sunset skies",
+      "Visit the nearby colossal 12th-century rock-cut statue of King Parakramabahu holding a book",
+      "Spot pelicans, cormorants, and sea eagles feeding in the vast inland waters"
+    ],
+    "activities": [
+      "Scenic bund walking and cycling",
+      "Sunset photography across the water",
+      "Visiting the King Parakramabahu statue and Potgul Vihara",
+      "Birdwatching"
+    ],
+    "bestTimeToVisit": "Late afternoon (16:30 - 18:30) for refreshing lake breezes and spectacular sunsets over the water.",
+    "visitingDuration": "1 - 2 Hours",
+    "entranceInformation": "Free public access along the reservoir bund.",
+    "openingHours": "Open 24 hours.",
+    "accessibilityInformation": "Paved flat roadway atop the reservoir bund, accessible for cars, bicycles, and wheelchairs.",
+    "safetyInformation": "Do not swim or bathe in deep sections near sluice gates; steep earthen slope down to the water.",
+    "travelTips": {
+      "whatToBring": "Camera, binoculars, light windbreaker for breezy evenings.",
+      "clothing": "Casual comfortable travel attire.",
+      "photographyTips": "Photograph the glowing orange sunset reflecting on the vast water surface with the distant Knuckles mountains on the horizon.",
+      "localCustoms": "Enjoy fresh lake fish (lula or thilapia) prepared at local rest houses along the bund.",
+      "environmentalGuidelines": "Keep the essential drinking and agricultural water reservoir clean."
+    },
+    "latitude": 7.9167,
+    "longitude": 80.9833,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/parakrama-samudraya.jpg",
+        "caption": "Parakrama Samudraya (Sea of Parakrama) - Primary Vista",
+        "altText": "Parakrama Samudraya (Sea of Parakrama), Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/polonnaruwa.jpg",
+        "caption": "Polonnaruwa District Landscape",
+        "altText": "Polonnaruwa District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/north-central-province.jpg",
+        "caption": "North Central Province Regional Panorama",
+        "altText": "North Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Irrigation Department Sri Lanka",
+        "sourceUrl": "http://www.irrigation.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "polonnaruwa-ancient-city",
+      "gal-vihara",
+      "minneriya-national-park"
+    ]
+  },
+  {
+    "id": "rankoth-vehera",
+    "name": "Rankoth Vehera Golden Pinnacle Stupa",
+    "slug": "rankoth-vehera",
+    "districtId": "polonnaruwa",
+    "provinceId": "north-central-province",
+    "category": "ancient-cities",
+    "categories": [
+      "ancient-cities",
+      "temples-religious",
+      "historical-sites"
+    ],
+    "shortDescription": "The largest stupa in Polonnaruwa, rising 55 meters with a circumference of 168 meters, built entirely of baked clay bricks by King Nissanka Malla in the 12th century.",
+    "fullDescription": "Standing with monumental presence midway between the Sacred Quadrangle and the Gal Vihara, Rankoth Vehera (meaning 'Golden Pinnacle Stupa') is the largest stupa in the medieval capital of Polonnaruwa and the fourth largest stupa in all of Sri Lanka. Built in the late 12th century CE by King Nissanka Malla, the stupa was designed to emulate the architectural majesty of the great stupas of Anuradhapura, such as Ruwanwelisaya. Standing 55 meters (180 feet) high with a base circumference of 168 meters, this colossal stupa was constructed entirely of baked clay bricks. It sits upon an expansive square brick terrace surrounded by four grand cardinal entrance gateways (vahalkadas) and stone inscriptions detailing how King Nissanka Malla personally supervised its construction from a royal stone pavilion.",
+    "historicalBackground": "Built in the late 12th century CE by King Nissanka Malla (1187–1196 CE); partially restored by the Department of Archaeology.",
+    "naturalCharacteristics": "Vast baked-brick dome set in green woodland parkland.",
+    "specialFeatures": "Largest stupa in Polonnaruwa (55m tall), four cardinal vahalkadas, and King Nissanka Malla's inscribed stone seat.",
+    "reasonsToVisit": [
+      "Marvel at the largest stupa in Polonnaruwa, constructed entirely of terracotta bricks",
+      "Admire the architectural harmony between medieval Polonnaruwa design and ancient Anuradhapura traditions",
+      "Read the royal stone seat inscription from which King Nissanka Malla watched the stupa rise",
+      "Enjoy the peaceful, shaded parkland setting along the central cycling trail"
+    ],
+    "activities": [
+      "Stupa circumambulation (padakshina)",
+      "Archaeological photography",
+      "Brick engineering study"
+    ],
+    "bestTimeToVisit": "Early morning or late afternoon (08:00 - 10:30 and 15:30 - 17:30).",
+    "visitingDuration": "45 Minutes to 1 Hour",
+    "entranceInformation": "Included in the Central Cultural Fund Cultural Triangle ticket.",
+    "openingHours": "07:00 - 17:30 Daily.",
+    "accessibilityInformation": "Paved roads and level paths surround the stupa; accessible for bicycles and wheelchairs.",
+    "safetyInformation": "Remove footwear and hats before ascending to the upper stupa terrace.",
+    "travelTips": {
+      "whatToBring": "Socks for hot stone terraces, sun hat, camera, water.",
+      "clothing": "Modest clothing covering shoulders and knees.",
+      "photographyTips": "Photograph the brick stupa framed through the stone pillars of the cardinal entrance gateways.",
+      "localCustoms": "Walk clockwise around the stupa dome.",
+      "environmentalGuidelines": "Preserve the historical terracotta bricks."
+    },
+    "latitude": 7.9533,
+    "longitude": 81.0067,
+    "featured": false,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/rankoth-vehera.jpg",
+        "caption": "Rankoth Vehera Golden Pinnacle Stupa - Primary Vista",
+        "altText": "Rankoth Vehera Golden Pinnacle Stupa, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/polonnaruwa.jpg",
+        "caption": "Polonnaruwa District Landscape",
+        "altText": "Polonnaruwa District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/north-central-province.jpg",
+        "caption": "North Central Province Regional Panorama",
+        "altText": "North Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Central Cultural Fund Sri Lanka",
+        "sourceUrl": "http://www.ccf.gov.lk",
+        "sourceType": "Official Heritage Custodian",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "gal-vihara",
+      "polonnaruwa-ancient-city",
+      "polonnaruwa-vatadage"
+    ]
+  },
+  {
+    "id": "polonnaruwa-vatadage",
+    "name": "Polonnaruwa Dalada Maluwa & Vatadage",
+    "slug": "polonnaruwa-vatadage",
+    "districtId": "polonnaruwa",
+    "provinceId": "north-central-province",
+    "category": "ancient-cities",
+    "categories": [
+      "ancient-cities",
+      "historical-sites",
+      "cultural-experiences",
+      "photography"
+    ],
+    "shortDescription": "The supreme circular stone relic house in the Sacred Quadrangle, celebrated for exquisite moonstones, guardian stones, and concentric granite colonnades.",
+    "fullDescription": "Situated in the heart of the Sacred Quadrangle (Dalada Maluwa) in ancient Polonnaruwa, the Polonnaruwa Vatadage is universally hailed as one of the most aesthetically refined and architecturally perfect circular relic shrines ever constructed in Asia. Built to enshrine the Sacred Tooth Relic and the Alms Bowl Relic of the Buddha during the 12th century under King Parakramabahu I or King Nissanka Malla, the structure consists of two concentric stone terraces. The upper circular terrace, measuring 23 meters in diameter, features a central brick stupa surrounded by four serene seated stone Buddha statues facing the four cardinal directions. Access is via four magnificent stone staircases flanked by beautifully carved Makara balustrades, classical moonstones, and seven-hooded Naga Raja (Cobra King) guardian stones.",
+    "historicalBackground": "Built in the 12th century CE to enshrine the Sacred Tooth Relic; recognized as the pinnacle of the uniquely Sri Lankan 'Vatadage' circular architectural form.",
+    "naturalCharacteristics": "Elevated stone terrace situated in the central monumental core of ancient Polonnaruwa.",
+    "specialFeatures": "Concentric circular granite architecture, four cardinal seated Buddhas, masterwork moonstone, and Naga Raja guardstones.",
+    "reasonsToVisit": [
+      "Marvel at the most architecturally perfect circular stone relic shrine (Vatadage) in existence",
+      "Admire four serene seated stone Buddhas facing the four cardinal directions",
+      "Inspect the seven-hooded Naga Raja guardstones, considered the finest in medieval Sri Lankan art",
+      "Explore the surrounding Sacred Quadrangle housing the Hatadage, Atadage, and stone book (Gal Pota)"
+    ],
+    "activities": [
+      "Architectural stone art photography",
+      "Studying circular Buddhist shrine design",
+      "Sacred Quadrangle exploration"
+    ],
+    "bestTimeToVisit": "Early morning (07:30 - 09:30) or late afternoon (15:30 - 17:30) when sunlight brings out intricate stone relief carvings.",
+    "visitingDuration": "1 - 1.5 Hours",
+    "entranceInformation": "Included in the Central Cultural Fund Cultural Triangle ticket.",
+    "openingHours": "07:00 - 17:30 Daily.",
+    "accessibilityInformation": "Paved level paths lead to the Quadrangle terrace; stone steps lead onto the Vatadage platform.",
+    "safetyInformation": "Remove footwear and hats before ascending to the Vatadage terrace; do not walk directly on ancient carved moonstones.",
+    "travelTips": {
+      "whatToBring": "Thick socks to protect feet from hot stone pavers, modest clothing, camera, water.",
+      "clothing": "Modest clothing covering shoulders and knees.",
+      "photographyTips": "Photograph through the circular stone pillars toward one of the four seated Buddhas framed in soft morning light.",
+      "localCustoms": "Walk clockwise around the central stupa.",
+      "environmentalGuidelines": "Do not touch or lean on ancient stone carvings."
+    },
+    "latitude": 7.9483,
+    "longitude": 81.0083,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/polonnaruwa-vatadage.jpg",
+        "caption": "Polonnaruwa Dalada Maluwa & Vatadage - Primary Vista",
+        "altText": "Polonnaruwa Dalada Maluwa & Vatadage, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/polonnaruwa.jpg",
+        "caption": "Polonnaruwa District Landscape",
+        "altText": "Polonnaruwa District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/north-central-province.jpg",
+        "caption": "North Central Province Regional Panorama",
+        "altText": "North Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Central Cultural Fund Sri Lanka",
+        "sourceUrl": "http://www.ccf.gov.lk",
+        "sourceType": "Official Heritage Custodian",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "polonnaruwa-ancient-city",
+      "gal-vihara",
+      "rankoth-vehera"
+    ]
+  },
+  {
+    "id": "minneriya-national-park",
+    "name": "Minneriya National Park (The Elephant Gathering)",
+    "slug": "minneriya-national-park",
+    "districtId": "polonnaruwa",
+    "provinceId": "north-central-province",
+    "category": "wildlife-safari",
+    "categories": [
+      "wildlife-safari",
+      "national-parks",
+      "lakes-reservoirs",
+      "adventure",
+      "photography"
+    ],
+    "shortDescription": "Home of 'The Gathering', ranked by Lonely Planet as one of the world's top ten wildlife spectacles, where up to 300 wild Asian elephants assemble on the dry lakebed.",
+    "fullDescription": "Spanning 8,889 hectares in the North Central dry zone, Minneriya National Park is globally renowned for hosting one of the greatest natural wildlife phenomena on Earth: 'The Elephant Gathering'. Centered around the ancient Minneriya Tank—a colossal artificial reservoir built in the 3rd century CE by King Mahasena (King of the Tank Builders)—the park transforms during the dry season (July to October). As surrounding regional waterholes dry up, water recedes in the reservoir, uncovering vast expanses of lush, fertile, fresh green grasses along the lakebed. Drawn from across the Matale, Polonnaruwa, and Trincomalee forests, between 150 and 300 wild Asian elephants (Elephas maximus maximus) converge in large family herds to feed, drink, play, bathe, and socialize in the open. Safari jeeps gather along the shoreline, offering spectators unmatched views of elephant matriarchs leading tiny calves, young tuskers mock-fighting, and immense herds interacting right before their eyes.",
+    "historicalBackground": "Centered around the ancient Minneriya Tank built by King Mahasena in the 3rd century CE; declared a wildlife sanctuary in 1938 and upgraded to a National Park in 1997.",
+    "naturalCharacteristics": "Lowland dry-zone semi-evergreen forest, bamboo thickets, and expansive grassland lakebeds of the Minneriya reservoir.",
+    "specialFeatures": "The Elephant Gathering (largest recurring congregation of wild Asian elephants in the world), ancient 3rd-century reservoir, and large waterbird colonies.",
+    "reasonsToVisit": [
+      "Witness 'The Gathering', where up to 300 wild Asian elephants congregate in the open in a single afternoon",
+      "Watch elephant calves playing and bathing in the lake while family herds socialize",
+      "Experience one of Lonely Planet's 'Top 10 Wildlife Spectacles in the World'",
+      "Observe large flocks of painted storks, spot-billed pelicans, and grey herons along the water's edge"
+    ],
+    "activities": [
+      "Afternoon 4x4 open-top jeep safaris",
+      "Wildlife and elephant herd photography",
+      "Birdwatching on the lakebed"
+    ],
+    "bestTimeToVisit": "July to October (peak dry season for 'The Elephant Gathering'); afternoon safaris (14:30 - 18:30) are essential as elephants emerge from the forest from 15:30 onwards.",
+    "visitingDuration": "3 - 4 Hours (Afternoon Safari)",
+    "entranceInformation": "National Park ticket: approx. LKR 10,000 - 12,000 per foreign adult visitor (including park entry, vehicle pass, and VAT; 4x4 safari jeep hire approx. LKR 14,000 - 20,000).",
+    "openingHours": "06:00 - 18:00 Daily (afternoon safaris from 14:00 are strongly recommended).",
+    "accessibilityInformation": "All exploration is conducted via customized 4x4 safari jeeps with elevated tiered seating.",
+    "safetyInformation": "Remain inside the safari vehicle at all times; do not stand on jeep roofs or shout; wild elephant herds can charge if provoked.",
+    "travelTips": {
+      "whatToBring": "Binoculars, telephoto camera lens (70-300mm), dust mask or buff, sun hat, sunglasses, drinking water.",
+      "clothing": "Neutral, earth-toned lightweight clothing (khaki, olive, beige).",
+      "photographyTips": "Photograph playful baby elephants sheltered between the legs of adult matriarchs against the golden afternoon lake light.",
+      "localCustoms": "Choose ethical safari drivers who maintain respectful distances and do not encircle elephant herds.",
+      "environmentalGuidelines": "Strict zero-litter policy; do not discard plastic bottles or food packaging."
+    },
+    "latitude": 8.0333,
+    "longitude": 80.9,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/minneriya-national-park.jpg",
+        "caption": "Minneriya National Park (The Elephant Gathering) - Primary Vista",
+        "altText": "Minneriya National Park (The Elephant Gathering), Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/polonnaruwa.jpg",
+        "caption": "Polonnaruwa District Landscape",
+        "altText": "Polonnaruwa District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/north-central-province.jpg",
+        "caption": "North Central Province Regional Panorama",
+        "altText": "North Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Wildlife Conservation Sri Lanka",
+        "sourceUrl": "http://www.dwc.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "kaudulla-national-park",
+      "polonnaruwa-ancient-city",
+      "sigiriya-rock-fortress"
+    ]
+  },
+  {
+    "id": "kaudulla-national-park",
+    "name": "Kaudulla National Park",
+    "slug": "kaudulla-national-park",
+    "districtId": "polonnaruwa",
+    "provinceId": "north-central-province",
+    "category": "national-parks",
+    "categories": [
+      "national-parks",
+      "wildlife-safari",
+      "lakes-reservoirs",
+      "adventure"
+    ],
+    "shortDescription": "A premier elephant corridor sanctuary centered around an ancient reservoir, where massive elephant herds gather when water levels alternate with Minneriya.",
+    "fullDescription": "Situated just north of Minneriya in Polonnaruwa District, Kaudulla National Park is an essential component of the historic elephant corridor linking the central dry-zone wildlife sanctuaries. Designated a national park in 2002, Kaudulla's 6,900 hectares center around the historic Kaudulla Tank, an ancient reservoir built in the 3rd century CE by King Mahasena's sister, Princess Bisobandara. When water levels rise in Minneriya, the colossal elephant herds shift along the forest corridor to the open grassy banks of Kaudulla, where between 100 and 250 wild elephants can be observed grazing, bathing, and interacting with their calves. The park is less crowded than Minneriya, providing a more intimate, unhurried safari experience amidst open grasslands and dense dry-zone forest.",
+    "historicalBackground": "Centered around the 3rd-century Kaudulla Tank; declared a national park in 2002 to protect the elephant corridor.",
+    "naturalCharacteristics": "Dry-zone evergreen forest and expansive open grassland lakebeds of Kaudulla reservoir.",
+    "specialFeatures": "Major elephant corridor, herds of up to 200 wild elephants, and ancient reservoir engineering.",
+    "reasonsToVisit": [
+      "Witness massive congregations of wild Asian elephants in an uncrowded national park setting",
+      "Watch elephant herds bathing and splashing in the waters of the ancient Kaudulla reservoir",
+      "Spot painted storks, openbills, fish eagles, and crocodiles along the open grasslands",
+      "Enjoy a scenic, adventurous 4x4 open-top jeep safari"
+    ],
+    "activities": [
+      "4x4 open-top jeep safari",
+      "Elephant herd photography",
+      "Birdwatching along the reservoir"
+    ],
+    "bestTimeToVisit": "August to December (peak elephant congregation months at Kaudulla; afternoon safaris from 14:30 - 18:00).",
+    "visitingDuration": "3 - 4 Hours",
+    "entranceInformation": "National Park ticket: approx. LKR 10,000 - 12,000 per foreign adult visitor (including park entry and vehicle pass; jeep hire approx. LKR 14,000 - 18,000).",
+    "openingHours": "06:00 - 18:00 Daily.",
+    "accessibilityInformation": "All exploration is conducted via customized 4x4 safari jeeps.",
+    "safetyInformation": "Remain inside the vehicle at all times; do not stand on seats or make loud noises near elephant herds.",
+    "travelTips": {
+      "whatToBring": "Binoculars, telephoto camera lens, dust mask or scarf, sunglasses, sun hat, water.",
+      "clothing": "Neutral, earth-toned lightweight clothing.",
+      "photographyTips": "Capture wide panoramic shots showing entire family herds with calves grazing against the backdrop of the reservoir.",
+      "localCustoms": "Check locally with your safari driver whether the elephants are gathered at Minneriya or Kaudulla on your specific safari day.",
+      "environmentalGuidelines": "Strict zero-litter policy."
+    },
+    "latitude": 8.15,
+    "longitude": 80.9167,
+    "featured": false,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/kaudulla-national-park.jpg",
+        "caption": "Kaudulla National Park - Primary Vista",
+        "altText": "Kaudulla National Park, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/polonnaruwa.jpg",
+        "caption": "Polonnaruwa District Landscape",
+        "altText": "Polonnaruwa District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/north-central-province.jpg",
+        "caption": "North Central Province Regional Panorama",
+        "altText": "North Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Wildlife Conservation Sri Lanka",
+        "sourceUrl": "http://www.dwc.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "minneriya-national-park",
+      "polonnaruwa-ancient-city"
+    ]
+  },
+  {
+    "id": "medirigiriya-vatadage",
+    "name": "Medirigiriya Vatadage Circular Shrine",
+    "slug": "medirigiriya-vatadage",
+    "districtId": "polonnaruwa",
+    "provinceId": "north-central-province",
+    "category": "ancient-cities",
+    "categories": [
+      "ancient-cities",
+      "historical-sites",
+      "temples-religious",
+      "hidden-gems"
+    ],
+    "shortDescription": "An ancient 7th-century circular relic house perched atop a natural granite rocky outcrop, celebrated for 68 slender carved stone pillars and serene seated Buddhas.",
+    "fullDescription": "Situated 30 kilometers north of Hingurakgoda in Polonnaruwa District, Medirigiriya Vatadage is one of the most stunning and serene hidden architectural wonders of ancient Sri Lanka. Tracing its origins back to the pre-Christian era under King Kanittha Tissa (2nd century CE) and expanded in the 7th century CE by King Aggabodhi II, this circular stone relic house is built atop an elevated natural granite boulder outcrop. The design features a central stupa surrounded by four tranquil seated stone Buddha statues facing the cardinal points, encircled by three concentric rings of 68 slender, exquisitely carved octagonal granite pillars crowned with ornate lotus capitals. The pillars originally supported a wooden domed roof. Approached via a grand stone staircase flanked by Makara balustrades and guardian stones, Medirigiriya's remote location away from the main tourist trail gives it a timeless, contemplative serenity.",
+    "historicalBackground": "Mentioned in the Mahavamsa as Mandalagiri Vihara; patronized by Kings from the 2nd to 12th century CE; restored by Commissioner Senarath Paranavithana in 1937.",
+    "naturalCharacteristics": "Perched on a natural granite rocky outcrop surrounded by dry-zone forest and irrigation paddy lands.",
+    "specialFeatures": "Three concentric rings of 68 octagonal granite pillars with lotus capitals, elevated rock-top setting, and four seated Buddhas.",
+    "reasonsToVisit": [
+      "Behold one of the most magnificent and intact circular Vatadage shrines in the world",
+      "Admire 68 slender octagonal granite pillars crowned with ornate lotus capitals",
+      "Enjoy a peaceful, uncrowded archaeological wonder set atop an elevated granite rock",
+      "Experience a remote heritage destination preserved in complete natural serenity"
+    ],
+    "activities": [
+      "Ancient stone architecture study",
+      "Heritage photography",
+      "Quiet contemplation"
+    ],
+    "bestTimeToVisit": "Year-round; early morning (08:00 - 10:30) or late afternoon (15:30 - 17:30) for comfortable stone temperatures.",
+    "visitingDuration": "1.5 - 2 Hours",
+    "entranceInformation": "Nominal entrance fee: approx. LKR 500 for foreign visitors; LKR 50 for locals.",
+    "openingHours": "07:30 - 17:30 Daily.",
+    "accessibilityInformation": "Paved pathways through the base complex; ancient stone staircase leads onto the elevated rock platform.",
+    "safetyInformation": "Remove footwear and hats before ascending to the stupa platform; stone can become warm at midday.",
+    "travelTips": {
+      "whatToBring": "Thick socks, sun hat, camera, drinking water.",
+      "clothing": "Modest clothing covering shoulders and knees.",
+      "photographyTips": "Photograph the concentric circles of slender stone pillars against the blue sky looking up from the entrance stairs.",
+      "localCustoms": "Quiet, peaceful reverence.",
+      "environmentalGuidelines": "Do not touch or lean against ancient carved stone pillars."
+    },
+    "latitude": 8.15,
+    "longitude": 80.9833,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/medirigiriya-vatadage.jpg",
+        "caption": "Medirigiriya Vatadage Circular Shrine - Primary Vista",
+        "altText": "Medirigiriya Vatadage Circular Shrine, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/polonnaruwa.jpg",
+        "caption": "Polonnaruwa District Landscape",
+        "altText": "Polonnaruwa District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/north-central-province.jpg",
+        "caption": "North Central Province Regional Panorama",
+        "altText": "North Central Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Archaeology Sri Lanka",
+        "sourceUrl": "http://www.archaeology.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "polonnaruwa-ancient-city",
+      "kaudulla-national-park"
+    ]
+  }
+]

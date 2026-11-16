@@ -1,0 +1,386 @@
+[
+  {
+    "id": "western-province",
+    "name": "Western Province",
+    "slug": "western-province",
+    "sinhalaName": "\u0db6\u0dc3\u0dca\u0db1\u0dcf\u0dc4\u0dd2\u0dbb \u0db4\u0dc5\u0dcf\u0dad",
+    "tamilName": "\u0bae\u0bc7\u0bb2\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd",
+    "capital": "Colombo (Administrative: Sri Jayawardenepura Kotte)",
+    "areaKm2": 3684,
+    "districts": [
+      "colombo",
+      "gampaha",
+      "kalutara"
+    ],
+    "heroImage": "img/provinces/western-province.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "The vibrant commercial and administrative heartland of Sri Lanka, merging modern coastal metropolis with colonial heritage, lush wetland ecosystems, and palm-lined beaches.",
+    "fullDescription": "The Western Province is the economic and cultural nucleus of Sri Lanka, bordering the blue Indian Ocean to the west and rolling eastward into fertile rubber, cinnamon, and coconut groves. Home to the bustling commercial capital of Colombo, the parliamentary seat of Sri Jayawardenepura Kotte, the historic coastal town of Negombo, and the tranquil river deltas of Kalutara, this province represents a fascinating collision of centuries-old maritime heritage and contemporary tropical living. European powers\u2014the Portuguese, Dutch, and British\u2014successively left their indelible mark through imposing forts, canals, and neo-baroque colonial edifices. Beyond urban centers, the Western Province shelters remarkable biodiversity in protected urban wetlands like Beddagana and Muthurajawela marsh, providing an essential sanctuary for migratory waterbirds and indigenous flora.",
+    "geographicalInformation": {
+      "terrain": "Coastal plains, sandy beaches, coastal lagoons, river deltas, and undulating lowlands rising to interior foothills.",
+      "climate": "Tropical rainforest climate with average temperatures of 27\u00b0C - 31\u00b0C; receives heavy rainfall during the South-West Monsoon (May to September).",
+      "elevation": "Sea level to 150 meters.",
+      "majorRivers": [
+        "Kelani River",
+        "Kalu River (Kalu Ganga)",
+        "Maha Oya",
+        "Attanagalu Oya"
+      ]
+    },
+    "culturalSignificance": "A melting pot of cultures, religions, and ethnic communities. Features Gangaramaya Temple, historic Portuguese and Dutch churches in Negombo ('Little Rome'), the revered Kalutara Bodhiya stupa on the Kalu River banks, and the colonial grandeur of Colombo Fort.",
+    "naturalAttractionsSummary": "Muthurajawela Ramsar wetland, Beddagana Wetland Park, Negombo and Bolgoda lagoons, golden sandy beaches of Mount Lavinia and Negombo, and the Seethawaka Wet Zone Botanical Garden.",
+    "suggestedDuration": "2 - 4 Days",
+    "bestTimeToVisit": "November to April (dry and sunny coastal weather).",
+    "latitude": 6.9271,
+    "longitude": 79.8612,
+    "highlights": [
+      "Colombo Fort colonial architecture & Galle Face Green sunsets",
+      "Historic Gangaramaya Temple and peaceful Seema Malaka on Beira Lake",
+      "Negombo fishing lagoons and vibrant beach life",
+      "Kalutara hollow Buddhist stupa and Richmond Castle",
+      "Urban wetland biodiversity tours at Muthurajawela and Beddagana"
+    ],
+    "heroImageLocal": "img/provinces/western-province.jpg"
+  },
+  {
+    "id": "central-province",
+    "name": "Central Province",
+    "slug": "central-province",
+    "sinhalaName": "\u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0db4\u0dc5\u0dcf\u0dad",
+    "tamilName": "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd",
+    "capital": "Kandy",
+    "areaKm2": 5674,
+    "districts": [
+      "kandy",
+      "matale",
+      "nuwara-eliya"
+    ],
+    "heroImage": "img/provinces/central-province.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "The mist-shrouded mountain kingdom of Sri Lanka, crowned by the UNESCO World Heritage sacred city of Kandy, Sigiriya Rock, and emerald tea highlands of Nuwara Eliya.",
+    "fullDescription": "Dominating the geographical core of the island, the Central Province is Sri Lanka's highland sanctuary of mist, sacred mountain peaks, and imperial legacy. At its heart lies the sacred city of Kandy, the last royal capital of independent Sri Lanka and guardian of the venerable Relic of the tooth of the Buddha at the Sri Dalada Maligawa. Moving north into Matale, the terrain transitions into the iconic Cultural Triangle, where the 5th-century rock citadel of Sigiriya rises 200 meters above the forest and the cave sanctuaries of Dambulla preserve millennia of sacred mural art. Higher into the southern hills of Nuwara Eliya, cool temperatures, colonial Tudor-style cottages, roaring cascades like St. Clair's and Devon Falls, and manicured Ceylon tea estates evoke the nostalgic moniker 'Little England'. The province also cradles the Knuckles Conservation Forest and Horton Plains, hosting unique cloud forest ecosystems and dramatic drop-offs at World's End.",
+    "geographicalInformation": {
+      "terrain": "Rugged highland plateaus, steep mountain ridges, dramatic escarpments, deep river valleys, and isolated inselbergs.",
+      "climate": "Temperate montane to tropical mountain climate. Nuwara Eliya ranges from 10\u00b0C - 20\u00b0C (with occasional ground frost), while Kandy and Matale range between 20\u00b0C - 28\u00b0C.",
+      "elevation": "500 meters to 2,524 meters (Pidurutalagala, the highest peak in Sri Lanka).",
+      "majorRivers": [
+        "Mahaweli River (Sri Lanka's longest river)",
+        "Kotmale Oya",
+        "Kelani headwaters"
+      ]
+    },
+    "culturalSignificance": "The spiritual heart of Sri Lankan Theravada Buddhism. Hosts the legendary Esala Perahera pageant in Kandy, ancient Aluvihare rock temple where Buddhist scriptures were first committed to palm-leaf writing, and royal rock temples spanning over two millennia.",
+    "naturalAttractionsSummary": "Horton Plains National Park & World's End, Knuckles Conservation Forest (UNESCO), Ramboda, St. Clair's, and Devon waterfalls, Gregory Lake, and the Hakgala Montane Botanical Garden.",
+    "suggestedDuration": "4 - 7 Days",
+    "bestTimeToVisit": "December to April (ideal for hiking, tea estate exploration, and mountain viewpoints).",
+    "latitude": 7.2906,
+    "longitude": 80.6337,
+    "highlights": [
+      "Temple of the Sacred Tooth Relic (Sri Dalada Maligawa) in Kandy",
+      "Sigiriya Rock Fortress (Lion Rock) & Dambulla Cave Temple",
+      "Nuwara Eliya tea plantations and Gregory Lake",
+      "Trekking across Horton Plains to World's End",
+      "Ambuluwawa Biodiversity Complex 360-degree spiral tower"
+    ],
+    "heroImageLocal": "img/provinces/central-province.jpg"
+  },
+  {
+    "id": "southern-province",
+    "name": "Southern Province",
+    "slug": "southern-province",
+    "sinhalaName": "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0db4\u0dc5\u0dcf\u0dad",
+    "tamilName": "\u0ba4\u0bc6\u0ba9\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd",
+    "capital": "Galle",
+    "areaKm2": 5544,
+    "districts": [
+      "galle",
+      "matara",
+      "hambantota"
+    ],
+    "heroImage": "img/provinces/southern-province.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "Sun-drenched golden coastlines, the iconic 17th-century Galle Dutch Fort, legendary whale migration corridors, and the leopard-rich wilderness of Yala.",
+    "fullDescription": "Fringing the southernmost arc of the island, the Southern Province is a captivating blend of UNESCO World Heritage colonial ramparts, world-class surf breaks, and wild dry-zone savannas. Its historic capital, Galle, is crowned by the 17th-century Dutch Fort\u2014the best-preserved European fortified city in South and Southeast Asia\u2014alive today with boutique jewelers, art galleries, and cobblestone lanes overlooking crashing ocean waves. Stretching eastward along the palm-fringed coast through Weligama, Mirissa, and Tangalle, visitors encounter traditional stilt fishermen perched over coral reefs, blue whales spouting offshore in the continental shelf drop-off, and nesting sea turtles on the protected beaches of Rekawa. Further east in Hambantota, the landscape opens into the renowned dry-zone wilderness of Yala National Park, hosting one of the highest densities of leopards on Earth, alongside Bundala's vast saline lagoons teeming with migratory flamingos and aquatic fowl.",
+    "geographicalInformation": {
+      "terrain": "Sandy coastal beaches, coral reefs, coastal headlands, lagoons, rolling inland hills, and arid thorny scrub plains in the southeast.",
+      "climate": "Tropical coastal climate (28\u00b0C - 32\u00b0C). Galle and Matara receive South-West monsoon rains (May-September), while Hambantota is semi-arid with peak rains from October to December.",
+      "elevation": "Sea level to 300 meters in the interior lowlands.",
+      "majorRivers": [
+        "Bentota River",
+        "Gin River (Gin Ganga)",
+        "Nilwala River",
+        "Walawe River",
+        "Kirindi Oya"
+      ]
+    },
+    "culturalSignificance": "Rich Dutch and Portuguese maritime legacy, the sacred interfaith pilgrimage city of Ruhunu Kataragama, ancient Mulkirigala rock monastery, Matara Star Fort, and traditional Southern devil dancing (Kolam).",
+    "naturalAttractionsSummary": "Yala National Park, Bundala National Park (UNESCO Biosphere), Hummanaya Blowhole, Mirissa Whale Sanctuary, Hikkaduwa Coral Reef Sanctuary, and Rekawa Turtle Sanctuary.",
+    "suggestedDuration": "4 - 7 Days",
+    "bestTimeToVisit": "November to April (ideal sea conditions for whale watching, diving, and dry weather for safaris).",
+    "latitude": 6.0535,
+    "longitude": 80.221,
+    "highlights": [
+      "Strolling the ramparts of UNESCO World Heritage Galle Dutch Fort",
+      "Blue whale and dolphin watching cruises from Mirissa harbor",
+      "Leopard and elephant safaris in Yala National Park",
+      "Surfing the iconic horseshoe bay of Hiriketiya",
+      "Visiting Dondra Head Lighthouse, the southernmost tip of Sri Lanka"
+    ],
+    "heroImageLocal": "img/provinces/southern-province.jpg"
+  },
+  {
+    "id": "northern-province",
+    "name": "Northern Province",
+    "slug": "northern-province",
+    "sinhalaName": "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db4\u0dc5\u0dcf\u0dad",
+    "tamilName": "\u0bb5\u0b9f \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd",
+    "capital": "Jaffna",
+    "areaKm2": 8884,
+    "districts": [
+      "jaffna",
+      "kilinochchi",
+      "mannar",
+      "mullaitivu",
+      "vavuniya"
+    ],
+    "heroImage": "img/provinces/northern-province.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "A distinctive cultural world of towering Hindu kovil gopurams, palmyra-studded landscapes, secluded northern islands, and ancient maritime legends.",
+    "fullDescription": "The Northern Province is a culturally rich, historically distinct region surrounded by the Palk Strait and Gulf of Mannar. Centered around the peninsula of Jaffna, this province boasts a unique Tamil heritage, celebrated in the vibrant golden gopurams of Nallur Kandaswamy Kovil, centuries-old palmyra palm forests, and fiery crab curries infused with roasted Jaffna curry powder. The region\u2019s geography is marked by shallow turquoise lagoons, narrow causeways, and windswept archipelagos like Delft Island (Neduntheevu), where wild ponies descended from Dutch horses roam among coral stone walls and ancient baobab trees. To the west, Mannar Island stretches toward India along the legendary shoals of Adam's Bridge (Rama Setu), hosting thousands of migratory shorebirds at the Vankalai Ramsar Sanctuary, while the revered jungle Shrine of Our Lady of Madhu serves as a historic sanctuary for all faiths. Reborn with warmth and hospitality, the North offers an authentic, unhurried journey through untamed beauty.",
+    "geographicalInformation": {
+      "terrain": "Low-lying limestone plains, lagoons, causeways, sandy spits, coral islands, and dry zone scrub forests.",
+      "climate": "Tropical dry zone climate with hot temperatures (28\u00b0C - 35\u00b0C). Most precipitation arrives during the North-East Monsoon (October to December).",
+      "elevation": "Sea level to 40 meters.",
+      "majorRivers": [
+        "Kanakarayan Aru",
+        "Aruvi Aru (Malwathu Oya basin)",
+        "Parangi Aru"
+      ]
+    },
+    "culturalSignificance": "The cradle of Sri Lankan Tamil civilization, rich in classical Carnatic music, Bharatanatyam dance, ancient Saivite Hindu traditions, Portuguese and Dutch colonial architecture (Jaffna Fort, Hammenhiel), and historic interfaith shrines.",
+    "naturalAttractionsSummary": "Casuarina Beach, Delft Island wild pony reserve, Vankalai Bird Sanctuary, Keerimalai natural mineral water springs, Adam's Bridge marine viewpoints, and Point Pedro coastline.",
+    "suggestedDuration": "3 - 5 Days",
+    "bestTimeToVisit": "January to September (warm, dry, with calm seas for island ferries).",
+    "latitude": 9.6615,
+    "longitude": 80.0255,
+    "highlights": [
+      "Witnessing sacred rituals at Nallur Kandaswamy Temple",
+      "Ferry adventure to Delft Island's coral ruins and wild ponies",
+      "Exploring the star-shaped ramparts of Jaffna Dutch Fort",
+      "Standing at Point Pedro, the northernmost point of Sri Lanka",
+      "Discovering the baobab trees and Adam's Bridge viewpoints of Mannar"
+    ],
+    "heroImageLocal": "img/provinces/northern-province.jpg"
+  },
+  {
+    "id": "eastern-province",
+    "name": "Eastern Province",
+    "slug": "eastern-province",
+    "sinhalaName": "\u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb \u0db4\u0dc5\u0dcf\u0dad",
+    "tamilName": "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd",
+    "capital": "Trincomalee",
+    "areaKm2": 9996,
+    "districts": [
+      "trincomalee",
+      "batticaloa",
+      "ampara"
+    ],
+    "heroImage": "img/provinces/eastern-province.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "Endless turquoise bays, world-championship surf points at Arugam Bay, vibrant coral reefs of Pigeon Island, and peaceful mangrove lagoons.",
+    "fullDescription": "Framing the sunrise coast of Sri Lanka along the Bay of Bengal, the Eastern Province is an outdoor adventurer's and beach lover's paradise. Its historical hub, Trincomalee, sits on one of the finest natural deep-water harbours in the world, dominated by Swami Rock where the ancient Koneswaram Hindu Kovil perches dramatically above the sea. Just north, Nilaveli Beach offers powdery white sands and boat access to Pigeon Island National Park, where snorkelers swim alongside blacktip reef sharks, green sea turtles, and vibrant coral gardens. Further down the coast, the calm, shallow waters of Pasikudah Bay allow visitors to walk hundreds of meters into crystal-clear shallows. Towards the southern edge in Ampara, Arugam Bay reigns supreme as Sri Lanka's surfing capital, attracting the global surf community to its peeling right-hand point breaks. Inland, national parks like Gal Oya offer the unique spectacle of swimming elephants crossing the island's largest inland lake, Senanayake Samudraya.",
+    "geographicalInformation": {
+      "terrain": "Vast coastal plains, white sand beaches, coral reefs, extensive lagoon systems, mangrove forests, and inland water storage reservoirs.",
+      "climate": "Tropical dry-zone climate (28\u00b0C - 34\u00b0C). Protected by the central highlands from the South-West monsoon, making May to September its prime sunny beach season.",
+      "elevation": "Sea level to 100 meters inland.",
+      "majorRivers": [
+        "Mahaweli River delta",
+        "Gal Oya",
+        "Maduru Oya",
+        "Mundeni Aru"
+      ]
+    },
+    "culturalSignificance": "A harmonious tapestry of Tamil, Muslim (Moor), and Sinhala communities. Features ancient cliff-top Koneswaram Kovil, historic Batticaloa Dutch Fort, the mysterious 'Singing Fish' of Batticaloa Lagoon, and the ancient forest hermitage of Kudumbigala.",
+    "naturalAttractionsSummary": "Pigeon Island Marine National Park, Nilaveli and Pasikudah beaches, Arugam Bay surf points, Gal Oya National Park, Senanayake Samudraya, and Kanniya Hot Springs.",
+    "suggestedDuration": "4 - 7 Days",
+    "bestTimeToVisit": "April to September (calm seas, crystal clear waters, peak surf season in Arugam Bay).",
+    "latitude": 8.5874,
+    "longitude": 81.2152,
+    "highlights": [
+      "World-class point break surfing in Arugam Bay and Whiskey Point",
+      "Snorkeling with reef sharks and sea turtles at Pigeon Island",
+      "Clifftop panoramas from Koneswaram Temple and Swami Rock",
+      "Wading into the calm, shallow coral lagoon of Pasikudah",
+      "Boat safari spotting swimming elephants in Gal Oya National Park"
+    ],
+    "heroImageLocal": "img/provinces/eastern-province.jpg"
+  },
+  {
+    "id": "north-western-province",
+    "name": "North Western Province (Wayamba)",
+    "slug": "north-western-province",
+    "sinhalaName": "\u0dc0\u0dba\u0db9 \u0db4\u0dc5\u0dcf\u0dad",
+    "tamilName": "\u0bb5\u0b9f\u0bae\u0bc7\u0bb2\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd",
+    "capital": "Kurunegala",
+    "areaKm2": 7888,
+    "districts": [
+      "kurunegala",
+      "puttalam"
+    ],
+    "heroImage": "img/provinces/north-western-province.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "Ancient rock capitals, the premier kitesurfing winds of Kalpitiya, massive pods of spinner dolphins, and the sprawling wildlife sanctuaries of Wilpattu.",
+    "fullDescription": "Known traditionally as Wayamba, the North Western Province seamlessly bridges dramatic inland rock fortresses with windswept coastal marine sanctuaries. In Kurunegala, majestic granite outcrops dominate the skyline, crowned by the medieval rock citadel of Yapahuwa\u2014a 13th-century capital famous for its steep ornamental staircase and intricate Chinese-influenced carvings. Moving west into Puttalam, the Kalpitiya Peninsula emerges into the Indian Ocean, famous internationally as Asia\u2019s top kitesurfing playground due to steady trade winds. Just offshore, the Bar Reef Marine Sanctuary supports rich biodiversity, while deep waters host massive pods of spinner dolphins and migrating sperm whales. The province also serves as the prime gateway to Wilpattu National Park\u2014Sri Lanka's oldest and largest national park\u2014distinguished by its unique 'villus' (natural sand-rimmed water basins) surrounded by dense monsoon forests, sheltering leopards, sloth bears, and barking deer.",
+    "geographicalInformation": {
+      "terrain": "Granite monadnocks and rocky hills in the east, transitioning to flat sandy plains, coconut plantations, salt pans, and coastal spit lagoons in the west.",
+      "climate": "Semi-arid along the Puttalam coast to tropical dry-intermediate in Kurunegala (27\u00b0C - 33\u00b0C).",
+      "elevation": "Sea level to 350 meters around Kurunegala rocks.",
+      "majorRivers": [
+        "Deduru Oya",
+        "Maha Oya",
+        "Mi Oya",
+        "Kala Oya"
+      ]
+    },
+    "culturalSignificance": "Rich medieval kingdom heritage including Yapahuwa, Panduwasnuwara, and Dambadeniya, the historic silver monastery of Ridi Viharaya, ancient Munneswaram Kovil, and Dutch colonial fortresses.",
+    "naturalAttractionsSummary": "Wilpattu National Park, Bar Reef Marine Sanctuary, Anawilundawa Ramsar Wetland Bird Sanctuary, Kalpitiya Lagoon, and Bathalagoda Tank.",
+    "suggestedDuration": "3 - 5 Days",
+    "bestTimeToVisit": "November to April for dolphin watching; May to September for kitesurfing in Kalpitiya; year-round for Wilpattu safaris.",
+    "latitude": 7.4863,
+    "longitude": 80.3623,
+    "highlights": [
+      "Climbing the dramatic stone stairway of Yapahuwa Rock Fortress",
+      "Watching hundreds of acrobatic spinner dolphins in Kalpitiya",
+      "Exploring Wilpattu National Park's natural sand-rimmed villus and wildlife",
+      "Birdwatching across the seven ancient cascading tanks of Anawilundawa",
+      "Admiring ancient ivory carvings at Ridi Viharaya (Silver Temple)"
+    ],
+    "heroImageLocal": "img/provinces/north-western-province.jpg"
+  },
+  {
+    "id": "north-central-province",
+    "name": "North Central Province (Rajarata)",
+    "slug": "north-central-province",
+    "sinhalaName": "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dd0\u0daf \u0db4\u0dc5\u0dcf\u0dad",
+    "tamilName": "\u0bb5\u0b9f\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd",
+    "capital": "Anuradhapura",
+    "areaKm2": 10472,
+    "districts": [
+      "anuradhapura",
+      "polonnaruwa"
+    ],
+    "heroImage": "img/provinces/north-central-province.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "The cradle of ancient Sinhalese civilization (Rajarata), featuring UNESCO World Heritage ancient capitals, colossal white stupas, and massive elephant gatherings.",
+    "fullDescription": "Known as Rajarata\u2014the King's Land\u2014the North Central Province is the grand historical soul of Sri Lanka. Spanning expansive dry-zone plains dotted with monumental man-made reservoirs ('wewas'), this province preserves over two thousand years of hydraulic engineering, royal sovereignty, and Theravada Buddhist devotion. Anuradhapura, the first royal capital founded in the 4th century BCE, is home to the sacred Jaya Sri Maha Bodhi (the world's oldest historically documented tree), the monumental white dome of Ruwanwelisaya, and the staggering brick mass of Jetavanaramaya. Further east lies Polonnaruwa, the magnificent 11th-century medieval capital celebrated for the colossal rock-hewn Buddha statues of Gal Vihara and the vast inland sea of Parakrama Samudraya. When the dry season arrives between July and October, the lush lakebeds of Minneriya and Kaudulla National Parks become the theater for 'The Gathering'\u2014the largest recurring congregation of wild Asian elephants in the world.",
+    "geographicalInformation": {
+      "terrain": "Vast undulating dry-zone plains, ancient man-made irrigation lakes, isolated forest-covered rocky ridges (like Ritigala).",
+      "climate": "Tropical dry-zone climate (26\u00b0C - 34\u00b0C). Dry for most of the year, receiving refreshing monsoon rains from October to December.",
+      "elevation": "50 meters to 766 meters (Ritigala mountain peak).",
+      "majorRivers": [
+        "Mahaweli River",
+        "Malwathu Oya",
+        "Kala Oya",
+        "Yan Oya"
+      ]
+    },
+    "culturalSignificance": "The birthplace of Buddhism in Sri Lanka at Mihintale (247 BCE). Houses the most sacred pilgrimage sites of the Buddhist world, master stone carvings, ancient monastic universities, and the eight sacred shrines of Atamasthana.",
+    "naturalAttractionsSummary": "Minneriya National Park ('The Elephant Gathering'), Kaudulla National Park, Ritigala Strict Nature Reserve, Parakrama Samudraya, and Hurulu Eco Park.",
+    "suggestedDuration": "3 - 6 Days",
+    "bestTimeToVisit": "Year-round for ancient heritage; July to October for the famous Minneriya Elephant Gathering.",
+    "latitude": 8.3114,
+    "longitude": 80.4037,
+    "highlights": [
+      "Pilgrimage to the 2,300-year-old sacred Jaya Sri Maha Bodhi tree",
+      "Gazing upon the towering white stupa of Ruwanwelisaya at twilight",
+      "Witnessing the Elephant Gathering of up to 300 elephants in Minneriya",
+      "Marveling at the serene rock-cut sculptures of Gal Vihara in Polonnaruwa",
+      "Hiking through the secluded medicinal forest monastery of Ritigala"
+    ],
+    "heroImageLocal": "img/provinces/north-central-province.jpg"
+  },
+  {
+    "id": "uva-province",
+    "name": "Uva Province",
+    "slug": "uva-province",
+    "sinhalaName": "\u0d8c\u0dc0 \u0db4\u0dc5\u0dcf\u0dad",
+    "tamilName": "\u0b8a\u0bb5\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd",
+    "capital": "Badulla",
+    "areaKm2": 8500,
+    "districts": [
+      "badulla",
+      "monaragala"
+    ],
+    "heroImage": "img/provinces/uva-province.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "Picturesque hiking trails, iconic rail viaducts at Ella, roaring mountain waterfalls, dramatic viewpoint ridges, and monumental forest rock sculptures.",
+    "fullDescription": "Uva Province is one of Sri Lanka's most breathtakingly scenic and diverse regions, encompassing dramatic southern mountain escarpments, emerald tea-carpeted slopes, and wild, sun-drenched lowlands. The highland district of Badulla hosts Ella\u2014the undisputed backpacking and hiking capital of Sri Lanka\u2014famed worldwide for the iconic Nine Arch Bridge viaduct hidden in jungle foliage, Little Adam's Peak, and the commanding ridge of Ella Rock looking down through the Ella Gap to the southern plains. Uva is also the land of thunderous waterfalls: Bambarakanda Falls (the highest in the island at 263m), Diyaluma Falls with its spectacular upper infinity rock pools, and Dunhinda Falls near Badulla town. Moving into the Monaragala lowlands, the scenery transforms into dry-zone savanna, where the 10th-century colossal Mahayana Buddhist rock relief figures of Buduruwagala and the giant free-standing limestone colossus of Maligawila stand preserved amid tranquil dry-zone woodlands.",
+    "geographicalInformation": {
+      "terrain": "High mountain ridges and deep ravines in the west, cascading downward through the Southern Escarpment into expansive eastern dry plains.",
+      "climate": "Crisp mountain climate in Haputale and Ella (16\u00b0C - 24\u00b0C) to warm tropical weather in Monaragala (26\u00b0C - 33\u00b0C).",
+      "elevation": "100 meters in lowlands to 2,036 meters at Namunukula peak.",
+      "majorRivers": [
+        "Badulu Oya",
+        "Menik Ganga (Jewel River)",
+        "Kirindi Oya",
+        "Kumbukkan Oya",
+        "Uma Oya"
+      ]
+    },
+    "culturalSignificance": "Home to the revered Muthiyangana Raja Maha Vihara in Badulla (visited by the Buddha), the magnificent Buduruwagala rock sculptures, ancient Bogoda wooden roofed bridge, and the sacred Menik Ganga holy bathing sites.",
+    "naturalAttractionsSummary": "Bambarakanda Falls (highest waterfall in Sri Lanka), Diyaluma Falls & natural pools, Dunhinda Falls, Ravana Falls, Lipton's Seat viewpoint, and Namunukula mountain range.",
+    "suggestedDuration": "3 - 6 Days",
+    "bestTimeToVisit": "December to April (clear mountain skies, ideal for trekking, train rides, and photography).",
+    "latitude": 6.9934,
+    "longitude": 81.055,
+    "highlights": [
+      "Watching the blue train cross the Demodara Nine Arch Bridge",
+      "Sunrise hike up Little Adam's Peak overlooking the Ella Gap",
+      "Swimming in the natural upper infinity rock pools of Diyaluma Falls",
+      "Standing in tea planter Sir Thomas Lipton's footsteps at Lipton's Seat",
+      "Admiring the 51-foot rock-carved Buddha colossus at Buduruwagala"
+    ],
+    "heroImageLocal": "img/provinces/uva-province.jpg"
+  },
+  {
+    "id": "sabaragamuwa-province",
+    "name": "Sabaragamuwa Province",
+    "slug": "sabaragamuwa-province",
+    "sinhalaName": "\u0dc3\u0db6\u0dbb\u0d9c\u0db8\u0dd4\u0dc0 \u0db4\u0dc5\u0dcf\u0dad",
+    "tamilName": "\u0b9a\u0baa\u0bb0\u0b95\u0bae\u0bc1\u0bb5 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd",
+    "capital": "Ratnapura",
+    "areaKm2": 4968,
+    "districts": [
+      "ratnapura",
+      "kegalle"
+    ],
+    "heroImage": "img/provinces/sabaragamuwa-province.jpg",
+    "heroImageCredit": "Wikimedia Commons / Open Educational License",
+    "shortDescription": "The sacred summit of Adam's Peak, world-famous sapphire gem mines, prehistoric caves, adrenaline white-water rafting, and the virgin rainforest of Sinharaja.",
+    "fullDescription": "Deriving its romantic name from the ancient indigenous forest dwellers (Sabaragamuwa), this southwest-central province is an extraordinary sanctuary of sacred peaks, primeval biodiversity, and earth's rarest gemstones. Its capital, Ratnapura, has been celebrated for millennia as the 'City of Gems', yielding radiant blue sapphires, rubies, and alexandrites that have adorned royal crowns worldwide. Looming majestically above the province is the sacred cone of Adam's Peak (Sri Pada / 2,243m), a holy mountain pilgrimage site revered by Buddhists, Hindus, Muslims, and Christians alike for the sacred footprint atop its summit. To the south lies the UNESCO World Heritage Sinharaja Forest Reserve\u2014the last viable expanse of virgin tropical lowland rainforest in Sri Lanka, boasting over 90% endemic tree and bird species. In Kegalle, the roaring white water of the Kelani River in Kitulgala draws rafters from around the world, while prehistoric cave shelters like Belilena and Batadombalena yield evidence of 30,000-year-old human settlement (Balangoda Man).",
+    "geographicalInformation": {
+      "terrain": "Steep mountain ranges, virgin cloud forest ridges, tumbling river valleys, prehistoric limestone caves, and fertile rubber/tea valleys.",
+      "climate": "Humid tropical rainforest climate (24\u00b0C - 30\u00b0C); receives high rainfall from both South-West and North-East monsoons.",
+      "elevation": "100 meters to 2,243 meters (Sri Pada / Adam's Peak).",
+      "majorRivers": [
+        "Kalu Ganga (originating from Sri Pada)",
+        "Kelani River",
+        "Walawe River headwaters"
+      ]
+    },
+    "culturalSignificance": "The sacred Sri Pada pilgrimage tradition dating back over two millennia, the guardian deity shrine of Maha Saman Devalaya in Ratnapura, prehistoric cave archaeology of Balangoda Man, and traditional artisanal gem mining techniques.",
+    "naturalAttractionsSummary": "Sinharaja Forest Reserve (UNESCO), Adam's Peak (Sri Pada Wilderness Sanctuary), Bopath Ella waterfall, Kitulgala rainforest and white-water rapids, and Udawalawe National Park elephant habitats.",
+    "suggestedDuration": "3 - 5 Days",
+    "bestTimeToVisit": "December to May (official pilgrimage season for Adam's Peak and best weather for rainforest trekking).",
+    "latitude": 6.6828,
+    "longitude": 80.4037,
+    "highlights": [
+      "Nighttime pilgrimage hike up Adam's Peak to witness the sacred sunrise shadow",
+      "Guided wildlife trek through the virgin canopy of Sinharaja Rainforest",
+      "White water rafting along the Kelani River canyon in Kitulgala",
+      "Visiting the world-famous Pinnawala Elephant Orphanage river bath",
+      "Discovering ancient sapphire mines and gem cutters in Ratnapura"
+    ],
+    "heroImageLocal": "img/provinces/sabaragamuwa-province.jpg"
+  }
+]

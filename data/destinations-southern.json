@@ -1,0 +1,1696 @@
+[
+  {
+    "id": "galle-fort",
+    "name": "Galle Dutch Fort",
+    "slug": "galle-fort",
+    "districtId": "galle",
+    "provinceId": "southern-province",
+    "category": "historical-sites",
+    "categories": [
+      "historical-sites",
+      "ancient-cities",
+      "cultural-experiences",
+      "photography",
+      "beaches"
+    ],
+    "shortDescription": "The finest surviving 17th-century European fortified citadel in South Asia, a UNESCO World Heritage site of cobblestone lanes, coral-stone bastions, and sunset ramparts.",
+    "fullDescription": "Jutting into the Indian Ocean on a rocky promontory on Sri Lanka's southwest coast, the Galle Dutch Fort is a living, breathing architectural marvel. First fortified by the Portuguese in 1588 following their initial landing in 1505, it was extensively rebuilt and expanded by the Dutch East India Company (VOC) starting in 1640. Enclosed by massive granite and coral-stone sea ramparts, the 36-hectare fortified city survived the catastrophic 2004 Indian Ocean tsunami virtually unscathed. Today, Galle Fort is an enchanting UNESCO World Heritage site where centuries-old Dutch colonial residences with red-tiled roofs, pedimented gables, and wide verandahs have been transformed into boutique hotels, artisan jewelry stores, spice shops, and art galleries. Visitors wander along tranquil cobblestone lanes like Church Street and Pedlar Street, visit the 1755 Dutch Reformed Church (Groote Kerk) with its gravestone floor, and gather at Flag Rock and the iconic white 1939 Galle Lighthouse for breathtaking sunset panoramas.",
+    "historicalBackground": "Built by Portuguese (1588); extensively fortified into a 14-bastion fortress by Dutch (1640 onwards); taken over by British in 1796; inscribed as a UNESCO World Heritage site in 1988.",
+    "naturalCharacteristics": "Rocky coastal peninsula jutting into the Indian Ocean, surrounded on three sides by the sea.",
+    "specialFeatures": "14 coral and granite bastions, Dutch Reformed Church, 1939 white lighthouse, Old Dutch Hospital, and historic rampart walkway.",
+    "reasonsToVisit": [
+      "Stroll along the historic sea ramparts at sunset while watching local cliff jumpers at Flag Rock",
+      "Photograph the iconic white Galle Lighthouse framed by palm trees and crashing ocean waves",
+      "Wander through 400 years of living Dutch and Portuguese colonial architecture",
+      "Explore chic designer boutiques, gem jewelers, and gourmet gelato cafes on cobblestone lanes"
+    ],
+    "activities": [
+      "Rampart walking at sunset",
+      "Architectural and heritage walking tours",
+      "Boutique shopping and dining",
+      "Visiting the National Maritime Museum"
+    ],
+    "bestTimeToVisit": "November to April (dry, sunny weather, clear ocean sunsets); late afternoon (16:30 - 18:30) for rampart walks.",
+    "visitingDuration": "Half Day to Full Day",
+    "entranceInformation": "Free public access to the entire fort town and ramparts; small museum admission fees.",
+    "openingHours": "Open 24 hours daily; shops and galleries open 09:30 - 20:00.",
+    "accessibilityInformation": "Paved cobblestone streets throughout; ramp access to parts of the ramparts; gentle slopes suitable for strollers.",
+    "safetyInformation": "Be cautious on rampart edges where there are steep drops to rocks below without railings; do not swim near Flag Rock.",
+    "travelTips": {
+      "whatToBring": "Comfortable walking shoes, sun hat, sunglasses, camera.",
+      "clothing": "Modest casual resort wear; cover shoulders when entering churches and temples.",
+      "photographyTips": "Capture the white lighthouse against twilight blue skies from the eastern rampart path.",
+      "localCustoms": "Popular evening gathering spot for locals and travelers alike; lively yet peaceful ambiance.",
+      "environmentalGuidelines": "Preserve the fragile coral-stone ramparts; do not carve or deface historical masonry."
+    },
+    "latitude": 6.0267,
+    "longitude": 80.2167,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/galle-fort.jpg",
+        "caption": "Galle Dutch Fort - Primary Vista",
+        "altText": "Galle Dutch Fort, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/galle.jpg",
+        "caption": "Galle District Landscape",
+        "altText": "Galle District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/southern-province.jpg",
+        "caption": "Southern Province Regional Panorama",
+        "altText": "Southern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Galle Heritage Foundation",
+        "sourceUrl": "http://www.galleheritage.gov.lk",
+        "sourceType": "Official Heritage Foundation",
+        "verificationDate": "2024-01-15"
+      },
+      {
+        "sourceName": "UNESCO World Heritage Centre",
+        "sourceUrl": "https://whc.unesco.org/en/list/451",
+        "sourceType": "International Heritage Organization",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "unawatuna-beach",
+      "jungle-beach-rumassala",
+      "dalawella-beach"
+    ]
+  },
+  {
+    "id": "unawatuna-beach",
+    "name": "Unawatuna Beach & Coral Bay",
+    "slug": "unawatuna-beach",
+    "districtId": "galle",
+    "provinceId": "southern-province",
+    "category": "beaches",
+    "categories": [
+      "beaches",
+      "marine-diving",
+      "family-friendly",
+      "photography"
+    ],
+    "shortDescription": "A famous golden horseshoe-shaped bay protected by a natural coral reef, celebrated for safe swimming, beachside dining, and vibrant nightlife.",
+    "fullDescription": "Just 5 kilometers south of Galle Fort, Unawatuna Beach is one of Sri Lanka's most celebrated seaside destinations. Shaped into a sweeping crescent of golden sand and sheltered by a protective offshore coral reef, the bay's turquoise waters are famously calm and safe for swimming throughout much of the year. Lined with swaying coconut palms, bohemian beachfront cafes with sunbeds on the sand, seafood barbecues, and dive centers offering PADI certifications, Unawatuna blends relaxed tropical beach culture with energetic evening beach dining. A short walk over the forested headland leads to the Japanese Peace Pagoda and secluded Jungle Beach.",
+    "historicalBackground": "According to the Ramayana epic, the headland of Rumassala was a piece of the Himalayas dropped by Hanuman containing healing medicinal herbs.",
+    "naturalCharacteristics": "Sheltered crescent bay with golden sand and an offshore barrier coral reef.",
+    "specialFeatures": "Horseshoe bay geography, safe calm swimming zones, and views of Rumassala hill.",
+    "reasonsToVisit": [
+      "Swim safely in calm, reef-protected turquoise bay waters ideal for all ages",
+      "Dine with your feet in the sand on fresh seafood barbecues by candlelight",
+      "Learn to scuba dive or explore vibrant coral gardens with certified PADI dive operators",
+      "Walk the nature trail over Rumassala headland to the Japanese Peace Pagoda"
+    ],
+    "activities": [
+      "Swimming and sunbathing",
+      "Scuba diving and snorkeling",
+      "Beachfront seafood dining",
+      "Stand-up paddleboarding"
+    ],
+    "bestTimeToVisit": "November to April (calmest waters, crystal clear visibility, sunny skies).",
+    "visitingDuration": "Half Day to Full Day",
+    "entranceInformation": "Free public beach access; sunbeds provided by beachfront cafes for customers.",
+    "openingHours": "Beach open 24 hours; restaurants and bars operate until late night.",
+    "accessibilityInformation": "Paved access roads from main street; sandy beach terrain.",
+    "safetyInformation": "Swimming is generally safe inside the bay; avoid swimming during rough monsoon swells (May to October).",
+    "travelTips": {
+      "whatToBring": "Swimwear, beach towel, reef-safe sunscreen, sunglasses, snorkel mask.",
+      "clothing": "Beachwear on the sand; casual clothing in beachside cafes.",
+      "photographyTips": "Photograph the sweeping crescent curve of the bay from the western rock promontory near the Wella Devalaya temple.",
+      "localCustoms": "Vibrant and welcoming beach atmosphere; support local beach vendors.",
+      "environmentalGuidelines": "Use reef-safe sunscreen to avoid damaging the fragile coral reef ecosystem."
+    },
+    "latitude": 6.0083,
+    "longitude": 80.25,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/unawatuna-beach.jpg",
+        "caption": "Unawatuna Beach & Coral Bay - Primary Vista",
+        "altText": "Unawatuna Beach & Coral Bay, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/galle.jpg",
+        "caption": "Galle District Landscape",
+        "altText": "Galle District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/southern-province.jpg",
+        "caption": "Southern Province Regional Panorama",
+        "altText": "Southern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Development Authority",
+        "sourceUrl": "https://www.sltda.gov.lk",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "galle-fort",
+      "jungle-beach-rumassala",
+      "dalawella-beach"
+    ]
+  },
+  {
+    "id": "jungle-beach-rumassala",
+    "name": "Jungle Beach & Rumassala Peace Pagoda",
+    "slug": "jungle-beach-rumassala",
+    "districtId": "galle",
+    "provinceId": "southern-province",
+    "category": "beaches",
+    "categories": [
+      "beaches",
+      "hidden-gems",
+      "temples-religious",
+      "hiking-trekking"
+    ],
+    "shortDescription": "A secluded, jungle-fringed cove hidden beneath the legendary Rumassala hill, offering calm snorkeling waters and views of Galle Fort.",
+    "fullDescription": "Tucked away on the forested northern slope of Rumassala sanctuary hill, Jungle Beach is an enchanting, secluded double bay hidden from the busy tourist strip. Shaded by dense tropical jungle canopy trees that tumble down almost to the water's edge, this golden sand beach features crystal-clear, calm waters protected from heavy ocean swell. It is one of the best accessible snorkeling spots near Galle, teeming with parrotfish, damselfish, and live corals just meters from shore. Above the beach stands the majestic white Japanese Peace Pagoda, built in 2004 by Japanese Buddhist monks, providing breathtaking views across Galle Bay toward the ramparts of Galle Fort.",
+    "historicalBackground": "Associated with the Ramayana legend of Sanjeevani mountain; Japanese Peace Pagoda built in 2004 by Nichidatsu Fujii's Nipponzan Myohoji order.",
+    "naturalCharacteristics": "Secluded forested cove surrounded by the biodiverse coastal forest reserve of Rumassala.",
+    "specialFeatures": "Pristine offshore coral reef, forested trail, and panoramic views from the Japanese Peace Pagoda.",
+    "reasonsToVisit": [
+      "Discover a secluded tropical beach surrounded by lush wild jungle",
+      "Snorkel directly from the sand over colorful coral reefs teeming with marine life",
+      "Visit the gleaming white Japanese Peace Pagoda and enjoy panoramic views of Galle Fort across the bay",
+      "Trek through the rich medicinal plant forest of the Rumassala nature sanctuary"
+    ],
+    "activities": [
+      "Snorkeling on shallow reefs",
+      "Forest nature trail hiking",
+      "Peace Pagoda meditation and photography",
+      "Beach relaxation"
+    ],
+    "bestTimeToVisit": "November to April (crystal clear waters for snorkeling; morning visits from 08:30 - 11:30 avoid afternoon crowds).",
+    "visitingDuration": "2 - 4 Hours",
+    "entranceInformation": "Free public access; small parking fee for tuk-tuks/scooters at the trailhead.",
+    "openingHours": "Open daily daylight hours (06:00 - 18:30).",
+    "accessibilityInformation": "Requires a 10-15 minute walk down a rocky, unpaved jungle trail; not wheelchair accessible.",
+    "safetyInformation": "Wear shoes with grip on the rocky trail down to the beach; watch out for submerged rocks while snorkeling.",
+    "travelTips": {
+      "whatToBring": "Snorkel mask, water shoes, drinking water, beach towel, modest clothing for visiting the Peace Pagoda.",
+      "clothing": "Swimwear on the beach; cover shoulders and knees when visiting the adjacent Peace Pagoda.",
+      "photographyTips": "Photograph the white Peace Pagoda dome framed by the ocean with Galle Fort in the background.",
+      "localCustoms": "Maintain peace and quiet around the Buddhist monastery.",
+      "environmentalGuidelines": "Strictly do not step on or touch live corals while snorkeling; pack all plastic out."
+    },
+    "latitude": 6.0167,
+    "longitude": 80.2417,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/jungle-beach-rumassala.jpg",
+        "caption": "Jungle Beach & Rumassala Peace Pagoda - Primary Vista",
+        "altText": "Jungle Beach & Rumassala Peace Pagoda, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/galle.jpg",
+        "caption": "Galle District Landscape",
+        "altText": "Galle District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/southern-province.jpg",
+        "caption": "Southern Province Regional Panorama",
+        "altText": "Southern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Wildlife Conservation Sri Lanka",
+        "sourceUrl": "http://www.dwc.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "unawatuna-beach",
+      "galle-fort"
+    ]
+  },
+  {
+    "id": "dalawella-beach",
+    "name": "Dalawella Beach & Wijaya Palm Tree Swing",
+    "slug": "dalawella-beach",
+    "districtId": "galle",
+    "provinceId": "southern-province",
+    "category": "beaches",
+    "categories": [
+      "beaches",
+      "photography",
+      "wildlife-safari",
+      "hidden-gems"
+    ],
+    "shortDescription": "A postcard-perfect beach famous for the viral palm tree rope swing, sea turtles swimming in the natural rock reef pool, and Wijaya Beach restaurant.",
+    "fullDescription": "Situated just 2 kilometers south of Unawatuna along the coastal road, Dalawella Beach (often called Wijaya Beach after its famous beachside restaurant) is one of the most photographed coastal spots in the world. The beach features a protective natural rock reef running parallel to the shore, creating a calm, wave-free natural swimming lagoon where wild green sea turtles swim gracefully alongside visitors every afternoon. At the southern end rises the iconic bent palm tree outfitted with a rope swing, where travelers can swing out over the waves against breathtaking golden sunset skies.",
+    "historicalBackground": "A peaceful local fishing stretch popularized in recent years as a global photography and sea turtle swimming landmark.",
+    "naturalCharacteristics": "Golden sand beach sheltered by an offshore limestone reef formation creating a natural calm lagoon pool.",
+    "specialFeatures": "Iconic palm tree rope swing, resident wild green sea turtles in the shallow lagoon, and wood-fired beachfront pizza at Wijaya.",
+    "reasonsToVisit": [
+      "Swing out over the crashing waves on the world-famous palm tree rope swing at sunset",
+      "Swim alongside wild green sea turtles in the calm natural lagoon pool",
+      "Enjoy wood-fired Italian pizza with cold drinks with feet in the sand at Wijaya Beach",
+      "Relax in natural calm waters protected from ocean currents"
+    ],
+    "activities": [
+      "Palm tree rope swinging",
+      "Swimming with wild sea turtles",
+      "Sunset photography",
+      "Beachfront dining"
+    ],
+    "bestTimeToVisit": "November to April; late afternoon (15:30 - 18:30) for turtle sightings and sunset swings.",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "Free public beach access; palm tree swing operators charge approx. LKR 500 for unlimited swings.",
+    "openingHours": "Open 24 hours; restaurants open 11:00 - 22:00.",
+    "accessibilityInformation": "Easy access through beachside restaurant gates directly onto the sand.",
+    "safetyInformation": "Do not touch, ride, or chase the wild sea turtles; maintain a respectful distance of at least 2 meters.",
+    "travelTips": {
+      "whatToBring": "Swimwear, snorkel mask, camera/GoPro, cash for the swing and fresh coconut.",
+      "clothing": "Beachwear.",
+      "photographyTips": "Capture the rope swing at the apex of its arc silhouetted against the vibrant orange sunset sky.",
+      "localCustoms": "Treat the sea turtles with gentle respect; do not surround them.",
+      "environmentalGuidelines": "Strict zero-contact wildlife guideline for green sea turtles."
+    },
+    "latitude": 6,
+    "longitude": 80.2667,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/dalawella-beach.jpg",
+        "caption": "Dalawella Beach & Wijaya Palm Tree Swing - Primary Vista",
+        "altText": "Dalawella Beach & Wijaya Palm Tree Swing, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/galle.jpg",
+        "caption": "Galle District Landscape",
+        "altText": "Galle District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/southern-province.jpg",
+        "caption": "Southern Province Regional Panorama",
+        "altText": "Southern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Promotion Bureau",
+        "sourceUrl": "https://srilanka.travel",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "unawatuna-beach",
+      "koggala-lake"
+    ]
+  },
+  {
+    "id": "hikkaduwa-coral-sanctuary",
+    "name": "Hikkaduwa Coral Reef Sanctuary & Beach",
+    "slug": "hikkaduwa-coral-sanctuary",
+    "districtId": "galle",
+    "provinceId": "southern-province",
+    "category": "marine-diving",
+    "categories": [
+      "marine-diving",
+      "beaches",
+      "adventure",
+      "wildlife-safari"
+    ],
+    "shortDescription": "Sri Lanka's first marine national park, famous for a shallow fringing coral reef, wild green turtles, glass-bottom boat tours, and lively surf breaks.",
+    "fullDescription": "Located 100 kilometers south of Colombo, Hikkaduwa is the legendary birthplace of Sri Lanka's beach tourism and surf culture, having attracted surfers and travelers since the late 1960s. The town's premier ecological treasure is the Hikkaduwa Coral Sanctuary, designated as Sri Lanka's first marine national park in 1998. Extending just offshore in shallow water (ranging from 1 to 5 meters depth), the fringing coral reef supports over 60 species of hard corals and 170 species of tropical reef fish. Snorkelers and visitors aboard glass-bottom boats encounter butterflyfish, angel fish, blacktip reef sharks, and giant green sea turtles that swim right up to the shoreline near the coral reef.",
+    "historicalBackground": "Declared a wildlife sanctuary in 1979 and upgraded to Sri Lanka's first Marine National Park in 1998.",
+    "naturalCharacteristics": "Fringing coral reef system with lagoon flats, reef crest, and sandy seabed.",
+    "specialFeatures": "Marine National Park status, resident wild green turtles, glass-bottom boat excursions, and consistent surf breaks (Benny's, Main Reef).",
+    "reasonsToVisit": [
+      "Snorkel over vibrant shallow coral gardens teeming with colorful reef fish",
+      "Feed seaweed to wild giant green sea turtles swimming right to the shoreline",
+      "Take a glass-bottom boat ride to view the underwater coral gardens without getting wet",
+      "Surf consistent reef and beach breaks suited for intermediate and experienced surfers"
+    ],
+    "activities": [
+      "Snorkeling on the reef",
+      "Glass-bottom boat tours",
+      "Surfing",
+      "Scuba diving historic shipwrecks"
+    ],
+    "bestTimeToVisit": "November to April (clearest underwater visibility, calm seas, sunny weather).",
+    "visitingDuration": "Half Day to Full Day",
+    "entranceInformation": "Free public beach access; glass-bottom boat tours cost approx. LKR 2,500 - 4,000 per boat (seats up to 6).",
+    "openingHours": "Open 24 hours; water activities operate 07:00 - 17:30.",
+    "accessibilityInformation": "Beachfront hotels and restaurants provide level access to the beach.",
+    "safetyInformation": "Do not step on coral formations; wear booties/reef shoes to protect feet from sharp dead coral fragments and sea urchins.",
+    "travelTips": {
+      "whatToBring": "Snorkel gear, reef booties, underwater camera/GoPro, reef-safe sunscreen.",
+      "clothing": "Swimwear and rashguard for sun protection.",
+      "photographyTips": "Use an underwater camera to capture sea turtles feeding on seagrass beds with the coral background.",
+      "localCustoms": "Vibrant, friendly beach strip with numerous surf and dive shops.",
+      "environmentalGuidelines": "Strictly forbidden to break, touch, or take coral fragments; use only reef-safe sunscreen."
+    },
+    "latitude": 6.1394,
+    "longitude": 80.1008,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/hikkaduwa-coral-sanctuary.jpg",
+        "caption": "Hikkaduwa Coral Reef Sanctuary & Beach - Primary Vista",
+        "altText": "Hikkaduwa Coral Reef Sanctuary & Beach, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/galle.jpg",
+        "caption": "Galle District Landscape",
+        "altText": "Galle District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/southern-province.jpg",
+        "caption": "Southern Province Regional Panorama",
+        "altText": "Southern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Wildlife Conservation Sri Lanka",
+        "sourceUrl": "http://www.dwc.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "galle-fort",
+      "unawatuna-beach"
+    ]
+  },
+  {
+    "id": "koggala-lake",
+    "name": "Koggala Lake & Traditional Stilt Fishermen",
+    "slug": "koggala-lake",
+    "districtId": "galle",
+    "provinceId": "southern-province",
+    "category": "lakes-reservoirs",
+    "categories": [
+      "lakes-reservoirs",
+      "cultural-experiences",
+      "photography",
+      "hidden-gems"
+    ],
+    "shortDescription": "A serene coastal lagoon studded with eight forested islands, cinnamon peeling demonstrations, and the iconic coastal stilt fishermen along the nearby reef.",
+    "fullDescription": "Spanning over 7 square kilometers in Galle District, Koggala Lake is a magnificent freshwater and brackish lagoon rich in bio-diversity and literary heritage. The lake is studded with eight forested islands, the most famous being 'Cinnamon Island' (Kurundu Doowa), where visitors can watch local families harvest and peel cinnamon quills using centuries-old techniques, and 'Temple Island' (Ananda Doowa), housing an ancient Buddhist temple with vibrant murals. The legendary Sri Lankan author Martin Wickramasinghe was born here, and his ancestral home is preserved as a fascinating Folk Museum. Along the ocean shoreline adjacent to Koggala, visitors can witness the iconic sight of traditional Stilt Fishermen (Ritipanna)—perched atop crossbars lashed to wooden poles embedded in the coral reef to catch spotted herrings.",
+    "historicalBackground": "Ancestral homeland of legendary writer Martin Wickramasinghe; wartime RAF flying boat base during WWII; traditional stilt fishing evolved after WWII food shortages.",
+    "naturalCharacteristics": "Sprawling coastal lagoon fringed by mangroves and marshland with eight natural islands.",
+    "specialFeatures": "Traditional stilt fishermen on coastal reefs, Cinnamon Island peeling demonstrations, and Martin Wickramasinghe Folk Art Museum.",
+    "reasonsToVisit": [
+      "Photograph the world-famous traditional stilt fishermen perched over crashing ocean waves",
+      "Take a peaceful boat safari to Cinnamon Island and watch master cinnamon peelers at work",
+      "Explore the ancestral home and folk museum of Sri Lanka's greatest author, Martin Wickramasinghe",
+      "Glide through pristine mangrove tunnels filled with tropical kingfishers and monitors"
+    ],
+    "activities": [
+      "Lagoon boat safaris",
+      "Cinnamon peeling demonstrations",
+      "Photographing stilt fishermen",
+      "Visiting the Folk Art Museum"
+    ],
+    "bestTimeToVisit": "October to April; early morning (07:00 - 09:30) or late afternoon for the best light on the stilt fishermen.",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "Boat tour of Koggala Lake costs approx. LKR 3,500 - 6,000 per boat; museum admission approx. LKR 400.",
+    "openingHours": "Boat tours operate 07:00 - 17:30 daily; Folk Museum open 09:00 - 17:00.",
+    "accessibilityInformation": "Boarding motorboats requires stepping from the wooden jetty; museum grounds are accessible.",
+    "safetyInformation": "Always wear provided life jackets during lagoon boat trips; stilt fishermen photos often require a customary fee if arranged.",
+    "travelTips": {
+      "whatToBring": "Sun hat, camera, binoculars, small cash notes for cinnamon purchases and stilt fishermen.",
+      "clothing": "Comfortable casual clothes.",
+      "photographyTips": "Capture stilt fishermen in silhouette against the vibrant amber glow of the setting sun over the ocean.",
+      "localCustoms": "Purchase authentic, freshly peeled Ceylon cinnamon quills directly from island artisans.",
+      "environmentalGuidelines": "Preserve the serene lagoon environment and refrain from throwing trash into the water."
+    },
+    "latitude": 5.9917,
+    "longitude": 80.325,
+    "featured": false,
+    "popular": true,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/koggala-lake.jpg",
+        "caption": "Koggala Lake & Traditional Stilt Fishermen - Primary Vista",
+        "altText": "Koggala Lake & Traditional Stilt Fishermen, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/galle.jpg",
+        "caption": "Galle District Landscape",
+        "altText": "Galle District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/southern-province.jpg",
+        "caption": "Southern Province Regional Panorama",
+        "altText": "Southern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Martin Wickramasinghe Trust",
+        "sourceUrl": "http://www.martinwickramasinghe.info",
+        "sourceType": "Cultural Trust",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "dalawella-beach",
+      "weligama-bay"
+    ]
+  },
+  {
+    "id": "mirissa-beach",
+    "name": "Mirissa Beach & Whale Watching Sanctuary",
+    "slug": "mirissa-beach",
+    "districtId": "matara",
+    "provinceId": "southern-province",
+    "category": "marine-diving",
+    "categories": [
+      "marine-diving",
+      "beaches",
+      "wildlife-safari",
+      "photography"
+    ],
+    "shortDescription": "The world's premier departure point for observing colossal Blue Whales and sperm whales in their natural habitat, paired with a lively crescent bay.",
+    "fullDescription": "Mirissa is globally recognized as the epicenter of marine megafauna observation in the Indian Ocean. Situated along the southern coast where the deep oceanic continental shelf drops off just a few miles offshore, nutrient-rich upwelling currents attract resident and migrating pods of Blue Whales—the largest living creatures on planet Earth—alongside sperm whales, fin whales, orcas, and acrobatic spinner dolphins. Certified eco-friendly catamarans and motor vessels depart from Mirissa fisheries harbor at dawn to witness these magnificent gentle giants surface and blow their 9-meter spouts. Back on shore, Mirissa's crescent golden beach is lined with palm trees, seaside seafood restaurants, and gentle surfing waves at its western reef point.",
+    "historicalBackground": "A quiet fishing village transformed since the late 2000s into South Asia's foremost whale and dolphin watching hub.",
+    "naturalCharacteristics": "Deep-water marine continental shelf drop-off close to shore, backed by a golden sand crescent bay.",
+    "specialFeatures": "World's highest encounter rates for Blue Whales (Balaenoptera musculus), spinner dolphin superpods, and Parrot Rock viewpoint.",
+    "reasonsToVisit": [
+      "Witness the awe-inspiring sight of a 30-meter Blue Whale surfacing and raising its tail fluke into the air",
+      "Watch superpods of hundreds of playful spinner dolphins leaping alongside your boat",
+      "Relax on a golden sandy crescent beach with beachfront seafood dining under fairy lights",
+      "Climb Parrot Rock for a panoramic view over both sides of Mirissa bay"
+    ],
+    "activities": [
+      "Ethical whale and dolphin watching cruises",
+      "Surfing the western reef break",
+      "Climbing Parrot Rock",
+      "Sunset seafood dining"
+    ],
+    "bestTimeToVisit": "November to April (peak whale migration season with calmest sea conditions and 90%+ sighting rates).",
+    "visitingDuration": "Half Day to Full Day (boat trips depart 06:30 and return 10:30 - 12:30).",
+    "entranceInformation": "Whale watching cruises range from USD 40 - 65 (approx. LKR 12,000 - 18,000) per person with accredited eco-operators.",
+    "openingHours": "Beach open 24 hours; whale watching boats depart daily between 06:00 and 07:00.",
+    "accessibilityInformation": "Boarding boats requires walking along harbor docks; catamarans have comfortable seating and restrooms.",
+    "safetyInformation": "Sea-sickness tablets are recommended taken 30 minutes before departure; choose licensed operators complying with whale watching distance regulations.",
+    "travelTips": {
+      "whatToBring": "Sea-sickness tablets, sunscreen, sunglasses, camera with telephoto zoom lens (70-300mm), light windbreaker jacket.",
+      "clothing": "Comfortable boat attire; sunglasses and sun hat with chin strap.",
+      "photographyTips": "Keep shutter speed at 1/1000s or faster to freeze the colossal splash and tail fluke of a diving blue whale.",
+      "localCustoms": "Select operators that respect the 100-meter minimum distance rule to avoid harassing marine mammals.",
+      "environmentalGuidelines": "Strict zero-plastic disposal into the ocean; support operators with onboard marine naturalists."
+    },
+    "latitude": 5.9483,
+    "longitude": 80.4583,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/mirissa-beach.jpg",
+        "caption": "Mirissa Beach & Whale Watching Sanctuary - Primary Vista",
+        "altText": "Mirissa Beach & Whale Watching Sanctuary, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/matara.jpg",
+        "caption": "Matara District Landscape",
+        "altText": "Matara District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/southern-province.jpg",
+        "caption": "Southern Province Regional Panorama",
+        "altText": "Southern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Wildlife Conservation Sri Lanka",
+        "sourceUrl": "http://www.dwc.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "coconut-tree-hill",
+      "weligama-bay",
+      "polhena-beach"
+    ]
+  },
+  {
+    "id": "coconut-tree-hill",
+    "name": "Coconut Tree Hill Mirissa",
+    "slug": "coconut-tree-hill",
+    "districtId": "matara",
+    "provinceId": "southern-province",
+    "category": "viewpoints",
+    "categories": [
+      "viewpoints",
+      "photography",
+      "beaches"
+    ],
+    "shortDescription": "The world-famous promontory near Mirissa, where a grove of towering coconut palms overlooks the crashing Indian Ocean from a red-clay cliff.",
+    "fullDescription": "Coconut Tree Hill is one of Sri Lanka's most globally recognizable and photographed natural landmarks. Situated on the eastern edge of Mirissa Bay, this picturesque dome-shaped red cliff promontory juts out dramatically into the deep turquoise Indian Ocean, crowned by a grove of soaring, gently leaning coconut palm trees with zero underbrush. The contrasting colors of the rich reddish terracotta clay soil, the deep green of the palm fronds, and the infinite blue of the surrounding sea make it a photographer's paradise. Visitors flock here at sunrise and sunset to witness the golden light filtering through the palm trunks as waves crash against the rocky base below.",
+    "historicalBackground": "A private coconut estate that grew into an internationally famous viewpoint and photography destination.",
+    "naturalCharacteristics": "Red laterite clay headland extending into the Indian Ocean, exposed to ocean swells and sea breezes.",
+    "specialFeatures": "Iconic cluster of leaning coconut palms, red clay soil, and 270-degree ocean views.",
+    "reasonsToVisit": [
+      "Capture one of Sri Lanka's most iconic, world-famous tropical landscape photographs",
+      "Witness mesmerizing sunsets where golden rays illuminate the palm grove and ocean waves",
+      "Enjoy 270-degree panoramic ocean views from the breezy promontory cliff",
+      "A short, scenic 15-minute coastal walk directly from Mirissa main beach"
+    ],
+    "activities": [
+      "Landscape and portrait photography",
+      "Sunrise and sunset viewing",
+      "Coastal scenic walking"
+    ],
+    "bestTimeToVisit": "Sunrise (06:00 - 07:00) for soft light and peaceful uncrowded photos, or sunset (17:30 - 18:30).",
+    "visitingDuration": "45 Minutes to 1 Hour",
+    "entranceInformation": "Free public access.",
+    "openingHours": "Open 24 hours.",
+    "accessibilityInformation": "Requires a 5-10 minute walk along the beach and up a moderate red clay hill; not wheelchair accessible.",
+    "safetyInformation": "Be careful near the unfenced cliff edges, especially on windy evenings; red clay can be slippery after rain.",
+    "travelTips": {
+      "whatToBring": "Camera with wide-angle lens, footwear with grip (clay can be slippery), water.",
+      "clothing": "Vibrant colors (white, yellow, red) create stunning contrast in photos against the blue ocean and green palms.",
+      "photographyTips": "Position your camera low on the red clay looking up through the palm trunks framing the horizon.",
+      "localCustoms": "Be patient and take turns with other travelers seeking the classic photo angle.",
+      "environmentalGuidelines": "Do not carve into the palm trunks or litter on the cliff."
+    },
+    "latitude": 5.9433,
+    "longitude": 80.4683,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/coconut-tree-hill.jpg",
+        "caption": "Coconut Tree Hill Mirissa - Primary Vista",
+        "altText": "Coconut Tree Hill Mirissa, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/matara.jpg",
+        "caption": "Matara District Landscape",
+        "altText": "Matara District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/southern-province.jpg",
+        "caption": "Southern Province Regional Panorama",
+        "altText": "Southern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Promotion Bureau",
+        "sourceUrl": "https://srilanka.travel",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "mirissa-beach",
+      "weligama-bay"
+    ]
+  },
+  {
+    "id": "weligama-bay",
+    "name": "Weligama Bay Surf Haven",
+    "slug": "weligama-bay",
+    "districtId": "matara",
+    "provinceId": "southern-province",
+    "category": "beaches",
+    "categories": [
+      "beaches",
+      "adventure",
+      "cultural-experiences",
+      "family-friendly"
+    ],
+    "shortDescription": "South Asia's premier learn-to-surf beach, a vast crescent bay with gentle rolling sandy-bottom waves, surf schools, and the private islet of Taprobane.",
+    "fullDescription": "Meaning 'Sandy Village', Weligama is a sprawling 2-kilometer sweeping crescent bay that has earned global acclaim as South Asia's best destination for learning to surf. The bay's unique bathymetry—a gently sloping, completely sand-bottom seabed with zero rocks or dangerous coral—creates clean, gentle, rolling waves that peel steadily toward shore. Dozens of ISA-certified surf schools and rental shacks line the beach, offering lessons for complete beginners through to progressing intermediate riders. Floating just 200 meters off the beach is the fairytale private islet of Taprobane Island, featuring an octagonal neo-Palladian villa built in the 1920s by the eccentric French Count de Mauny-Talvande.",
+    "historicalBackground": "Historically an ancient trading and fishing port; Taprobane Island was built in the 1920s by Count de Mauny; modernized into a premier surf hub.",
+    "naturalCharacteristics": "Vast sheltered bay with a shallow sandy bottom, consistent rolling beach breaks, and an offshore rocky islet.",
+    "specialFeatures": "Gentle sandy-bottom beginner waves, Taprobane Island villa, and hundreds of daily surf learners.",
+    "reasonsToVisit": [
+      "Catch your very first wave in the safest, most forgiving surf conditions in Asia",
+      "Learn from ISA-qualified local and international surf instructors at reasonable rates",
+      "Admire the enchanting private island villa of Taprobane floating just offshore",
+      "Enjoy a relaxed coastal town buzzing with smoothie cafes, yoga shalas, and seafood stalls"
+    ],
+    "activities": [
+      "Beginner and intermediate surfing lessons",
+      "Stand-up paddleboarding",
+      "Beach yoga",
+      "Fresh seafood dining"
+    ],
+    "bestTimeToVisit": "October to April (consistent gentle swells, offshore morning winds, sunny weather).",
+    "visitingDuration": "Half Day to Multi-Day Surf Camp",
+    "entranceInformation": "Free public beach access; surfboard rental approx. LKR 1,000 - 1,500/hour; 1-on-1 surf lesson approx. LKR 3,500 - 5,000/hour.",
+    "openingHours": "Open 24 hours; surf schools operate 06:30 - 18:30 daily.",
+    "accessibilityInformation": "Direct level access onto the beach from the main Galle Road.",
+    "safetyInformation": "Safe sandy bottom; obey surf etiquette and avoid paddling directly in front of oncoming surf students.",
+    "travelTips": {
+      "whatToBring": "Surf rashguard, reef-safe high SPF sunscreen/zinc, boardshorts/swimwear, beach towel.",
+      "clothing": "Surf rashguards are highly recommended to prevent board chaffing.",
+      "photographyTips": "Capture surf learners catching rolling waves with the striking silhouette of Taprobane Island in the background.",
+      "localCustoms": "Vibrant, friendly, surf-centric community; respect surf lineup priority rules.",
+      "environmentalGuidelines": "Support local beach clean-ups organized weekly by surf schools."
+    },
+    "latitude": 5.9728,
+    "longitude": 80.4289,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/weligama-bay.jpg",
+        "caption": "Weligama Bay Surf Haven - Primary Vista",
+        "altText": "Weligama Bay Surf Haven, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/matara.jpg",
+        "caption": "Matara District Landscape",
+        "altText": "Matara District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/southern-province.jpg",
+        "caption": "Southern Province Regional Panorama",
+        "altText": "Southern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Development Authority",
+        "sourceUrl": "https://www.sltda.gov.lk",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "mirissa-beach",
+      "coconut-tree-hill",
+      "koggala-lake"
+    ]
+  },
+  {
+    "id": "polhena-beach",
+    "name": "Polhena Coral Beach & Sea Turtles",
+    "slug": "polhena-beach",
+    "districtId": "matara",
+    "provinceId": "southern-province",
+    "category": "beaches",
+    "categories": [
+      "beaches",
+      "marine-diving",
+      "wildlife-safari",
+      "family-friendly",
+      "hidden-gems"
+    ],
+    "shortDescription": "A tranquil, reef-sheltered beach in Matara, creating a calm natural swimming pool where wild sea turtles graze on shallow coral beds.",
+    "fullDescription": "Located just 2 kilometers from Matara town center, Polhena Beach is a favorite coastal secret of the southern coast. Protected by an offshore coral reef about 100 meters out, the waves break far offshore, leaving the nearshore waters completely calm, crystal-clear, and resembling a giant natural swimming pool. This calm, shallow sanctuary provides a rich feeding ground for sea turtles (both green turtles and hawksbills), which graze placidly on seagrass beds and can be easily observed while snorkeling. It is exceptionally safe for families with young children who can wade into calm waters without the threat of strong undertows.",
+    "historicalBackground": "A traditional fishing landing site that became a popular domestic and international family beach destination.",
+    "naturalCharacteristics": "Sheltered coastal lagoon protected by a natural offshore barrier coral reef.",
+    "specialFeatures": "Wave-free natural swimming lagoon, wild sea turtle feeding grounds, and live shallow corals.",
+    "reasonsToVisit": [
+      "Swim in completely calm, wave-free natural sea waters safely with children",
+      "Snorkel alongside friendly wild sea turtles grazing on shallow seabed grasses",
+      "Experience an authentic, relaxed local beach free from loud commercial resort crowds",
+      "Rent a snorkel mask and explore colorful reef fish just meters from the shore"
+    ],
+    "activities": [
+      "Calm water swimming",
+      "Snorkeling with sea turtles",
+      "Beach relaxation",
+      "Coral reef viewing"
+    ],
+    "bestTimeToVisit": "November to April (crystal clear waters and highest turtle visibility).",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "Free public beach access; snorkel and mask rental approx. LKR 300 - 500.",
+    "openingHours": "Open 24 hours (best swimming 07:30 - 17:30).",
+    "accessibilityInformation": "Level road leads directly to the beach; gentle entry into shallow water.",
+    "safetyInformation": "Do not step on live coral heads; do not touch or feed the sea turtles.",
+    "travelTips": {
+      "whatToBring": "Snorkel mask, water shoes, beach towel, reef-safe sunscreen.",
+      "clothing": "Modest swimwear; respect local cultural norms as many local families visit here.",
+      "photographyTips": "Bring an underwater camera to capture sea turtles surfacing for air in the crystal-clear shallows.",
+      "localCustoms": "A beloved weekend beach for local Matara families; friendly community atmosphere.",
+      "environmentalGuidelines": "Strict zero-contact rule with sea turtles; protect the offshore coral reef."
+    },
+    "latitude": 5.9333,
+    "longitude": 80.525,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/polhena-beach.jpg",
+        "caption": "Polhena Coral Beach & Sea Turtles - Primary Vista",
+        "altText": "Polhena Coral Beach & Sea Turtles, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/matara.jpg",
+        "caption": "Matara District Landscape",
+        "altText": "Matara District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/southern-province.jpg",
+        "caption": "Southern Province Regional Panorama",
+        "altText": "Southern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Development Authority",
+        "sourceUrl": "https://www.sltda.gov.lk",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "dondra-head-lighthouse",
+      "matara-fort"
+    ]
+  },
+  {
+    "id": "dondra-head-lighthouse",
+    "name": "Dondra Head Lighthouse",
+    "slug": "dondra-head-lighthouse",
+    "districtId": "matara",
+    "provinceId": "southern-province",
+    "category": "historical-sites",
+    "categories": [
+      "historical-sites",
+      "viewpoints",
+      "photography",
+      "temples-religious"
+    ],
+    "shortDescription": "The tallest lighthouse in Sri Lanka and southernmost point of the island, an imposing 49-meter white octagonal stone beacon built in 1889.",
+    "fullDescription": "Standing majestically at the southernmost geographic point of Sri Lanka, Dondra Head Lighthouse (known locally as Devinuwara, meaning 'City of Gods') is the tallest lighthouse in the country at 49 meters (161 feet). Designed by Sir James Nicholas Douglass and constructed by the Imperial Lighthouse Service in 1889 using granite stone imported from Scotland and Cornwall, this magnificent octagonal white tower guides international cargo ships navigating the crowded Indian Ocean shipping lanes. Surrounding the lighthouse is a landscaped park filled with soaring coconut palms, crashing ocean waves, and the ancient ruins of the 7th-century Tenavaram Vishnu Kovil, destroyed by the Portuguese in 1587. Looking southward from this rocky point, there is no land between here and Antarctica.",
+    "historicalBackground": "Constructed in 1889 by the British Imperial Lighthouse Service; nearby ancient Tenavaram temple was a famous pilgrimage shrine visited by Ibn Battuta in 1344.",
+    "naturalCharacteristics": "Rocky coastal promontory marking the southernmost tip of the island, facing the open Indian Ocean.",
+    "specialFeatures": "49-meter granite stone tower, 196 spiral steps, landscaped palm park, and the geographical southernmost point of Sri Lanka.",
+    "reasonsToVisit": [
+      "Stand at the southernmost geographic tip of Sri Lanka with nothing between you and Antarctica",
+      "Admire the imposing 49-meter Scottish granite engineering of the island's tallest lighthouse",
+      "Stroll through the picturesque palm-shaded garden framing dramatic ocean waves",
+      "Visit the nearby ancient Devinuwara temple dedicated to Lord Vishnu"
+    ],
+    "activities": [
+      "Geographical landmark exploration",
+      "Coastal photography",
+      "Visiting Devinuwara Vishnu Devalaya",
+      "Ocean wave watching"
+    ],
+    "bestTimeToVisit": "Late afternoon (16:30 - 18:30) for dramatic sunset light over the southern sea.",
+    "visitingDuration": "1 - 1.5 Hours",
+    "entranceInformation": "Free access to the lighthouse grounds; climbing the tower requires special permission from the Sri Lanka Ports Authority.",
+    "openingHours": "Grounds open 07:00 - 18:00 Daily.",
+    "accessibilityInformation": "Paved flat pathways through the lighthouse gardens, accessible for wheelchairs.",
+    "safetyInformation": "Do not climb over rocky seawalls; waves can surge unexpectedly onto the rocks.",
+    "travelTips": {
+      "whatToBring": "Camera with wide-angle lens, sun protection.",
+      "clothing": "Casual comfortable travel wear.",
+      "photographyTips": "Position your camera from the palm garden path to capture the full vertical height of the white tower framed by swaying coconut trees.",
+      "localCustoms": "Visit the adjacent historic Devinuwara shrine to receive a traditional blessing.",
+      "environmentalGuidelines": "Keep the pristine coastal grounds free of litter."
+    },
+    "latitude": 5.9239,
+    "longitude": 80.59,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/dondra-head-lighthouse.jpg",
+        "caption": "Dondra Head Lighthouse - Primary Vista",
+        "altText": "Dondra Head Lighthouse, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/matara.jpg",
+        "caption": "Matara District Landscape",
+        "altText": "Matara District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/southern-province.jpg",
+        "caption": "Southern Province Regional Panorama",
+        "altText": "Southern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Ports Authority",
+        "sourceUrl": "https://www.slpa.lk",
+        "sourceType": "Port & Lighthouse Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "polhena-beach",
+      "matara-fort",
+      "hummanaya-blowhole"
+    ]
+  },
+  {
+    "id": "matara-fort",
+    "name": "Matara Star Fort & Nilwala River",
+    "slug": "matara-fort",
+    "districtId": "matara",
+    "provinceId": "southern-province",
+    "category": "historical-sites",
+    "categories": [
+      "historical-sites",
+      "cultural-experiences",
+      "photography"
+    ],
+    "shortDescription": "A rare 1765 six-pointed star-shaped Dutch fort surrounded by a moat, guarding the Nilwala river mouth in historic Matara.",
+    "fullDescription": "Situated in the coastal city of Matara, the Star Fort (Redoute Van Eck) is a unique architectural gem of colonial military engineering. Built in 1765 by Dutch Governor Baron Van Eck following the Matara Rebellion of 1761, the fortress was ingeniously designed in the shape of a precise six-pointed star to prevent blind spots and enable all-around artillery defense. Surrounded by a wide protective moat originally filled with river water and crocodiles, the fort features thick coral and granite stone ramparts, a drawbridge, a central circular ammunition building, and two carved coats of arms over the entrance gate. Today, the lovingly restored fort houses an archaeology museum detailing the maritime history and colonial battles of the southern province.",
+    "historicalBackground": "Built in 1765 by the Dutch East India Company (VOC) under Governor Baron Van Eck; captured by the British in 1796.",
+    "naturalCharacteristics": "Situated near the mouth of the Nilwala River surrounded by a protective water moat.",
+    "specialFeatures": "Rare six-pointed star fortification design, working moat, Dutch VOC coat of arms, and archaeological museum.",
+    "reasonsToVisit": [
+      "Explore one of the very few surviving six-pointed star forts in the world",
+      "Cross the original wooden bridge over the wide protective water moat",
+      "Admire the 1765 Dutch VOC coat of arms carved in relief above the stone portal",
+      "Learn about the historic Dutch-Kandyan wars in the fort's museum"
+    ],
+    "activities": [
+      "Fortress walking",
+      "Military architecture photography",
+      "Visiting the archaeology museum"
+    ],
+    "bestTimeToVisit": "Year-round; morning visits (09:00 - 11:30) provide comfortable temperatures.",
+    "visitingDuration": "1 - 1.5 Hours",
+    "entranceInformation": "Nominal museum entrance fee: approx. LKR 300 for foreign visitors; LKR 50 for locals.",
+    "openingHours": "08:30 - 17:00 Daily.",
+    "accessibilityInformation": "Grounds and courtyard are flat and wheelchair accessible.",
+    "safetyInformation": "Take care near the moat edges; moat water is deep.",
+    "travelTips": {
+      "whatToBring": "Camera, comfortable shoes.",
+      "clothing": "Casual daytime clothing.",
+      "photographyTips": "Photograph the symmetrical star bastions from the grassy outer moat perimeter.",
+      "localCustoms": "Cross over to visit the neighboring Dutch Reformed Church and Matara Main Fort ramparts.",
+      "environmentalGuidelines": "Do not throw litter into the historic moat."
+    },
+    "latitude": 5.95,
+    "longitude": 80.545,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/matara-fort.jpg",
+        "caption": "Matara Star Fort & Nilwala River - Primary Vista",
+        "altText": "Matara Star Fort & Nilwala River, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/matara.jpg",
+        "caption": "Matara District Landscape",
+        "altText": "Matara District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/southern-province.jpg",
+        "caption": "Southern Province Regional Panorama",
+        "altText": "Southern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Archaeology Sri Lanka",
+        "sourceUrl": "http://www.archaeology.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "polhena-beach",
+      "dondra-head-lighthouse"
+    ]
+  },
+  {
+    "id": "hummanaya-blowhole",
+    "name": "Hummanaya Blowhole (Kudawella)",
+    "slug": "hummanaya-blowhole",
+    "districtId": "hambantota",
+    "provinceId": "southern-province",
+    "category": "viewpoints",
+    "categories": [
+      "viewpoints",
+      "adventure",
+      "photography"
+    ],
+    "shortDescription": "The second largest natural sea blowhole in the world, shooting ocean geysers up to 30 meters into the sky through a narrow rock fissure with a roaring hiss.",
+    "fullDescription": "Situated along the rocky coastline of the fishing village of Kudawella in Hambantota District, Hummanaya is celebrated as the second largest natural sea blowhole in the world (and the only one in Sri Lanka). The name 'Hummanaya' is an onomatopoeic Sinhala word describing the deep, resounding 'hoo' sound that reverberates through the cliffs as seawater is forced through the rocks. Geologically formed by a deep, narrow fracture in the oceanfront granite cliffs, immense hydraulic pressure builds when powerful ocean swells rush into the submerged cavern, culminating in an explosive geyser of seawater shooting 25 to 30 meters (80 to 100 feet) vertically into the air. An elevated observation deck and marine information center provide prime viewing of this raw natural spectacle.",
+    "historicalBackground": "A natural marine geological feature known to local coastal fishermen for centuries; developed as a tourist attraction with viewing decks in recent decades.",
+    "naturalCharacteristics": "Granite coastal rock fissure opening onto the surging southern Indian Ocean.",
+    "specialFeatures": "Natural sea geyser shooting up to 30 meters high, thunderous acoustic roar, and panoramic ocean cliffs.",
+    "reasonsToVisit": [
+      "Witness one of nature's rawest spectacles as sea geysers blast 30 meters into the sky",
+      "Hear the deep, vibrating sonic roar that gives Hummanaya its name",
+      "Enjoy sweeping panoramic views of the crashing southern ocean from coastal cliff paths",
+      "Visit the marine museum detailing coastal geology and ocean life"
+    ],
+    "activities": [
+      "Geyser watching and timing",
+      "Action photography",
+      "Coastal cliff walking",
+      "Visiting the marine information centre"
+    ],
+    "bestTimeToVisit": "May to October (during the southwest monsoon when powerful ocean swells generate the highest, most explosive geysers).",
+    "visitingDuration": "1 - 1.5 Hours",
+    "entranceInformation": "Nominal entrance fee: approx. LKR 300 for foreign visitors; LKR 50 for locals.",
+    "openingHours": "06:00 - 18:00 Daily.",
+    "accessibilityInformation": "Requires a 5-10 minute walk along a paved path with steps from the ticket booth to the cliff lookout.",
+    "safetyInformation": "Stay strictly on the railed observation platform; never climb onto wet, slippery rocks near the blowhole fissure.",
+    "travelTips": {
+      "whatToBring": "Waterproof camera or protective pouch (sea spray can drench the lookout platform), sunglasses, footwear with grip.",
+      "clothing": "Clothes that can tolerate light sea spray.",
+      "photographyTips": "Use burst shooting mode with high shutter speed (1/2000s) to freeze the explosive plume of water against the blue sky.",
+      "localCustoms": "Buy fresh roasted corn on the cob and local fried fish snacks from village vendors on the walk up.",
+      "environmentalGuidelines": "Do not throw coins or plastic into the blowhole chasm."
+    },
+    "latitude": 5.9617,
+    "longitude": 80.7067,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/hummanaya-blowhole.jpg",
+        "caption": "Hummanaya Blowhole (Kudawella) - Primary Vista",
+        "altText": "Hummanaya Blowhole (Kudawella), Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/hambantota.jpg",
+        "caption": "Hambantota District Landscape",
+        "altText": "Hambantota District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/southern-province.jpg",
+        "caption": "Southern Province Regional Panorama",
+        "altText": "Southern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Promotion Bureau",
+        "sourceUrl": "https://srilanka.travel",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "tangalle-beach",
+      "hiriketiya-beach",
+      "dondra-head-lighthouse"
+    ]
+  },
+  {
+    "id": "tangalle-beach",
+    "name": "Tangalle Beach & Goyambokka",
+    "slug": "tangalle-beach",
+    "districtId": "hambantota",
+    "provinceId": "southern-province",
+    "category": "beaches",
+    "categories": [
+      "beaches",
+      "hidden-gems",
+      "photography"
+    ],
+    "shortDescription": "Endless miles of wild, uncrowded golden sands, hidden coves like Goyambokka and Silent Beach, and luxury clifftop oceanfront retreats.",
+    "fullDescription": "Marking the transition from the lush southern coast to the arid southeastern plains, Tangalle is celebrated for having the most dramatic, expansive, and secluded beaches in Sri Lanka. Unlike the busier resort strips further west, Tangalle's coastline stretches for endless miles of powdery golden sand bordered by towering coconut groves and churning turquoise surf. The area is dotted with idyllic, sheltered coves such as Goyambokka Beach and Amanwella's 'Silent Beach', where turquoise waters lap against granite boulders. The town's natural harbor, tranquil lagoons, and relaxed atmosphere make it the ultimate escape for travelers seeking serene, uncommercialized coastal luxury.",
+    "historicalBackground": "A Dutch colonial administrative port with an 18th-century Dutch fort (now a correctional facility) and rest house.",
+    "naturalCharacteristics": "Sweeping open ocean beaches interspersed with rocky headlands and tranquil coastal lagoons.",
+    "specialFeatures": "Goyambokka sheltered cove, Silent Beach, sea turtle nesting beaches, and dramatic clifftop views.",
+    "reasonsToVisit": [
+      "Walk for miles along completely empty, wild golden sands with only ocean waves for company",
+      "Relax in the sheltered, turquoise paradise cove of Goyambokka Beach",
+      "Stay in world-class boutique eco-villas perched atop coastal cliffs",
+      "Experience the peaceful, authentic slower pace of life in southern Sri Lanka"
+    ],
+    "activities": [
+      "Beach walking and beachcombing",
+      "Lagoon kayaking",
+      "Sunset dining on secluded coves",
+      "Yoga and wellness retreats"
+    ],
+    "bestTimeToVisit": "November to April (sunny skies, calmer seas, perfect for coastal relaxation).",
+    "visitingDuration": "1 to 3 Days",
+    "entranceInformation": "Free public beach access.",
+    "openingHours": "Open 24 hours.",
+    "accessibilityInformation": "Main beaches are accessible from coastal lanes; coves like Goyambokka require descending garden steps.",
+    "safetyInformation": "Open ocean beaches have powerful shorebreaks and undertows; swim only in designated sheltered coves like Goyambokka.",
+    "travelTips": {
+      "whatToBring": "Sun hat, sunscreen, good books, camera.",
+      "clothing": "Relaxed beachwear.",
+      "photographyTips": "Capture the wild beauty of empty sand tracks leading between coconut trees onto the ocean at dawn.",
+      "localCustoms": "Quiet, romantic coastal ambiance; respect local village privacy.",
+      "environmentalGuidelines": "Tangalle shores are critical turtle nesting habitats; do not use flashlights on beaches at night."
+    },
+    "latitude": 6.0244,
+    "longitude": 80.7944,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/tangalle-beach.jpg",
+        "caption": "Tangalle Beach & Goyambokka - Primary Vista",
+        "altText": "Tangalle Beach & Goyambokka, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/hambantota.jpg",
+        "caption": "Hambantota District Landscape",
+        "altText": "Hambantota District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/southern-province.jpg",
+        "caption": "Southern Province Regional Panorama",
+        "altText": "Southern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Development Authority",
+        "sourceUrl": "https://www.sltda.gov.lk",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "hummanaya-blowhole",
+      "hiriketiya-beach",
+      "rekawa-turtle-conservation"
+    ]
+  },
+  {
+    "id": "hiriketiya-beach",
+    "name": "Hiriketiya Horseshoe Bay Surf Hub",
+    "slug": "hiriketiya-beach",
+    "districtId": "hambantota",
+    "provinceId": "southern-province",
+    "category": "beaches",
+    "categories": [
+      "beaches",
+      "adventure",
+      "photography",
+      "cultural-experiences"
+    ],
+    "shortDescription": "A stunning turquoise horseshoe-shaped jungle bay where beginner beach breaks and an advanced left-hand point break meet artisan cafes and bohemian culture.",
+    "fullDescription": "Nestled near the border of Matara and Hambantota districts, Hiriketiya Bay (affectionately nicknamed 'Hiri') has rapidly ascended to become Sri Lanka's trendiest coastal enclave. The bay is a nearly enclosed, perfect horseshoe cove fringed with lush tropical jungle canopy, leaning palms, and turquoise water. What makes Hiriketiya extraordinary is its dual surf character: the shallow sandy beach break in the center of the bay offers gentle rolling waves ideal for beginners and longboarders, while the rocky western point creates a fast, hollow left-hand reef break for advanced surfers. The bay is lined with aesthetic open-air cafes, wood-fired pizza spots, coworking hubs, and yoga studios, creating a magical bohemian community vibe.",
+    "historicalBackground": "A hidden local fishing cove discovered by traveling surfers in the early 2010s and transformed into an eco-conscious creative hub.",
+    "naturalCharacteristics": "Deep, sheltered horseshoe-shaped cove protected from heavy ocean winds by forested headlands.",
+    "specialFeatures": "Perfect horseshoe bay geography, dual beginner beach break & left-hand reef point break, and bohemian cafe culture.",
+    "reasonsToVisit": [
+      "Surf in a breathtaking jungle-fringed horseshoe bay with waves for all skill levels",
+      "Relax in one of Sri Lanka's most aesthetic, relaxed bohemian beach communities",
+      "Enjoy specialty coffee, wood-fired sourdough pizzas, and tropical smoothie bowls on the sand",
+      "Practice yoga overlooking the turquoise ocean canopy at sunrise"
+    ],
+    "activities": [
+      "Surfing (lessons and board rentals)",
+      "Swimming in calm bay shallows",
+      "Beach yoga",
+      "Artisan cafe hopping"
+    ],
+    "bestTimeToVisit": "November to April for peak conditions; can be surfed year-round due to the sheltered horseshoe bay shape.",
+    "visitingDuration": "Half Day to Several Days",
+    "entranceInformation": "Free public beach access; surfboard rental approx. LKR 1,000/hour.",
+    "openingHours": "Open 24 hours; cafes open 07:30 - 22:00.",
+    "accessibilityInformation": "Narrow village lanes lead down to the beach; sand paths throughout the cove.",
+    "safetyInformation": "The western point reef has sea urchins and shallow coral; beginner surfers should stay strictly in the sandy middle section.",
+    "travelTips": {
+      "whatToBring": "Swimwear, surfboard or rental budget, sunscreen, beach towel.",
+      "clothing": "Relaxed bohemian beachwear.",
+      "photographyTips": "Shoot from the eastern headland looking west across the horseshoe bay to capture surfers framed by jungle palms at golden hour.",
+      "localCustoms": "Friendly, welcoming, international surf and digital nomad atmosphere.",
+      "environmentalGuidelines": "Strict community commitment to single-use plastic reduction; support refill stations."
+    },
+    "latitude": 5.9617,
+    "longitude": 80.6617,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/hiriketiya-beach.jpg",
+        "caption": "Hiriketiya Horseshoe Bay Surf Hub - Primary Vista",
+        "altText": "Hiriketiya Horseshoe Bay Surf Hub, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/hambantota.jpg",
+        "caption": "Hambantota District Landscape",
+        "altText": "Hambantota District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/southern-province.jpg",
+        "caption": "Southern Province Regional Panorama",
+        "altText": "Southern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Promotion Bureau",
+        "sourceUrl": "https://srilanka.travel",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "hummanaya-blowhole",
+      "tangalle-beach"
+    ]
+  },
+  {
+    "id": "rekawa-turtle-conservation",
+    "name": "Rekawa Turtle Conservation Area",
+    "slug": "rekawa-turtle-conservation",
+    "districtId": "hambantota",
+    "provinceId": "southern-province",
+    "category": "wildlife-safari",
+    "categories": [
+      "wildlife-safari",
+      "hidden-gems",
+      "cultural-experiences"
+    ],
+    "shortDescription": "One of the world's premier sea turtle nesting beaches, where five of the world's seven marine turtle species lay eggs in their natural wild habitat.",
+    "fullDescription": "Stretching along a windswept coastline 10 kilometers east of Tangalle, Rekawa Beach is an internationally celebrated marine biodiversity sanctuary. Unlike commercial roadside hatcheries where eggs are collected and kept in tanks, Rekawa is a true in-situ community conservation project operated by the Turtle Conservation Project (TCP). Five of the world's seven species of sea turtles—Green turtles, Leatherbacks (the world's largest turtle), Hawksbills, Olive Ridleys, and Loggerheads—crawl ashore under the cover of night year-round to dig nests and deposit their eggs in the warm sand. Trained community research guides lead small, quiet groups along the moonlit beach using red-light torches (which do not disorient turtles) to witness the ancient ritual of egg-laying without disrupting the animals.",
+    "historicalBackground": "Established in 1996 by the Turtle Conservation Project (TCP) to convert former egg poachers into salaried conservation research guides.",
+    "naturalCharacteristics": "Broad, undeveloped sandy ocean beach exposed to Indian Ocean tides and backed by coastal scrub.",
+    "specialFeatures": "Five nesting sea turtle species, 100% in-situ natural nest protection, and red-light night turtle watches.",
+    "reasonsToVisit": [
+      "Witness wild prehistoric sea turtles crawling from the sea to lay eggs in their natural habitat",
+      "Support an authentic community-led conservation project that protects wild turtle populations",
+      "Experience a magical nighttime walk along a wild, dark beach under a canopy of stars",
+      "Learn about marine turtle biology from trained local conservationists"
+    ],
+    "activities": [
+      "Night guided turtle watching",
+      "Conservation education",
+      "Stargazing along the beach"
+    ],
+    "bestTimeToVisit": "Year-round; peak nesting season occurs between April and July, with the highest activity around full moon nights.",
+    "visitingDuration": "2 - 3 Hours (night tours operate between 20:30 and 01:00).",
+    "entranceInformation": "Conservation donation: approx. LKR 2,500 - 3,500 per person directly funding the community patrol project.",
+    "openingHours": "Visitor centre opens 19:30; guided beach watches commence from 20:30 nightly.",
+    "accessibilityInformation": "Requires walking 1 to 2 kilometers along soft sand in the dark; requires basic physical mobility.",
+    "safetyInformation": "Follow guide instructions strictly; do not use white flashlights, phone screens, or camera flashes on the beach.",
+    "travelTips": {
+      "whatToBring": "Dark clothing, red-light torch (if you have one; guides carry them), mosquito repellent, drinking water.",
+      "clothing": "Dark or neutral clothing to avoid alarming turtles.",
+      "photographyTips": "Photography with flash is strictly prohibited by law; photograph turtles in daylight only if arriving at dawn when hatchlings emerge.",
+      "localCustoms": "Maintain complete silence when approaching a nesting female turtle.",
+      "environmentalGuidelines": "Strict zero-light pollution policy; never stand directly in front of a turtle's face."
+    },
+    "latitude": 6.0467,
+    "longitude": 80.85,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/rekawa-turtle-conservation.jpg",
+        "caption": "Rekawa Turtle Conservation Area - Primary Vista",
+        "altText": "Rekawa Turtle Conservation Area, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/hambantota.jpg",
+        "caption": "Hambantota District Landscape",
+        "altText": "Hambantota District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/southern-province.jpg",
+        "caption": "Southern Province Regional Panorama",
+        "altText": "Southern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Turtle Conservation Project Sri Lanka",
+        "sourceUrl": "http://www.tcpsrilanka.org",
+        "sourceType": "Conservation NGO",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "tangalle-beach",
+      "bundala-national-park"
+    ]
+  },
+  {
+    "id": "bundala-national-park",
+    "name": "Bundala National Park (UNESCO Biosphere)",
+    "slug": "bundala-national-park",
+    "districtId": "hambantota",
+    "provinceId": "southern-province",
+    "category": "national-parks",
+    "categories": [
+      "national-parks",
+      "wildlife-safari",
+      "forests-reserves",
+      "hidden-gems"
+    ],
+    "shortDescription": "Sri Lanka's premier Ramsar wetland and UNESCO Biosphere Reserve, an internationally acclaimed haven for thousands of greater flamingos and migratory shorebirds.",
+    "fullDescription": "Spanning 6,216 hectares along the southern dry zone coast, Bundala National Park is Sri Lanka's ultimate paradise for birdwatchers and wetland wildlife enthusiasts. Recognized in 1990 as Sri Lanka's very first Ramsar Wetland of International Importance and designated a UNESCO Man and the Biosphere Reserve in 2005, Bundala encompasses a complex network of five shallow, brackish coastal lagoons (lewayas), sand dunes, salt pans, and thorny scrubland. The park serves as the final wintering terminus for migratory waterbirds flying the Central Asian-South Asian Flyway, hosting up to 20,000 birds from nearly 200 species simultaneously. Highlights include spectacular flocks of Greater Flamingos, painted storks, spoonbills, pelicans, alongside herds of wild Asian elephants, spotted deer, wild boar, mugger crocodiles, and estuarine crocodiles basking on lagoon banks.",
+    "historicalBackground": "Declared a wildlife sanctuary in 1969; designated Sri Lanka's first Ramsar wetland in 1990; upgraded to a National Park in 1993; UNESCO Biosphere in 2005.",
+    "naturalCharacteristics": "Coastal wetland ecosystem comprising brackish lagoons, salt marshes, dunes, and dry thorny scrub.",
+    "specialFeatures": "Ramsar wetland status, wintering flocks of Greater Flamingos, elephant herds, and both mugger and saltwater crocodiles.",
+    "reasonsToVisit": [
+      "Witness thousands of migratory waterbirds including stunning flocks of Greater Flamingos",
+      "Enjoy intimate wildlife safaris with far fewer vehicles and crowds than neighboring Yala",
+      "Observe wild Asian elephants roaming peacefully against coastal lagoon backdrops",
+      "Spot both freshwater mugger crocodiles and coastal saltwater crocodiles in the same park"
+    ],
+    "activities": [
+      "Open-top 4x4 birding safaris",
+      "Wildlife photography",
+      "Lagoon ecology education"
+    ],
+    "bestTimeToVisit": "September to March during the peak winter migratory bird season; early morning (06:00 - 09:30) safaris provide the best bird activity.",
+    "visitingDuration": "3 - 4 Hours",
+    "entranceInformation": "National Park ticket: approx. LKR 8,000 - 10,000 per foreign visitor (includes entrance, service fees; jeep hire approx. LKR 12,000 - 15,000 extra).",
+    "openingHours": "06:00 - 18:00 Daily.",
+    "accessibilityInformation": "All exploration is conducted via 4x4 safari jeeps with elevated seating.",
+    "safetyInformation": "Remain inside the safari vehicle at all times; crocodiles and wild elephants inhabit the wetlands.",
+    "travelTips": {
+      "whatToBring": "Binoculars (essential), telephoto lens (300-600mm), bird field guide, sun protection, water.",
+      "clothing": "Neutral, earth-toned lightweight cotton clothing.",
+      "photographyTips": "Photograph flamingos feeding in the shallow brackish lagoons against morning pink skies.",
+      "localCustoms": "Hire a specialist birdwatching tracker at the park gate for expert identification.",
+      "environmentalGuidelines": "Strict zero-litter policy; do not make loud noises that could flush nesting bird colonies."
+    },
+    "latitude": 6.1833,
+    "longitude": 81.2167,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/bundala-national-park.jpg",
+        "caption": "Bundala National Park (UNESCO Biosphere) - Primary Vista",
+        "altText": "Bundala National Park (UNESCO Biosphere), Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/hambantota.jpg",
+        "caption": "Hambantota District Landscape",
+        "altText": "Hambantota District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/southern-province.jpg",
+        "caption": "Southern Province Regional Panorama",
+        "altText": "Southern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Wildlife Conservation Sri Lanka",
+        "sourceUrl": "http://www.dwc.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      },
+      {
+        "sourceName": "UNESCO Man and the Biosphere Programme",
+        "sourceUrl": "https://en.unesco.org/biosphere",
+        "sourceType": "International Scientific Body",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "yala-national-park",
+      "tangalle-beach",
+      "kataragama-sacred-city"
+    ]
+  },
+  {
+    "id": "yala-national-park",
+    "name": "Yala National Park (Ruhuna)",
+    "slug": "yala-national-park",
+    "districtId": "hambantota",
+    "provinceId": "southern-province",
+    "category": "wildlife-safari",
+    "categories": [
+      "wildlife-safari",
+      "national-parks",
+      "forests-reserves",
+      "adventure",
+      "photography"
+    ],
+    "shortDescription": "Sri Lanka's flagship wildlife sanctuary, boasting one of the highest densities of leopards on Earth, alongside Asian elephants, sloth bears, and crocodiles.",
+    "fullDescription": "Spanning 979 square kilometers across the Southern and Uva provincial boundaries, Yala National Park (Ruhuna) is Sri Lanka's premier wildlife destination and one of the finest safari parks in Asia. Celebrated globally for hosting one of the highest recorded densities of the Sri Lankan Leopard (Panthera pardus kotiya)—an apex predator subspecies unique to the island—Yala offers unparalleled opportunities to witness these elusive big cats lounging on massive granite outcrops or prowling through sandy tracks. Divided into five blocks (with Blocks 1 and 2 being the most accessible), Yala's diverse landscape ranges from open savanna grasslands and scrub jungles to brackish lagoons and Indian Ocean beaches. In addition to leopards, the park shelters thriving populations of Asian elephants, elusive Sri Lankan sloth bears, herds of spotted deer and sambar, golden jackals, mugger crocodiles, and over 215 bird species.",
+    "historicalBackground": "Established as a wildlife sanctuary in 1900; designated as one of Sri Lanka's first two National Parks in 1938 along with Wilpattu.",
+    "naturalCharacteristics": "Dry-zone scrub jungle, monsoon forests, open grasslands, rocky inselbergs, brackish lagoons, and coastal beaches.",
+    "specialFeatures": "Highest leopard density in the world, Sri Lankan Sloth Bear sightings, coastal lagoons, and historic Sithulpawwa rock monastery ruins.",
+    "reasonsToVisit": [
+      "Experience world-class wildlife safaris with the highest probability of spotting wild leopards on Earth",
+      "Observe wild Asian elephant herds, spotted deer, and sloth bears in their natural habitat",
+      "Witness dramatic granite rock landscapes juxtaposed against wild ocean beaches",
+      "Visit the 2,200-year-old ancient Buddhist hermitage of Sithulpawwa hidden within the park"
+    ],
+    "activities": [
+      "Morning and afternoon 4x4 jeep safaris",
+      "Wildlife photography",
+      "Birdwatching",
+      "Visiting the 2004 Tsunami Memorial at Patanangala beach"
+    ],
+    "bestTimeToVisit": "February to June (dry season when water levels drop, drawing leopards and elephants to waterholes); park Block 1 traditionally closes for maintenance in September/October.",
+    "visitingDuration": "Half Day to Full Day Safari (Morning: 05:30 - 10:00; Afternoon: 14:30 - 18:30; Full Day: 05:30 - 18:30).",
+    "entranceInformation": "National Park ticket: approx. LKR 10,000 - 12,000 per foreign adult visitor (includes park entry, vehicle pass, and VAT; private 4x4 jeep hire approx. LKR 15,000 - 22,000).",
+    "openingHours": "06:00 - 18:00 Daily (entry permitted from 06:00 and 14:00).",
+    "accessibilityInformation": "All exploration is conducted via customized 4x4 open-top safari jeeps; visitors remain seated inside.",
+    "safetyInformation": "Strictly prohibited to step out of the safari vehicle except at designated rest points (Patanangala beach); never feed wild animals.",
+    "travelTips": {
+      "whatToBring": "Binoculars, telephoto camera lens (200-500mm), dust mask or buff (safari tracks can be dusty), sunglasses, hat, water.",
+      "clothing": "Earth-toned neutral clothing (khaki, beige, olive green); warm layer for chilly early mornings.",
+      "photographyTips": "Keep camera settings primed for high shutter speeds (1/1000s) to capture leopards moving through shaded foliage.",
+      "localCustoms": "Choose experienced, ethical safari drivers who maintain respectful distances and do not speed.",
+      "environmentalGuidelines": "Strict zero-litter policy; no single-use plastics permitted in the park."
+    },
+    "latitude": 6.3667,
+    "longitude": 81.5167,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/yala-national-park.jpg",
+        "caption": "Yala National Park (Ruhuna) - Primary Vista",
+        "altText": "Yala National Park (Ruhuna), Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/hambantota.jpg",
+        "caption": "Hambantota District Landscape",
+        "altText": "Hambantota District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/southern-province.jpg",
+        "caption": "Southern Province Regional Panorama",
+        "altText": "Southern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Wildlife Conservation Sri Lanka",
+        "sourceUrl": "http://www.dwc.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "bundala-national-park",
+      "kataragama-sacred-city"
+    ]
+  },
+  {
+    "id": "kataragama-sacred-city",
+    "name": "Kataragama Sacred City (Ruhunu Maha Devalaya)",
+    "slug": "kataragama-sacred-city",
+    "districtId": "hambantota",
+    "provinceId": "southern-province",
+    "category": "temples-religious",
+    "categories": [
+      "temples-religious",
+      "cultural-experiences",
+      "historical-sites"
+    ],
+    "shortDescription": "The sacred multi-faith pilgrimage city on the Menik Ganga river, where Buddhists, Hindus, Muslims, and indigenous Veddas worship God Kataragama.",
+    "fullDescription": "Nestled along the banks of the sacred Menik Ganga (River of Gems) in southeastern Sri Lanka, Kataragama is one of the island's most extraordinary spiritual pilgrimage sanctuaries. Uniquely revered across religious boundaries, it is sacred to Buddhists, Hindus, Muslims, and the indigenous Vedda people alike. The focal point is the Ruhunu Maha Kataragama Devalaya, dedicated to the guardian deity God Kataragama (Murugan/Skanda). Pilgrims bathe in the sacred waters of the Menik Ganga, smash coconuts to ward off misfortune, and bear colorful fruit and flower offerings (pujas) into the curtained inner sanctuary to the sound of frenzied drumming, conch-shell blasts, and incense smoke. Nearby stands Kiri Vehera, a gleaming white 6th-century BCE Buddhist stupa built by King Mahasena, and the ancient Islamic mosque of Ul-Khizr.",
+    "historicalBackground": "Dating back to prehistoric antiquity; King Dutugemunu built the grand shrine in the 2nd century BCE in fulfillment of a vow.",
+    "naturalCharacteristics": "Tranquil riverfront oasis shaded by massive ancient sacred trees, bordering dry forest reserves.",
+    "specialFeatures": "Multi-religious harmony, Menik Ganga river bathing rituals, Kiri Vehera stupa, and the fiery annual Kataragama Esala Festival.",
+    "reasonsToVisit": [
+      "Witness an extraordinary living example of interfaith unity among Buddhists, Hindus, and Muslims",
+      "Participate in the atmospheric evening puja ritual with ecstatic drumming and burning camphor",
+      "Walk barefoot across the Menik Ganga bridge to the 2,500-year-old white stupa of Kiri Vehera",
+      "Experience the legendary Kataragama Esala Festival in July with fire-walking and kavadi dances"
+    ],
+    "activities": [
+      "Temple puja observation",
+      "Holy river bathing in Menik Ganga",
+      "Visiting Kiri Vehera stupa",
+      "Experiencing fire-walking rituals (during festival)"
+    ],
+    "bestTimeToVisit": "Daily evening puja (18:30); July/August for the spectacular two-week Kataragama Esala Festival.",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "Free admission to sacred precinct and shrines; voluntary donations for puja fruit baskets.",
+    "openingHours": "Shops and grounds open 05:00 - 22:00 Daily; principal pujas at 04:30, 10:30, and 18:30.",
+    "accessibilityInformation": "Paved flat pedestrian avenues connect the devalaya and Kiri Vehera; accessible for all visitors.",
+    "safetyInformation": "Remove footwear and headwear before entering all sacred premises; respect devotional rituals.",
+    "travelTips": {
+      "whatToBring": "Modest clothing, small cash notes, lotus flowers or fruit basket for offerings.",
+      "clothing": "Modest white or red/yellow attire; shoulders and knees must be respectfully covered.",
+      "photographyTips": "Photograph the glowing white dome of Kiri Vehera illuminated against the dark night sky.",
+      "localCustoms": "Smash a coconut at the dedicated stone hearth while making a silent personal wish.",
+      "environmentalGuidelines": "Deposit spent fruit baskets and offerings in designated collection areas."
+    },
+    "latitude": 6.4167,
+    "longitude": 81.3333,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/kataragama-sacred-city.jpg",
+        "caption": "Kataragama Sacred City (Ruhunu Maha Devalaya) - Primary Vista",
+        "altText": "Kataragama Sacred City (Ruhunu Maha Devalaya), Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/hambantota.jpg",
+        "caption": "Hambantota District Landscape",
+        "altText": "Hambantota District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/southern-province.jpg",
+        "caption": "Southern Province Regional Panorama",
+        "altText": "Southern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Ruhunu Maha Kataragama Devalaya Trust",
+        "sourceUrl": "https://kataragama.org",
+        "sourceType": "Official Temple Trust",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "yala-national-park",
+      "bundala-national-park"
+    ]
+  },
+  {
+    "id": "mulkirigala-rock-temple",
+    "name": "Mulkirigala Raja Maha Vihara Rock Monastery",
+    "slug": "mulkirigala-rock-temple",
+    "districtId": "hambantota",
+    "provinceId": "southern-province",
+    "category": "ancient-cities",
+    "categories": [
+      "ancient-cities",
+      "temples-religious",
+      "historical-sites",
+      "caves",
+      "viewpoints"
+    ],
+    "shortDescription": "The 'Little Sigiriya' of the south, an ancient 2,000-year-old rock monastery featuring seven cave temples across five tiers rising 205 meters above the forest.",
+    "fullDescription": "Rising 205 meters (673 feet) sheer out of the surrounding southern coconut forests near Tangalle, Mulkirigala Raja Maha Vihara (often called 'Little Sigiriya') is a majestic ancient rock cave temple. Dating back to the reign of King Saddhatissa in the 3rd century BCE, the temple complex is carved into a massive isolated granite boulder. Climbers ascend 533 stone steps carved into the rock, passing through five distinct tiered terraces housing seven historic cave temples. Within these caverns survive astonishing Kandyan-era ceiling murals, rock-cut reclining Buddhas up to 14 meters long, and an ancient pool. It was here in 1826 that British colonial scholar George Turnour discovered the missing palm-leaf ola leaf 'Tika' (commentary) to the Mahavamsa (the Great Chronicle of Sri Lanka), which enabled the translation of ancient Sri Lankan and Indian history for the first time.",
+    "historicalBackground": "Founded in the 3rd century BCE by King Saddhatissa; played a crucial role in world scholarship when the Mahavamsa key was discovered here in 1826.",
+    "naturalCharacteristics": "Isolated sheer granite inselberg towering 205 meters above lowland coconut and palmyra woodlands.",
+    "specialFeatures": "Five ascending rock tiers, seven cave temples with reclining Buddhas, and the Mahavamsa translation discovery site.",
+    "reasonsToVisit": [
+      "Climb through five ascending rock terraces with ancient cave temples and vibrant murals",
+      "Stand at the historical site where the translation key to Sri Lanka's Mahavamsa was discovered",
+      "Marvel at 14-meter rock-cut reclining Buddha statues inside cool natural caverns",
+      "Enjoy sweeping 360-degree views over southern forests and distant ocean from the summit stupa"
+    ],
+    "activities": [
+      "Rock monastery ascent (533 steps)",
+      "Ancient mural and statue appreciation",
+      "Panoramic viewpoint photography",
+      "Historical scholarship discovery tour"
+    ],
+    "bestTimeToVisit": "Early morning (07:30 - 10:00) or late afternoon (15:30 - 17:30) when stone steps are comfortable for barefoot walking.",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "Nominal foreign visitor admission: approx. LKR 1,000.",
+    "openingHours": "06:00 - 18:30 Daily.",
+    "accessibilityInformation": "Requires climbing 533 stone steps up the rock face; shaded and with resting platforms at each tier.",
+    "safetyInformation": "Stone stairs can be slippery when wet; wear socks to protect feet from hot rocks on sunny afternoons.",
+    "travelTips": {
+      "whatToBring": "Modest clothing, socks (to wear on hot stone terraces), drinking water, camera.",
+      "clothing": "Shoulders and knees must be respectfully covered.",
+      "photographyTips": "Photograph the panoramic view from the summit bell-shaped stupa looking across endless coconut groves.",
+      "localCustoms": "Quiet, sacred atmosphere; friendly resident Buddhist monks.",
+      "environmentalGuidelines": "Never touch ancient painted murals on cave walls."
+    },
+    "latitude": 6.1333,
+    "longitude": 80.7667,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/mulkirigala-rock-temple.jpg",
+        "caption": "Mulkirigala Raja Maha Vihara Rock Monastery - Primary Vista",
+        "altText": "Mulkirigala Raja Maha Vihara Rock Monastery, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/hambantota.jpg",
+        "caption": "Hambantota District Landscape",
+        "altText": "Hambantota District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/southern-province.jpg",
+        "caption": "Southern Province Regional Panorama",
+        "altText": "Southern Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Archaeology Sri Lanka",
+        "sourceUrl": "http://www.archaeology.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "tangalle-beach",
+      "hummanaya-blowhole"
+    ]
+  }
+]

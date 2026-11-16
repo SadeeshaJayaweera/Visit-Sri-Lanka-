@@ -1,0 +1,1339 @@
+[
+  {
+    "id": "colombo-city",
+    "name": "Colombo Fort & Pettah Heritage Quarter",
+    "slug": "colombo-city",
+    "districtId": "colombo",
+    "provinceId": "western-province",
+    "category": "historical-sites",
+    "categories": [
+      "historical-sites",
+      "cultural-experiences",
+      "photography"
+    ],
+    "shortDescription": "The historic colonial core and bustling bazaar district where Dutch hospital arcades meet vibrant open-air street markets and maritime towers.",
+    "fullDescription": "Colombo Fort and the adjacent Pettah market district represent the historic heart of maritime Sri Lanka. Originally fortified by the Portuguese in the 16th century, later reinforced by the Dutch, and finally transformed into an imperial commercial center by the British, Fort retains magnificent colonial architecture such as the Old Colombo Dutch Hospital (now a chic dining and shopping precinct), the Old Parliament Building, and the iconic Grand Oriental Hotel. Just beyond the Fort ramparts lies Pettah (Pita-Kotuwa), an exhilarating maze of specialized market streets selling everything from Ceylon spices and textiles to jewelry on Sea Street. Here also stands the striking red-and-white candy-striped Jami Ul-Alfar Mosque (Red Mosque), constructed in 1909.",
+    "historicalBackground": "Fort served as the fortified colonial trading citadel successively under Portuguese (1505–1658), Dutch (1658–1796), and British (1796–1948) rule before evolving into the modern commercial center.",
+    "naturalCharacteristics": "Coastal urban harbor setting overlooking the Indian Ocean and the modern Colombo Port City reclamation.",
+    "specialFeatures": "Old Dutch Hospital courtyard architecture, Chatham Street colonial clock tower (designed by Lady Ward), and the red minarets of the Red Mosque.",
+    "reasonsToVisit": [
+      "Walk through 400 years of preserved Portuguese, Dutch, and British colonial architecture",
+      "Dine and relax in the restored courtyards of the 17th-century Old Dutch Hospital",
+      "Photograph the architectural marvel of the Red Mosque (Jami Ul-Alfar) in Pettah",
+      "Experience the authentic energy, street food, and vibrant trading lanes of Colombo's oldest bazaar"
+    ],
+    "activities": [
+      "Heritage architectural walking tours",
+      "Street food tasting in Pettah",
+      "Boutique shopping at Dutch Hospital",
+      "Sunset photography along Chaithya Road"
+    ],
+    "bestTimeToVisit": "November to April (cooler, dry coastal weather; early morning or late afternoon walking).",
+    "visitingDuration": "3 - 5 Hours",
+    "entranceInformation": "Free public access to streets and Dutch Hospital complex; small entrance fees for specific museums.",
+    "openingHours": "Open daily; shops typically open 09:00 - 20:00; restaurants open until late.",
+    "accessibilityInformation": "Main streets and Dutch Hospital precinct are paved and wheelchair accessible; Pettah market lanes can be crowded.",
+    "safetyInformation": "Keep valuables secure in crowded market areas; cross busy roads at designated crossings.",
+    "travelTips": {
+      "whatToBring": "Comfortable walking shoes, light cotton clothing, hat, and camera.",
+      "clothing": "Modest casual attire; shoulders and knees should be covered when entering places of worship.",
+      "photographyTips": "Capture the geometric facade of the Red Mosque from Second Cross Street in morning light.",
+      "localCustoms": "Polite bargaining is standard practice in Pettah market stalls.",
+      "environmentalGuidelines": "Avoid single-use plastic bags while shopping in the bazaar."
+    },
+    "latitude": 6.936,
+    "longitude": 79.845,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/colombo-city.jpg",
+        "caption": "Colombo Fort & Pettah Heritage Quarter - Primary Vista",
+        "altText": "Colombo Fort & Pettah Heritage Quarter, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/colombo.jpg",
+        "caption": "Colombo District Landscape",
+        "altText": "Colombo District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/western-province.jpg",
+        "caption": "Western Province Regional Panorama",
+        "altText": "Western Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Promotion Bureau",
+        "sourceUrl": "https://srilanka.travel",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "galle-face-green",
+      "gangaramaya-temple",
+      "independence-square"
+    ]
+  },
+  {
+    "id": "galle-face-green",
+    "name": "Galle Face Green",
+    "slug": "galle-face-green",
+    "districtId": "colombo",
+    "provinceId": "western-province",
+    "category": "beaches",
+    "categories": [
+      "beaches",
+      "cultural-experiences",
+      "family-friendly",
+      "photography"
+    ],
+    "shortDescription": "The iconic 500-meter oceanfront promenade where Colombo gathers for spectacular Indian Ocean sunsets, kite flying, and street food.",
+    "fullDescription": "Stretching for half a kilometer along the crashing waves of the Indian Ocean, Galle Face Green is Colombo's most beloved communal gathering place. Originally laid out in 1859 by British Governor Sir Henry Ward for horse racing and military parades, the open oceanfront lawn now bustles every evening with families, kite flyers, lovers, and travelers. Lined on one end by the venerable colonial-era Galle Face Hotel (established 1864) and flanked by modern skyscrapers, the promenade comes alive as dusk falls with colorful food stalls sizzling with spicy Isso Vadai (crispy lentil cakes topped with prawns), Kottu Roti, and fresh king coconuts.",
+    "historicalBackground": "Established in 1859 by Governor Sir Henry Ward as a recreational oceanfront promenade and horse racing turf.",
+    "naturalCharacteristics": "Open oceanfront coastal turf and beach promenade exposed to the sea breeze and Indian Ocean sunsets.",
+    "specialFeatures": "Historic Galle Face Hotel terrace, Nana's street food stalls, and the ocean sunset views.",
+    "reasonsToVisit": [
+      "Witness one of the most vibrant Indian Ocean sunsets in South Asia",
+      "Taste authentic street food, particularly freshly prepared Isso Vadai (prawn cakes)",
+      "Feel the authentic pulse of Colombo as thousands of locals gather to fly kites and socialize",
+      "Enjoy an evening cocktail at the historic 1864 Galle Face Hotel verandah"
+    ],
+    "activities": [
+      "Sunset promenade walks",
+      "Kite flying",
+      "Street food sampling",
+      "Photography of sunset and skyline"
+    ],
+    "bestTimeToVisit": "Late afternoon from 16:30 to 19:00 year-round; best weather November to April.",
+    "visitingDuration": "1 - 2 Hours",
+    "entranceInformation": "Free public access.",
+    "openingHours": "Open 24 hours daily; stalls operate from 16:00 until late midnight.",
+    "accessibilityInformation": "Fully paved promenade with ramp access, ideal for strollers and wheelchairs.",
+    "safetyInformation": "Swimming is strictly not recommended due to treacherous undertows and rough shorebreak.",
+    "travelTips": {
+      "whatToBring": "Sunglasses, camera, cash for street food vendors.",
+      "clothing": "Casual beach promenade wear.",
+      "photographyTips": "Shoot silhouettes of kite flyers against the orange sunset over the Indian Ocean.",
+      "localCustoms": "Feel free to try the freshly fried prawn cakes with squeeze of lime and chili.",
+      "environmentalGuidelines": "Dispose of food wrappers and cups in designated municipal bins along the promenade."
+    },
+    "latitude": 6.9248,
+    "longitude": 79.8447,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/galle-face-green.jpg",
+        "caption": "Galle Face Green - Primary Vista",
+        "altText": "Galle Face Green, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/colombo.jpg",
+        "caption": "Colombo District Landscape",
+        "altText": "Colombo District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/western-province.jpg",
+        "caption": "Western Province Regional Panorama",
+        "altText": "Western Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Development Authority",
+        "sourceUrl": "https://www.sltda.gov.lk",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "colombo-city",
+      "gangaramaya-temple"
+    ]
+  },
+  {
+    "id": "gangaramaya-temple",
+    "name": "Gangaramaya Temple & Seema Malaka",
+    "slug": "gangaramaya-temple",
+    "districtId": "colombo",
+    "provinceId": "western-province",
+    "category": "temples-religious",
+    "categories": [
+      "temples-religious",
+      "cultural-experiences",
+      "historical-sites"
+    ],
+    "shortDescription": "One of Colombo's most renowned Buddhist temples, featuring an eclectic museum of artifacts and Geoffrey Bawa's floating Seema Malaka pavilion on Beira Lake.",
+    "fullDescription": "Situated in central Colombo near the tranquil waters of Beira Lake, Gangaramaya Temple is not merely a place of worship, but an extraordinary cultural and educational complex. Founded over 120 years ago by the venerable monk Hikkaduwe Sri Sumangala Nayaka Thera, the temple showcases a fascinating blend of Sri Lankan, Thai, Indian, and Chinese architectural motifs. The premises house a sacred Bodhi tree, relic chamber, library, and a museum containing thousands of precious Buddhist artifacts, antique automobiles, and ivory carvings. A short stroll away across the water sits the Seema Malaka, a meditation assembly hall designed by legendary Sri Lankan architect Geoffrey Bawa, floating serenely on Beira Lake with rows of bronze seated Buddhas.",
+    "historicalBackground": "Founded in the late 19th century by Ven. Hikkaduwe Sri Sumangala Nayaka Thera; played a pioneering role in the Buddhist cultural revival.",
+    "naturalCharacteristics": "Lakeside urban sanctuary on the serene waters of Beira Lake.",
+    "specialFeatures": "Geoffrey Bawa designed floating Seema Malaka, sacred relic chamber, and annual Navam Perahera procession.",
+    "reasonsToVisit": [
+      "Experience Geoffrey Bawa's world-renowned floating pavilion design at Seema Malaka",
+      "Marvel at the vast eclectic collection of sacred Buddhist relics and global antiques",
+      "Pay homage to the sacred Bodhi tree and view vibrant Jataka murals",
+      "Discover the spiritual heart of Colombo's vibrant Buddhist heritage"
+    ],
+    "activities": [
+      "Temple exploration",
+      "Meditation at Seema Malaka",
+      "Photography of bronze Buddhas over Beira Lake",
+      "Cultural artifact appreciation"
+    ],
+    "bestTimeToVisit": "Early morning (07:00 - 09:00) or late afternoon for gentle light on Beira Lake; Navam Perahera in February.",
+    "visitingDuration": "1 - 2 Hours",
+    "entranceInformation": "Nominal foreign visitor admission fee of approximately LKR 400 (covers both main temple and Seema Malaka).",
+    "openingHours": "06:00 - 20:00 Daily.",
+    "accessibilityInformation": "Main temple ground floor is accessible; Seema Malaka has bridge access over water with gentle ramps.",
+    "safetyInformation": "Quiet respectful behavior is expected; remove footwear and hats before entering sacred areas.",
+    "travelTips": {
+      "whatToBring": "Modest clothing covering shoulders and knees; easy slip-off shoes.",
+      "clothing": "White or light-colored attire is preferred; shoulders and knees must be fully covered.",
+      "photographyTips": "Photograph the rows of seated bronze Buddhas framing the Colombo skyline across Beira Lake.",
+      "localCustoms": "Do not pose with your back turned directly to Buddha statues for photos.",
+      "environmentalGuidelines": "Keep the temple grounds clean and deposit flower offerings in dedicated trays."
+    },
+    "latitude": 6.9167,
+    "longitude": 79.8583,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/gangaramaya-temple.jpg",
+        "caption": "Gangaramaya Temple & Seema Malaka - Primary Vista",
+        "altText": "Gangaramaya Temple & Seema Malaka, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/colombo.jpg",
+        "caption": "Colombo District Landscape",
+        "altText": "Colombo District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/western-province.jpg",
+        "caption": "Western Province Regional Panorama",
+        "altText": "Western Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Gangaramaya Temple Trust",
+        "sourceUrl": "https://gangaramaya.com",
+        "sourceType": "Official Temple Administration",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "galle-face-green",
+      "independence-square",
+      "viharamahadevi-park"
+    ]
+  },
+  {
+    "id": "independence-square",
+    "name": "Independence Memorial Hall & Arcade",
+    "slug": "independence-square",
+    "districtId": "colombo",
+    "provinceId": "western-province",
+    "category": "historical-sites",
+    "categories": [
+      "historical-sites",
+      "cultural-experiences",
+      "photography"
+    ],
+    "shortDescription": "The stately national monument commemorating Sri Lanka's independence in 1948, surrounded by landscaped gardens and walking avenues.",
+    "fullDescription": "Independence Memorial Hall stands proudly in the elegant Cinnamon Gardens (Colombo 7) neighborhood, erected to commemorate the independence of Ceylon from British rule on February 4, 1948. The monument is an architectural masterpiece inspired by the Magul Maduwa (Royal Audience Hall) of the Kingdom of Kandy, featuring 60 intricate stone pillars adorned with traditional floral carvings and guarded by 60 stone lions reflecting ancient Polonnaruwa craftsmanship. The surrounding paved square is a favorite destination for morning joggers, cyclists, and families. Adjacent lies the Arcade Independence Square, a beautifully restored colonial building housing boutique shops, cafes, and restaurants.",
+    "historicalBackground": "Built between 1948 and 1953; opened by Prince Henry, Duke of Gloucester, to commemorate the end of British colonial dominion.",
+    "naturalCharacteristics": "Spacious manicured gardens shaded by mature tropical trees in Colombo's diplomatic quarter.",
+    "specialFeatures": "Kandyan Royal Audience Hall architecture, stone lion statues, and the statue of Sri Lanka's first Prime Minister, D.S. Senanayake.",
+    "reasonsToVisit": [
+      "Admire the grand stone Kandyan-style pavilion and majestic stone guardian lions",
+      "Learn about the leaders of Sri Lanka's independence movement in the basement museum",
+      "Enjoy a scenic jog or relaxing stroll through landscaped tree-shaded avenues",
+      "Relax in boutique cafes at the adjacent heritage Arcade complex"
+    ],
+    "activities": [
+      "Architectural sightseeing",
+      "Jogging and cycling",
+      "Visiting the Independence Memorial Museum",
+      "Café dining"
+    ],
+    "bestTimeToVisit": "Early morning (06:00 - 09:00) or evening (17:00 - 20:00) when illuminated.",
+    "visitingDuration": "1 - 2 Hours",
+    "entranceInformation": "Free public access to grounds and memorial hall; nominal fee for the basement museum.",
+    "openingHours": "Square open 24 hours; basement museum open 09:00 - 17:00 (Tuesday to Saturday).",
+    "accessibilityInformation": "Surrounding gardens and paths are level and wheelchair friendly; ramps lead to the pavilion.",
+    "safetyInformation": "Quiet public memorial site; skating and loud music are prohibited on the monument platform.",
+    "travelTips": {
+      "whatToBring": "Walking shoes, water bottle, camera.",
+      "clothing": "Casual comfortable wear.",
+      "photographyTips": "Capture the symmetrical rows of carved stone pillars and lions in the warm morning light.",
+      "localCustoms": "Treat the national monument with dignity.",
+      "environmentalGuidelines": "Use the waste bins situated around the park perimeter."
+    },
+    "latitude": 6.9042,
+    "longitude": 79.8683,
+    "featured": false,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/independence-square.jpg",
+        "caption": "Independence Memorial Hall & Arcade - Primary Vista",
+        "altText": "Independence Memorial Hall & Arcade, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/colombo.jpg",
+        "caption": "Colombo District Landscape",
+        "altText": "Colombo District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/western-province.jpg",
+        "caption": "Western Province Regional Panorama",
+        "altText": "Western Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Cultural Affairs Sri Lanka",
+        "sourceUrl": "http://www.culturaldept.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "gangaramaya-temple",
+      "viharamahadevi-park"
+    ]
+  },
+  {
+    "id": "viharamahadevi-park",
+    "name": "Viharamahadevi Park",
+    "slug": "viharamahadevi-park",
+    "districtId": "colombo",
+    "provinceId": "western-province",
+    "category": "botanical-gardens",
+    "categories": [
+      "botanical-gardens",
+      "family-friendly",
+      "photography"
+    ],
+    "shortDescription": "Colombo's largest and oldest public park, featuring giant banyan trees, dancing water fountains, walking paths, and a golden Buddha statue.",
+    "fullDescription": "Formerly named Victoria Park during the British era, Viharamahadevi Park was renamed after Queen Viharamahadevi, the heroic mother of King Dutugemunu. Situated in the heart of Colombo opposite the neo-classical white Town Hall building, this 50-acre green lung offers a peaceful sanctuary amidst the urban buzz. Shaded by ancient canopy trees, flowering royal poincianas, and weeping figs, the park features paved cycling and running tracks, dancing illuminated fountains, a children's play area, and an imposing golden Buddha statue facing the Town Hall.",
+    "historicalBackground": "Built in the late 19th century and named Victoria Park in honor of Queen Victoria; renamed in 1958.",
+    "naturalCharacteristics": "Lush tropical urban woodland with towering banyans, exotic flowering trees, and manicured lawns.",
+    "specialFeatures": "Golden Buddha statue, central fountain, war memorial, and view of the Colombo Town Hall.",
+    "reasonsToVisit": [
+      "Enjoy a peaceful nature stroll in Colombo's premier public green sanctuary",
+      "Photograph the golden Buddha statue set against the white dome of Town Hall",
+      "Great for families with children's play areas, open lawns, and bicycle rentals",
+      "Listen to tropical birds in the morning amidst sprawling canopy banyans"
+    ],
+    "activities": [
+      "Park walks",
+      "Bicycle riding",
+      "Children's recreation",
+      "Picnicking under tree shade"
+    ],
+    "bestTimeToVisit": "06:30 - 09:30 or 16:30 - 18:30 for pleasant temperatures.",
+    "visitingDuration": "1 - 2 Hours",
+    "entranceInformation": "Free public access.",
+    "openingHours": "Open daily 06:00 - 20:00.",
+    "accessibilityInformation": "Paved pathways throughout, fully wheelchair and stroller accessible.",
+    "safetyInformation": "Well-lit and patrolled; stay on paved paths after dusk.",
+    "travelTips": {
+      "whatToBring": "Sun hat, water, comfortable walking shoes.",
+      "clothing": "Casual park attire.",
+      "photographyTips": "Position your camera from the central walkway to frame both the Buddha statue and Town Hall dome.",
+      "localCustoms": "Popular weekend spot for local families; friendly community atmosphere.",
+      "environmentalGuidelines": "Do not litter and keep off the newly seeded flower beds."
+    },
+    "latitude": 6.9133,
+    "longitude": 79.8617,
+    "featured": false,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/viharamahadevi-park.jpg",
+        "caption": "Viharamahadevi Park - Primary Vista",
+        "altText": "Viharamahadevi Park, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/colombo.jpg",
+        "caption": "Colombo District Landscape",
+        "altText": "Colombo District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/western-province.jpg",
+        "caption": "Western Province Regional Panorama",
+        "altText": "Western Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Colombo Municipal Council",
+        "sourceUrl": "https://www.colombo.mc.gov.lk",
+        "sourceType": "Municipal Government",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "gangaramaya-temple",
+      "independence-square"
+    ]
+  },
+  {
+    "id": "mount-lavinia-beach",
+    "name": "Mount Lavinia Beach",
+    "slug": "mount-lavinia-beach",
+    "districtId": "colombo",
+    "provinceId": "western-province",
+    "category": "beaches",
+    "categories": [
+      "beaches",
+      "historical-sites",
+      "photography"
+    ],
+    "shortDescription": "A golden sand beach fringed by seafood restaurants and anchored by the legendary colonial Mount Lavinia Hotel built on a rocky cliff.",
+    "fullDescription": "Located just 12 kilometers south of central Colombo, Mount Lavinia Beach is one of the island's most celebrated coastal suburbs. The beach is dominated by the majestic Mount Lavinia Hotel, originally built in 1806 as the palatial residence of British Governor Sir Thomas Maitland, who famously named the estate after Lovinia Aponsuwa, a local Mestizo dancer with whom he shared a forbidden romance. Today, the golden sweep of beach below the promontory is celebrated for its ocean breezes, sunset strolls, and beachfront seafood cafes with tables set directly on the sand.",
+    "historicalBackground": "Built in 1806 by Governor Sir Thomas Maitland; transformed into one of Asia's grand colonial heritage hotels in 1877.",
+    "naturalCharacteristics": "Broad golden sand beach extending between rocky headlands, with rolling Indian Ocean surf.",
+    "specialFeatures": "Colonial Governor's residence architecture, rocky headland viewpoint, and beachfront dining on the sand.",
+    "reasonsToVisit": [
+      "Experience the timeless romantic colonial ambiance of the Mount Lavinia Hotel",
+      "Dine on freshly grilled catch-of-the-day seafood right on the candlelit sand",
+      "Escape the city center for ocean breezes and sunset views just 20 minutes from Fort",
+      "Stroll the golden beach with scenic views of passing coastal commuter trains"
+    ],
+    "activities": [
+      "Beach walking",
+      "Sunset dining",
+      "Heritage hotel cocktails on the terrace",
+      "Beach volleyball"
+    ],
+    "bestTimeToVisit": "November to April (calm sea conditions and clear sunny evenings).",
+    "visitingDuration": "2 - 4 Hours",
+    "entranceInformation": "Free public beach access; hotel restaurant visits require dining.",
+    "openingHours": "Beach open 24 hours; restaurants open from 11:00 until late midnight.",
+    "accessibilityInformation": "Hotel terrace has elevator access; beach access requires navigating steps or sand pathways.",
+    "safetyInformation": "Pay attention to red warning flags; swimming can be dangerous during monsoon swells (May–October).",
+    "travelTips": {
+      "whatToBring": "Beach sandals, camera, swimwear (if visiting safe swimming sections).",
+      "clothing": "Beachwear on the sand; smart-casual if dining at the hotel terrace.",
+      "photographyTips": "Capture the white colonial facade of Mount Lavinia Hotel perched on the cliff above the waves at dusk.",
+      "localCustoms": "A favorite retreat for weekend sunset gatherings.",
+      "environmentalGuidelines": "Leave no trash on the beach; support sustainable seafood practices."
+    },
+    "latitude": 6.8375,
+    "longitude": 79.8633,
+    "featured": false,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/mount-lavinia-beach.jpg",
+        "caption": "Mount Lavinia Beach - Primary Vista",
+        "altText": "Mount Lavinia Beach, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/colombo.jpg",
+        "caption": "Colombo District Landscape",
+        "altText": "Colombo District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/western-province.jpg",
+        "caption": "Western Province Regional Panorama",
+        "altText": "Western Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Promotion Bureau",
+        "sourceUrl": "https://srilanka.travel",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "galle-face-green",
+      "bolgoda-lake"
+    ]
+  },
+  {
+    "id": "beddagana-wetland-park",
+    "name": "Beddagana Wetland Park",
+    "slug": "beddagana-wetland-park",
+    "districtId": "colombo",
+    "provinceId": "western-province",
+    "category": "forests-reserves",
+    "categories": [
+      "forests-reserves",
+      "wildlife-safari",
+      "hidden-gems",
+      "family-friendly"
+    ],
+    "shortDescription": "A serene 18-hectare urban wetland oasis in Sri Jayawardenepura Kotte, featuring elevated wooden boardwalks, butterfly gardens, and rare waterbirds.",
+    "fullDescription": "Nestled along the shores of Diyawanna Lake in the administrative capital of Sri Jayawardenepura Kotte, Beddagana Wetland Park is a model of urban biodiversity conservation. Part of the Colombo Ramsar Wetland City network, this 18-hectare sanctuary allows visitors to walk atop elevated wooden boardwalks threading through pristine mangrove forests, marshes, and reed beds. It provides an essential habitat for over 85 bird species (including endemic Sri Lanka Grey Hornbills and migratory waterbirds), butterflies, monitor lizards, and the endangered fishing cat (Prionailurus viverrinus).",
+    "historicalBackground": "Developed by the Urban Development Authority with World Bank support to preserve Colombo's natural flood retention wetlands.",
+    "naturalCharacteristics": "Freshwater wetland marsh, mangrove swamps, and lake shoreline ecosystem.",
+    "specialFeatures": "Elevated eco-boardwalks, bird-watching towers, butterfly walk, and Diyawanna Lake vistas.",
+    "reasonsToVisit": [
+      "Stroll quietly through lush mangrove canopies on elevated wooden walkways",
+      "Spot resident and migratory waterbirds from specialized observation towers",
+      "Witness how Colombo earned its prestigious international Ramsar Wetland City accreditation",
+      "Escape the city heat into a peaceful, family-friendly eco-haven"
+    ],
+    "activities": [
+      "Birdwatching",
+      "Nature photography",
+      "Eco-boardwalk walking",
+      "Botanical education"
+    ],
+    "bestTimeToVisit": "Early morning (07:00 - 09:30) or late afternoon (15:30 - 17:30) for peak bird activity.",
+    "visitingDuration": "1.5 - 2.5 Hours",
+    "entranceInformation": "Nominal entrance fee: LKR 100 for locals; approx. LKR 500 for foreign visitors.",
+    "openingHours": "06:30 - 17:30 Daily (last entry at 17:00).",
+    "accessibilityInformation": "Elevated wooden boardwalks are flat and wheelchair/stroller accessible throughout.",
+    "safetyInformation": "Stay strictly on the designated boardwalks; do not feed wildlife.",
+    "travelTips": {
+      "whatToBring": "Binoculars, telephoto camera lens, insect repellent, sun hat, reusable water bottle.",
+      "clothing": "Breathable earth-toned clothing.",
+      "photographyTips": "Use observation hides overlooking the open lake for tranquil reflections of waterbirds.",
+      "localCustoms": "Maintain silence on boardwalks to avoid disturbing roosting birds.",
+      "environmentalGuidelines": "Strict zero-plastic policy; all garbage must be taken back."
+    },
+    "latitude": 6.8917,
+    "longitude": 79.9133,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/beddagana-wetland-park.jpg",
+        "caption": "Beddagana Wetland Park - Primary Vista",
+        "altText": "Beddagana Wetland Park, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/colombo.jpg",
+        "caption": "Colombo District Landscape",
+        "altText": "Colombo District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/western-province.jpg",
+        "caption": "Western Province Regional Panorama",
+        "altText": "Western Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Urban Development Authority Sri Lanka",
+        "sourceUrl": "https://www.uda.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "diyatha-uyana",
+      "independence-square"
+    ]
+  },
+  {
+    "id": "diyatha-uyana",
+    "name": "Diyatha Uyana Water Park & Walking Trails",
+    "slug": "diyatha-uyana",
+    "districtId": "colombo",
+    "provinceId": "western-province",
+    "category": "lakes-reservoirs",
+    "categories": [
+      "lakes-reservoirs",
+      "family-friendly",
+      "cultural-experiences"
+    ],
+    "shortDescription": "A picturesque lakeside park beside Diyawanna Lake featuring a floating restaurant, organic plant markets, water fountains, and paved jogging paths.",
+    "fullDescription": "Situated adjacent to the Polduwa bridge along the banks of Diyawanna Lake in Battaramulla, Diyatha Uyana is a wonderfully landscaped public water park. Designed around the lake edge, it features scenic paved walking and jogging tracks, musical fountains, a 3D street art pavement, a floating restaurant, and a popular weekend horticulture market selling exotic orchids, bonsai, and tropical plants. The park is a favorite evening leisure destination for families and fitness enthusiasts, providing peaceful views across the lake toward the Sri Lankan Parliament building.",
+    "historicalBackground": "Constructed in 2012 as part of the Diyawanna Lake beautification and wetland restoration initiative.",
+    "naturalCharacteristics": "Lakeside urban parkland bordering Diyawanna Lake wetlands.",
+    "specialFeatures": "Floating restaurant, aquarium exhibits, plant nursery stalls, and 3D pavement art.",
+    "reasonsToVisit": [
+      "Take an evening stroll along peaceful lakefront walkways with cool breezes",
+      "Browse the colorful weekend plant and orchid market",
+      "Dine on the water aboard the floating restaurant",
+      "Enjoy family-friendly open spaces and food court snacks"
+    ],
+    "activities": [
+      "Lakeside walking",
+      "Plant shopping",
+      "Casual dining",
+      "Photography across Diyawanna Lake"
+    ],
+    "bestTimeToVisit": "16:00 - 21:00, especially during weekends.",
+    "visitingDuration": "1 - 2 Hours",
+    "entranceInformation": "Free public access.",
+    "openingHours": "Open daily 24 hours; food courts and stalls operate 09:00 - 22:00.",
+    "accessibilityInformation": "Flat paved pathways, fully wheelchair accessible.",
+    "safetyInformation": "Keep children supervised near the water's edge.",
+    "travelTips": {
+      "whatToBring": "Comfortable footwear, camera.",
+      "clothing": "Casual evening wear.",
+      "photographyTips": "Capture illuminated water fountains against the evening lake reflections.",
+      "localCustoms": "Vibrant local community atmosphere with weekend food vendors.",
+      "environmentalGuidelines": "Keep the lakeside clean by using the designated recycling bins."
+    },
+    "latitude": 6.9022,
+    "longitude": 79.915,
+    "featured": false,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/diyatha-uyana.jpg",
+        "caption": "Diyatha Uyana Water Park & Walking Trails - Primary Vista",
+        "altText": "Diyatha Uyana Water Park & Walking Trails, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/colombo.jpg",
+        "caption": "Colombo District Landscape",
+        "altText": "Colombo District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/western-province.jpg",
+        "caption": "Western Province Regional Panorama",
+        "altText": "Western Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Sri Lanka Tourism Development Authority",
+        "sourceUrl": "https://www.sltda.gov.lk",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "beddagana-wetland-park",
+      "independence-square"
+    ]
+  },
+  {
+    "id": "negombo-beach",
+    "name": "Negombo Beach & Fishing Catamarans",
+    "slug": "negombo-beach",
+    "districtId": "gampaha",
+    "provinceId": "western-province",
+    "category": "beaches",
+    "categories": [
+      "beaches",
+      "cultural-experiences",
+      "photography"
+    ],
+    "shortDescription": "A wide golden sand beach renowned for traditional 'oruva' outrigger sailing catamarans, beachside cafes, and dramatic ocean sunsets.",
+    "fullDescription": "Located just 15 minutes from Bandaranaike International Airport, Negombo Beach is often the traveler's first or final taste of tropical Sri Lanka. Stretching along the western coast, this wide golden strand is famed for the spectacle of traditional outrigger sailing canoes (known locally as 'oruvas') that head out to sea at dawn and return with their catches in the afternoon. The bustling Porutota Road strip running parallel to the beach is dotted with seafood restaurants, artisan souvenir shops, and laid-back beach bars, making it an ideal base to relax and adjust to island time.",
+    "historicalBackground": "Negombo was a prized cinnamon port under Portuguese and Dutch rule; long celebrated for its seafaring Karava fishing community.",
+    "naturalCharacteristics": "Broad sandy coastal beach facing the open Indian Ocean.",
+    "specialFeatures": "Traditional oruva fishing catamarans with billowing sails, colorful fish drying racks (karuwala), and beachfront seafood dining.",
+    "reasonsToVisit": [
+      "Witness traditional outrigger fishing boats sailing into shore at sunset",
+      "Enjoy fresh catch-of-the-day lobster, jumbo prawns, and seer fish",
+      "Ideal location to start or conclude a Sri Lankan holiday near the airport",
+      "Explore the historic Portuguese and Dutch colonial churches of 'Little Rome'"
+    ],
+    "activities": [
+      "Beach walking",
+      "Kitesurfing in season",
+      "Fresh seafood dining",
+      "Visiting the Lellama fish market"
+    ],
+    "bestTimeToVisit": "November to April (dry, sunny weather, calm sea conditions).",
+    "visitingDuration": "Half Day to Full Day",
+    "entranceInformation": "Free public beach access.",
+    "openingHours": "Open 24 hours.",
+    "accessibilityInformation": "Paved beachfront promenade near hotels; loose sand closer to the water.",
+    "safetyInformation": "Observe sea conditions; avoid swimming during the southwest monsoon (May to September) when currents are strong.",
+    "travelTips": {
+      "whatToBring": "Sunblock, sunglasses, camera, cash for local fresh coconuts.",
+      "clothing": "Beachwear on the sand; cover up when entering town or visiting nearby churches.",
+      "photographyTips": "Photograph the triangular canvas sails of the oruvas silhouetted against the sunset.",
+      "localCustoms": "Visit the nearby Lellama early morning fish market for an authentic cultural glimpse.",
+      "environmentalGuidelines": "Do not disturb sea turtle nesting activity if encountered."
+    },
+    "latitude": 7.2344,
+    "longitude": 79.8433,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/negombo-beach.jpg",
+        "caption": "Negombo Beach & Fishing Catamarans - Primary Vista",
+        "altText": "Negombo Beach & Fishing Catamarans, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/gampaha.jpg",
+        "caption": "Gampaha District Landscape",
+        "altText": "Gampaha District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/western-province.jpg",
+        "caption": "Western Province Regional Panorama",
+        "altText": "Western Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Negombo Municipal Council Tourism",
+        "sourceUrl": "https://srilanka.travel",
+        "sourceType": "Official Tourism Authority",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "negombo-lagoon",
+      "muthurajawela-wetlands"
+    ]
+  },
+  {
+    "id": "negombo-lagoon",
+    "name": "Negombo Lagoon",
+    "slug": "negombo-lagoon",
+    "districtId": "gampaha",
+    "provinceId": "western-province",
+    "category": "lakes-reservoirs",
+    "categories": [
+      "lakes-reservoirs",
+      "wildlife-safari",
+      "cultural-experiences"
+    ],
+    "shortDescription": "A vast, biodiverse brackish lagoon fed by rivers and the Dutch Canal, famous for delicious lagoon crabs, boat safaris, and dense mangrove islands.",
+    "fullDescription": "Spanning over 3,000 hectares, Negombo Lagoon is a semi-enclosed brackish water estuary separated from the Indian Ocean by a narrow spit of land. Connected to the sea by a narrow channel at Negombo town, the lagoon is fed by several freshwater rivers and the historic Hamilton Dutch Canal. This rich brackish water ecosystem supports extensive mangrove forests, sea-grass beds, and vital nursery grounds for fish, prawns, and the renowned Negombo lagoon mud crab. Guided motorboat and kayak tours navigate quiet channels between mangrove islands, offering sightings of egrets, kingfishers, cormorants, and local fishermen casting cast-nets from wooden dugouts.",
+    "historicalBackground": "Navigated for centuries by Arab, Portuguese, and Dutch traders; linked to Colombo via the Dutch-engineered Hamilton Canal.",
+    "naturalCharacteristics": "Brackish estuarine lagoon with mangrove islands, mudflats, and tidal channels.",
+    "specialFeatures": "Traditional kraal prawn trapping systems (ja-kotu), dense mangrove tunnels, and bird-rich islets.",
+    "reasonsToVisit": [
+      "Glide on a boat safari through serene mangrove channels and see diverse birdlife",
+      "Taste world-famous succulent Negombo lagoon crabs at waterside restaurants",
+      "Observe traditional artisanal lagoon fishing methods practiced for generations",
+      "Explore the historic colonial waterways of the Hamilton Dutch Canal"
+    ],
+    "activities": [
+      "Lagoon boat safaris",
+      "Mangrove kayaking",
+      "Birdwatching",
+      "Artisanal fishing observation"
+    ],
+    "bestTimeToVisit": "October to April (calm weather, peak bird migration season; early morning boat trips).",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "Boat tours arranged at lagoon jetties typically cost LKR 3,000 - 6,000 per boat (up to 4-6 passengers).",
+    "openingHours": "Boat safaris operate 06:00 - 18:00 daily.",
+    "accessibilityInformation": "Boarding boats requires stepping from dock onto watercraft; assistance is provided.",
+    "safetyInformation": "Life jackets are mandatory for all passengers on lagoon boat safaris.",
+    "travelTips": {
+      "whatToBring": "Sun hat, sunglasses, binoculars, camera with zoom lens, mosquito repellent.",
+      "clothing": "Comfortable lightweight clothes that can tolerate light water spray.",
+      "photographyTips": "Capture the reflections of mangrove roots and kingfishers perching on wooden fishing stakes.",
+      "localCustoms": "Wave and greet local fishermen; tip your boatman for insightful wildlife spotting.",
+      "environmentalGuidelines": "Ensure motorboats maintain slow speeds in designated mangrove sanctuary areas."
+    },
+    "latitude": 7.1833,
+    "longitude": 79.8667,
+    "featured": false,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/negombo-lagoon.jpg",
+        "caption": "Negombo Lagoon - Primary Vista",
+        "altText": "Negombo Lagoon, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/gampaha.jpg",
+        "caption": "Gampaha District Landscape",
+        "altText": "Gampaha District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/western-province.jpg",
+        "caption": "Western Province Regional Panorama",
+        "altText": "Western Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Fisheries and Aquatic Resources",
+        "sourceUrl": "https://www.fisheries.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "negombo-beach",
+      "muthurajawela-wetlands"
+    ]
+  },
+  {
+    "id": "muthurajawela-wetlands",
+    "name": "Muthurajawela Wetland Sanctuary",
+    "slug": "muthurajawela-wetlands",
+    "districtId": "gampaha",
+    "provinceId": "western-province",
+    "category": "forests-reserves",
+    "categories": [
+      "forests-reserves",
+      "wildlife-safari",
+      "hidden-gems",
+      "adventure"
+    ],
+    "shortDescription": "Sri Lanka's largest saline coastal peat bog, harboring over 190 wildlife species, saltwater crocodiles, monitor lizards, and migratory waterbirds.",
+    "fullDescription": "Spanning over 6,000 hectares between Colombo and Negombo, Muthurajawela (meaning 'Swamp of Royal Treasure') is Sri Lanka's largest coastal saline peat bog and an internationally recognized Ramsar wetland. Originating centuries ago as fertile royal rice fields that were subsequently inundated by seawater following Portuguese canal modifications, the marsh has rewilded into an extraordinary biodiverse ecosystem. A boat safari departing from the Muthurajawela Visitor Centre navigates through water hyacinth-covered channels where visitors frequently spot Asian water monitors, saltwater crocodiles, purple swamphens, night herons, kingfishers, and rare marsh otters.",
+    "historicalBackground": "Known as royal paddy lands under the Kingdom of Kotte; altered when Portuguese constructed coastal canal connections to the sea.",
+    "naturalCharacteristics": "Coastal peat marsh, tidal channels, reed beds, and mangrove swamps.",
+    "specialFeatures": "Ramsar wetland status, crocodile and monitor lizard habitats, and guided eco-boat tours.",
+    "reasonsToVisit": [
+      "Embark on an authentic wild boat safari just 30 minutes from Colombo",
+      "Spot wild crocodiles, water monitors, and over 100 bird species",
+      "Learn about coastal wetland conservation at the Muthurajawela Visitor Centre",
+      "Glide through atmospheric, mist-draped jungle canals at dawn"
+    ],
+    "activities": [
+      "Boat safari",
+      "Birdwatching",
+      "Eco-education tours",
+      "Wildlife photography"
+    ],
+    "bestTimeToVisit": "November to April; early morning (07:00 - 09:30) boat trips provide the best wildlife encounters.",
+    "visitingDuration": "2 - 3 Hours",
+    "entranceInformation": "Boat tour with guide: approx. LKR 2,500 - 4,000 per person at the Visitor Centre.",
+    "openingHours": "Visitor Centre operates 07:00 - 17:00 daily.",
+    "accessibilityInformation": "Boarding requires descending a few steps onto wooden motor launches.",
+    "safetyInformation": "Do not trail hands or feet in the water; heed guide instructions regarding wildlife.",
+    "travelTips": {
+      "whatToBring": "Binoculars, telephoto lens, mosquito repellent, hat, water.",
+      "clothing": "Lightweight breathable neutral-colored clothing.",
+      "photographyTips": "Keep a fast shutter speed ready for low-flying kingfishers and herons taking flight.",
+      "localCustoms": "Quiet observation allows closer approaches to resting waterbirds.",
+      "environmentalGuidelines": "Strict zero-plastic environment; never discard waste into the water."
+    },
+    "latitude": 7.05,
+    "longitude": 79.8833,
+    "featured": true,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/muthurajawela-wetlands.jpg",
+        "caption": "Muthurajawela Wetland Sanctuary - Primary Vista",
+        "altText": "Muthurajawela Wetland Sanctuary, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/gampaha.jpg",
+        "caption": "Gampaha District Landscape",
+        "altText": "Gampaha District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/western-province.jpg",
+        "caption": "Western Province Regional Panorama",
+        "altText": "Western Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of Wildlife Conservation Sri Lanka",
+        "sourceUrl": "http://www.dwc.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "negombo-lagoon",
+      "negombo-beach"
+    ]
+  },
+  {
+    "id": "henarathgoda-botanical-garden",
+    "name": "Henarathgoda Botanical Garden",
+    "slug": "henarathgoda-botanical-garden",
+    "districtId": "gampaha",
+    "provinceId": "western-province",
+    "category": "botanical-gardens",
+    "categories": [
+      "botanical-gardens",
+      "historical-sites",
+      "hidden-gems",
+      "family-friendly"
+    ],
+    "shortDescription": "A historic 43-acre botanical garden where the first Brazilian Para rubber seedlings were planted in 1876, sparking South Asia's rubber industry.",
+    "fullDescription": "Situated in Gampaha, the Henarathgoda Botanical Garden holds a pivotal place in Asian economic history. Established in 1876 by the British botanist Sir Henry Wickham, who smuggled Para rubber seeds (Hevea brasiliensis) from the Amazon rainforest to Kew Gardens in London, this garden was chosen to plant the first surviving rubber seedlings in South Asia. From these historic trees, rubber cultivation spread across Sri Lanka, Malaysia, and the continent. Today, the peaceful 43-acre botanical park features sprawling palms, an orchidarium, a scenic lake with paddleboats, towering bamboo groves, and the preserved stump of Rubber Tree No. 2.",
+    "historicalBackground": "Established in 1876 specifically to receive and cultivate the first Amazon rubber saplings imported via the Royal Botanic Gardens, Kew.",
+    "naturalCharacteristics": "Lowland wet-zone arboretum, flowering gardens, and freshwater lake.",
+    "specialFeatures": "Historic birthplace of the Asian rubber industry, towering rain trees, and tranquil boat lake.",
+    "reasonsToVisit": [
+      "Stand at the historical birthplace of South Asia's multi-billion dollar rubber industry",
+      "Stroll along uncrowded pathways beneath giant century-old tropical canopy trees",
+      "Rent a paddleboat on the serene garden lake with family or friends",
+      "Admire rare tropical orchids and indigenous medicinal plant collections"
+    ],
+    "activities": [
+      "Botanical walks",
+      "Lake paddleboating",
+      "Picnicking",
+      "Birdwatching"
+    ],
+    "bestTimeToVisit": "October to April; morning hours are cool and tranquil.",
+    "visitingDuration": "1.5 - 3 Hours",
+    "entranceInformation": "Nominal entrance fee: LKR 100 for locals; approx. LKR 1,500 for foreign adult visitors.",
+    "openingHours": "08:00 - 17:00 Daily.",
+    "accessibilityInformation": "Broad level gravel pathways, accessible for strollers and wheelchairs.",
+    "safetyInformation": "Do not climb onto historic trees or disturb beehives in upper canopy branches.",
+    "travelTips": {
+      "whatToBring": "Comfortable footwear, insect repellent, drinking water, camera.",
+      "clothing": "Casual park wear.",
+      "photographyTips": "Capture the majestic avenue of royal palms and the buttress roots of giant rain trees.",
+      "localCustoms": "A serene, quiet retreat popular with local botanical students.",
+      "environmentalGuidelines": "Do not pick flowers or damage tree bark."
+    },
+    "latitude": 7.0933,
+    "longitude": 80.0033,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/henarathgoda-botanical-garden.jpg",
+        "caption": "Henarathgoda Botanical Garden - Primary Vista",
+        "altText": "Henarathgoda Botanical Garden, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/gampaha.jpg",
+        "caption": "Gampaha District Landscape",
+        "altText": "Gampaha District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/western-province.jpg",
+        "caption": "Western Province Regional Panorama",
+        "altText": "Western Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Department of National Botanic Gardens Sri Lanka",
+        "sourceUrl": "https://botanicgardens.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "muthurajawela-wetlands",
+      "negombo-beach"
+    ]
+  },
+  {
+    "id": "kalutara-bodhiya",
+    "name": "Kalutara Bodhiya & Hollow Stupa",
+    "slug": "kalutara-bodhiya",
+    "districtId": "kalutara",
+    "provinceId": "western-province",
+    "category": "temples-religious",
+    "categories": [
+      "temples-religious",
+      "historical-sites",
+      "cultural-experiences"
+    ],
+    "shortDescription": "One of Sri Lanka's most venerated Buddhist pilgrimage shrines, featuring a hollow stupa with painted interior murals, located on the banks of the Kalu Ganga.",
+    "fullDescription": "Dominating the southern bank of the Kalu Ganga river where the Galle Road bridge enters Kalutara town, the Kalutara Bodhiya is an iconic spiritual landmark. The sacred site centers around a venerable Bodhi tree, believed to be one of the 32 saplings of the sacred Anuradhapura Jaya Sri Maha Bodhi planted in the 2nd century BCE. In the 1970s, the Kalutara Bodhi Trust completed the Kalutara Chaitya—a world-unique hollow Buddhist stupa engineered so that visitors can step directly inside its cavernous interior to view a smaller central stupa and 74 ceiling murals illustrating the Jataka tales. Drivers and commuters traditionally pause here to place coins in roadside charity boxes for a safe journey.",
+    "historicalBackground": "A sacred Bo sapling was planted here during the reign of King Devanampiya Tissa (3rd century BCE); the hollow stupa was completed in 1974.",
+    "naturalCharacteristics": "Perched on a hillock overlooking the wide estuary of the Kalu Ganga and the Indian Ocean.",
+    "specialFeatures": "World's only major completely hollow stupa, vibrant interior Jataka murals, and panoramic river views.",
+    "reasonsToVisit": [
+      "Walk inside the world's most famous hollow Buddhist stupa and admire 74 painted Jataka murals",
+      "Pay respects at one of the sacred 32 saplings of the ancient Anuradhapura Sri Maha Bodhi",
+      "Enjoy panoramic views of the Kalu Ganga meeting the Indian Ocean from the upper terrace",
+      "Witness the daily devotion of thousands of island travelers pausing for blessing coins"
+    ],
+    "activities": [
+      "Temple worship",
+      "Viewing Buddhist mural paintings",
+      "Riverfront terrace photography",
+      "Meditation"
+    ],
+    "bestTimeToVisit": "Early morning or twilight (17:30 - 19:30) when the white stupa is dramatically illuminated.",
+    "visitingDuration": "1 - 1.5 Hours",
+    "entranceInformation": "Free admission; voluntary donations accepted in temple tills.",
+    "openingHours": "Open daily 05:00 - 21:00.",
+    "accessibilityInformation": "Elevator and ramp facilities provide access to the upper stupa terrace.",
+    "safetyInformation": "Remove footwear and headwear before stepping onto the temple precinct.",
+    "travelTips": {
+      "whatToBring": "Modest white or light-colored attire, slip-off footwear.",
+      "clothing": "Shoulders and knees must be respectfully covered.",
+      "photographyTips": "Photograph the glowing white stupa from the Kalu Ganga bridge at sunset.",
+      "localCustoms": "Walk clockwise (padakshina) around the central stupa inside the hollow dome.",
+      "environmentalGuidelines": "Respect the tranquility of devotees in prayer."
+    },
+    "latitude": 6.5833,
+    "longitude": 79.9617,
+    "featured": true,
+    "popular": true,
+    "hiddenGem": false,
+    "images": [
+      {
+        "imageUrl": "img/destinations/kalutara-bodhiya.jpg",
+        "caption": "Kalutara Bodhiya & Hollow Stupa - Primary Vista",
+        "altText": "Kalutara Bodhiya & Hollow Stupa, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/kalutara.jpg",
+        "caption": "Kalutara District Landscape",
+        "altText": "Kalutara District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/western-province.jpg",
+        "caption": "Western Province Regional Panorama",
+        "altText": "Western Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Kalutara Bodhi Trust",
+        "sourceUrl": "https://kalutarabodhiya.org",
+        "sourceType": "Official Temple Trust",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "richmond-castle",
+      "calido-beach"
+    ]
+  },
+  {
+    "id": "richmond-castle",
+    "name": "Richmond Castle Kalutara",
+    "slug": "richmond-castle",
+    "districtId": "kalutara",
+    "provinceId": "western-province",
+    "category": "historical-sites",
+    "categories": [
+      "historical-sites",
+      "cultural-experiences",
+      "hidden-gems",
+      "photography"
+    ],
+    "shortDescription": "An opulent 1900 Edwardian-Indian palace set on a 42-acre estate, featuring Burmese teak carvings, Italian marble floors, and stained glass windows.",
+    "fullDescription": "Tucked away in the serene countryside of Payagala near Kalutara, Richmond Castle is a lavish early 20th-century mansion built between 1900 and 1910 by the wealthy philanthropist Mudaliyar Don Arthur de Silva Wijesinghe Siriwardena. Modeled on an Indian Maharajah's palace that the Mudaliyar admired, the two-story mansion was crafted with unparalleled luxury: floor tiles imported from Italy, stained glass from Scotland, intricate ceiling woodwork carved from Burmese teak, and ornate bathroom fittings from England. After a tragic personal life, the childless Mudaliyar bequeathed his magnificent estate to the public as a trust for underprivileged children.",
+    "historicalBackground": "Built between 1900 and 1910 by Mudaliyar Don Arthur de Silva; bequeathed to the Public Trustee of Sri Lanka in 1941.",
+    "naturalCharacteristics": "Set on a 42-acre hilltop estate surrounded by coconut groves and riverine forests near the Kalu Ganga.",
+    "specialFeatures": "Burmese teak spiral staircase, Scottish stained glass, Roman-style marble cherub statues, and underground natural cooling ventilation.",
+    "reasonsToVisit": [
+      "Marvel at one of Sri Lanka's most opulent early 20th-century colonial palatial residences",
+      "Admire the exquisite Burmese teak woodwork, Italian marble, and Scottish stained glass",
+      "Learn the fascinating, poignant life story of Mudaliyar Don Arthur de Silva",
+      "Photograph the grand sweeping staircases and peaceful garden statues"
+    ],
+    "activities": [
+      "Mansion heritage tour",
+      "Architectural photography",
+      "Garden walks",
+      "History appreciation"
+    ],
+    "bestTimeToVisit": "Year-round; morning visits (09:00 - 11:30) allow the best light through the stained glass windows.",
+    "visitingDuration": "1 - 2 Hours",
+    "entranceInformation": "Nominal entrance fee: approx. LKR 100 for locals; LKR 500 for foreign visitors (proceeds support child welfare trust).",
+    "openingHours": "08:30 - 16:30 Daily.",
+    "accessibilityInformation": "Ground floor is accessible; upper floor accessed via wooden staircase.",
+    "safetyInformation": "Watch your step on historic wooden floorboards; do not touch fragile antique furnishings.",
+    "travelTips": {
+      "whatToBring": "Camera (flash photography may be restricted inside), drinking water.",
+      "clothing": "Comfortable casual clothes.",
+      "photographyTips": "Photograph the sunlight casting rainbow colors through the Scottish stained glass onto the Italian tiled floors.",
+      "localCustoms": "Support the trust by purchasing local souvenirs or refreshments at the gate.",
+      "environmentalGuidelines": "Keep to marked garden trails and do not litter."
+    },
+    "latitude": 6.57,
+    "longitude": 79.9867,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/richmond-castle.jpg",
+        "caption": "Richmond Castle Kalutara - Primary Vista",
+        "altText": "Richmond Castle Kalutara, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/kalutara.jpg",
+        "caption": "Kalutara District Landscape",
+        "altText": "Kalutara District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/western-province.jpg",
+        "caption": "Western Province Regional Panorama",
+        "altText": "Western Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Public Trustee Department of Sri Lanka",
+        "sourceUrl": "http://www.publictrustee.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "kalutara-bodhiya",
+      "calido-beach"
+    ]
+  },
+  {
+    "id": "bolgoda-lake",
+    "name": "Bolgoda Lake",
+    "slug": "bolgoda-lake",
+    "districtId": "kalutara",
+    "provinceId": "western-province",
+    "category": "lakes-reservoirs",
+    "categories": [
+      "lakes-reservoirs",
+      "adventure",
+      "wildlife-safari",
+      "hidden-gems"
+    ],
+    "shortDescription": "The largest natural freshwater lake in the Western Province, celebrated for water sports, birdwatching boat rides, and secluded eco-resorts.",
+    "fullDescription": "Covering approximately 374 square kilometers across the Colombo and Kalutara district borders, Bolgoda Lake is the largest natural freshwater lake system in the Western Province. Historically used as a timber transport canal and duck hunting reserve by Dutch and British colonial officers, Bolgoda today is an eco-haven and water sports sanctuary. The lake is divided into the North Lake and South Lake, connected by a narrow river channel. Fringed by mangrove swamps and lush gardens, it is a premier location for kayaking, wakeboarding, sailing, and birdwatching for over 45 species of migratory and resident birds.",
+    "historicalBackground": "A vital colonial waterway linking Colombo to Ratnapura for transporting gems, spices, and timber.",
+    "naturalCharacteristics": "Vast natural freshwater and semi-brackish lake system fringed by mangroves and marshland.",
+    "specialFeatures": "Island bird sanctuaries, water sports clubs, and luxury eco-villa retreats.",
+    "reasonsToVisit": [
+      "Enjoy water skiing, jet skiing, or kayaking on calm inland lake waters",
+      "Spot kingfishers, herons, and fishing eagles on a peaceful sunrise boat tour",
+      "Stay at private boutique eco-retreats overlooking tranquil waters",
+      "Discover traditional mangrove fishing practices close to the capital"
+    ],
+    "activities": [
+      "Kayaking and paddleboarding",
+      "Motorboat wildlife cruises",
+      "Water skiing & wakeboarding",
+      "Birdwatching"
+    ],
+    "bestTimeToVisit": "November to April (calm waters, clear sunny skies; early morning boat trips).",
+    "visitingDuration": "2 Hours to a Full Day",
+    "entranceInformation": "Free public access to banks; water sports and boat rentals available through private clubs and resorts.",
+    "openingHours": "Open daily; water sports clubs operate typically 08:00 - 18:00.",
+    "accessibilityInformation": "Resorts and clubs provide flat paved dock access to boats.",
+    "safetyInformation": "Always wear provided life jackets during all watercraft activities.",
+    "travelTips": {
+      "whatToBring": "Swimwear, sun protection, towel, waterproof phone pouch, binoculars.",
+      "clothing": "Quick-dry sporty clothing or swimwear.",
+      "photographyTips": "Capture the calm early morning mist rising above the mangrove islands.",
+      "localCustoms": "Quiet electric and paddle craft are encouraged to protect nesting birds.",
+      "environmentalGuidelines": "Help preserve water quality by avoiding fuel spillage and taking all plastics back."
+    },
+    "latitude": 6.75,
+    "longitude": 79.9333,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/bolgoda-lake.jpg",
+        "caption": "Bolgoda Lake - Primary Vista",
+        "altText": "Bolgoda Lake, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/kalutara.jpg",
+        "caption": "Kalutara District Landscape",
+        "altText": "Kalutara District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/western-province.jpg",
+        "caption": "Western Province Regional Panorama",
+        "altText": "Western Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Central Environmental Authority Sri Lanka",
+        "sourceUrl": "http://www.cea.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "mount-lavinia-beach",
+      "kalutara-bodhiya"
+    ]
+  },
+  {
+    "id": "calido-beach",
+    "name": "Calido Beach",
+    "slug": "calido-beach",
+    "districtId": "kalutara",
+    "provinceId": "western-province",
+    "category": "beaches",
+    "categories": [
+      "beaches",
+      "viewpoints",
+      "hidden-gems",
+      "photography"
+    ],
+    "shortDescription": "A picturesque sand spit wedged between the roaring Indian Ocean and the tranquil mouth of the Kalu Ganga river, offering spectacular dual water views.",
+    "fullDescription": "Calido Beach is a uniquely positioned sand spit in Kalutara, creating a natural barrier between the turquoise waves of the Indian Ocean on one side and the calm, broad waters of the Kalu Ganga river mouth on the other. This scenic geographical formation provides visitors with dramatic 360-degree water views. In the evening, locals and travelers gather on the breezy sandbar to fly kites, watch fishing boats navigate the river mouth, and photograph sunset skies reflecting on both river and sea simultaneously.",
+    "historicalBackground": "A natural sandbar that has protected Kalutara town from monsoon sea surges for centuries.",
+    "naturalCharacteristics": "Narrow coastal sandbar peninsula bounded by the Indian Ocean to the west and the Kalu Ganga estuary to the east.",
+    "specialFeatures": "Dual water views (ocean surf and serene river estuary) on a single strip of sand.",
+    "reasonsToVisit": [
+      "Stand on a narrow sand spit with the ocean waves on one side and a tranquil river on the other",
+      "Witness mesmerizing sunset panoramas reflecting across both sea and river waters",
+      "Enjoy a quiet, uncrowded beach walk away from commercial resort crowds",
+      "Watch river fishermen casting nets where the freshwater meets the sea"
+    ],
+    "activities": [
+      "Beach walking",
+      "Sunset photography",
+      "Kite flying",
+      "Watching estuary fishing"
+    ],
+    "bestTimeToVisit": "November to April; late afternoon from 16:30 to 18:30.",
+    "visitingDuration": "1 - 2 Hours",
+    "entranceInformation": "Free public access.",
+    "openingHours": "Open 24 hours.",
+    "accessibilityInformation": "Access is across sandy terrain; requires walking on sand.",
+    "safetyInformation": "Strong rip currents and river currents occur near the river mouth; swimming is strictly not advised.",
+    "travelTips": {
+      "whatToBring": "Sandals, camera, sunglasses, water.",
+      "clothing": "Casual beach walking clothes.",
+      "photographyTips": "Use a wide-angle lens to capture both bodies of water in a single sunset frame.",
+      "localCustoms": "Peaceful local relaxation spot; greet local fishermen courteously.",
+      "environmentalGuidelines": "Keep the pristine sandbar clean and carry all litter back."
+    },
+    "latitude": 6.5817,
+    "longitude": 79.955,
+    "featured": false,
+    "popular": false,
+    "hiddenGem": true,
+    "images": [
+      {
+        "imageUrl": "img/destinations/calido-beach.jpg",
+        "caption": "Calido Beach - Primary Vista",
+        "altText": "Calido Beach, Sri Lanka",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/districts/kalutara.jpg",
+        "caption": "Kalutara District Landscape",
+        "altText": "Kalutara District Scenic View",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      },
+      {
+        "imageUrl": "img/provinces/western-province.jpg",
+        "caption": "Western Province Regional Panorama",
+        "altText": "Western Province Regional Panorama",
+        "photographer": "Tourism Sri Lanka Archive",
+        "sourceUrl": "Local Verified Asset"
+      }
+    ],
+    "sources": [
+      {
+        "sourceName": "Coast Conservation Department Sri Lanka",
+        "sourceUrl": "http://www.coastal.gov.lk",
+        "sourceType": "Government Agency",
+        "verificationDate": "2024-01-15"
+      }
+    ],
+    "nearbyDestinationIds": [
+      "kalutara-bodhiya",
+      "richmond-castle"
+    ]
+  }
+]

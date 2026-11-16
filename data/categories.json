@@ -1,0 +1,170 @@
+[
+  {
+    "id": "beaches",
+    "name": "Beaches & Coastlines",
+    "slug": "beaches",
+    "icon": "fa-umbrella",
+    "description": "Golden sand shores, palm-fringed bays, turquoise Indian Ocean waters, and world-class surf breaks."
+  },
+  {
+    "id": "mountains",
+    "name": "Mountains & Highlands",
+    "slug": "mountains",
+    "icon": "fa-mountain",
+    "description": "Misty mountain peaks, cloud forests, high-altitude plateaus, and cool climate tea country."
+  },
+  {
+    "id": "waterfalls",
+    "name": "Waterfalls",
+    "slug": "waterfalls",
+    "icon": "fa-tint",
+    "description": "Spectacular cascades dropping from central highlands, natural rock infinity pools, and river canyons."
+  },
+  {
+    "id": "historical-sites",
+    "name": "Historical Sites",
+    "slug": "historical-sites",
+    "icon": "fa-university",
+    "description": "Colonial fortresses, ancient royal palaces, colonial architecture, and centuries of maritime history."
+  },
+  {
+    "id": "ancient-cities",
+    "name": "Ancient Cities",
+    "slug": "ancient-cities",
+    "icon": "fa-landmark",
+    "description": "UNESCO World Heritage ancient capitals, towering stupas, royal pleasure gardens, and stone carvings."
+  },
+  {
+    "id": "temples-religious",
+    "name": "Temples & Religious Sites",
+    "slug": "temples-religious",
+    "icon": "fa-dharmachakra",
+    "description": "Sacred Buddhist relic shrines, colorful Hindu kovils, holy mountain pilgrimages, and historic mosques & churches."
+  },
+  {
+    "id": "wildlife-safari",
+    "name": "Wildlife & Safari",
+    "slug": "wildlife-safari",
+    "icon": "fa-paw",
+    "description": "Dense leopard populations, Asian elephant gatherings, sloth bears, blue whales, and endemic birdwatching."
+  },
+  {
+    "id": "national-parks",
+    "name": "National Parks",
+    "slug": "national-parks",
+    "icon": "fa-tree",
+    "description": "Protected wilderness sanctuaries spanning dry zone savannas, wetland lagoons, and rainforest reserves."
+  },
+  {
+    "id": "forests-reserves",
+    "name": "Forests & Nature Reserves",
+    "slug": "forests-reserves",
+    "icon": "fa-leaf",
+    "description": "Virgin tropical rainforests, endemic flora, biodiversity hotspots, and pristine conservation zones."
+  },
+  {
+    "id": "lakes-reservoirs",
+    "name": "Lakes & Reservoirs",
+    "slug": "lakes-reservoirs",
+    "icon": "fa-water",
+    "description": "Ancient man-made hydraulic wonder tanks (wewas) and scenic highland lakes reflecting green hills."
+  },
+  {
+    "id": "islands",
+    "name": "Islands & Archipelagos",
+    "slug": "islands",
+    "icon": "fa-compass",
+    "description": "Enchanting northern islets, wild pony reserves, coral islands, and remote coastal outcrops."
+  },
+  {
+    "id": "adventure",
+    "name": "Adventure Tourism",
+    "slug": "adventure",
+    "icon": "fa-bolt",
+    "description": "White water rafting, kitesurfing, deep-sea game fishing, rock climbing, and zip-lining over valleys."
+  },
+  {
+    "id": "hiking-trekking",
+    "name": "Hiking & Trekking",
+    "slug": "hiking-trekking",
+    "icon": "fa-hiking",
+    "description": "Scenic ridge walks, cloud forest trails, precipitous cliff ascents, and heritage pilgrimage tracks."
+  },
+  {
+    "id": "scenic-trains",
+    "name": "Scenic Train Journeys",
+    "slug": "scenic-trains",
+    "icon": "fa-subway",
+    "description": "World-famous highland railway routes over colonial viaducts, emerald tea estates, and deep ravines."
+  },
+  {
+    "id": "tea-plantations",
+    "name": "Tea Plantations & Estates",
+    "slug": "tea-plantations",
+    "icon": "fa-coffee",
+    "description": "Historic Ceylon tea factories, rolling emerald hillsides, colonial planter bungalows, and tea tasting."
+  },
+  {
+    "id": "botanical-gardens",
+    "name": "Botanical Gardens",
+    "slug": "botanical-gardens",
+    "icon": "fa-seedling",
+    "description": "Lush royal gardens featuring exotic orchid houses, giant palm avenues, spices, and historic arboretums."
+  },
+  {
+    "id": "caves",
+    "name": "Caves & Caverns",
+    "slug": "caves",
+    "icon": "fa-archway",
+    "description": "Prehistoric human habitation caverns, painted rock cave monasteries, and subterranean limestone formations."
+  },
+  {
+    "id": "viewpoints",
+    "name": "Viewpoints & Panoramas",
+    "slug": "viewpoints",
+    "icon": "fa-eye",
+    "description": "Breathtaking cliff edges, 360-degree mountain peaks, escarpment drop-offs, and coastal promontories."
+  },
+  {
+    "id": "cultural-experiences",
+    "name": "Cultural Experiences",
+    "slug": "cultural-experiences",
+    "icon": "fa-music",
+    "description": "Vibrant traditional Kandyan dancing, perahera pageants, mask carving, batik workshops, and spice cuisine."
+  },
+  {
+    "id": "villages-rural",
+    "name": "Villages & Rural Tourism",
+    "slug": "villages-rural",
+    "icon": "fa-home",
+    "description": "Authentic rural village life, bullock cart rides, traditional chena farming, and homemade clay pot cooking."
+  },
+  {
+    "id": "photography",
+    "name": "Photography Locations",
+    "slug": "photography",
+    "icon": "fa-camera-retro",
+    "description": "Instagrammable coconut hills, misty viaducts, sunset beaches, wildlife moments, and vibrant temple colors."
+  },
+  {
+    "id": "hidden-gems",
+    "name": "Hidden Gems",
+    "slug": "hidden-gems",
+    "icon": "fa-gem",
+    "description": "Off-the-beaten-path monasteries, secluded beaches, uncrowded waterfall pools, and secret jungle sanctuaries."
+  },
+  {
+    "id": "marine-diving",
+    "name": "Marine & Diving Attractions",
+    "slug": "marine-diving",
+    "icon": "fa-fish",
+    "description": "Pristine coral sanctuaries, historic shipwrecks, whale migration highways, and sea turtle nesting shores."
+  },
+  {
+    "id": "family-friendly",
+    "name": "Family-Friendly Destinations",
+    "slug": "family-friendly",
+    "icon": "fa-users",
+    "description": "Safe shallow swimming beaches, elephant transit homes, calm boat safaris, and accessible scenic parks."
+  }
+]
