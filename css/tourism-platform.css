@@ -30,7 +30,12 @@ body {
 }
 
 /* Typography Enhancements */
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: var(--sl-dark);
   font-weight: 700;
   letter-spacing: -0.02em;
@@ -45,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Navigation bar enhancements */
 .header-area {
   background: #ffffff;
-  box-shadow: 0 2px 15px rgba(0,0,0,0.06);
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.06);
   position: sticky;
   top: 0;
   z-index: 1030;
@@ -96,7 +101,8 @@ h1, h2, h3, h4, h5, h6 {
   transition: var(--sl-transition);
 }
 
-.nav-menu a:hover, .nav-menu a.active {
+.nav-menu a:hover,
+.nav-menu a.active {
   color: #0f766e;
   background-color: #f0fdfa;
 }
@@ -168,7 +174,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   align-items: center;
   background: linear-gradient(rgba(15, 23, 42, 0.55), rgba(15, 23, 42, 0.75)),
-              url('https://images.unsplash.com/photo-1588598198321-9735fd52455b?auto=format&fit=crop&w=2000&q=85') center/cover no-repeat;
+    url('https://images.unsplash.com/photo-1588598198321-9735fd52455b?auto=format&fit=crop&w=2000&q=85') center/cover no-repeat;
   color: #ffffff;
   padding: 100px 0 80px;
 }
@@ -252,7 +258,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 0;
   background: #ffffff;
   border-radius: 12px;
-  box-shadow: 0 15px 35px rgba(0,0,0,0.15);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
   margin-top: 8px;
   max-height: 380px;
   overflow-y: auto;
@@ -786,7 +792,7 @@ h1, h2, h3, h4, h5, h6 {
   aspect-ratio: 4 / 3;
   border-radius: 12px;
   overflow: hidden;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
   display: block;
 }
 
@@ -805,7 +811,7 @@ h1, h2, h3, h4, h5, h6 {
   position: absolute;
   bottom: 0;
   inset-inline: 0;
-  background: linear-gradient(0deg, rgba(0,0,0,0.85) 0%, transparent 100%);
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.85) 0%, transparent 100%);
   color: #ffffff;
   padding: 12px 14px;
   font-size: 11px;
@@ -842,7 +848,8 @@ h1, h2, h3, h4, h5, h6 {
   transition: var(--sl-transition);
 }
 
-.sl-filter-btn:hover, .sl-filter-btn.active {
+.sl-filter-btn:hover,
+.sl-filter-btn.active {
   background: #0f766e;
   border-color: #0f766e;
   color: #ffffff;
@@ -885,7 +892,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   align-items: center;
   justify-content: center;
-  box-shadow: 0 0 0 4px #ffffff, 0 4px 10px rgba(0,0,0,0.1);
+  box-shadow: 0 0 0 4px #ffffff, 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
 .sl-timeline-card {
@@ -893,7 +900,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 12px;
   padding: 20px;
   border: 1px solid #e2e8f0;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
 }
 
 /* Travel Route / Itinerary Cards */
@@ -998,6 +1005,27 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.65;
 }
 
+.sl-footer-badge-item i {
+  color: #2dd4bf;
+  margin-right: 8px;
+  font-size: 14px;
+}
+
+.sl-footer-badge-item:hover {
+  background: rgba(45, 212, 191, 0.12);
+  border-color: rgba(45, 212, 191, 0.35);
+  color: #ffffff;
+  transform: translateY(-1px);
+}
+
+.sl-footer-bottom {
+  border-top: none;
+  padding: 30px 15px 12px;
+  margin-top: 0;
+  font-size: 13.5px;
+  line-height: 1.65;
+}
+
 .sl-footer-bottom a {
   display: inline-block;
   white-space: nowrap;
@@ -1034,15 +1062,29 @@ h1, h2, h3, h4, h5, h6 {
   background: #0f766e;
   color: #ffffff;
   border: 2px solid #ffffff;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
   font-size: 14px;
 }
 
-.custom-leaflet-marker.marker-beach { background: #0284c7; }
-.custom-leaflet-marker.marker-historical { background: #b45309; }
-.custom-leaflet-marker.marker-wildlife { background: #15803d; }
-.custom-leaflet-marker.marker-waterfall { background: #06b6d4; }
-.custom-leaflet-marker.marker-mountain { background: #475569; }
+.custom-leaflet-marker.marker-beach {
+  background: #0284c7;
+}
+
+.custom-leaflet-marker.marker-historical {
+  background: #b45309;
+}
+
+.custom-leaflet-marker.marker-wildlife {
+  background: #15803d;
+}
+
+.custom-leaflet-marker.marker-waterfall {
+  background: #06b6d4;
+}
+
+.custom-leaflet-marker.marker-mountain {
+  background: #475569;
+}
 
 .leaflet-popup-content-wrapper {
   border-radius: 12px;

@@ -1,83 +1,93 @@
 #!/usr/bin/env python3
 """
-Captures high-resolution preview screenshots of key application views
-for the README.md and documentation using headless Google Chrome.
+High-resolution screenshot capture script for the Visit Sri Lanka platform.
+Captures Retina-quality, beautifully rendered screenshots with full JS/tile rendering.
 """
 import os
 import subprocess
 import time
 
-CHROME_BIN = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
-DOCS_DIR = os.path.join(BASE_DIR, "img", "screenshots")
-os.makedirs(DOCS_DIR, exist_ok=True)
+SCREENSHOTS_DIR = os.path.join(BASE_DIR, "img", "screenshots")
+os.makedirs(SCREENSHOTS_DIR, exist_ok=True)
 
 SHOTS = [
     {
-        "file": "index.html",
+        "url": "http://localhost:3000/index.html",
         "output": "01-homepage-hero.png",
         "width": 1440,
-        "height": 900
+        "height": 920,
+        "budget": 5000
     },
     {
-        "file": "destinations.html",
+        "url": "http://localhost:3000/destinations.html",
         "output": "02-destinations-catalog.png",
         "width": 1440,
-        "height": 960
+        "height": 960,
+        "budget": 5000
     },
     {
-        "file": "map.html",
+        "url": "http://localhost:3000/map.html",
         "output": "03-interactive-map.png",
         "width": 1440,
-        "height": 900
+        "height": 920,
+        "budget": 7000
     },
     {
-        "file": "provinces/central-province.html",
+        "url": "http://localhost:3000/provinces/central-province.html",
         "output": "04-province-central.png",
         "width": 1440,
-        "height": 900
+        "height": 920,
+        "budget": 5000
     },
     {
-        "file": "districts/kandy.html",
+        "url": "http://localhost:3000/districts/kandy.html",
         "output": "05-district-kandy.png",
         "width": 1440,
-        "height": 900
+        "height": 920,
+        "budget": 5000
     },
     {
-        "file": "places/sigiriya-rock-fortress.html",
+        "url": "http://localhost:3000/places/sigiriya-rock-fortress.html",
         "output": "06-destination-sigiriya.png",
         "width": 1440,
-        "height": 960
+        "height": 960,
+        "budget": 5000
     },
     {
-        "file": "itineraries.html",
+        "url": "http://localhost:3000/itineraries.html",
         "output": "07-itineraries-planner.png",
         "width": 1440,
-        "height": 900
+        "height": 920,
+        "budget": 5000
     }
 ]
 
-def main():
-    print("Capturing screenshots for README...")
+def capture():
+    print("Capturing high-resolution application preview screenshots...")
     for item in SHOTS:
-        url = f"file://{os.path.join(BASE_DIR, item['file'])}"
-        out_path = os.path.join(DOCS_DIR, item['output'])
-        window_size = f"{item['width']},{item['height']}"
+        out_file = os.path.join(SCREENSHOTS_DIR, item["output"])
         cmd = [
-            CHROME_BIN,
+            CHROME,
             "--headless=new",
-            "--user-data-dir=/tmp/chrome-preview-data",
+            "--user-data-dir=/tmp/chrome-hd-shots",
             "--no-sandbox",
             "--hide-scrollbars",
-            f"--window-size={window_size}",
-            f"--screenshot={out_path}",
-            url
+            f"--window-size={item['width']},{item['height']}",
+            "--force-device-scale-factor=1.5",
+            f"--virtual-time-budget={item['budget']}",
+            "--run-all-compositor-stages-before-draw",
+            f"--screenshot={out_file}",
+            item["url"]
         ]
-        res = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
-        if os.path.exists(out_path) and os.path.getsize(out_path) > 1000:
-            print(f"Captured {item['output']} ({os.path.getsize(out_path) // 1024} KB)")
+        print(f"Capturing {item['output']} from {item['url']}...")
+        subprocess.run(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        if os.path.exists(out_file):
+            size_kb = os.path.getsize(out_file) // 1024
+            print(f"Successfully captured {item['output']} ({size_kb} KB)")
         else:
-            print(f"Failed to capture {item['output']}: {res.stderr[:200]}")
+            print(f"Failed to capture {item['output']}")
 
 if __name__ == "__main__":
-    main()
+    capture()
